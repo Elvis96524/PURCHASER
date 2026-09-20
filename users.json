@@ -1,6 +1,17 @@
 {
   "version": 1,
   "iterations": 600000,
-  "data": null,
-  "users": []
+  "data": {
+    "repo": "elvis96524/purchaser",
+    "branch": "main",
+    "path": "data.json"
+  },
+  "users": [
+    {
+      "salt": "ZjRrbd5H3kfcnhigbU7NyQ==",
+      "iv": "CxWn0dQ1B9Chggyb",
+      "ct": "jBslPaQe0OU+BY6UF/MZ8VnfTa70vFIK3hybaq9192O4rSjFyoaKbft6KZnJw6rYvkI4iBWEEHi2P+8wzvEwm5zCKj0vlaeuf29j5u1tmcQQlWTqS9elkIW1EiA2TapJh57qulKchDSshCF5YQ==",
+      "id": "lim"
+    }
+  ]
 }
