@@ -1,7 +1,7 @@
 /* Vessel Purchasing List - service worker
    Keeps the app files on the device so it opens and works without a connection.
    Change CACHE_VERSION whenever you update any of the files below. */
-const CACHE_VERSION = 'v3';
+const CACHE_VERSION = 'v4';
 const CACHE = 'vessel-purchasing-' + CACHE_VERSION;
 const PAGE = './index.html';
 const ASSETS = [
@@ -37,8 +37,8 @@ self.addEventListener('fetch', event => {
   const isFont = url.hostname === 'fonts.googleapis.com' || url.hostname === 'fonts.gstatic.com';
   if (!sameOrigin && !isFont) return;
 
-  // The list lives on the server and the server address in config.json can change: never answer these from a saved copy.
-  if (sameOrigin && (url.pathname.endsWith('/data.json') || url.pathname.endsWith('/config.json'))) return;
+  // The sign-in list changes whenever the admin publishes it: always ask the network, never a saved copy.
+  if (sameOrigin && (url.pathname.endsWith('/users.json') || url.pathname.endsWith('/data.json'))) return;
 
   // Opening the app: use the network when online (so updates arrive), the saved copy when offline.
   if (req.mode === 'navigate') {
