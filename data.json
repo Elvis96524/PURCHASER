@@ -14,9 +14,9 @@
           "unit": "pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1789918915215
+          "updated": 1789919209772
         }
       ],
       "updated": 0
