@@ -7,16 +7,8 @@
       "items": [
         {
           "id": "4r7qf6xmu9zia33",
-          "added": 1789918915215,
-          "name": "Tempe",
-          "no": "20",
-          "qty": 10,
-          "unit": "pkt",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1789919209772
+          "deleted": true,
+          "updated": 1789942218387
         }
       ],
       "updated": 0
