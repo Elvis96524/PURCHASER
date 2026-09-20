@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vessel Purchasing List</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0E2A3D">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Purchasing">
+<link rel="icon" type="image/png" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..125,400..800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#E8EEF1; --panel:#F7FAFB; --ink:#0E2A3D; --muted:#5A7182; --line:#C5D2DA;
+  --side:#0E2A3D; --side-ink:#DCE8EF; --side-muted:#8FA9BA; --side-line:#24435A;
+  --buoy:#F2B705; --buoy-ink:#3A2C00;
+  --red:#C43D2F; --blue:#2F6DA8; --green:#2F7D5C;
+  --row-hover:#EEF4F7; --shadow:0 1px 0 rgba(14,42,61,.06);
+  --font:"Archivo",system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --paper:#0B1620; --panel:#122230; --ink:#E4EDF2; --muted:#8FA5B4; --line:#25394A;
+    --side:#08121A; --row-hover:#172B3B; --red:#E0604F; --blue:#5B9AD5; --green:#4FAE85;
+  }
+}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%}
+body{font-family:var(--font);background:var(--paper);color:var(--ink);font-size:15px;line-height:1.45}
+button,input,select,textarea{font:inherit;color:inherit}
+button{cursor:pointer}
+[hidden]{display:none!important}
+:focus-visible{outline:3px solid var(--buoy);outline-offset:2px}
+
+.app{display:grid;grid-template-columns:270px 1fr;min-height:100%}
+
+/* Sidebar */
+.side{background:var(--side);color:var(--side-ink);display:flex;flex-direction:column;padding:22px 0 16px;position:sticky;top:0;height:100vh;overflow-y:auto}
+.brand{padding:0 22px 18px;font-stretch:78%;font-weight:700;font-size:1.35rem;letter-spacing:.01em;line-height:1.1}
+.brand small{display:block;font-stretch:100%;font-weight:400;font-size:.8rem;color:var(--side-muted);margin-top:4px;letter-spacing:0}
+.vlist{list-style:none;margin:0;padding:0;flex:1}
+.vbtn{width:100%;display:flex;justify-content:space-between;align-items:center;gap:10px;background:none;border:0;border-left:5px solid transparent;color:inherit;text-align:left;padding:12px 22px 12px 17px}
+.vbtn:hover{background:rgba(255,255,255,.06)}
+.vbtn[aria-current="true"]{border-left-color:var(--buoy);background:rgba(255,255,255,.09);font-weight:600}
+.vbtn .n{min-width:1.7em;text-align:center;font-size:.8rem;font-weight:600;padding:1px 8px;border-radius:99px;background:var(--side-line);color:var(--side-ink)}
+.vbtn .n.zero{background:transparent;color:var(--side-muted);font-weight:400}
+.addv{margin:12px 22px 14px;background:transparent;border:1.5px dashed var(--side-muted);color:var(--side-ink);border-radius:8px;padding:9px 12px;font-weight:600}
+.addv:hover{border-color:var(--buoy);color:var(--buoy)}
+.sync{padding:14px 22px 0;border-top:1px solid var(--side-line);display:grid;gap:10px}
+.syncstat{display:flex;align-items:center;gap:9px;background:none;border:0;padding:0;color:var(--side-ink);font-size:.86rem;text-align:left}
+.dot{width:10px;height:10px;border-radius:50%;flex:none;background:var(--side-muted)}
+.dot.ok{background:#4FAE85}
+.dot.busy{background:var(--buoy)}
+.dot.err{background:#E0604F}
+.linkbtn{background:none;border:0;padding:0;color:var(--muted);text-decoration:underline;text-underline-offset:3px;font-size:.85rem;text-align:left}
+.linkbtn:hover{color:var(--ink)}
+.side .linkbtn{color:var(--side-muted)}
+.side .linkbtn:hover{color:var(--side-ink)}
+.who{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:.86rem;color:var(--side-muted)}
+.who #who{overflow-wrap:anywhere}
+.wl{display:flex;gap:14px;flex:none}
+
+/* Main */
+.main{padding:28px clamp(16px,3vw,40px) 60px;min-width:0}
+.head{display:flex;flex-wrap:wrap;align-items:flex-start;justify-content:space-between;gap:14px 24px;margin-bottom:18px}
+.head h1{margin:0;font-stretch:78%;font-weight:800;font-size:clamp(1.8rem,4vw,2.6rem);line-height:1.05;overflow-wrap:anywhere}
+.vtools{display:flex;gap:14px;margin-top:8px}
+.btn{border:1.5px solid var(--ink);background:transparent;border-radius:8px;padding:8px 14px;font-weight:600}
+.btn:hover{background:var(--row-hover)}
+.btn:disabled{opacity:.6;cursor:default}
+.btn.primary{background:var(--buoy);border-color:var(--buoy);color:var(--buoy-ink)}
+.btn.primary:hover{filter:brightness(.95);background:var(--buoy)}
+.btn.danger{background:var(--red);border-color:var(--red);color:#fff}
+.btn.danger:hover{background:var(--red);filter:brightness(.95)}
+
+/* Filters */
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}
+.filters input,.filters select{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 10px;min-height:38px}
+.filters input{flex:1 1 200px}
+
+/* Table */
+.wrap{background:var(--panel);border:1px solid var(--line);border-radius:10px;overflow:hidden;box-shadow:var(--shadow)}
+table{width:100%;border-collapse:collapse}
+th{text-align:left;font-weight:600;font-size:.85rem;color:var(--muted);padding:10px 12px;border-bottom:1px solid var(--line);white-space:nowrap}
+td{padding:11px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:last-child td{border-bottom:0}
+tbody tr:hover{background:var(--row-hover)}
+.num{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+th.num{text-align:right}
+.nm{font-weight:600}
+td.no{white-space:nowrap;font-weight:600;font-variant-numeric:tabular-nums;color:var(--muted)}
+.nt{color:var(--muted);font-size:.85rem;margin-top:2px;max-width:34ch}
+tr.done .nm{text-decoration:line-through;text-decoration-thickness:1.5px;color:var(--muted)}
+.pri{display:inline-block;padding:2px 9px;border-radius:99px;font-size:.82rem;font-weight:600;border:1.5px solid var(--line)}
+.pri.urgent{background:var(--red);border-color:var(--red);color:#fff}
+.pri.normal{border-color:var(--ink)}
+.pri.low{color:var(--muted)}
+select.st{border-radius:8px;border:1.5px solid;padding:5px 8px;font-weight:600;background:var(--panel);min-width:104px}
+select.st.tobuy{border-color:var(--red);color:var(--red)}
+select.st.ordered{border-color:var(--blue);color:var(--blue)}
+select.st.received{border-color:var(--green);color:var(--green)}
+.act{white-space:nowrap;text-align:right}
+.act button{background:none;border:0;padding:4px 6px;color:var(--muted);text-decoration:underline;text-underline-offset:3px;font-size:.88rem}
+.act button:hover{color:var(--ink)}
+.act .del:hover{color:var(--red)}
+.empty{padding:44px 20px;text-align:center;color:var(--muted)}
+.empty p{margin:0 0 14px}
+
+/* Pop-ups */
+.modal{position:fixed;inset:0;z-index:50;background:rgba(8,18,26,.55);display:flex;align-items:flex-start;justify-content:center;padding:4vh 14px;overflow-y:auto}
+.card{background:var(--panel);color:var(--ink);border-radius:12px;width:min(560px,100%);padding:22px;box-shadow:0 20px 60px rgba(0,0,0,.35);margin:auto 0}
+.card h2{margin:0 0 14px;font-stretch:80%;font-weight:800;font-size:1.5rem}
+.card p{margin:0 0 4px}
+.hint{color:var(--muted);font-size:.85rem;margin:0 0 12px}
+.f .hint{margin:4px 0 0}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.grid .full{grid-column:1/-1}
+.f label{display:block;font-size:.85rem;font-weight:600;margin-bottom:4px}
+.f input,.f select,.f textarea{width:100%;background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:9px 10px}
+.f textarea{min-height:66px;resize:vertical}
+.err{color:var(--red);font-size:.85rem;margin-top:8px;font-weight:600}
+.foot{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:8px;margin-top:18px}
+.foot .left{margin-right:auto}
+.modal.locked{z-index:70;background:var(--paper);align-items:center}
+.card h3.sub{margin:20px 0 10px;font-size:1rem}
+.urow{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:9px 0;border-bottom:1px solid var(--line)}
+.uid{font-weight:600;overflow-wrap:anywhere}
+.ua{display:flex;gap:14px;flex:none}
+.ua .del:hover{color:var(--red)}
+.ugen{margin-top:8px}
+.ok{color:var(--green);font-size:.9rem;margin-top:10px;font-weight:600;overflow-wrap:anywhere}
+
+/* Small screens */
+@media (max-width:860px){
+  .app{grid-template-columns:1fr}
+  .side{position:static;height:auto;padding-bottom:0}
+  .vlist{display:flex;overflow-x:auto;flex:none}
+  .vbtn{border-left:0;border-bottom:4px solid transparent;white-space:nowrap;padding:10px 16px}
+  .vbtn[aria-current="true"]{border-bottom-color:var(--buoy)}
+  .addv{margin:10px 22px 12px}
+  .sync{border-top:0;padding:0 22px 14px}
+  table,thead,tbody,tr,td{display:block}
+  thead{position:absolute;left:-9999px}
+  tr{display:flex;flex-direction:column;padding:10px 12px;border-bottom:1px solid var(--line)}
+  tr:last-child{border-bottom:0}
+  td{border:0;padding:3px 0;display:flex;justify-content:space-between;gap:12px;text-align:right}
+  td::before{content:attr(data-label);color:var(--muted);font-size:.85rem;text-align:left;flex:none}
+  td.no::before{font-weight:400}
+  .c-name{order:-1;display:block;text-align:left}
+  .c-name::before{content:none}
+  .nt{max-width:none}
+  .act{justify-content:flex-end}
+  .act::before{content:none}
+  .grid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside class="side" aria-label="Vessels">
+    <div class="brand">Purchasing list<small>One list for each vessel</small></div>
+    <ul class="vlist" id="vlist"></ul>
+    <button type="button" class="addv" data-act="add-vessel">Add vessel</button>
+    <div class="sync">
+      <button type="button" class="syncstat" id="syncstat" data-act="sync-status"><span class="dot" id="dot"></span><span id="syncmsg">Not signed in</span></button>
+      <div class="who"><span id="who"></span><span class="wl"><button type="button" class="linkbtn" id="usersBtn" data-act="open-users" hidden>Users</button><button type="button" class="linkbtn" id="signoutBtn" data-act="sign-out">Sign out</button></span></div>
+    </div>
+  </aside>
+
+  <main class="main">
+    <div class="head">
+      <div>
+        <h1 id="vname"></h1>
+        <div class="vtools">
+          <button type="button" class="linkbtn" data-act="rename-vessel">Rename vessel</button>
+          <button type="button" class="linkbtn" data-act="delete-vessel">Delete vessel</button>
+        </div>
+      </div>
+      <div class="actions">
+        <button type="button" class="btn primary" data-act="add-item">Add item</button>
+      </div>
+    </div>
+
+    <div class="filters">
+      <input type="search" id="q" placeholder="Search item no., name, notes" aria-label="Search">
+      <select id="fs" aria-label="Filter by status">
+        <option value="">All statuses</option>
+        <option value="tobuy">To buy</option>
+        <option value="ordered">Ordered</option>
+        <option value="received">Received</option>
+      </select>
+      <select id="fc" aria-label="Filter by category"></select>
+    </div>
+
+    <div class="wrap" id="wrap"></div>
+  </main>
+</div>
+
+<!-- Add / edit item -->
+<div class="modal" id="itemModal" hidden>
+  <div class="card" id="itemForm" role="dialog" aria-modal="true" aria-labelledby="itemTitle">
+    <h2 id="itemTitle">Add item</h2>
+    <div class="grid">
+      <div class="f full"><label for="i-name">Item</label><input id="i-name" maxlength="120"><div class="err" id="i-err" hidden>Enter the item name.</div></div>
+      <div class="f"><label for="i-no">Item no.</label><input id="i-no" maxlength="20" placeholder="e.g. 12 or A-03"></div>
+      <div class="f"><label for="i-qty">Quantity</label><input id="i-qty" type="number" min="0" step="any" value="1"></div>
+      <div class="f"><label for="i-unit">Unit</label><input id="i-unit" list="units" placeholder="pcs, box, kg"></div>
+      <div class="f"><label for="i-cat">Category</label><select id="i-cat"></select></div>
+      <div class="f"><label for="i-pri">Priority</label>
+        <select id="i-pri"><option value="urgent">Urgent</option><option value="normal" selected>Normal</option><option value="low">Low</option></select></div>
+      <div class="f"><label for="i-st">Status</label>
+        <select id="i-st"><option value="tobuy">To buy</option><option value="ordered">Ordered</option><option value="received">Received</option></select></div>
+      <div class="f full"><label for="i-notes">Notes</label><textarea id="i-notes" maxlength="400" placeholder="Brand, size, pack, remarks"></textarea></div>
+    </div>
+    <div class="foot">
+      <button type="button" class="btn" data-act="close-modal">Cancel</button>
+      <button type="button" class="btn primary" data-act="save-item">Save item</button>
+    </div>
+    <datalist id="units"><option>pcs</option><option>box</option><option>pack</option><option>carton</option><option>bag</option><option>kg</option><option>litre</option><option>can</option><option>tray</option></datalist>
+  </div>
+</div>
+
+<!-- Add / rename vessel -->
+<div class="modal" id="vesselModal" hidden>
+  <div class="card" id="vesselForm" role="dialog" aria-modal="true" aria-labelledby="vesselTitle">
+    <h2 id="vesselTitle">Add vessel</h2>
+    <div class="f"><label for="v-name">Vessel name</label><input id="v-name" maxlength="60"><div class="err" id="v-err" hidden>Enter the vessel name.</div></div>
+    <div class="foot">
+      <button type="button" class="btn" data-act="close-modal">Cancel</button>
+      <button type="button" class="btn primary" data-act="save-vessel">Save vessel</button>
+    </div>
+  </div>
+</div>
+
+<!-- Users (admin only) -->
+<div class="modal" id="usersModal" hidden>
+  <div class="card" role="dialog" aria-modal="true" aria-labelledby="u-title">
+    <h2 id="u-title">Users</h2>
+    <p class="hint">People listed here can sign in with their ID and password to add and edit items. Only you, the admin, can see this list.</p>
+    <div id="u-list"></div>
+    <h3 class="sub">Add a user or reset a password</h3>
+    <div class="grid">
+      <div class="f"><label for="u-id">ID</label><input id="u-id" autocomplete="off" autocapitalize="off" spellcheck="false" maxlength="32"></div>
+      <div class="f"><label for="u-pw">Password (6 or more characters)</label><input id="u-pw" autocomplete="off" autocapitalize="off" spellcheck="false" maxlength="100"></div>
+    </div>
+    <div class="ugen"><button type="button" class="linkbtn" data-act="user-gen">Make a random password</button></div>
+    <div class="err" id="u-err" hidden></div>
+    <div class="ok" id="u-msg" hidden></div>
+    <div class="foot">
+      <button type="button" class="btn" data-act="close-modal">Close</button>
+      <button type="button" class="btn primary" data-act="user-save">Save user</button>
+    </div>
+  </div>
+</div>
+
+<!-- Sign in (cannot be closed) -->
+<div class="modal locked" id="loginModal" hidden>
+  <div class="card" role="dialog" aria-modal="true" aria-labelledby="l-title">
+    <h2 id="l-title">Sign in</h2>
+    <p class="hint">Use the ID and password the admin gave you.</p>
+    <div class="grid">
+      <div class="f full"><label for="l-id">ID</label><input id="l-id" autocomplete="username" autocapitalize="off" spellcheck="false"></div>
+      <div class="f full"><label for="l-pw">Password</label><input id="l-pw" type="password" autocomplete="current-password"></div>
+      <div class="f full" id="l-api-wrap" hidden><label for="l-api">Server address</label><input id="l-api" placeholder="https://your-server.workers.dev" autocomplete="off" autocapitalize="off" spellcheck="false"><div class="hint">The admin can give you this address.</div></div>
+    </div>
+    <div class="err" id="l-err" hidden></div>
+    <div class="foot"><button type="button" class="btn primary" id="l-go" data-act="login">Sign in</button></div>
+  </div>
+</div>
+
+<!-- Confirm / message -->
+<div class="modal" id="confirmModal" hidden>
+  <div class="card" role="alertdialog" aria-modal="true" aria-labelledby="c-title">
+    <h2 id="c-title"></h2>
+    <p id="c-text"></p>
+    <div class="foot">
+      <button type="button" class="btn" id="c-cancel" data-act="close-modal">Cancel</button>
+      <button type="button" class="btn" id="c-ok" data-act="confirm-ok">OK</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  "use strict";
+  var CATS=["Dry","Chiller","Frozen"];
+  var ST={tobuy:"To buy",ordered:"Ordered",received:"Received"};
+  var PRI={urgent:"Urgent",normal:"Normal",low:"Low"};
+  var KEY="vesselPurchasing.v1", SESS_KEY="vesselSession.v1", API_KEY="vesselApi.v1";
+  var $=function(s){return document.querySelector(s)};
+  var now=function(){return Date.now()};
+  var uid=function(){return Math.random().toString(36).slice(2,9)+now().toString(36)};
+  var esc=function(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})};
+
+  var hadSaved=false, touched=false;
+  var state=load();
+  var sess=loadSess(), API=loadApiStored();
+  var sync={busy:false,queued:false,timer:null,retry:null,last:0};
+  var editingId=null, vesselMode="add", pendingOk=null;
+  ensureActive();
+
+  /* ---------- Local data ---------- */
+  function load(){
+    var s=null;
+    try{ s=JSON.parse(localStorage.getItem(KEY)); }catch(e){}
+    if(s&&Array.isArray(s.vessels)&&s.vessels.length){ hadSaved=true; }
+    else{ s={vessels:[{id:"vessel-1",name:"Vessel 1",items:[],updated:0}]}; }
+    return fix(s);
+  }
+  function fix(s){
+    s.vessels.forEach(function(v){
+      v.id=v.id||uid(); v.name=v.name||"Vessel"; v.updated=v.updated||0;
+      v.items=Array.isArray(v.items)?v.items:[];
+      v.items.forEach(function(i){
+        i.id=i.id||uid(); i.updated=i.updated||0;
+        if(i.deleted) return;
+        delete i.supplier;
+        i.name=String(i.name||""); i.no=i.no==null?"":String(i.no);
+        if(i.qty==null) i.qty=1;
+        if(!ST[i.status]) i.status="tobuy";
+        if(!PRI[i.priority]) i.priority="normal";
+        if(CATS.indexOf(i.category)<0) i.category=CATS[0];
+        i.added=i.added||0;
+      });
+    });
+    return s;
+  }
+  function liveVessels(){ return state.vessels.filter(function(v){return !v.deleted}); }
+  function liveItems(v){ return v.items.filter(function(i){return !i.deleted}); }
+  function vessel(){ return liveVessels().filter(function(v){return v.id===state.active})[0]; }
+  function ensureActive(){
+    var live=liveVessels();
+    if(!live.length){ var v={id:uid(),name:"Vessel 1",items:[],updated:now()}; state.vessels.push(v); live=[v]; }
+    if(!live.some(function(v){return v.id===state.active})) state.active=live[0].id;
+  }
+  function saveLocal(){ try{ localStorage.setItem(KEY,JSON.stringify(state)); }catch(e){} }
+  function save(){ touched=true; saveLocal(); markDirty(); }
+  function fmtQty(n){ n=Number(n)||0; return Number.isInteger(n)?String(n):String(Math.round(n*100)/100); }
+
+  /* ---------- GitHub sync ---------- */
+  function loadSess(){
+    try{ var x=JSON.parse(localStorage.getItem(SESS_KEY)); if(x&&x.token&&x.id) return x; }catch(e){}
+    return null;
+  }
+  function saveSess(){ try{ if(sess) localStorage.setItem(SESS_KEY,JSON.stringify(sess)); else localStorage.removeItem(SESS_KEY); }catch(e){} }
+  function loadApiStored(){ try{ return (localStorage.getItem(API_KEY)||"").replace(/\/+$/,""); }catch(e){ return ""; } }
+  function setApi(a){ API=String(a||"").trim().replace(/\/+$/,""); try{ if(API) localStorage.setItem(API_KEY,API); }catch(e){} }
+  function mkErr(msg,status,net){ var e=new Error(msg); e.status=status||0; e.net=!!net; return e; }
+  function b64enc(str){
+    var bytes=new TextEncoder().encode(str), bin="";
+    for(var i=0;i<bytes.length;i+=0x8000) bin+=String.fromCharCode.apply(null,bytes.subarray(i,i+0x8000));
+    return btoa(bin);
+  }
+  function b64dec(b64){
+    var bin=atob(b64.replace(/\s/g,"")), bytes=new Uint8Array(bin.length);
+    for(var i=0;i<bin.length;i++) bytes[i]=bin.charCodeAt(i);
+    return new TextDecoder().decode(bytes);
+  }
+  async function api(path,opts){
+    if(!API) throw mkErr("The server address is not set. Ask the admin for it.",0);
+    opts=opts||{};
+    var headers={"Accept":"application/json"};
+    if(sess&&path!=="/login") headers["Authorization"]="Bearer "+sess.token;
+    if(opts.body!==undefined) headers["Content-Type"]="application/json";
+    try{
+      return await fetch(API+path,{method:opts.method||"GET",headers:headers,body:opts.body===undefined?undefined:JSON.stringify(opts.body),cache:"no-store"});
+    }catch(e){ throw mkErr("Could not reach the server. Check the internet connection.",0,true); }
+  }
+  async function apiJson(path,opts){
+    var r=await api(path,opts), j=null;
+    try{ j=await r.json(); }catch(e){}
+    if(!r.ok) throw mkErr((j&&j.error)||("The server returned an error ("+r.status+")."),r.status);
+    return j||{};
+  }
+  async function getRemote(){
+    var j=await apiJson("/data");
+    if(!("data" in j)) throw mkErr("That address does not look like the purchasing server.");
+    if(!j.data) return j.sha?{data:{vessels:[]},sha:j.sha}:{missing:true};
+    if(!Array.isArray(j.data.vessels)) throw mkErr("The saved list is not in the expected format.");
+    return {data:j.data,sha:j.sha};
+  }
+  async function putRemote(payload,sha){
+    try{ await apiJson("/data",{method:"PUT",body:{payload:payload,sha:sha||null}}); return {ok:true}; }
+    catch(e){ if(e.status===409) return {conflict:true}; throw e; }
+  }
+
+  function canon(x){
+    if(Array.isArray(x)) return "["+x.map(canon).join(",")+"]";
+    if(x&&typeof x==="object") return "{"+Object.keys(x).sort().map(function(k){return JSON.stringify(k)+":"+canon(x[k])}).join(",")+"}";
+    return JSON.stringify(x);
+  }
+  function serialize(vessels){
+    var cutoff=now()-60*864e5;
+    return {version:2,vessels:vessels.filter(function(v){return !(v.deleted&&v.updated<cutoff)}).map(function(v){
+      var o=Object.assign({},v);
+      o.items=(v.items||[]).filter(function(i){return !(i.deleted&&i.updated<cutoff)});
+      return o;
+    })};
+  }
+  function newer(l,r){ return (r.updated||0)>(l.updated||0)?r:l; }
+  function mergeList(local,remote,pick){
+    var map={}, order=[];
+    remote.forEach(function(x){ map[x.id]={r:x}; order.push(x.id); });
+    local.forEach(function(x){ if(!map[x.id]){ map[x.id]={}; order.push(x.id); } map[x.id].l=x; });
+    return order.map(function(id){
+      var e=map[id]; if(!e.l) return e.r; if(!e.r) return e.l; return pick(e.l,e.r);
+    });
+  }
+  function mergeVessel(l,r){
+    var o=Object.assign({},newer(l,r));
+    o.items=mergeList(l.items||[],r.items||[],newer);
+    return o;
+  }
+  function mergeData(localV,remoteV){
+    var remoteIds={}, remoteLive=remoteV.some(function(v){return !v.deleted});
+    remoteV.forEach(function(v){ remoteIds[v.id]=1; });
+    // a brand-new, never-edited starter vessel must not be added on top of an existing shared list
+    localV=localV.filter(function(v){
+      return !(remoteLive&&!remoteIds[v.id]&&!v.deleted&&!(v.updated>0)&&!liveItems(v).length);
+    });
+    return mergeList(localV,remoteV,mergeVessel);
+  }
+  function applyMerged(merged){
+    var changed=canon(serialize(state.vessels))!==canon(serialize(merged));
+    var before=state.active;
+    state.vessels=merged;
+    ensureActive();
+    saveLocal();
+    if(changed||before!==state.active) renderAll();
+  }
+
+  function fmtTime(t){ return new Date(t).toLocaleTimeString([],{hour:"2-digit",minute:"2-digit"}); }
+  function setStatus(kind,msg){ $("#dot").className="dot "+kind; $("#syncmsg").textContent=msg; }
+  function markDirty(){
+    if(!sess) return;
+    setStatus("busy","Saving...");
+    clearTimeout(sync.timer);
+    sync.timer=setTimeout(syncNow,1200);
+  }
+  function handleError(e){
+    if(e.net){
+      setStatus("err","Offline. Saved on this device.");
+      clearTimeout(sync.retry); sync.retry=setTimeout(syncNow,30000);
+    }else if(e.status===401){
+      endSession("Your session has ended. Please sign in again.");
+    }else{
+      setStatus("err",e.message||"Sync problem. Tap to retry.");
+    }
+  }
+  /* Returns "" on success, or a message describing what went wrong. */
+  async function syncNow(){
+    if(!sess||!API) return "";
+    if(sync.busy){ sync.queued=true; return ""; }
+    sync.busy=true; sync.queued=false;
+    clearTimeout(sync.timer); clearTimeout(sync.retry);
+    setStatus("busy","Syncing...");
+    var err="";
+    try{
+      for(var attempt=0;attempt<4;attempt++){
+        var res=await getRemote();
+        var remoteV=res.missing?[]:fix({vessels:res.data.vessels}).vessels;
+        var merged=mergeData(state.vessels,remoteV);
+        applyMerged(merged);
+        var mine=canon(serialize(state.vessels)), theirs=canon(serialize(remoteV));
+        if(!res.missing&&mine===theirs) break;               // already identical: nothing to save
+        var put=await putRemote(serialize(state.vessels),res.missing?null:res.sha);
+        if(put.ok) break;
+        if(attempt===3) throw mkErr("Another device kept changing the list while saving. Tap to try again.");
+      }
+      sync.last=now();
+      setStatus("ok","Synced "+fmtTime(sync.last));
+    }catch(e){ err=e.message||"Sync failed."; handleError(e); }
+    sync.busy=false;
+    if(sync.queued){ sync.queued=false; syncNow(); }
+    return err;
+  }
+  var sleep=function(ms){ return new Promise(function(r){setTimeout(r,ms)}); };
+
+  /* ---------- Sign in / out ---------- */
+  function updateWho(){
+    $("#who").textContent=sess?("Signed in as "+sess.id):"Not signed in";
+    $("#usersBtn").hidden=!(sess&&sess.role==="admin");
+    $("#signoutBtn").hidden=!sess;
+  }
+  function showLogin(msg){
+    var e=$("#l-err"); e.textContent=msg||""; e.hidden=!msg;
+    $("#l-pw").value=""; $("#l-api-wrap").hidden=!!API;
+    $("#l-go").disabled=false; $("#l-go").textContent="Sign in";
+    show($("#loginModal")); setStatus("off","Not signed in");
+    setTimeout(function(){ ($("#l-id").value?$("#l-pw"):$("#l-id")).focus(); },0);
+  }
+  function endSession(msg){
+    sess=null; saveSess(); clearTimeout(sync.timer); clearTimeout(sync.retry);
+    hide($("#usersModal")); updateWho(); showLogin(msg);
+  }
+  async function doLogin(){
+    var id=$("#l-id").value.trim(), pw=$("#l-pw").value, e=$("#l-err"), typedApi=false;
+    e.hidden=true;
+    if(!API){
+      var a=$("#l-api").value.trim();
+      if(!/^https?:\/\//i.test(a)){ e.textContent="Enter the server address the admin gave you."; e.hidden=false; return; }
+      setApi(a); typedApi=true;
+    }
+    if(!id||!pw){ e.textContent="Enter your ID and password."; e.hidden=false; return; }
+    var btn=$("#l-go"); btn.disabled=true; btn.textContent="Signing in...";
+    try{
+      var j=await apiJson("/login",{method:"POST",body:{id:id,password:pw}});
+      sess={token:j.token,id:j.id,role:j.role}; saveSess();
+      $("#l-pw").value=""; hide($("#loginModal")); updateWho(); renderAll(); syncNow();
+    }catch(err){
+      if(typedApi&&[400,401,429].indexOf(err.status)<0){ API=""; try{ localStorage.removeItem(API_KEY); }catch(x){} $("#l-api-wrap").hidden=false; }
+      e.textContent=err.message; e.hidden=false; btn.disabled=false; btn.textContent="Sign in";
+    }
+  }
+  async function signOutFlow(){
+    var err=await syncNow();
+    ask("Sign out?",err?"The latest changes could not be sent to the server, and will be lost from this device if you sign out.":"You will need your ID and password to sign in again.","Sign out",function(){
+      sess=null; saveSess(); try{ localStorage.removeItem(KEY); }catch(e){}
+      clearTimeout(sync.timer); clearTimeout(sync.retry);
+      state=fix({vessels:[{id:"vessel-1",name:"Vessel 1",items:[],updated:0}]}); ensureActive();
+      $("#l-id").value=""; updateWho(); renderAll(); showLogin();
+    },true);
+  }
+
+  /* ---------- Users (admin) ---------- */
+  function usersError(m){ var e=$("#u-err"); e.textContent=m||""; e.hidden=!m; $("#u-msg").hidden=true; }
+  function usersOk(m){ var e=$("#u-msg"); e.textContent=m; e.hidden=false; $("#u-err").hidden=true; }
+  function genPassword(){
+    var chars="abcdefghjkmnpqrstuvwxyzABCDEFGHJKMNPQRSTUVWXYZ23456789", a=new Uint32Array(10), out="";
+    crypto.getRandomValues(a);
+    for(var i=0;i<a.length;i++) out+=chars[a[i]%chars.length];
+    return out;
+  }
+  async function loadUsers(){
+    var box=$("#u-list"); box.textContent="Loading...";
+    try{
+      var j=await apiJson("/users"), list=j.users||[];
+      box.innerHTML=list.length?list.map(function(u){
+        return '<div class="urow"><span class="uid">'+esc(u.id)+'</span><span class="ua">'+
+          '<button type="button" class="linkbtn" data-act="user-reset" data-id="'+esc(u.id)+'">Reset password</button>'+
+          '<button type="button" class="linkbtn del" data-act="user-remove" data-id="'+esc(u.id)+'">Remove</button></span></div>';
+      }).join(""):'<p class="hint">No users yet. Add the first one below.</p>';
+    }catch(e){ box.textContent=""; if(e.status!==401) usersError(e.message); else handleError(e); }
+  }
+  function openUsers(){
+    usersError(""); $("#u-msg").hidden=true; $("#u-id").value=""; $("#u-pw").value="";
+    show($("#usersModal")); loadUsers();
+  }
+  async function saveUserForm(){
+    var id=$("#u-id").value.trim().toLowerCase(), pw=$("#u-pw").value;
+    if(!id||!pw){ usersError("Enter an ID and a password."); return; }
+    try{
+      var j=await apiJson("/users",{method:"POST",body:{id:id,password:pw}});
+      usersOk((j.updated?"Password changed. ":"User added. ")+"Give them this ID and password:  "+id+"  /  "+pw);
+      $("#u-id").value=""; $("#u-pw").value=""; loadUsers();
+    }catch(e){ if(e.status===401) handleError(e); else usersError(e.message); }
+  }
+
+  /* ---------- Pop-up helpers ---------- */
+  function show(m){ m.hidden=false; document.body.style.overflow="hidden"; }
+  function hide(m){ m.hidden=true; if(m.id==="confirmModal") pendingOk=null; if(!document.querySelector(".modal:not([hidden])")) document.body.style.overflow=""; }
+  function ask(title,text,okLabel,onOk,danger){
+    $("#c-title").textContent=title; $("#c-text").textContent=text;
+    var ok=$("#c-ok"); ok.textContent=okLabel; ok.className="btn "+(danger?"danger":"primary");
+    $("#c-cancel").hidden=!onOk; pendingOk=onOk||null;
+    show($("#confirmModal")); ok.focus();
+  }
+
+  /* ---------- Rendering ---------- */
+  $("#fc").innerHTML='<option value="">All categories</option>'+CATS.map(function(c){return '<option>'+c+'</option>'}).join("");
+  $("#i-cat").innerHTML=CATS.map(function(c){return '<option>'+c+'</option>'}).join("");
+
+  function renderAll(){ renderSide(); renderHead(); renderTable(); }
+
+  function renderSide(){
+    $("#vlist").innerHTML=liveVessels().map(function(v){
+      var open=liveItems(v).filter(function(i){return i.status!=="received"}).length;
+      return '<li><button type="button" class="vbtn" data-act="pick" data-id="'+esc(v.id)+'" aria-current="'+(v.id===state.active)+'">'+
+        '<span>'+esc(v.name)+'</span><span class="n '+(open?"":"zero")+'" title="Items still to get">'+open+'</span></button></li>';
+    }).join("");
+  }
+  function renderHead(){ $("#vname").textContent=vessel().name; document.title=vessel().name+" - Purchasing list"; }
+
+  function visibleItems(){
+    var q=$("#q").value.trim().toLowerCase(), fs=$("#fs").value, fc=$("#fc").value;
+    var list=liveItems(vessel()).filter(function(i){
+      return (!fs||i.status===fs)&&(!fc||i.category===fc)&&
+        (!q||[i.no,i.name,i.notes,i.category].some(function(x){return (x||"").toLowerCase().indexOf(q)>=0}));
+    });
+    list.sort(function(a,b){
+      var x=a.no||"", y=b.no||"";
+      if(x&&!y) return -1;
+      if(!x&&y) return 1;
+      return x.localeCompare(y,undefined,{numeric:true})||(a.added||0)-(b.added||0);
+    });
+    return list;
+  }
+
+  function renderTable(){
+    var v=vessel(), list=visibleItems();
+    if(!liveItems(v).length){
+      $("#wrap").innerHTML='<div class="empty"><p>Nothing on the list for '+esc(v.name)+' yet.</p><button type="button" class="btn primary" data-act="add-item">Add the first item</button></div>';
+      return;
+    }
+    if(!list.length){
+      $("#wrap").innerHTML='<div class="empty"><p>No items match these filters.</p></div>';
+      return;
+    }
+    $("#wrap").innerHTML='<table><thead><tr><th>Item no.</th><th>Item</th><th>Category</th><th class="num">Quantity</th><th>Priority</th><th>Status</th><th></th></tr></thead><tbody>'+
+      list.map(function(i){
+        return '<tr data-id="'+esc(i.id)+'" class="'+(i.status==="received"?"done":"")+'">'+
+          '<td data-label="Item no." class="no">'+esc(i.no||"-")+'</td>'+
+          '<td class="c-name"><div class="nm">'+esc(i.name)+'</div>'+(i.notes?'<div class="nt">'+esc(i.notes)+'</div>':"")+'</td>'+
+          '<td data-label="Category">'+esc(i.category)+'</td>'+
+          '<td data-label="Quantity" class="num">'+fmtQty(i.qty)+' '+esc(i.unit||"")+'</td>'+
+          '<td data-label="Priority"><span class="pri '+i.priority+'">'+PRI[i.priority]+'</span></td>'+
+          '<td data-label="Status"><select class="st '+i.status+'" data-act="status" aria-label="Status of '+esc(i.name)+'">'+
+            Object.keys(ST).map(function(k){return '<option value="'+k+'"'+(k===i.status?" selected":"")+'>'+ST[k]+'</option>'}).join("")+'</select></td>'+
+          '<td class="act"><button type="button" data-act="edit">Edit</button><button type="button" class="del" data-act="del">Delete</button></td>'+
+        '</tr>';
+      }).join("")+'</tbody></table>';
+  }
+
+  /* ---------- Item pop-up ---------- */
+  function openItem(id){
+    editingId=id||null;
+    var i=id?liveItems(vessel()).filter(function(x){return x.id===id})[0]:null;
+    $("#itemTitle").textContent=i?"Edit item":"Add item";
+    $("#i-err").hidden=true;
+    $("#i-name").value=i?i.name:"";
+    $("#i-no").value=i?(i.no||""):"";
+    $("#i-qty").value=i?i.qty:1;
+    $("#i-unit").value=i?(i.unit||""):"";
+    $("#i-cat").value=i?i.category:CATS[0];
+    $("#i-pri").value=i?i.priority:"normal";
+    $("#i-st").value=i?i.status:"tobuy";
+    $("#i-notes").value=i?(i.notes||""):"";
+    show($("#itemModal"));
+    setTimeout(function(){ $("#i-name").focus(); },0);
+  }
+  function saveItem(){
+    var name=$("#i-name").value.trim();
+    if(!name){ $("#i-err").hidden=false; $("#i-name").focus(); return; }
+    var data={
+      name:name, no:$("#i-no").value.trim(), qty:Number($("#i-qty").value)||0, unit:$("#i-unit").value.trim(), category:$("#i-cat").value,
+      priority:$("#i-pri").value, status:$("#i-st").value, notes:$("#i-notes").value.trim(), updated:now()
+    };
+    var v=vessel();
+    if(editingId){
+      var it=v.items.filter(function(x){return x.id===editingId})[0];
+      if(it){ Object.assign(it,data); delete it.deleted; }
+    }else{ v.items.push(Object.assign({id:uid(),added:now()},data)); }
+    save(); renderAll(); hide($("#itemModal"));
+  }
+
+  /* ---------- Vessel pop-up ---------- */
+  function openVessel(mode){
+    vesselMode=mode;
+    $("#vesselTitle").textContent=mode==="add"?"Add vessel":"Rename vessel";
+    $("#v-err").hidden=true;
+    $("#v-name").value=mode==="add"?"":vessel().name;
+    show($("#vesselModal"));
+    setTimeout(function(){ $("#v-name").focus(); $("#v-name").select(); },0);
+  }
+  function saveVessel(){
+    var name=$("#v-name").value.trim();
+    if(!name){ $("#v-err").hidden=false; $("#v-name").focus(); return; }
+    if(vesselMode==="add"){ var v={id:uid(),name:name,items:[],updated:now()}; state.vessels.push(v); state.active=v.id; }
+    else{ var cur=vessel(); cur.name=name; cur.updated=now(); }
+    save(); renderAll(); hide($("#vesselModal"));
+  }
+
+  /* ---------- Events ---------- */
+  document.addEventListener("click",function(e){
+    var b=e.target.closest("[data-act]"); if(!b||b.tagName==="SELECT") return;
+    var act=b.dataset.act, row=b.closest("tr"), id=row&&row.dataset.id, v=vessel();
+    switch(act){
+      case "pick": state.active=b.dataset.id; saveLocal(); renderAll(); break;
+      case "add-vessel": openVessel("add"); break;
+      case "rename-vessel": openVessel("rename"); break;
+      case "delete-vessel":
+        if(liveVessels().length<2){ ask("Keep at least one vessel","Add another vessel first, or rename this one.","Got it"); break; }
+        ask("Delete "+v.name+"?","This removes the vessel and all "+liveItems(v).length+" items on its list, on every connected device.","Delete vessel",function(){
+          state.vessels=state.vessels.map(function(x){ return x.id===v.id?{id:x.id,name:x.name,items:[],deleted:true,updated:now()}:x; });
+          ensureActive(); save(); renderAll();
+        },true);
+        break;
+      case "add-item": openItem(null); break;
+      case "edit": openItem(id); break;
+      case "del": {
+        var it=liveItems(v).filter(function(x){return x.id===id})[0];
+        if(it) ask("Delete this item?",it.name+" will be removed from "+v.name+", on every connected device.","Delete item",function(){
+          v.items=v.items.map(function(x){ return x.id===id?{id:id,deleted:true,updated:now()}:x; });
+          save(); renderAll();
+        },true);
+        break; }
+      case "save-item": saveItem(); break;
+      case "save-vessel": saveVessel(); break;
+      case "close-modal": hide(b.closest(".modal")); break;
+      case "confirm-ok": { var f=pendingOk; hide($("#confirmModal")); if(f) f(); break; }
+      case "sync-status": if(sess) syncNow(); else showLogin(); break;
+      case "sign-out": signOutFlow(); break;
+      case "login": doLogin(); break;
+      case "open-users": openUsers(); break;
+      case "user-save": saveUserForm(); break;
+      case "user-gen": $("#u-pw").value=genPassword(); $("#u-pw").focus(); break;
+      case "user-reset": $("#u-id").value=b.dataset.id; $("#u-pw").value=genPassword(); usersError(""); $("#u-msg").hidden=true; $("#u-pw").focus(); break;
+      case "user-remove": {
+        var rid=b.dataset.id;
+        ask("Remove "+rid+"?","They will be signed out and can no longer sign in. Items they added stay on the list.","Remove user",async function(){
+          try{ await apiJson("/users/"+encodeURIComponent(rid),{method:"DELETE"}); usersOk(rid+" was removed."); }
+          catch(er){ if(er.status===401) handleError(er); else usersError(er.message); }
+          loadUsers();
+        },true);
+        break; }
+    }
+  });
+  document.addEventListener("change",function(e){
+    var s=e.target.closest('select[data-act="status"]');
+    if(s){
+      var it=liveItems(vessel()).filter(function(x){return x.id===s.closest("tr").dataset.id})[0];
+      if(it){ it.status=s.value; it.updated=now(); save(); renderAll(); }
+    }
+  });
+  ["#q","#fs","#fc"].forEach(function(sel){ $(sel).addEventListener("input",renderTable); });
+  document.addEventListener("keydown",function(e){
+    if(e.key==="Escape"){
+      var open=document.querySelectorAll(".modal:not([hidden]):not(.locked)");
+      if(open.length) hide(open[open.length-1]);
+      return;
+    }
+    if(e.key==="Enter"&&e.target.tagName==="INPUT"){
+      if(e.target.closest("#itemModal")){ e.preventDefault(); saveItem(); }
+      else if(e.target.closest("#vesselModal")){ e.preventDefault(); saveVessel(); }
+      else if(e.target.closest("#loginModal")){ e.preventDefault(); doLogin(); }
+      else if(e.target.closest("#usersModal")){ e.preventDefault(); saveUserForm(); }
+    }
+  });
+  Array.prototype.forEach.call(document.querySelectorAll(".modal"),function(m){
+    m.addEventListener("mousedown",function(e){ if(e.target===m&&!m.classList.contains("locked")) hide(m); });
+  });
+  document.addEventListener("visibilitychange",function(){
+    if(!document.hidden&&sess&&now()-sync.last>15000) syncNow();
+  });
+  window.addEventListener("online",function(){ if(sess) syncNow(); });
+
+  /* ---------- Start ---------- */
+  try{ localStorage.removeItem("vesselSync.v1"); }catch(e){}   // token settings saved by an earlier version
+  async function loadApi(){
+    try{
+      var r=await fetch("config.json",{cache:"no-store"});
+      if(r.ok){ var c=await r.json(); if(c&&typeof c.api==="string"&&/^https?:\/\//i.test(c.api.trim())) setApi(c.api); }
+    }catch(e){}
+  }
+  renderAll(); updateWho();
+  if(sess) setStatus("busy","Syncing..."); else showLogin();
+  loadApi().then(function(){
+    $("#l-api-wrap").hidden=!!API;
+    if(sess) syncNow();
+  });
+
+  /* Offline support (only when served over http/https) */
+  if("serviceWorker" in navigator&&/^https?:$/.test(location.protocol)){
+    window.addEventListener("load",function(){
+      navigator.serviceWorker.register("service-worker.js").catch(function(){});
+    });
+  }
+})();
+</script>
+</body>
+</html>
