@@ -1,9 +1,25 @@
 {
+  "version": 2,
   "vessels": [
     {
       "id": "vessel-1",
       "name": "Vessel 1",
-      "items": []
+      "items": [
+        {
+          "id": "4r7qf6xmu9zia33",
+          "added": 1789918915215,
+          "name": "Tempe",
+          "no": "20",
+          "qty": 10,
+          "unit": "pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1789918915215
+        }
+      ],
+      "updated": 0
     }
   ]
 }
