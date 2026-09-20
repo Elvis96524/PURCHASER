@@ -63,7 +63,7 @@ button{cursor:pointer}
 .side .linkbtn:hover{color:var(--side-ink)}
 .who{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:.86rem;color:var(--side-muted)}
 .who #who{overflow-wrap:anywhere}
-.wl{display:flex;gap:14px;flex:none}
+.wl{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:4px 14px}
 
 /* Main */
 .main{padding:28px clamp(16px,3vw,40px) 60px;min-width:0}
@@ -144,6 +144,10 @@ select.st.received{border-color:var(--green);color:var(--green)}
 .pubbtns{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 .ujson{width:100%;height:120px;margin-top:10px;font:12px/1.4 ui-monospace,Menlo,Consolas,monospace;background:var(--paper);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:8px}
 
+.modal.lockscreen{z-index:90}
+#confirmModal{z-index:95}
+.btn.block{width:100%;padding:11px 14px}
+
 /* Small screens */
 @media (max-width:860px){
   .app{grid-template-columns:1fr}
@@ -177,7 +181,7 @@ select.st.received{border-color:var(--green);color:var(--green)}
     <button type="button" class="addv" data-act="add-vessel">Add vessel</button>
     <div class="sync">
       <button type="button" class="syncstat" id="syncstat" data-act="sync-status"><span class="dot" id="dot"></span><span id="syncmsg">Not signed in</span></button>
-      <div class="who"><span id="who"></span><span class="wl"><button type="button" class="linkbtn" id="usersBtn" data-act="open-users" hidden>Users</button><button type="button" class="linkbtn" id="adminBtn" data-act="open-admin" hidden>Settings</button><button type="button" class="linkbtn" id="signoutBtn" data-act="sign-out">Sign out</button></span></div>
+      <div class="who"><span id="who"></span><span class="wl"><button type="button" class="linkbtn" id="usersBtn" data-act="open-users" hidden>Users</button><button type="button" class="linkbtn" id="adminBtn" data-act="open-admin" hidden>Settings</button><button type="button" class="linkbtn" id="lockBtn" data-act="open-lock" hidden>Lock</button><button type="button" class="linkbtn" id="signoutBtn" data-act="sign-out">Sign out</button></span></div>
     </div>
   </aside>
 
@@ -250,14 +254,14 @@ select.st.received{border-color:var(--green);color:var(--green)}
 <div class="modal" id="usersModal" hidden>
   <div class="card" role="dialog" aria-modal="true" aria-labelledby="u-title">
     <h2 id="u-title">Users</h2>
-    <p class="hint">People listed here sign in with their ID and password to add and edit items. Each password locks the GitHub token inside <b>users.json</b>, a file anyone can download, so passwords must be strong: use "Make a random password".</p>
+    <p class="hint">People listed here sign in with their ID and a 6-digit PIN to add and edit items. Each PIN locks the GitHub token inside <b>users.json</b>. That file is public, so a 6-digit PIN keeps out casual visitors but not a determined attacker with special software. The token only opens the private data repository.</p>
     <div id="u-list"></div>
-    <h3 class="sub">Add a user or reset a password</h3>
+    <h3 class="sub">Add a user or reset a PIN</h3>
     <div class="grid">
       <div class="f"><label for="u-id">ID</label><input id="u-id" autocomplete="off" autocapitalize="off" spellcheck="false" maxlength="32"></div>
-      <div class="f"><label for="u-pw">Password (10 or more characters)</label><input id="u-pw" autocomplete="off" autocapitalize="off" spellcheck="false" maxlength="100"></div>
+      <div class="f"><label for="u-pw">PIN (6 digits)</label><input id="u-pw" inputmode="numeric" pattern="[0-9]*" autocomplete="off" autocapitalize="off" spellcheck="false" maxlength="6"></div>
     </div>
-    <div class="ugen"><button type="button" class="linkbtn" data-act="user-gen">Make a random password</button></div>
+    <div class="ugen"><button type="button" class="linkbtn" data-act="user-gen">Make a random PIN</button></div>
     <div class="err" id="u-err" hidden></div>
     <div class="ok" id="u-msg" hidden></div>
     <div class="pub" id="u-pub" hidden></div>
@@ -273,12 +277,14 @@ select.st.received{border-color:var(--green);color:var(--green)}
 <div class="modal top" id="adminModal" hidden>
   <div class="card" role="dialog" aria-modal="true" aria-labelledby="a-title">
     <h2 id="a-title">Admin setup</h2>
-    <p class="hint">For the admin only. This device keeps the GitHub token and is the only one that can add users. Other people never see the token: it is locked inside users.json with each person's password.</p>
+    <p class="hint">For the admin only. This device keeps the GitHub tokens and is the only one that can add users. Other people never see them: the data token is locked inside users.json with each person's PIN.</p>
     <div class="grid">
       <div class="f full"><label for="a-repo">Data repository</label><input id="a-repo" placeholder="owner/repository" autocomplete="off" autocapitalize="off" spellcheck="false"></div>
       <div class="f"><label for="a-branch">Branch</label><input id="a-branch" autocomplete="off" autocapitalize="off" spellcheck="false"></div>
       <div class="f"><label for="a-path">Data file</label><input id="a-path" autocomplete="off" autocapitalize="off" spellcheck="false"></div>
-      <div class="f full"><label for="a-token">Access token</label><input id="a-token" type="password" autocomplete="off" autocapitalize="off" spellcheck="false"><div class="hint" id="a-tokhint"></div></div>
+      <div class="f full"><label for="a-token">Data token</label><input id="a-token" type="password" autocomplete="off" autocapitalize="off" spellcheck="false"><div class="hint" id="a-tokhint"></div></div>
+      <div class="f full"><label for="a-apprepo">App repository (optional)</label><input id="a-apprepo" placeholder="owner/vessel-app" autocomplete="off" autocapitalize="off" spellcheck="false"></div>
+      <div class="f full"><label for="a-apptoken">App token (optional)</label><input id="a-apptoken" type="password" autocomplete="off" autocapitalize="off" spellcheck="false"><div class="hint" id="a-apptokhint"></div></div>
     </div>
     <div class="err" id="a-err" hidden></div>
     <div class="foot">
@@ -292,15 +298,48 @@ select.st.received{border-color:var(--green);color:var(--green)}
 <div class="modal locked" id="loginModal" hidden>
   <div class="card" role="dialog" aria-modal="true" aria-labelledby="l-title">
     <h2 id="l-title">Sign in</h2>
-    <p class="hint">Use the ID and password the admin gave you.</p>
+    <p class="hint">Use the ID and 6-digit PIN the admin gave you.</p>
     <div class="grid">
       <div class="f full"><label for="l-id">ID</label><input id="l-id" autocomplete="username" autocapitalize="off" spellcheck="false"></div>
-      <div class="f full"><label for="l-pw">Password</label><input id="l-pw" type="password" autocomplete="current-password"></div>
+      <div class="f full"><label for="l-pw">6-digit PIN</label><input id="l-pw" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="6" autocomplete="current-password"></div>
     </div>
     <div class="err" id="l-err" hidden></div>
     <div class="foot">
       <button type="button" class="linkbtn left" data-act="open-admin">Admin setup</button>
       <button type="button" class="btn primary" id="l-go" data-act="login">Sign in</button>
+    </div>
+  </div>
+</div>
+
+<!-- Lock setup -->
+<div class="modal top" id="fpModal" hidden>
+  <div class="card" role="dialog" aria-modal="true" aria-labelledby="f-title">
+    <h2 id="f-title">Lock this device</h2>
+    <p class="hint" id="f-hint"></p>
+    <div id="f-fields">
+      <div class="f"><label for="f-pin" id="f-pinlabel">Your 6-digit PIN</label><input id="f-pin" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="6" autocomplete="off"></div>
+      <div class="f" id="f-pin2wrap" hidden style="margin-top:12px"><label for="f-pin2">Repeat the PIN</label><input id="f-pin2" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="6" autocomplete="off"></div>
+    </div>
+    <div class="err" id="f-err" hidden></div>
+    <div class="foot">
+      <button type="button" class="btn left" id="f-off" data-act="lock-off" hidden>Turn lock off</button>
+      <button type="button" class="btn" data-act="close-modal">Close</button>
+      <button type="button" class="btn primary" id="f-on" data-act="lock-on">Turn on</button>
+    </div>
+  </div>
+</div>
+
+<!-- Locked screen (cannot be closed) -->
+<div class="modal locked lockscreen" id="lockModal" hidden>
+  <div class="card" role="dialog" aria-modal="true" aria-labelledby="k-title">
+    <h2 id="k-title">Locked</h2>
+    <p class="hint">Use your fingerprint or enter your 6-digit PIN.</p>
+    <button type="button" class="btn primary block" id="k-fp" data-act="unlock-fp">Use fingerprint</button>
+    <div class="f" style="margin-top:14px"><label for="k-pin">6-digit PIN</label><input id="k-pin" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="6" autocomplete="off"></div>
+    <div class="err" id="k-err" hidden></div>
+    <div class="foot">
+      <button type="button" class="linkbtn left" data-act="lock-signout">Sign out</button>
+      <button type="button" class="btn primary" data-act="unlock-pin">Unlock</button>
     </div>
   </div>
 </div>
@@ -323,7 +362,8 @@ select.st.received{border-color:var(--green);color:var(--green)}
   var CATS=["Dry","Chiller","Frozen"];
   var ST={tobuy:"To buy",ordered:"Ordered",received:"Received"};
   var PRI={urgent:"Urgent",normal:"Normal",low:"Low"};
-  var KEY="vesselPurchasing.v1", SESS_KEY="vesselSession.v1", DRAFT_KEY="vesselUsersDraft.v1";
+  var KEY="vesselPurchasing.v1", SESS_KEY="vesselSession.v1", DRAFT_KEY="vesselUsersDraft.v1", LOCK_KEY="vesselLock.v1", ASKED_KEY="vesselLockAsked.v1";
+  var PIN_RE=/^\d{6}$/, LOCK_AFTER=120000;
   var $=function(s){return document.querySelector(s)};
   var now=function(){return Date.now()};
   var uid=function(){return Math.random().toString(36).slice(2,9)+now().toString(36)};
@@ -332,6 +372,7 @@ select.st.received{border-color:var(--green);color:var(--green)}
   var hadSaved=false, touched=false;
   var state=load();
   var sess=loadSess(), draft=null, siteUsers=null;
+  var lock=loadLock(), locked=false, hiddenAt=0;
   var sync={busy:false,queued:false,timer:null,retry:null,last:0,probing:false};
   var editingId=null, vesselMode="add", pendingOk=null;
   ensureActive();
@@ -492,7 +533,7 @@ select.st.received{border-color:var(--green);color:var(--green)}
       setStatus("err","Offline. Saved on this device.");
       clearTimeout(sync.retry); sync.retry=setTimeout(syncNow,30000);
     }else if(e.status===401&&!sync.probing){
-      endSession(sess&&sess.role==="admin"?"GitHub rejected the token. Open Admin setup and paste a new one.":"Your access has ended. Ask the admin for a new password.");
+      endSession(sess&&sess.role==="admin"?"GitHub rejected the token. Open Admin setup and paste a new one.":"Your access has ended. Ask the admin for a new PIN.");
     }else{
       setStatus("err",e.message||"Sync problem. Tap to retry.");
     }
@@ -533,7 +574,7 @@ select.st.received{border-color:var(--green);color:var(--green)}
     $("#who").textContent=sess?("Signed in as "+sess.id):"Not signed in";
     var admin=!!(sess&&sess.role==="admin");
     $("#usersBtn").hidden=!admin; $("#adminBtn").hidden=!admin;
-    $("#signoutBtn").hidden=!sess;
+    $("#signoutBtn").hidden=!sess; $("#lockBtn").hidden=!sess;
   }
   function showLogin(msg){
     var e=$("#l-err"); e.textContent=msg||""; e.hidden=!msg;
@@ -544,7 +585,8 @@ select.st.received{border-color:var(--green);color:var(--green)}
   }
   function endSession(msg){
     sess=null; saveSess(); clearTimeout(sync.timer); clearTimeout(sync.retry);
-    hide($("#usersModal")); hide($("#adminModal")); updateWho(); showLogin(msg);
+    lock=null; saveLock(); locked=false;
+    hide($("#usersModal")); hide($("#adminModal")); hide($("#fpModal")); hide($("#lockModal")); updateWho(); showLogin(msg);
   }
 
   /* The GitHub token is locked with each person's password (PBKDF2 + AES-GCM) and stored in users.json.
@@ -568,7 +610,20 @@ select.st.received{border-color:var(--green);color:var(--green)}
       return new TextDecoder().decode(pt);
     }catch(e){ return null; }
   }
+  /* The public app repository (where users.json lives) is worked out from the page address on github.io. */
+  function appRepoGuess(){
+    var h=location.hostname; if(!/\.github\.io$/i.test(h)) return "";
+    var owner=h.split(".")[0], seg=location.pathname.split("/")[1];
+    return owner+"/"+((seg&&seg.indexOf(".")<0)?seg:h);
+  }
   async function fetchUsersFile(){
+    var repo=(sess&&sess.pub&&sess.pub.repo)||appRepoGuess();
+    if(repo){      // straight from the app repository, so a new user works at once and there is no wait for GitHub Pages
+      try{
+        var r0=await fetch("https://api.github.com/repos/"+repo+"/contents/users.json?_="+now(),{headers:{"Accept":"application/vnd.github.raw+json"},cache:"no-store"});
+        if(r0.ok){ var j0=JSON.parse(await r0.text()); if(j0&&Array.isArray(j0.users)) return j0; }
+      }catch(e){}
+    }
     var r;
     try{ r=await fetch("users.json?_="+now(),{cache:"no-store"}); }
     catch(e){ throw mkErr("Could not load the sign-in list. Check the internet connection.",0,true); }
@@ -577,10 +632,25 @@ select.st.received{border-color:var(--green);color:var(--green)}
     try{ return await r.json(); }catch(e){ throw mkErr("The sign-in list (users.json) is not valid."); }
   }
 
+  /* A local check of the PIN, used by the lock screen. It never leaves this device. */
+  async function pinBits(pin,salt){
+    var km=await crypto.subtle.importKey("raw",new TextEncoder().encode(pin),"PBKDF2",false,["deriveBits"]);
+    return new Uint8Array(await crypto.subtle.deriveBits({name:"PBKDF2",salt:salt,iterations:200000,hash:"SHA-256"},km,256));
+  }
+  async function makePv(pin){ var s=crypto.getRandomValues(new Uint8Array(16)); return {s:bytesToB64(s),h:bytesToB64(await pinBits(pin,s))}; }
+  async function verifyPin(pin){
+    if(!sess||!sess.pv) return false;
+    var h=await pinBits(pin,b64ToBytes(sess.pv.s)), want=b64ToBytes(sess.pv.h), d=0;
+    if(h.length!==want.length) return false;
+    for(var i=0;i<h.length;i++) d|=h[i]^want[i];
+    return d===0;
+  }
+
   async function doLogin(){
     var id=$("#l-id").value.trim().toLowerCase(), pw=$("#l-pw").value.trim(), e=$("#l-err");
     e.hidden=true;
-    if(!id||!pw){ e.textContent="Enter your ID and password."; e.hidden=false; return; }
+    if(!id||!pw){ e.textContent="Enter your ID and 6-digit PIN."; e.hidden=false; return; }
+    if(!PIN_RE.test(pw)){ e.textContent="The PIN is 6 digits."; e.hidden=false; return; }
     var btn=$("#l-go"); btn.disabled=true; btn.textContent="Signing in...";
     try{
       if(!(window.crypto&&crypto.subtle)) throw mkErr("Signing in needs a secure page (https).");
@@ -590,45 +660,148 @@ select.st.received{border-color:var(--green);color:var(--green)}
       var entry=reg.users.filter(function(u){return u.id===id})[0], token=null;
       if(entry) token=await unlockToken(entry,pw,iter);
       else await deriveKey(pw,new Uint8Array(16),iter);       // same waiting time either way
-      if(!token) throw mkErr("Wrong ID or password.");
-      sess={id:id,role:"user",cfg:{repo:reg.data.repo,branch:reg.data.branch||"main",path:reg.data.path||"data.json",token:token}};
-      saveSess(); $("#l-pw").value=""; hide($("#loginModal")); updateWho(); renderAll(); syncNow();
+      if(!token) throw mkErr("Wrong ID or PIN.");
+      lock=null; saveLock(); locked=false;
+      sess={id:id,role:"user",cfg:{repo:reg.data.repo,branch:reg.data.branch||"main",path:reg.data.path||"data.json",token:token},pv:await makePv(pw)};
+      saveSess(); $("#l-pw").value=""; hide($("#loginModal")); updateWho(); renderAll(); syncNow(); offerLock();
     }catch(err){
       e.textContent=err.message; e.hidden=false; btn.disabled=false; btn.textContent="Sign in";
     }
   }
+  function wipeDevice(msg){
+    sess=null; saveSess(); lock=null; saveLock(); locked=false;
+    try{ localStorage.removeItem(KEY); }catch(e){}
+    clearTimeout(sync.timer); clearTimeout(sync.retry);
+    state=fix({vessels:[{id:"vessel-1",name:"Vessel 1",items:[],updated:0}]}); ensureActive();
+    hide($("#lockModal")); $("#l-id").value=""; updateWho(); renderAll(); showLogin(msg);
+  }
   async function signOutFlow(){
     var err=await syncNow();
     var admin=sess&&sess.role==="admin";
-    ask("Sign out?",err?"The latest changes could not be sent to GitHub, and will be lost from this device if you sign out.":(admin?"You will need to open Admin setup and paste the token again to use this device.":"You will need your ID and password to sign in again."),"Sign out",function(){
-      sess=null; saveSess(); try{ localStorage.removeItem(KEY); }catch(e){}
-      clearTimeout(sync.timer); clearTimeout(sync.retry);
-      state=fix({vessels:[{id:"vessel-1",name:"Vessel 1",items:[],updated:0}]}); ensureActive();
-      $("#l-id").value=""; updateWho(); renderAll(); showLogin();
-    },true);
+    ask("Sign out?",err?"The latest changes could not be sent to GitHub, and will be lost from this device if you sign out.":(admin?"You will need to open Admin setup and paste the tokens again to use this device.":"You will need your ID and PIN to sign in again."),"Sign out",function(){ wipeDevice(); },true);
   }
 
+  /* ---------- Lock: fingerprint or 6-digit PIN ---------- */
+  function loadLock(){ try{ var x=JSON.parse(localStorage.getItem(LOCK_KEY)); if(x&&x.on) return x; }catch(e){} return null; }
+  function saveLock(){ try{ if(lock) localStorage.setItem(LOCK_KEY,JSON.stringify(lock)); else localStorage.removeItem(LOCK_KEY); }catch(e){} }
+  function rnd(n){ return crypto.getRandomValues(new Uint8Array(n)); }
+  async function fpSupported(){
+    try{ return !!(window.PublicKeyCredential&&PublicKeyCredential.isUserVerifyingPlatformAuthenticatorAvailable&&await PublicKeyCredential.isUserVerifyingPlatformAuthenticatorAvailable()); }
+    catch(e){ return false; }
+  }
+  async function fpCreate(name){
+    var cred=await navigator.credentials.create({publicKey:{
+      challenge:rnd(32), rp:{name:"Purchasing list"}, user:{id:rnd(16),name:name,displayName:name},
+      pubKeyCredParams:[{type:"public-key",alg:-7},{type:"public-key",alg:-257}],
+      authenticatorSelection:{authenticatorAttachment:"platform",userVerification:"required",residentKey:"discouraged"},
+      timeout:60000, attestation:"none"}});
+    return bytesToB64(new Uint8Array(cred.rawId));
+  }
+  async function fpAsk(cid){
+    await navigator.credentials.get({publicKey:{challenge:rnd(32),allowCredentials:[{type:"public-key",id:b64ToBytes(cid),transports:["internal"]}],userVerification:"required",timeout:60000}});
+  }
+  /* Turns the lock on. Returns true when the fingerprint was set up too, false when the lock uses the PIN only. */
+  async function enableLock(){
+    var cid="";
+    if(await fpSupported()){ try{ cid=await fpCreate(sess.id); }catch(e){ cid=""; } }
+    lock={on:true,cid:cid,fails:0}; saveLock(); locked=false;
+    return !!cid;
+  }
+  async function offerLock(){
+    try{
+      if(localStorage.getItem(ASKED_KEY)||!(await fpSupported())) return;
+      localStorage.setItem(ASKED_KEY,"1");
+    }catch(e){ return; }
+    ask("Use your fingerprint?","Open the app with your fingerprint or PIN on this device. It asks again when the app has been in the background for a couple of minutes.","Turn on",async function(){
+      var fp=await enableLock();
+      ask("Lock is on",fp?"Next time, use your fingerprint or your PIN to open the app.":"The fingerprint could not be set up, so the app will ask for your PIN.","Got it");
+    },false,"Not now");
+  }
+  function showLock(){
+    if(!sess||!lock||!sess.pv){ if(lock){ lock=null; saveLock(); } return; }
+    locked=true; $("#k-pin").value=""; $("#k-err").hidden=true; $("#k-fp").hidden=!lock.cid;
+    show($("#lockModal"));
+    if(lock.cid) setTimeout(function(){ unlockFp(true); },250); else setTimeout(function(){ $("#k-pin").focus(); },0);
+  }
+  async function unlockFp(auto){
+    try{ await fpAsk(lock.cid); unlockApp(); }
+    catch(e){ if(!auto){ var er=$("#k-err"); er.textContent="The fingerprint was not accepted. Enter your PIN instead."; er.hidden=false; } $("#k-pin").focus(); }
+  }
+  async function unlockPin(){
+    var pin=$("#k-pin").value.trim(), er=$("#k-err");
+    if(!PIN_RE.test(pin)){ er.textContent="The PIN is 6 digits."; er.hidden=false; return; }
+    if(await verifyPin(pin)){ unlockApp(); return; }
+    lock.fails=(lock.fails||0)+1; saveLock(); $("#k-pin").value="";
+    if(lock.fails>=5){ wipeDevice("Too many wrong PINs. You were signed out of this device."); return; }
+    er.textContent="Wrong PIN. "+(5-lock.fails)+(lock.fails===4?" try left.":" tries left."); er.hidden=false;
+  }
+  function unlockApp(){ locked=false; if(lock){ lock.fails=0; saveLock(); } hide($("#lockModal")); }
+  async function openLock(){
+    var on=!!lock, fp=await fpSupported(), needNew=!(sess&&sess.pv);
+    $("#f-err").hidden=true; $("#f-pin").value=""; $("#f-pin2").value="";
+    $("#f-title").textContent=on?"Lock is on":"Lock this device";
+    $("#f-off").hidden=!on; $("#f-on").hidden=on; $("#f-fields").hidden=on;
+    $("#f-pin2wrap").hidden=!needNew;
+    $("#f-pinlabel").textContent=needNew?"Choose a 6-digit PIN for this device":"Your 6-digit PIN";
+    $("#f-hint").textContent=on
+      ?"The app asks for "+(lock.cid?"your fingerprint or PIN":"your PIN")+" when it is opened, and again after it has been in the background for 2 minutes. After 5 wrong PINs this device is signed out."
+      :(fp?"Ask for your fingerprint or 6-digit PIN whenever the app is opened.":"This device has no fingerprint reader available to the app, so the lock will ask for a 6-digit PIN.");
+    show($("#fpModal")); if(!on) setTimeout(function(){ $("#f-pin").focus(); },0);
+  }
+  async function turnLockOn(){
+    var pin=$("#f-pin").value.trim(), er=$("#f-err"); er.hidden=true;
+    if(!PIN_RE.test(pin)){ er.textContent="The PIN is 6 digits."; er.hidden=false; return; }
+    if(sess.pv){ if(!(await verifyPin(pin))){ er.textContent="That is not your PIN."; er.hidden=false; return; } }
+    else{
+      if(pin!==$("#f-pin2").value.trim()){ er.textContent="The two PINs do not match."; er.hidden=false; return; }
+      sess.pv=await makePv(pin); saveSess();
+    }
+    var fp=await enableLock();
+    hide($("#fpModal"));
+    ask("Lock is on",fp?"Next time, use your fingerprint or your PIN to open the app.":"The app will ask for your PIN when it is opened.","Got it");
+  }
+  function turnLockOff(){ lock=null; saveLock(); hide($("#fpModal")); }
+
   /* ---------- Admin setup ---------- */
+  function cleanRepo(v){ return String(v||"").trim().replace(/^https?:\/\/github\.com\//i,"").replace(/\.git$/i,"").replace(/\/+$/,""); }
   function openAdmin(){
-    var isAdmin=!!(sess&&sess.role==="admin"), c=isAdmin?sess.cfg:{repo:"",branch:"main",path:"data.json"};
+    var isAdmin=!!(sess&&sess.role==="admin"), c=isAdmin?sess.cfg:{repo:"",branch:"main",path:"data.json"}, pub=isAdmin&&sess.pub?sess.pub:null;
     $("#a-repo").value=c.repo||""; $("#a-branch").value=c.branch||"main"; $("#a-path").value=c.path||"data.json"; $("#a-token").value="";
-    $("#a-tokhint").textContent=isAdmin?"A token is saved on this device. Leave this empty to keep it. If you replace it, give each user a new password (Users, then Reset password) so they get the new token.":"Use a fine-grained token limited to the data repository, with Contents: Read and write.";
+    $("#a-tokhint").textContent=isAdmin?"A token is saved on this device. Leave this empty to keep it. If you replace it, give each user a new PIN (Users, then Reset PIN) so they get the new token.":"A fine-grained token limited to the private data repository, with Contents: Read and write.";
+    $("#a-apprepo").value=pub?pub.repo:appRepoGuess(); $("#a-apptoken").value="";
+    $("#a-apptokhint").textContent=pub?"An app token is saved on this device. Leave this empty to keep it. Clear the app repository above to stop publishing automatically.":"A second fine-grained token limited to the public app repository, with Contents: Read and write. With it, a new user can sign in the moment you save them and there is no file to upload. Leave empty to upload users.json by hand.";
     $("#a-err").hidden=true; $("#a-save").disabled=false; $("#a-save").textContent="Save and connect";
     show($("#adminModal")); setTimeout(function(){ $("#a-repo").focus(); },0);
   }
   function adminError(m){ var e=$("#a-err"); e.textContent=m; e.hidden=false; }
+  async function checkPub(pub){
+    var r=await gh("https://api.github.com/repos/"+pub.repo,{headers:ghHeaders(pub),cache:"no-store"});
+    if(r.status===401) throw mkErr("The app token was rejected. It may be wrong or expired.");
+    if(r.status===404) throw mkErr("App repository not found, or the app token cannot see it.");
+    if(!r.ok) throw mkErr("GitHub returned an error ("+r.status+") for the app repository.");
+    var j=await r.json();
+    if(j.permissions&&j.permissions.push===false) throw mkErr("The app token can only read the app repository. It needs Contents: Read and write.");
+  }
   async function saveAdmin(){
-    var repo=$("#a-repo").value.trim().replace(/^https?:\/\/github\.com\//i,"").replace(/\.git$/i,"").replace(/\/+$/,"");
+    var repo=cleanRepo($("#a-repo").value);
     var branch=$("#a-branch").value.trim()||"main";
     var path=($("#a-path").value.trim()||"data.json").replace(/^\/+/,"");
-    var token=$("#a-token").value.trim()||((sess&&sess.role==="admin")?sess.cfg.token:"");
+    var prev=sess, prevAdmin=!!(prev&&prev.role==="admin");
+    var token=$("#a-token").value.trim()||(prevAdmin?prev.cfg.token:"");
+    var appRepo=cleanRepo($("#a-apprepo").value), appTok=$("#a-apptoken").value.trim()||((prevAdmin&&prev.pub&&appRepo)?prev.pub.token:"");
     $("#a-err").hidden=true;
-    if(!/^[\w.-]+\/[\w.-]+$/.test(repo)){ adminError("Enter the repository as owner/name, for example mycompany/vessel-data."); return; }
-    if(!token){ adminError("Paste the access token."); return; }
+    if(!/^[\w.-]+\/[\w.-]+$/.test(repo)){ adminError("Enter the data repository as owner/name, for example mycompany/vessel-data."); return; }
+    if(!token){ adminError("Paste the data token."); return; }
+    if(appRepo&&!/^[\w.-]+\/[\w.-]+$/.test(appRepo)){ adminError("Enter the app repository as owner/name, for example mycompany/vessel-app."); return; }
+    var pub=(appRepo&&appTok)?{repo:appRepo,token:appTok}:null;
     var btn=$("#a-save"); btn.disabled=true; btn.textContent="Connecting...";
+    try{ if(pub) await checkPub(pub); }
+    catch(e){ btn.disabled=false; btn.textContent="Save and connect"; adminError(e.message); return; }
     while(sync.busy) await sleep(100);
-    var prev=sess;
+    var tokenChanged=prevAdmin&&prev.cfg.token!==token;
     sess={id:"admin",role:"admin",cfg:{repo:repo,branch:branch,path:path,token:token}};
+    if(pub) sess.pub=pub;
+    if(prevAdmin&&prev.pv) sess.pv=prev.pv;
     sync.probing=true;
     var err=await syncNow();
     sync.probing=false;
@@ -637,17 +810,18 @@ select.st.received{border-color:var(--green);color:var(--green)}
       if(prev) syncNow(); else setStatus("off","Not signed in");
       return;
     }
+    if(!prevAdmin){ lock=null; saveLock(); locked=false; }
     saveSess(); hide($("#adminModal")); hide($("#loginModal")); updateWho(); renderAll();
-    if(draft){ draft=null; }
+    draft=null;
+    if(tokenChanged) ask("Data token changed","People who signed in before will be signed out. Open Users, tap Reset PIN for each person, and give them their new PIN.","Got it");
   }
 
   /* ---------- Users (admin) ---------- */
   function usersError(m){ var e=$("#u-err"); e.textContent=m||""; e.hidden=!m; $("#u-msg").hidden=true; }
   function usersOk(m){ var e=$("#u-msg"); e.textContent=m; e.hidden=false; $("#u-err").hidden=true; }
   function genPassword(){
-    var chars="abcdefghjkmnpqrstuvwxyzABCDEFGHJKMNPQRSTUVWXYZ23456789", a=new Uint32Array(12), out="";
-    crypto.getRandomValues(a);
-    for(var i=0;i<a.length;i++) out+=chars[a[i]%chars.length];
+    var out="";
+    while(out.length<6){ var a=new Uint8Array(12); crypto.getRandomValues(a); for(var i=0;i<a.length&&out.length<6;i++) if(a[i]<250) out+=String(a[i]%10); }
     return out;
   }
   function loadDraft(){ try{ var d=JSON.parse(localStorage.getItem(DRAFT_KEY)); if(d&&Array.isArray(d.users)) return d; }catch(e){} return null; }
@@ -671,18 +845,18 @@ select.st.received{border-color:var(--green);color:var(--green)}
     var list=draft.users.slice().sort(byId);
     $("#u-list").innerHTML=list.length?list.map(function(u){
       return '<div class="urow"><span class="uid">'+esc(u.id)+'</span><span class="ua">'+
-        '<button type="button" class="linkbtn" data-act="user-reset" data-id="'+esc(u.id)+'">Reset password</button>'+
+        '<button type="button" class="linkbtn" data-act="user-reset" data-id="'+esc(u.id)+'">Reset PIN</button>'+
         '<button type="button" class="linkbtn del" data-act="user-remove" data-id="'+esc(u.id)+'">Remove</button></span></div>';
     }).join(""):'<p class="hint">No users yet. Add the first one below.</p>';
-    var dirty=usersDirty(), box=$("#u-pub");
+    var dirty=usersDirty(), box=$("#u-pub"), auto=!!(sess&&sess.pub);
     if(!dirty&&!list.length){ box.hidden=true; box.innerHTML=""; return; }
     box.hidden=false; box.className="pub"+(dirty?" dirty":"");
+    var manual='<button type="button" class="btn" data-act="user-download">Download users.json</button><button type="button" class="btn" data-act="user-copy">Copy as text</button>';
     box.innerHTML=(dirty
-      ?'<p><b>Not published yet.</b> Download users.json and upload it to your app repository on GitHub, replacing the old file. People can use the new list about a minute after you upload.</p>'
+      ?(auto?'<p><b>Not published yet.</b> Tap Publish now so everyone can use the new list.</p>'
+             :'<p><b>Not published yet.</b> Download users.json and upload it to your app repository on GitHub, replacing the old file. People can use the new list about a minute after you upload. (Add an app token in Settings and the app publishes for you.)</p>')
       :'<p><b>Published.</b> The list on the site matches this one.</p>')+
-      '<div class="pubbtns"><button type="button" class="btn" data-act="user-download">Download users.json</button>'+
-      '<button type="button" class="btn" data-act="user-copy">Copy as text</button>'+
-      (dirty?'<button type="button" class="linkbtn" data-act="user-discard">Discard changes</button>':'')+'</div>';
+      '<div class="pubbtns">'+(dirty&&auto?'<button type="button" class="btn primary" data-act="user-publish">Publish now</button>':'')+(auto&&!dirty?'':manual)+(dirty?'<button type="button" class="linkbtn" data-act="user-discard">Discard changes</button>':'')+'</div>';
   }
   async function openUsers(){
     usersError(""); $("#u-msg").hidden=true; $("#u-json").hidden=true; $("#u-id").value=""; $("#u-pw").value="";
@@ -692,10 +866,34 @@ select.st.received{border-color:var(--green);color:var(--green)}
     if(!draft) draft=draftFromSite();
     saveDraft(); renderUsers();
   }
+  async function publishUsers(){
+    var p=sess.pub, text=exportText(), url="https://api.github.com/repos/"+p.repo+"/contents/users.json";
+    function perr(r){
+      if(r.status===401) return mkErr("The app token was rejected. Paste a new one in Settings.",401);
+      if(r.status===403) return mkErr("The app token needs Contents: Read and write on the app repository.",403);
+      if(r.status===404) return mkErr("App repository not found, or the token cannot see it.",404);
+      return mkErr("GitHub returned an error ("+r.status+").",r.status);
+    }
+    for(var attempt=0;attempt<3;attempt++){
+      var sha=null, r=await gh(url,{headers:ghHeaders(p),cache:"no-store"});
+      if(r.status===200){ sha=(await r.json()).sha; } else if(r.status!==404) throw perr(r);
+      var body={message:"Update sign-in list",content:b64enc(text)}; if(sha) body.sha=sha;
+      var w=await gh(url,{method:"PUT",headers:ghHeaders(p,{"Content-Type":"application/json"}),body:JSON.stringify(body)});
+      if(w.status===409||w.status===422) continue;
+      if(!w.ok) throw perr(w);
+      siteUsers=JSON.parse(text); return;
+    }
+    throw mkErr("Could not publish the list. Tap Publish now to try again.");
+  }
+  async function autoPublish(text,removal){
+    if(!(sess&&sess.pub)){ usersOk(text+" Publish users.json below to finish."); return; }
+    try{ await publishUsers(); renderUsers(); usersOk(text+(removal?" They can no longer sign in.":" They can sign in now.")); }
+    catch(e){ renderUsers(); usersError("Saved on this device, but publishing failed: "+e.message); }
+  }
   async function saveUserForm(){
     var id=$("#u-id").value.trim().toLowerCase(), pw=$("#u-pw").value.trim();
     if(!/^[a-z0-9][a-z0-9._-]{1,31}$/.test(id)){ usersError("The ID must be 2 to 32 letters, numbers, dots, dashes or underscores."); return; }
-    if(pw.length<10){ usersError("Use at least 10 characters. Tap \"Make a random password\" for a strong one."); return; }
+    if(!PIN_RE.test(pw)){ usersError("The PIN must be exactly 6 digits. Tap \"Make a random PIN\" if you like."); return; }
     var btn=$("#u-save"); btn.disabled=true;
     try{
       var entry=await lockToken(sess.cfg.token,pw,draft.iterations||ITER); entry.id=id;
@@ -703,7 +901,7 @@ select.st.received{border-color:var(--green);color:var(--green)}
       draft.users=draft.users.filter(function(u){return u.id!==id}); draft.users.push(entry); saveDraft();
       $("#u-id").value=""; $("#u-pw").value=""; $("#u-json").hidden=true;
       renderUsers();
-      usersOk((existed?"Password changed. ":"User added. ")+"Give them this ID and password:  "+id+"  /  "+pw+"   Then publish users.json below.");
+      await autoPublish((existed?"PIN changed. ":"User added. ")+"Give them this ID and PIN:  "+id+"  /  "+pw+".");
     }catch(e){ usersError("Could not save the user."); }
     btn.disabled=false;
   }
@@ -721,10 +919,10 @@ select.st.received{border-color:var(--green);color:var(--green)}
   /* ---------- Pop-up helpers ---------- */
   function show(m){ m.hidden=false; document.body.style.overflow="hidden"; }
   function hide(m){ m.hidden=true; if(m.id==="confirmModal") pendingOk=null; if(!document.querySelector(".modal:not([hidden])")) document.body.style.overflow=""; }
-  function ask(title,text,okLabel,onOk,danger){
+  function ask(title,text,okLabel,onOk,danger,cancelLabel){
     $("#c-title").textContent=title; $("#c-text").textContent=text;
     var ok=$("#c-ok"); ok.textContent=okLabel; ok.className="btn "+(danger?"danger":"primary");
-    $("#c-cancel").hidden=!onOk; pendingOk=onOk||null;
+    $("#c-cancel").hidden=!onOk; $("#c-cancel").textContent=cancelLabel||"Cancel"; pendingOk=onOk||null;
     show($("#confirmModal")); ok.focus();
   }
 
@@ -871,12 +1069,19 @@ select.st.received{border-color:var(--green);color:var(--green)}
       case "user-reset": $("#u-id").value=b.dataset.id; $("#u-pw").value=genPassword(); usersError(""); $("#u-msg").hidden=true; $("#u-pw").focus(); break;
       case "user-remove": {
         var rid=b.dataset.id;
-        ask("Remove "+rid+"?","They can no longer sign in once you publish the new users.json. Items they added stay on the list. If they already signed in on a phone, that phone keeps working until you replace the GitHub token.","Remove user",function(){
-          draft.users=draft.users.filter(function(u){return u.id!==rid}); saveDraft(); renderUsers(); usersOk(rid+" was removed. Publish users.json below to finish.");
+        ask("Remove "+rid+"?","They can no longer sign in once the new list is published. Items they added stay on the list. If they already signed in on a phone, that phone keeps working until you replace the data token.","Remove user",function(){
+          draft.users=draft.users.filter(function(u){return u.id!==rid}); saveDraft(); renderUsers(); autoPublish(rid+" was removed.",true);
         },true);
         break; }
       case "user-download": downloadUsers(); break;
       case "user-copy": copyUsers(); break;
+      case "user-publish": (async function(){ try{ await publishUsers(); renderUsers(); usersOk("Published. Everyone on the list can sign in now."); }catch(er){ usersError(er.message); } })(); break;
+      case "open-lock": openLock(); break;
+      case "lock-on": turnLockOn(); break;
+      case "lock-off": turnLockOff(); break;
+      case "unlock-fp": unlockFp(false); break;
+      case "unlock-pin": unlockPin(); break;
+      case "lock-signout": ask("Sign out of this device?","Changes that have not reached GitHub yet will be lost from this device.","Sign out",function(){ wipeDevice(); },true); break;
       case "user-discard": draft=draftFromSite(); saveDraft(); renderUsers(); usersOk("Changes discarded."); break;
     }
   });
@@ -900,18 +1105,27 @@ select.st.received{border-color:var(--green);color:var(--green)}
       else if(e.target.closest("#loginModal")){ e.preventDefault(); doLogin(); }
       else if(e.target.closest("#usersModal")){ e.preventDefault(); saveUserForm(); }
       else if(e.target.closest("#adminModal")){ e.preventDefault(); saveAdmin(); }
+      else if(e.target.closest("#lockModal")){ e.preventDefault(); unlockPin(); }
+      else if(e.target.closest("#fpModal")){ e.preventDefault(); turnLockOn(); }
     }
   });
   Array.prototype.forEach.call(document.querySelectorAll(".modal"),function(m){
     m.addEventListener("mousedown",function(e){ if(e.target===m&&!m.classList.contains("locked")) hide(m); });
   });
+  ["#l-pw","#k-pin","#f-pin","#f-pin2","#u-pw"].forEach(function(sel){
+    $(sel).addEventListener("input",function(){ var v=this.value.replace(/\D/g,"").slice(0,6); if(v!==this.value) this.value=v; });
+  });
+  $("#k-pin").addEventListener("input",function(){ if(this.value.length===6) unlockPin(); });
   document.addEventListener("visibilitychange",function(){
-    if(!document.hidden&&sess&&now()-sync.last>15000) syncNow();
+    if(document.hidden){ hiddenAt=now(); return; }
+    if(sess&&lock&&!locked&&hiddenAt&&now()-hiddenAt>LOCK_AFTER) showLock();
+    if(sess&&now()-sync.last>15000) syncNow();
   });
   window.addEventListener("online",function(){ if(sess) syncNow(); });
 
   /* ---------- Start ---------- */
   renderAll(); updateWho();
+  if(sess&&lock) showLock();
   if(sess){ setStatus("busy","Syncing..."); syncNow(); } else showLogin();
 
   /* Offline support (only when served over http/https) */
