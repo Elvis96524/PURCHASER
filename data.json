@@ -239,29 +239,13 @@
       "items": [
         {
           "id": "fep18zymuaxd8u6",
-          "added": 1789975787262,
-          "name": "Plain yogurt 470ml",
-          "no": "",
-          "qty": 3,
-          "unit": "cup",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1789976456980
+          "deleted": true,
+          "updated": 1789976852076
         },
         {
           "id": "2num3cnmuaxgn64",
-          "added": 1789975945804,
-          "name": "Santan Kara 200ml",
-          "no": "",
-          "qty": 12,
-          "unit": "PKT",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1789975945804
+          "deleted": true,
+          "updated": 1789976853860
         },
         {
           "id": "t5t2af8muaxhi8s",
