@@ -51,6 +51,8 @@ button{cursor:pointer}
 .vbtn .n.zero{background:transparent;color:var(--side-muted);font-weight:400}
 .addv{margin:12px 22px 14px;background:transparent;border:1.5px dashed var(--side-muted);color:var(--side-ink);border-radius:8px;padding:9px 12px;font-weight:600}
 .addv:hover{border-color:var(--buoy);color:var(--buoy)}
+.vtoggle{display:none}
+.vpanel{display:contents}
 .sync{padding:14px 22px 0;border-top:1px solid var(--side-line);display:grid;gap:10px}
 .syncstat{display:flex;align-items:center;gap:9px;background:none;border:0;padding:0;color:var(--side-ink);font-size:.86rem;text-align:left}
 .dot{width:10px;height:10px;border-radius:50%;flex:none;background:var(--side-muted)}
@@ -148,14 +150,28 @@ select.st.received{border-color:var(--green);color:var(--green)}
 #confirmModal{z-index:95}
 .btn.block{width:100%;padding:11px 14px}
 
+.btn.outline-danger{border-color:var(--red);color:var(--red)}
+.btn.outline-danger:hover{background:var(--red);color:#fff}
+.sbar{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:6px 16px;padding:11px 14px;border-bottom:1px solid var(--line);background:var(--row-hover);font-weight:600}
+.sbar .linkbtn{font-weight:400}
+.vcell .linkbtn{color:var(--ink);font-weight:600}
+.vcell .linkbtn:hover{color:var(--blue)}
+
 /* Small screens */
 @media (max-width:860px){
   .app{grid-template-columns:1fr}
   .side{position:static;height:auto;padding-bottom:0}
-  .vlist{display:flex;overflow-x:auto;flex:none}
-  .vbtn{border-left:0;border-bottom:4px solid transparent;white-space:nowrap;padding:10px 16px}
-  .vbtn[aria-current="true"]{border-bottom-color:var(--buoy)}
-  .addv{margin:10px 22px 12px}
+  .vtoggle{display:flex;align-items:center;gap:10px;width:calc(100% - 44px);margin:0 22px 12px;padding:11px 14px;background:rgba(255,255,255,.08);border:1.5px solid var(--side-line);border-radius:10px;color:var(--side-ink);text-align:left}
+  .vtoggle:hover{background:rgba(255,255,255,.13)}
+  .vt-label{color:var(--side-muted);font-size:.85rem}
+  .vt-name{flex:1;min-width:0;font-weight:700;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .chev{flex:none;width:9px;height:9px;border-right:2.5px solid currentColor;border-bottom:2.5px solid currentColor;transform:rotate(45deg);margin:-4px 4px 0 0;transition:transform .15s}
+  .vtoggle[aria-expanded="true"] .chev{transform:rotate(225deg);margin-top:4px}
+  .vpanel{display:none;margin:0 22px 12px;background:rgba(255,255,255,.05);border:1px solid var(--side-line);border-radius:10px;max-height:60vh;overflow-y:auto}
+  .vpanel.open{display:block}
+  .vlist{display:block}
+  .vbtn{padding:12px 16px 12px 12px}
+  .addv{display:block;width:calc(100% - 24px);margin:10px 12px 12px}
   .sync{border-top:0;padding:0 22px 14px}
   table,thead,tbody,tr,td{display:block}
   thead{position:absolute;left:-9999px}
@@ -177,8 +193,11 @@ select.st.received{border-color:var(--green);color:var(--green)}
 <div class="app">
   <aside class="side" aria-label="Vessels">
     <div class="brand">Purchasing list<small>One list for each vessel</small></div>
-    <ul class="vlist" id="vlist"></ul>
-    <button type="button" class="addv" data-act="add-vessel">Add vessel</button>
+    <button type="button" class="vtoggle" id="vtoggle" data-act="toggle-vessels" aria-expanded="false" aria-controls="vpanel"><span class="vt-label">Vessel</span><span class="vt-name" id="vtoggleName"></span><span class="chev" aria-hidden="true"></span></button>
+    <div class="vpanel" id="vpanel">
+      <ul class="vlist" id="vlist"></ul>
+      <button type="button" class="addv" data-act="add-vessel">Add vessel</button>
+    </div>
     <div class="sync">
       <button type="button" class="syncstat" id="syncstat" data-act="sync-status"><span class="dot" id="dot"></span><span id="syncmsg">Not signed in</span></button>
       <div class="who"><span id="who"></span><span class="wl"><button type="button" class="linkbtn" id="usersBtn" data-act="open-users" hidden>Users</button><button type="button" class="linkbtn" id="adminBtn" data-act="open-admin" hidden>Settings</button><button type="button" class="linkbtn" id="lockBtn" data-act="open-lock" hidden>Lock</button><button type="button" class="linkbtn" id="signoutBtn" data-act="sign-out">Sign out</button></span></div>
@@ -195,12 +214,13 @@ select.st.received{border-color:var(--green);color:var(--green)}
         </div>
       </div>
       <div class="actions">
+        <button type="button" class="btn outline-danger" id="clearBtn" data-act="clear-list" hidden>Clear list</button>
         <button type="button" class="btn primary" data-act="add-item">Add item</button>
       </div>
     </div>
 
     <div class="filters">
-      <input type="search" id="q" placeholder="Search item no., name, notes" aria-label="Search">
+      <input type="search" id="q" placeholder="Search all vessels: item no., name, notes" aria-label="Search">
       <select id="fs" aria-label="Filter by status">
         <option value="">All statuses</option>
         <option value="tobuy">To buy</option>
@@ -374,7 +394,7 @@ select.st.received{border-color:var(--green);color:var(--green)}
   var sess=loadSess(), draft=null, siteUsers=null;
   var lock=loadLock(), locked=false, hiddenAt=0;
   var sync={busy:false,queued:false,timer:null,retry:null,last:0,probing:false};
-  var editingId=null, vesselMode="add", pendingOk=null;
+  var editingId=null, editingVid=null, vesselMode="add", pendingOk=null;
   ensureActive();
 
   /* ---------- Local data ---------- */
@@ -932,7 +952,14 @@ select.st.received{border-color:var(--green);color:var(--green)}
 
   function renderAll(){ renderSide(); renderHead(); renderTable(); }
 
+  function toggleVessels(){
+    var open=!$("#vpanel").classList.contains("open");
+    $("#vpanel").classList.toggle("open",open); $("#vtoggle").setAttribute("aria-expanded",open?"true":"false");
+  }
+  function closeVessels(){ $("#vpanel").classList.remove("open"); $("#vtoggle").setAttribute("aria-expanded","false"); }
+
   function renderSide(){
+    var cv=vessel(); $("#vtoggleName").textContent=cv?cv.name:"Vessels";
     $("#vlist").innerHTML=liveVessels().map(function(v){
       var open=liveItems(v).filter(function(i){return i.status!=="received"}).length;
       return '<li><button type="button" class="vbtn" data-act="pick" data-id="'+esc(v.id)+'" aria-current="'+(v.id===state.active)+'">'+
@@ -941,34 +968,36 @@ select.st.received{border-color:var(--green);color:var(--green)}
   }
   function renderHead(){ $("#vname").textContent=vessel().name; document.title=vessel().name+" - Purchasing list"; }
 
+  function searching(){ return !!$("#q").value.trim(); }
+  function vesselById(id){ return liveVessels().filter(function(x){return x.id===id})[0]; }
+  function rowVessel(row){ var vid=row&&row.dataset.vid; return (vid&&vesselById(vid))||vessel(); }
+
+  /* With something typed in the search box every vessel is searched; otherwise only the open vessel is listed */
   function visibleItems(){
     var q=$("#q").value.trim().toLowerCase(), fs=$("#fs").value, fc=$("#fc").value;
-    var list=liveItems(vessel()).filter(function(i){
-      return (!fs||i.status===fs)&&(!fc||i.category===fc)&&
-        (!q||[i.no,i.name,i.notes,i.category].some(function(x){return (x||"").toLowerCase().indexOf(q)>=0}));
+    var vs=q?liveVessels():[vessel()], out=[];
+    vs.forEach(function(v){
+      liveItems(v).forEach(function(i){
+        if((!fs||i.status===fs)&&(!fc||i.category===fc)&&
+           (!q||[i.no,i.name,i.notes,i.category].some(function(x){return (x||"").toLowerCase().indexOf(q)>=0}))) out.push({i:i,v:v});
+      });
     });
-    list.sort(function(a,b){
-      var x=a.no||"", y=b.no||"";
+    out.sort(function(a,b){
+      if(a.v.id!==b.v.id) return q?a.v.name.localeCompare(b.v.name):0;
+      var x=a.i.no||"", y=b.i.no||"";
       if(x&&!y) return -1;
       if(!x&&y) return 1;
-      return x.localeCompare(y,undefined,{numeric:true})||(a.added||0)-(b.added||0);
+      return x.localeCompare(y,undefined,{numeric:true})||(a.i.added||0)-(b.i.added||0);
     });
-    return list;
+    return out;
   }
 
-  function renderTable(){
-    var v=vessel(), list=visibleItems();
-    if(!liveItems(v).length){
-      $("#wrap").innerHTML='<div class="empty"><p>Nothing on the list for '+esc(v.name)+' yet.</p><button type="button" class="btn primary" data-act="add-item">Add the first item</button></div>';
-      return;
-    }
-    if(!list.length){
-      $("#wrap").innerHTML='<div class="empty"><p>No items match these filters.</p></div>';
-      return;
-    }
-    $("#wrap").innerHTML='<table><thead><tr><th>Item no.</th><th>Item</th><th>Category</th><th class="num">Quantity</th><th>Priority</th><th>Status</th><th></th></tr></thead><tbody>'+
-      list.map(function(i){
-        return '<tr data-id="'+esc(i.id)+'" class="'+(i.status==="received"?"done":"")+'">'+
+  function tableHtml(list,showVessel){
+    return '<table><thead><tr>'+(showVessel?'<th>Vessel</th>':'')+'<th>Item no.</th><th>Item</th><th>Category</th><th class="num">Quantity</th><th>Priority</th><th>Status</th><th></th></tr></thead><tbody>'+
+      list.map(function(r){
+        var i=r.i;
+        return '<tr data-id="'+esc(i.id)+'" data-vid="'+esc(r.v.id)+'" class="'+(i.status==="received"?"done":"")+'">'+
+          (showVessel?'<td data-label="Vessel" class="vcell"><button type="button" class="linkbtn" data-act="goto-vessel" data-id="'+esc(r.v.id)+'">'+esc(r.v.name)+'</button></td>':'')+
           '<td data-label="Item no." class="no">'+esc(i.no||"-")+'</td>'+
           '<td class="c-name"><div class="nm">'+esc(i.name)+'</div>'+(i.notes?'<div class="nt">'+esc(i.notes)+'</div>':"")+'</td>'+
           '<td data-label="Category">'+esc(i.category)+'</td>'+
@@ -981,10 +1010,33 @@ select.st.received{border-color:var(--green);color:var(--green)}
       }).join("")+'</tbody></table>';
   }
 
+  function renderTable(){
+    var v=vessel(), list=visibleItems(), q=searching();
+    $("#clearBtn").hidden=q||!liveItems(v).length;
+    if(q){
+      var seen={}; list.forEach(function(r){ seen[r.v.id]=1; });
+      var nv=Object.keys(seen).length;
+      var msg=list.length?(list.length+" item"+(list.length===1?"":"s")+" found in "+nv+" vessel"+(nv===1?"":"s")):"No items found in any vessel";
+      var bar='<div class="sbar"><span>'+msg+' for &ldquo;'+esc($("#q").value.trim())+'&rdquo;</span><button type="button" class="linkbtn" data-act="clear-search">Clear search</button></div>';
+      $("#wrap").innerHTML=bar+(list.length?tableHtml(list,true):"");
+      return;
+    }
+    if(!liveItems(v).length){
+      $("#wrap").innerHTML='<div class="empty"><p>Nothing on the list for '+esc(v.name)+' yet.</p><button type="button" class="btn primary" data-act="add-item">Add the first item</button></div>';
+      return;
+    }
+    if(!list.length){
+      $("#wrap").innerHTML='<div class="empty"><p>No items match these filters.</p></div>';
+      return;
+    }
+    $("#wrap").innerHTML=tableHtml(list,false);
+  }
+
   /* ---------- Item pop-up ---------- */
-  function openItem(id){
-    editingId=id||null;
-    var i=id?liveItems(vessel()).filter(function(x){return x.id===id})[0]:null;
+  function openItem(id,vid){
+    editingId=id||null; editingVid=id?(vid||vessel().id):null;
+    var ev=id?(vesselById(editingVid)||vessel()):null;
+    var i=id?liveItems(ev).filter(function(x){return x.id===id})[0]:null;
     $("#itemTitle").textContent=i?"Edit item":"Add item";
     $("#i-err").hidden=true;
     $("#i-name").value=i?i.name:"";
@@ -1005,7 +1057,7 @@ select.st.received{border-color:var(--green);color:var(--green)}
       name:name, no:$("#i-no").value.trim(), qty:Number($("#i-qty").value)||0, unit:$("#i-unit").value.trim(), category:$("#i-cat").value,
       priority:$("#i-pri").value, status:$("#i-st").value, notes:$("#i-notes").value.trim(), updated:now()
     };
-    var v=vessel();
+    var v=editingId?(vesselById(editingVid)||vessel()):vessel();
     if(editingId){
       var it=v.items.filter(function(x){return x.id===editingId})[0];
       if(it){ Object.assign(it,data); delete it.deleted; }
@@ -1032,11 +1084,13 @@ select.st.received{border-color:var(--green);color:var(--green)}
 
   /* ---------- Events ---------- */
   document.addEventListener("click",function(e){
+    if(!e.target.closest("#vpanel")&&!e.target.closest("#vtoggle")) closeVessels();
     var b=e.target.closest("[data-act]"); if(!b||b.tagName==="SELECT") return;
     var act=b.dataset.act, row=b.closest("tr"), id=row&&row.dataset.id, v=vessel();
     switch(act){
-      case "pick": state.active=b.dataset.id; saveLocal(); renderAll(); break;
-      case "add-vessel": openVessel("add"); break;
+      case "toggle-vessels": toggleVessels(); break;
+      case "pick": closeVessels(); state.active=b.dataset.id; saveLocal(); renderAll(); break;
+      case "add-vessel": closeVessels(); openVessel("add"); break;
       case "rename-vessel": openVessel("rename"); break;
       case "delete-vessel":
         if(liveVessels().length<2){ ask("Keep at least one vessel","Add another vessel first, or rename this one.","Got it"); break; }
@@ -1046,14 +1100,26 @@ select.st.received{border-color:var(--green);color:var(--green)}
         },true);
         break;
       case "add-item": openItem(null); break;
-      case "edit": openItem(id); break;
+      case "edit": openItem(id,row&&row.dataset.vid); break;
       case "del": {
-        var it=liveItems(v).filter(function(x){return x.id===id})[0];
-        if(it) ask("Delete this item?",it.name+" will be removed from "+v.name+", on every connected device.","Delete item",function(){
-          v.items=v.items.map(function(x){ return x.id===id?{id:id,deleted:true,updated:now()}:x; });
+        var rv=rowVessel(row), rvid=rv.id;
+        var it=liveItems(rv).filter(function(x){return x.id===id})[0];
+        if(it) ask("Delete this item?",it.name+" will be removed from "+rv.name+", on every connected device.","Delete item",function(){
+          var cv=vesselById(rvid); if(!cv) return;
+          cv.items=cv.items.map(function(x){ return x.id===id?{id:id,deleted:true,updated:now()}:x; });
           save(); renderAll();
         },true);
         break; }
+      case "clear-list": {
+        var cn=liveItems(v).length, cvid=v.id;
+        if(cn) ask("Clear the list for "+v.name+"?","This deletes all "+cn+" item"+(cn===1?"":"s")+" from "+v.name+", on every connected device. The vessel itself stays.","Clear list",function(){
+          var cv=vesselById(cvid); if(!cv) return;
+          cv.items=cv.items.map(function(x){ return x.deleted?x:{id:x.id,deleted:true,updated:now()}; });
+          save(); renderAll();
+        },true);
+        break; }
+      case "goto-vessel": closeVessels(); state.active=b.dataset.id; $("#q").value=""; saveLocal(); renderAll(); break;
+      case "clear-search": $("#q").value=""; renderTable(); break;
       case "save-item": saveItem(); break;
       case "save-vessel": saveVessel(); break;
       case "close-modal": hide(b.closest(".modal")); break;
@@ -1088,13 +1154,15 @@ select.st.received{border-color:var(--green);color:var(--green)}
   document.addEventListener("change",function(e){
     var s=e.target.closest('select[data-act="status"]');
     if(s){
-      var it=liveItems(vessel()).filter(function(x){return x.id===s.closest("tr").dataset.id})[0];
+      var str=s.closest("tr");
+      var it=liveItems(rowVessel(str)).filter(function(x){return x.id===str.dataset.id})[0];
       if(it){ it.status=s.value; it.updated=now(); save(); renderAll(); }
     }
   });
   ["#q","#fs","#fc"].forEach(function(sel){ $(sel).addEventListener("input",renderTable); });
   document.addEventListener("keydown",function(e){
     if(e.key==="Escape"){
+      closeVessels();
       var open=document.querySelectorAll(".modal:not([hidden]):not(.locked)");
       if(open.length) hide(open[open.length-1]);
       return;

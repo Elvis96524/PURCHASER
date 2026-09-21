@@ -1,7 +1,7 @@
 /* Vessel Purchasing List - service worker
    Keeps the app files on the device so it opens and works without a connection.
    Change CACHE_VERSION whenever you update any of the files below. */
-const CACHE_VERSION = 'v5';
+const CACHE_VERSION = 'v7';
 const CACHE = 'vessel-purchasing-' + CACHE_VERSION;
 const PAGE = './index.html';
 const ASSETS = [
