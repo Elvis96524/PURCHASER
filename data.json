@@ -30,16 +30,8 @@
         },
         {
           "id": "m4pgcp0mubrqm0w",
-          "added": 1790026799360,
-          "name": "Sardine",
-          "no": "20",
-          "qty": 10,
-          "unit": "Tin",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1790026799360
+          "deleted": true,
+          "updated": 1790026822748
         }
       ],
       "updated": 1789967459033
