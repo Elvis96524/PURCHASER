@@ -516,6 +516,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1789979537959
+        },
+        {
+          "id": "79i078cmuazmcgn",
+          "added": 1789979571095,
+          "name": "Ayam Brand Kersik 100gm ( 15pkt/Box )",
+          "no": "",
+          "qty": 1,
+          "unit": "box",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1789979571095
         }
       ],
       "updated": 1789975446012
