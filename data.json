@@ -357,16 +357,8 @@
         },
         {
           "id": "lyxkiu9muaxtupw",
-          "added": 1789976562116,
-          "name": "Burger Bun",
-          "no": "",
-          "qty": 7,
-          "unit": "PKT",
-          "category": "Frozen",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1789976562116
+          "deleted": true,
+          "updated": 1789976875268
         },
         {
           "id": "31xu16tmuaxupnz",
