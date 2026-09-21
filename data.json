@@ -98,6 +98,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1789970136226
+        },
+        {
+          "id": "7j5w80emuau3bo3",
+          "added": 1789970285523,
+          "name": "Kerepek ubi pedas",
+          "no": "147",
+          "qty": 3,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "No stock for this item .need to change",
+          "updated": 1789970285523
         }
       ],
       "updated": 1789970067430
