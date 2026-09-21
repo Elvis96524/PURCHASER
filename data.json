@@ -24,16 +24,8 @@
       "items": [
         {
           "id": "fi1lvepmuasfjry",
-          "added": 1789967496670,
-          "name": "Halia",
-          "no": "38",
-          "qty": 30,
-          "unit": "Kg",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1789967804851
+          "deleted": true,
+          "updated": 1789968689736
         }
       ],
       "updated": 1789967459033
