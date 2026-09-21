@@ -490,6 +490,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1789979440175
+        },
+        {
+          "id": "77pi30xmuazkg26",
+          "added": 1789979482446,
+          "name": "Serbuk Cukup Rasa 500gm",
+          "no": "",
+          "qty": 4,
+          "unit": "pack",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1789979482446
         }
       ],
       "updated": 1789975446012
