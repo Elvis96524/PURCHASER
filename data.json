@@ -264,16 +264,8 @@
         },
         {
           "id": "p9u0uszmuaxj8p8",
-          "added": 1789976067020,
-          "name": "Apollo Chocolate Layer",
-          "no": "",
-          "qty": 3,
-          "unit": "PKT",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1789976067020
+          "deleted": true,
+          "updated": 1789976862324
         },
         {
           "id": "z06w8h4muaxjvj0",
