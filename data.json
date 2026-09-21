@@ -53,7 +53,21 @@
     {
       "id": "xgudgwhmuatp3g5",
       "name": "Sk power (14/9)",
-      "items": [],
+      "items": [
+        {
+          "id": "wo7xmfnmuatqr9u",
+          "added": 1789969699218,
+          "name": "Wholemeal bread",
+          "no": "65",
+          "qty": 19,
+          "unit": "Loaf",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1789969699218
+        }
+      ],
       "updated": 1789969621685
     }
   ]
