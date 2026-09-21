@@ -236,7 +236,21 @@
     {
       "id": "a5z0jmwmuax5xj0",
       "name": "BELAIT PSV 2",
-      "items": [],
+      "items": [
+        {
+          "id": "fep18zymuaxd8u6",
+          "added": 1789975787262,
+          "name": "Plain yogurt 470ml",
+          "no": "",
+          "qty": 3,
+          "unit": "box",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1789975787262
+        }
+      ],
       "updated": 1789975446012
     }
   ]
