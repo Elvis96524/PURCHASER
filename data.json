@@ -568,6 +568,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1789979645271
+        },
+        {
+          "id": "w8kja1wmuazod6m",
+          "added": 1789979665342,
+          "name": "Double Decker Chicken ( 15gmx13pck )",
+          "no": "",
+          "qty": 1,
+          "unit": "pack",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1789979665342
         }
       ],
       "updated": 1789975446012
