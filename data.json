@@ -477,6 +477,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1789979416935
+        },
+        {
+          "id": "3rp291fmuazjjfz",
+          "added": 1789979440175,
+          "name": "Briyani Spices ( Masala Briyani ) 200gm",
+          "no": "",
+          "qty": 3,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1789979440175
         }
       ],
       "updated": 1789975446012
