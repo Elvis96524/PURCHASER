@@ -304,16 +304,8 @@
         },
         {
           "id": "ukm9o7cmuaxs924",
-          "added": 1789976487388,
-          "name": "Bunga Kantan",
-          "no": "",
-          "qty": 6,
-          "unit": "pcs",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1789976487388
+          "deleted": true,
+          "updated": 1789976891420
         },
         {
           "id": "lyxkiu9muaxtupw",
