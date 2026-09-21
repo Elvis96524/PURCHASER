@@ -386,6 +386,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1789979263607
+        },
+        {
+          "id": "q0hsjq5muazg573",
+          "added": 1789979281743,
+          "name": "santan Kara 200ml",
+          "no": "",
+          "qty": 12,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1789979281743
         }
       ],
       "updated": 1789975446012
