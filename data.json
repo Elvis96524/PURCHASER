@@ -118,7 +118,21 @@
     {
       "id": "jdlq7l2muau4zao",
       "name": "Sk Purpose(OCTOBER)10/9",
-      "items": [],
+      "items": [
+        {
+          "id": "zroif07muau7lu0",
+          "added": 1789970485320,
+          "name": "French salad dressing",
+          "no": "58",
+          "qty": 6,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "No stock in market",
+          "updated": 1789970485320
+        }
+      ],
       "updated": 1789970362800
     }
   ]
