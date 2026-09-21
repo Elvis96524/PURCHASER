@@ -108,9 +108,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Purchase 1pkt gula merah only",
-          "updated": 1789977664488
+          "updated": 1789977667319
         }
       ],
       "updated": 1789970067430
