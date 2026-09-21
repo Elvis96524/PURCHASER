@@ -259,16 +259,8 @@
         },
         {
           "id": "gr1j8c2muaxiqnp",
-          "added": 1789976043637,
-          "name": "Cheese Powder 200gm",
-          "no": "",
-          "qty": 1,
-          "unit": "pkt",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1789976043637
+          "deleted": true,
+          "updated": 1789976859220
         },
         {
           "id": "p9u0uszmuaxj8p8",
