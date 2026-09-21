@@ -529,6 +529,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1789979571095
+        },
+        {
+          "id": "99y1l6cmuazmq7z",
+          "added": 1789979588927,
+          "name": "Ajinomoto 300gm",
+          "no": "",
+          "qty": 10,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1789979588927
         }
       ],
       "updated": 1789975446012
