@@ -33,7 +33,21 @@
     {
       "id": "a56mxzrmuati3gd",
       "name": "Geotek(19/9)",
-      "items": [],
+      "items": [
+        {
+          "id": "ep01z0omuatn15x",
+          "added": 1789969525413,
+          "name": "Magic clean",
+          "no": "26",
+          "qty": 6,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1789969525413
+        }
+      ],
       "updated": 1789969295101
     }
   ]
