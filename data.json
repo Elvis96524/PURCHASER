@@ -243,12 +243,12 @@
           "name": "Plain yogurt 470ml",
           "no": "",
           "qty": 3,
-          "unit": "box",
+          "unit": "cup",
           "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1789975787262
+          "updated": 1789975800269
         }
       ],
       "updated": 1789975446012
