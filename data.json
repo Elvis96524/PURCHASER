@@ -287,16 +287,8 @@
         },
         {
           "id": "i59p1dgmuaxl87p",
-          "added": 1789976159701,
-          "name": "Ayam Brand Tuna in Water 150gm",
-          "no": "",
-          "qty": 5,
-          "unit": "Tin",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1789976159701
+          "deleted": true,
+          "updated": 1789976883940
         },
         {
           "id": "w4og8gumuaxotf8",
