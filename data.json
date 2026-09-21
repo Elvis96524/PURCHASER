@@ -334,6 +334,19 @@
           "id": "g6to8fpmuaxvimc",
           "deleted": true,
           "updated": 1789976870396
+        },
+        {
+          "id": "axw2uc0muazeipj",
+          "added": 1789979205943,
+          "name": "Burger Bun",
+          "no": "",
+          "qty": 7,
+          "unit": "PKT",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1789979205943
         }
       ],
       "updated": 1789975446012
