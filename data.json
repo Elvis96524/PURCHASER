@@ -391,16 +391,8 @@
         },
         {
           "id": "g6to8fpmuaxvimc",
-          "added": 1789976639748,
-          "name": "Sausage cheese, Nutriplus  300GM",
-          "no": "",
-          "qty": 25,
-          "unit": "PKT",
-          "category": "Frozen",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1789976639748
+          "deleted": true,
+          "updated": 1789976870396
         }
       ],
       "updated": 1789975446012
