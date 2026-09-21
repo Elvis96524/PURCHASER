@@ -170,6 +170,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1789970775981
+        },
+        {
+          "id": "cu6iynkmuauhdkh",
+          "added": 1789970941169,
+          "name": "Lactel bliss yogurt 700ml",
+          "no": "167",
+          "qty": 20,
+          "unit": "Btl",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1789970941169
         }
       ],
       "updated": 1789970362800
