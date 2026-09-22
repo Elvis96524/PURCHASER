@@ -690,7 +690,21 @@
     {
       "id": "9tjtz9dmuc88aav",
       "name": "Sk prudence 17/9/2026",
-      "items": [],
+      "items": [
+        {
+          "id": "6kbgb3vmuc89qfj",
+          "added": 1790054565391,
+          "name": "3m stainless steel cleaner &polish spray",
+          "no": "Cleaning no.5",
+          "qty": 4,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790054565391
+        }
+      ],
       "updated": 1790054497831
     }
   ]
