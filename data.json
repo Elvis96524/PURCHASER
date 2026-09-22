@@ -636,9 +636,9 @@
           "unit": "Tin",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1789980454542
+          "updated": 1790045542743
         }
       ],
       "updated": 1789975446012
