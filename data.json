@@ -199,9 +199,9 @@
           "unit": "Btl",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1789970941169
+          "updated": 1790044230631
         }
       ],
       "updated": 1789970362800
