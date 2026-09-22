@@ -639,6 +639,19 @@
           "status": "received",
           "notes": "",
           "updated": 1790045542743
+        },
+        {
+          "id": "cztogljmuc7r2fc",
+          "added": 1790053694472,
+          "name": "Striploin",
+          "no": "1",
+          "qty": 10,
+          "unit": "Kg",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790053694471
         }
       ],
       "updated": 1789975446012
