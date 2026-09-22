@@ -241,6 +241,19 @@
           "status": "received",
           "notes": "Assorted flavour",
           "updated": 1790044264108
+        },
+        {
+          "id": "6xd5hkcmuc8e2uu",
+          "added": 1790054768118,
+          "name": "Hotdog bun 10's",
+          "no": "98",
+          "qty": 20,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790054768118
         }
       ],
       "updated": 1789970362800
