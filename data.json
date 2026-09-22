@@ -253,9 +253,9 @@
           "unit": "Loaf",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1789970712935
+          "updated": 1790056918075
         },
         {
           "id": "6lba8bqmuaudu3x",
