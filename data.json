@@ -363,9 +363,9 @@
           "unit": "loaf",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1789979220390
+          "updated": 1790048624385
         },
         {
           "id": "cw0aanamuazf8k6",
