@@ -929,6 +929,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790055880201
+        },
+        {
+          "id": "8bvxyilmuc931za",
+          "added": 1790055933382,
+          "name": "Fresh jagung",
+          "no": "113",
+          "qty": 10,
+          "unit": "Pcs",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790055933382
         }
       ],
       "updated": 1790055646272
