@@ -942,6 +942,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790055933382
+        },
+        {
+          "id": "3un8rykmuc94p9a",
+          "added": 1790056010206,
+          "name": "Rose essence 25ml",
+          "no": "REMAINING no.1",
+          "qty": 5,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "No stock in market,need to change item",
+          "updated": 1790056010206
         }
       ],
       "updated": 1790055646272
