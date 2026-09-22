@@ -422,6 +422,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790055427103
+        },
+        {
+          "id": "c4b1ifgmuc8ssmw",
+          "added": 1790055454712,
+          "name": "Vsoy original 1liter",
+          "no": "65",
+          "qty": 2,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790055454712
         }
       ],
       "updated": 1789971082554
