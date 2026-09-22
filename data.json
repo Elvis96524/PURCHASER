@@ -389,9 +389,9 @@
           "unit": "cup",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1789979263607
+          "updated": 1790048475936
         },
         {
           "id": "q0hsjq5muazg573",
