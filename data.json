@@ -396,6 +396,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790055372077
+        },
+        {
+          "id": "3447o1umuc8rmhp",
+          "added": 1790055400093,
+          "name": "Indomie soto",
+          "no": "63",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790055400093
         }
       ],
       "updated": 1789971082554
