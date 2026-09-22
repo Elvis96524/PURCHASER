@@ -91,6 +91,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790054428205
+        },
+        {
+          "id": "zjxb87imuca3dec",
+          "added": 1790057627796,
+          "name": "Clorox 1liter",
+          "no": "6",
+          "qty": 10,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790057627796
         }
       ],
       "updated": 1789969295101
