@@ -78,6 +78,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790054356546
+        },
+        {
+          "id": "f2zj5y5muc86skt",
+          "added": 1790054428205,
+          "name": "Dettol washing machine drum cleaner 250ml",
+          "no": "Cleaning no.23",
+          "qty": 4,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790054428205
         }
       ],
       "updated": 1789969295101
