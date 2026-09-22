@@ -101,16 +101,8 @@
       "items": [
         {
           "id": "wo7xmfnmuatqr9u",
-          "added": 1789969699218,
-          "name": "Wholemeal bread",
-          "no": "65",
-          "qty": 19,
-          "unit": "Loaf",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1789969699218
+          "deleted": true,
+          "updated": 1790055054769
         },
         {
           "id": "5xq022pmuc8jceo",
