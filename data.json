@@ -203,16 +203,8 @@
         },
         {
           "id": "znwg5gtmuc9c63u",
-          "added": 1790056358635,
-          "name": "Hotdog bun 10's",
-          "no": "108",
-          "qty": 6,
-          "unit": "Pkt",
-          "category": "Frozen",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1790056358634
+          "deleted": true,
+          "updated": 1790056451309
         },
         {
           "id": "7snipkqmuc9cwns",
