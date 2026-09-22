@@ -978,9 +978,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Been purchased,put at freezer ice cream there.",
-          "updated": 1790056182281
+          "updated": 1790056190798
         }
       ],
       "updated": 1790055646272
