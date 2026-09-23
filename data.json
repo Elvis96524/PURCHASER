@@ -392,6 +392,19 @@
           "status": "received",
           "notes": "",
           "updated": 1790132372892
+        },
+        {
+          "id": "aex34bjmudomv8f",
+          "added": 1790142518175,
+          "name": "Tortilla/mission",
+          "no": "62",
+          "qty": 20,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790142518169
         }
       ],
       "updated": 1790057393353
