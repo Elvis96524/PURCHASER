@@ -539,9 +539,9 @@
           "unit": "Box",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790055427103
+          "updated": 1790148189004
         },
         {
           "id": "c4b1ifgmuc8ssmw",
