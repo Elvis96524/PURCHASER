@@ -106,6 +106,7 @@ select.st{border-radius:8px;border:1.5px solid;padding:5px 8px;font-weight:600;b
 select.st.tobuy{border-color:var(--red);color:var(--red)}
 select.st.ordered{border-color:var(--blue);color:var(--blue)}
 select.st.received{border-color:var(--green);color:var(--green)}
+select.st.na{border-color:var(--line);color:var(--muted)}
 .act{white-space:nowrap;text-align:right}
 .act button{background:none;border:0;padding:4px 6px;color:var(--muted);text-decoration:underline;text-underline-offset:3px;font-size:.88rem}
 .act button:hover{color:var(--ink)}
@@ -226,6 +227,7 @@ select.st.received{border-color:var(--green);color:var(--green)}
         <option value="tobuy">To buy</option>
         <option value="ordered">Ordered</option>
         <option value="received">Received</option>
+        <option value="na">N/A</option>
       </select>
       <select id="fc" aria-label="Filter by category"></select>
     </div>
@@ -247,7 +249,7 @@ select.st.received{border-color:var(--green);color:var(--green)}
       <div class="f"><label for="i-pri">Priority</label>
         <select id="i-pri"><option value="urgent">Urgent</option><option value="normal" selected>Normal</option><option value="low">Low</option></select></div>
       <div class="f"><label for="i-st">Status</label>
-        <select id="i-st"><option value="tobuy">To buy</option><option value="ordered">Ordered</option><option value="received">Received</option></select></div>
+        <select id="i-st"><option value="tobuy">To buy</option><option value="ordered">Ordered</option><option value="received">Received</option><option value="na">N/A</option></select></div>
       <div class="f full"><label for="i-notes">Notes</label><textarea id="i-notes" maxlength="400" placeholder="Brand, size, pack, remarks"></textarea></div>
     </div>
     <div class="foot">
@@ -380,7 +382,7 @@ select.st.received{border-color:var(--green);color:var(--green)}
 (function(){
   "use strict";
   var CATS=["Dry","Chiller","Frozen"];
-  var ST={tobuy:"To buy",ordered:"Ordered",received:"Received"};
+  var ST={tobuy:"To buy",ordered:"Ordered",received:"Received",na:"N/A"};
   var PRI={urgent:"Urgent",normal:"Normal",low:"Low"};
   var KEY="vesselPurchasing.v1", SESS_KEY="vesselSession.v1", DRAFT_KEY="vesselUsersDraft.v1", LOCK_KEY="vesselLock.v1", ASKED_KEY="vesselLockAsked.v1";
   var PIN_RE=/^\d{6}$/, LOCK_AFTER=120000;
@@ -961,7 +963,7 @@ select.st.received{border-color:var(--green);color:var(--green)}
   function renderSide(){
     var cv=vessel(); $("#vtoggleName").textContent=cv?cv.name:"Vessels";
     $("#vlist").innerHTML=liveVessels().map(function(v){
-      var open=liveItems(v).filter(function(i){return i.status!=="received"}).length;
+      var open=liveItems(v).filter(function(i){return i.status!=="received"&&i.status!=="na"}).length;
       return '<li><button type="button" class="vbtn" data-act="pick" data-id="'+esc(v.id)+'" aria-current="'+(v.id===state.active)+'">'+
         '<span>'+esc(v.name)+'</span><span class="n '+(open?"":"zero")+'" title="Items still to get">'+open+'</span></button></li>';
     }).join("");
