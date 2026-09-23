@@ -326,6 +326,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790124044107
+        },
+        {
+          "id": "8yp0axkmuddpuvn",
+          "added": 1790124181907,
+          "name": "Kinder Bueno Chocolate 8x43G",
+          "no": "126",
+          "qty": 10,
+          "unit": "pcs",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790124181907
         }
       ],
       "updated": 1790057393353
