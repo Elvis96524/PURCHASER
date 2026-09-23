@@ -418,6 +418,19 @@
           "status": "received",
           "notes": "",
           "updated": 1790147165556
+        },
+        {
+          "id": "f6r92xxmudtb2gy",
+          "added": 1790150365762,
+          "name": "Chipmore 135g",
+          "no": "",
+          "qty": 3,
+          "unit": "Pcs",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "Assorted flavour",
+          "updated": 1790150365762
         }
       ],
       "updated": 1790057393353
