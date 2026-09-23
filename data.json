@@ -402,9 +402,9 @@
           "unit": "Pkt",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Mission wrap mix flavour.",
-          "updated": 1790147148217
+          "updated": 1790147152049
         },
         {
           "id": "fhr6kxwmudrdc67",
