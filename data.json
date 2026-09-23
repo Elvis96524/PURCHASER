@@ -349,9 +349,9 @@
           "unit": "pcs",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "At store have",
-          "updated": 1790132482932
+          "updated": 1790132487880
         },
         {
           "id": "8yp0axkmuddpuvn",
