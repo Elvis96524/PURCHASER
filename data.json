@@ -228,6 +228,19 @@
           "status": "received",
           "notes": "",
           "updated": 1790127089898
+        },
+        {
+          "id": "8bnrzjtmudfhbtt",
+          "added": 1790127143201,
+          "name": "Magic Clean 400ml",
+          "no": "4",
+          "qty": 5,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "received",
+          "notes": "",
+          "updated": 1790127143201
         }
       ],
       "updated": 1789970067430
