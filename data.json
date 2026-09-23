@@ -1100,9 +1100,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "No stock in market,need to change item",
-          "updated": 1790056010206
+          "updated": 1790164954689
         },
         {
           "id": "tglop1hmuc966kk",
@@ -1113,9 +1113,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "No stock in market,need to change item",
-          "updated": 1790056079300
+          "updated": 1790164956345
         },
         {
           "id": "wq3sfasmuc98e15",
