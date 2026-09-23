@@ -441,9 +441,9 @@
           "unit": "Tub",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Hot&spicy=14tub\nOnion=13tub\nOriginal=13tub",
-          "updated": 1790150437122
+          "updated": 1790150443143
         }
       ],
       "updated": 1790057393353
