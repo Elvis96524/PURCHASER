@@ -431,6 +431,19 @@
           "status": "tobuy",
           "notes": "Assorted flavour",
           "updated": 1790150365762
+        },
+        {
+          "id": "5e1yoy1mudtclj6",
+          "added": 1790150437122,
+          "name": "Pringles assorted flavour",
+          "no": "",
+          "qty": 40,
+          "unit": "Tub",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "Hot&spicy=14tub\nOnion=13tub\nOriginal=13tub",
+          "updated": 1790150437122
         }
       ],
       "updated": 1790057393353
