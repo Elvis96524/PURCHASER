@@ -93,9 +93,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "received",
+          "status": "tobuy",
           "notes": "",
-          "updated": 1790061460359
+          "updated": 1790126929031
         }
       ],
       "updated": 1789969295101
