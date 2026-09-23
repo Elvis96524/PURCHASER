@@ -215,6 +215,19 @@
           "id": "7snipkqmuc9cwns",
           "deleted": true,
           "updated": 1790056454259
+        },
+        {
+          "id": "xc27k4emudfg6p7",
+          "added": 1790127089899,
+          "name": "Clorox 1L",
+          "no": "3",
+          "qty": 10,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "received",
+          "notes": "",
+          "updated": 1790127089898
         }
       ],
       "updated": 1789970067430
