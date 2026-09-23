@@ -428,9 +428,9 @@
           "unit": "Pcs",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Assorted flavour",
-          "updated": 1790150365762
+          "updated": 1790150446041
         },
         {
           "id": "5e1yoy1mudtclj6",
