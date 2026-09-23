@@ -297,9 +297,9 @@
           "unit": "Loaf",
           "category": "Dry",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1790064765377
+          "updated": 1790132386466
         },
         {
           "id": "cu6iynkmuauhdkh",
