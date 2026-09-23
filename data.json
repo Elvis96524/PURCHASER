@@ -362,9 +362,9 @@
           "unit": "pcs",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Put at office",
-          "updated": 1790132459385
+          "updated": 1790132463367
         },
         {
           "id": "fzmeuvamuddv3jp",
