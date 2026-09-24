@@ -1183,7 +1183,21 @@
     {
       "id": "cvnij5tmuewq0r0",
       "name": "KEYFIELD WISDOM",
-      "items": [],
+      "items": [
+        {
+          "id": "hsm9sxmmuewqjbv",
+          "added": 1790216592475,
+          "name": "Budu 200gm",
+          "no": "43",
+          "qty": 12,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790216592475
+        }
+      ],
       "updated": 1790216568396
     }
   ]
