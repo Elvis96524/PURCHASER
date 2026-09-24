@@ -1235,6 +1235,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790216672143
+        },
+        {
+          "id": "er11rcmmuewstge",
+          "added": 1790216698910,
+          "name": "Assorted vitagen less sugar",
+          "no": "120",
+          "qty": 4,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790216698910
         }
       ],
       "updated": 1790216568396
