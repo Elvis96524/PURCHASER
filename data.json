@@ -1294,6 +1294,19 @@
           "status": "received",
           "notes": "Flavour mango and yam",
           "updated": 1790220148439
+        },
+        {
+          "id": "gaybn3tmueyw5uy",
+          "added": 1790220214186,
+          "name": "Cocoa powder 1kg",
+          "no": "",
+          "qty": 1,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790220214186
         }
       ],
       "updated": 1790220089441
