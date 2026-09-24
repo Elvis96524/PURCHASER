@@ -1248,6 +1248,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790216698910
+        },
+        {
+          "id": "s9z7crqmuewtfrv",
+          "added": 1790216727835,
+          "name": "Kopi kapal api 2in1",
+          "no": "121",
+          "qty": 3,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790216727835
         }
       ],
       "updated": 1790216568396
