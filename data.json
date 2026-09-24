@@ -1281,7 +1281,21 @@
     {
       "id": "9zy2a42mueythlt",
       "name": "Etk",
-      "items": [],
+      "items": [
+        {
+          "id": "1jd67blmueyuogh",
+          "added": 1790220144977,
+          "name": "Pudding powder",
+          "no": "",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "Flavour mango and yam",
+          "updated": 1790220144977
+        }
+      ],
       "updated": 1790220089441
     }
   ]
