@@ -1315,11 +1315,11 @@
           "no": "",
           "qty": 1,
           "unit": "Pkt",
-          "category": "Dry",
+          "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1790220239553
+          "updated": 1790220251639
         }
       ],
       "updated": 1790220089441
