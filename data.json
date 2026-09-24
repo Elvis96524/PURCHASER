@@ -1088,9 +1088,9 @@
           "unit": "Pcs",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790055933382
+          "updated": 1790221463045
         },
         {
           "id": "3un8rykmuc94p9a",
