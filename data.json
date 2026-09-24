@@ -1261,6 +1261,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790216727835
+        },
+        {
+          "id": "bh4fon1muexjpdi",
+          "added": 1790217953334,
+          "name": "Serbuk jintan Manis",
+          "no": "56",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790217953334
         }
       ],
       "updated": 1790216568396
