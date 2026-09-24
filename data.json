@@ -1222,6 +1222,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790216649205
+        },
+        {
+          "id": "kzi9jhmmuews8sv",
+          "added": 1790216672143,
+          "name": "Muruku popo 12gm X 30'S",
+          "no": "114",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790216672143
         }
       ],
       "updated": 1790216568396
