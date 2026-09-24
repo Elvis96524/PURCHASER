@@ -1372,6 +1372,19 @@
           "status": "received",
           "notes": "",
           "updated": 1790220430007
+        },
+        {
+          "id": "vveab8lmuez1429",
+          "added": 1790220445137,
+          "name": "Kerepek Pisang kosong",
+          "no": "",
+          "qty": 4,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790220445137
         }
       ],
       "updated": 1790220089441
