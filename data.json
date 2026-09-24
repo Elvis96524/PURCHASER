@@ -1232,9 +1232,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790216672143
+          "updated": 1790232210736
         },
         {
           "id": "er11rcmmuewstge",
