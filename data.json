@@ -87,9 +87,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Exp 31.7.2027",
-          "updated": 1790405042027
+          "updated": 1790405045792
         },
         {
           "id": "c5l9531muhn2k7y",
