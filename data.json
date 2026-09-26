@@ -64,6 +64,19 @@
           "id": "zjxb87imuca3dec",
           "deleted": true,
           "updated": 1790381600525
+        },
+        {
+          "id": "qfmpe4rmuhn05bz",
+          "added": 1790381643263,
+          "name": "Milo 1.5kg(tin)",
+          "no": "26",
+          "qty": 1,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790381643263
         }
       ],
       "updated": 1790381591366
