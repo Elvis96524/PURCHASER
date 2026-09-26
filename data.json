@@ -1503,6 +1503,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790382135558
+        },
+        {
+          "id": "o9kfq8lmuhzdl1k",
+          "added": 1790402425544,
+          "name": "Tempe",
+          "no": "",
+          "qty": 10,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790402425544
         }
       ],
       "updated": 1790382098085
