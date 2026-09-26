@@ -116,6 +116,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790381798525
+        },
+        {
+          "id": "odtii4lmuhn4ded",
+          "added": 1790381840341,
+          "name": "Salted egg powder 1kg",
+          "no": "94",
+          "qty": 1,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790381840341
         }
       ],
       "updated": 1790381591366
