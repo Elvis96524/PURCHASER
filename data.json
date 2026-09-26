@@ -42,29 +42,13 @@
       "items": [
         {
           "id": "ep01z0omuatn15x",
-          "added": 1789969525413,
-          "name": "Magic clean",
-          "no": "26",
-          "qty": 6,
-          "unit": "Btl",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "received",
-          "notes": "To buy 5 btl ( replacement for prelude)",
-          "updated": 1790127944118
+          "deleted": true,
+          "updated": 1790381600525
         },
         {
           "id": "l824ut7muc849k8",
-          "added": 1790054310248,
-          "name": "Microfiber cloth",
-          "no": "Cleaning no.15",
-          "qty": 8,
-          "unit": "Pcs",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "received",
-          "notes": "1card have 5pcs ,buy 2card.",
-          "updated": 1790059112104
+          "deleted": true,
+          "updated": 1790381600525
         },
         {
           "id": "10zabxtmuc859aa",
@@ -73,29 +57,13 @@
         },
         {
           "id": "f2zj5y5muc86skt",
-          "added": 1790054428205,
-          "name": "Dettol washing machine drum cleaner 250ml",
-          "no": "Cleaning no.23",
-          "qty": 4,
-          "unit": "Btl",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1790058996946
+          "deleted": true,
+          "updated": 1790381600525
         },
         {
           "id": "zjxb87imuca3dec",
-          "added": 1790057627796,
-          "name": "Clorox 1liter",
-          "no": "6",
-          "qty": 10,
-          "unit": "Btl",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "received",
-          "notes": "To buy 10 btl ( replacement for prelude)",
-          "updated": 1790144384336
+          "deleted": true,
+          "updated": 1790381600525
         }
       ],
       "updated": 1790381591366
