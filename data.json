@@ -1510,7 +1510,21 @@
     {
       "id": "ax3bayimuhzbrsg",
       "name": "Sk Falcon",
-      "items": [],
+      "items": [
+        {
+          "id": "rrxshlamuhzcgoa",
+          "added": 1790402373226,
+          "name": "Jering",
+          "no": "",
+          "qty": 10,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "Only have 7kg",
+          "updated": 1790402373226
+        }
+      ],
       "updated": 1790402340976
     }
   ]
