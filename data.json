@@ -1513,9 +1513,9 @@
           "unit": "Pkt",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790402425544
+          "updated": 1790402429274
         }
       ],
       "updated": 1790382098085
