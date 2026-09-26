@@ -1520,9 +1520,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Only have 7kg",
-          "updated": 1790402373226
+          "updated": 1790402382874
         }
       ],
       "updated": 1790402340976
