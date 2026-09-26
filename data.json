@@ -129,6 +129,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790381840341
+        },
+        {
+          "id": "c7tte4fmuhn5jd0",
+          "added": 1790381894724,
+          "name": "Fresh squid",
+          "no": "107",
+          "qty": 5,
+          "unit": "Kg",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790381894724
         }
       ],
       "updated": 1790381591366
