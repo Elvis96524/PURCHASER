@@ -1137,6 +1137,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790573515800
+        },
+        {
+          "id": "rzm8px7mukt9w6j",
+          "added": 1790573574187,
+          "name": "Biji sawi",
+          "no": "35",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790573574187
         }
       ],
       "updated": 1790054497831
