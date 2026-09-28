@@ -1546,16 +1546,8 @@
       "items": [
         {
           "id": "w09uhr6muklel2y",
-          "added": 1790560356154,
-          "name": "Buah keras",
-          "no": "47",
-          "qty": 1,
-          "unit": "Kg",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1790560356154
+          "deleted": true,
+          "updated": 1790560437514
         }
       ],
       "updated": 1790560331133
