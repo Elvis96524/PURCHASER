@@ -1548,6 +1548,19 @@
           "id": "w09uhr6muklel2y",
           "deleted": true,
           "updated": 1790560437514
+        },
+        {
+          "id": "s3cqdngmuklgx80",
+          "added": 1790560465200,
+          "name": "Bakuteh 35g",
+          "no": "54",
+          "qty": 10,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790560465200
         }
       ],
       "updated": 1790560331133
