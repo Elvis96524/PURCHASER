@@ -1711,6 +1711,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790563036202
+        },
+        {
+          "id": "28dlkwimukn0nlu",
+          "added": 1790563065474,
+          "name": "PRINGLE ASSORTED FLAVOUR 110GM",
+          "no": "",
+          "qty": 10,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790563065474
         }
       ],
       "updated": 1790562984098
