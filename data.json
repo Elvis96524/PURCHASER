@@ -1163,6 +1163,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790573627534
+        },
+        {
+          "id": "zt3mrhjmuktc0dy",
+          "added": 1790573672950,
+          "name": "Oreo vanilla Kraft 137g",
+          "no": "67",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790573672950
         }
       ],
       "updated": 1790054497831
