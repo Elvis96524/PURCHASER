@@ -1189,6 +1189,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790573709638
+        },
+        {
+          "id": "1q0wxsnmuktdl0b",
+          "added": 1790573746331,
+          "name": "Supering 60gm",
+          "no": "75",
+          "qty": 20,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790573746331
         }
       ],
       "updated": 1790054497831
