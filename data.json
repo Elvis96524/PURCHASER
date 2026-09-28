@@ -1543,7 +1543,21 @@
     {
       "id": "kh945ldmukle1rx",
       "name": "OS ONE ( 30.09.2026)",
-      "items": [],
+      "items": [
+        {
+          "id": "w09uhr6muklel2y",
+          "added": 1790560356154,
+          "name": "Buah keras",
+          "no": "47",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790560356154
+        }
+      ],
       "updated": 1790560331133
     }
   ]
