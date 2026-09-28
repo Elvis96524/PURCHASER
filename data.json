@@ -1651,9 +1651,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1790560625658
+          "updated": 1790572902743
         },
         {
           "id": "j9xufa9muklkp6m",
