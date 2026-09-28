@@ -1150,6 +1150,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790573574187
+        },
+        {
+          "id": "zpjr5owmuktb1ce",
+          "added": 1790573627534,
+          "name": "Muruku 900g",
+          "no": "49",
+          "qty": 4,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790573627534
         }
       ],
       "updated": 1790054497831
