@@ -1724,6 +1724,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790563065474
+        },
+        {
+          "id": "p20s9ebmukn18nv",
+          "added": 1790563092764,
+          "name": "MURUKU POPO 12GMX30'S",
+          "no": "",
+          "qty": 5,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790563092763
         }
       ],
       "updated": 1790562984098
