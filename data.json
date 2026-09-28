@@ -1111,6 +1111,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790573432640
+        },
+        {
+          "id": "1wjdvzgmukt7miv",
+          "added": 1790573468359,
+          "name": "Bamboo shoots 552gm",
+          "no": "24",
+          "qty": 5,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790573468359
         }
       ],
       "updated": 1790054497831
