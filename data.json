@@ -1879,9 +1879,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Ori Exp:\nOnion Exp:\nHot spicy Exp:27.6.27\nCheese Exp:19.5.27",
-          "updated": 1790583101658
+          "updated": 1790583377638
         },
         {
           "id": "p20s9ebmukn18nv",
