@@ -668,6 +668,19 @@
           "status": "tobuy",
           "notes": "Left 4btl\n1btl exp on 2/27",
           "updated": 1790236423870
+        },
+        {
+          "id": "6m7rjyymukvp26s",
+          "added": 1790577641044,
+          "name": "Kerepek ikan Terengganu 500gm",
+          "no": "",
+          "qty": 8,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790577641044
         }
       ],
       "updated": 1789971082554
