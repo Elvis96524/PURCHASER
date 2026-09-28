@@ -1215,6 +1215,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790573746331
+        },
+        {
+          "id": "z78u328mukvufim",
+          "added": 1790577891598,
+          "name": "Knor Cream of chicken soup 1kg",
+          "no": "",
+          "qty": 1,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790577891598
         }
       ],
       "updated": 1790054497831
