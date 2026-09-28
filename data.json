@@ -1574,6 +1574,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790560480347
+        },
+        {
+          "id": "12em6bgmuklhpi3",
+          "added": 1790560501851,
+          "name": "Chocolate rice 1kg",
+          "no": "64",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790560501851
         }
       ],
       "updated": 1790560331133
