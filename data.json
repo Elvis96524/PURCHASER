@@ -1587,6 +1587,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790560501851
+        },
+        {
+          "id": "jsz7cd5mukli6q3",
+          "added": 1790560524171,
+          "name": "Colouring rice 500gm",
+          "no": "65",
+          "qty": 1,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790560524171
         }
       ],
       "updated": 1790560331133
