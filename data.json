@@ -1176,6 +1176,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790573672950
+        },
+        {
+          "id": "oefwmbjmuktcsp2",
+          "added": 1790573709638,
+          "name": "Chipmore biscuits Kraft 180g",
+          "no": "68",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790573709638
         }
       ],
       "updated": 1790054497831
