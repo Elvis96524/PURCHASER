@@ -1173,9 +1173,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "3pkt only\nOri Exp:7.7.27",
-          "updated": 1790576848263
+          "updated": 1790583460430
         },
         {
           "id": "zt3mrhjmuktc0dy",
