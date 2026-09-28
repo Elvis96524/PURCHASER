@@ -1626,6 +1626,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790560563828
+        },
+        {
+          "id": "i7a5jjpmukljdr7",
+          "added": 1790560579939,
+          "name": "Kit kat",
+          "no": "",
+          "qty": 6,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790560579939
         }
       ],
       "updated": 1790560331133
