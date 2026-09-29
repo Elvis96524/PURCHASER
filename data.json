@@ -1430,9 +1430,9 @@
           "unit": "Tin",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Exp:7.6.28",
-          "updated": 1790647046813
+          "updated": 1790647060819
         },
         {
           "id": "wusut6mmulwx3fe",
