@@ -2093,6 +2093,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790647035592
+        },
+        {
+          "id": "jjdia3fmum10ss0",
+          "added": 1790647052976,
+          "name": "MANGGA MUDA",
+          "no": "",
+          "qty": 3,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790647052976
         }
       ],
       "updated": 1790646968360
