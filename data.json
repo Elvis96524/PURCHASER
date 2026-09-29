@@ -2217,6 +2217,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790647269649
+        },
+        {
+          "id": "evpdikdmum15q8f",
+          "added": 1790647282959,
+          "name": "PUCUK UBI",
+          "no": "",
+          "qty": 4,
+          "unit": "IKAT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790647282959
         }
       ],
       "updated": 1790647249569
