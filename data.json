@@ -2279,9 +2279,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Exp 24.5.27",
-          "updated": 1790649480400
+          "updated": 1790649483230
         },
         {
           "id": "3or3rt5mum18d8f",
