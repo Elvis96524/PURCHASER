@@ -2393,6 +2393,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790653971395
+        },
+        {
+          "id": "rdz6nvdmum55ww3",
+          "added": 1790654010051,
+          "name": "Kek pisang",
+          "no": "106",
+          "qty": 10,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790654010051
         }
       ],
       "updated": 1790653928901
