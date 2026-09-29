@@ -2282,6 +2282,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790647390311
+        },
+        {
+          "id": "3or3rt5mum18d8f",
+          "added": 1790647406079,
+          "name": "SUNQUICK MANDARIN 840ML",
+          "no": "",
+          "qty": 1,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790647406079
         }
       ],
       "updated": 1790647249569
