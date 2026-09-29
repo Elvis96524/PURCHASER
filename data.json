@@ -2399,6 +2399,19 @@
           "status": "received",
           "notes": "Exp 21.1.28",
           "updated": 1790649408535
+        },
+        {
+          "id": "20c2kscmumaerdv",
+          "added": 1790662820899,
+          "name": "Telur masin",
+          "no": "",
+          "qty": 1,
+          "unit": "Tray",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790662820899
         }
       ],
       "updated": 1790647249569
