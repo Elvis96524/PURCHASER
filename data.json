@@ -1369,16 +1369,8 @@
       "items": [
         {
           "id": "c4nxsk3muccnagy",
-          "added": 1790061916354,
-          "name": "Tong garden party snack 185g",
-          "no": "",
-          "qty": 3,
-          "unit": "Pkt",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1790064733678
+          "deleted": true,
+          "updated": 1790640053594
         },
         {
           "id": "pc7dzt3muccov10",
