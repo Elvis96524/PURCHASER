@@ -1495,9 +1495,9 @@
           "unit": "Pkt",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790640265346
+          "updated": 1790654444530
         },
         {
           "id": "y1o856umum4v61r",
