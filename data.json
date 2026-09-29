@@ -2223,6 +2223,19 @@
           "status": "received",
           "notes": "BBQ Exp:15.4.27\nSyokwave 2pkt Exp:30.3.27\nHot spicy Exp:31.3.27",
           "updated": 1790648795185
+        },
+        {
+          "id": "7fh0vckmum51438",
+          "added": 1790653786100,
+          "name": "Fresh large sotong",
+          "no": "16",
+          "qty": 8,
+          "unit": "",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790653786100
         }
       ],
       "updated": 1790646968360
