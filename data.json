@@ -2357,9 +2357,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1790647306089
+          "status": "received",
+          "notes": "Ori:30.6.27\nCheese 30.6.27\nCarbonara 30.6.27",
+          "updated": 1790665286500
         },
         {
           "id": "tkm4myjmum16upr",
