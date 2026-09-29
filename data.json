@@ -2305,9 +2305,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Exp 18.7.27",
-          "updated": 1790649315689
+          "updated": 1790649329258
         },
         {
           "id": "vngc0komum1al5b",
