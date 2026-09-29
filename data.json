@@ -2204,7 +2204,21 @@
     {
       "id": "zru7czjmum150gx",
       "name": "PERDANA ENDURANCE (01.10.26)",
-      "items": [],
+      "items": [
+        {
+          "id": "7bqj5ldmum15fyp",
+          "added": 1790647269649,
+          "name": "PUCUK PAKU PAKIS",
+          "no": "",
+          "qty": 4,
+          "unit": "IKAT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790647269649
+        }
+      ],
       "updated": 1790647249569
     }
   ]
