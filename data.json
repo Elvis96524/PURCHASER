@@ -1415,11 +1415,11 @@
           "no": "63",
           "qty": 25,
           "unit": "Loaf",
-          "category": "Dry",
+          "category": "Frozen",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1790640194728
+          "updated": 1790640231239
         },
         {
           "id": "5wnf1tumulwycnf",
