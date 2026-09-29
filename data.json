@@ -2138,6 +2138,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790641111180
+        },
+        {
+          "id": "rsu78mrmumcglu0",
+          "added": 1790666266248,
+          "name": "Bunga kantan",
+          "no": "",
+          "qty": 6,
+          "unit": "Pcs",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790666266248
         }
       ],
       "updated": 1790640870723
