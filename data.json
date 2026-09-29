@@ -1381,6 +1381,19 @@
           "id": "f24kadgmudh7wgs",
           "deleted": true,
           "updated": 1790640059477
+        },
+        {
+          "id": "m6taepqmulwvku7",
+          "added": 1790640090943,
+          "name": "Bamboo shoots 552gm",
+          "no": "32",
+          "qty": 3,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790640090943
         }
       ],
       "updated": 1790640040159
