@@ -681,6 +681,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790577641044
+        },
+        {
+          "id": "krs9sd2mulx93uo",
+          "added": 1790640722112,
+          "name": "Tempe",
+          "no": "68",
+          "qty": 10,
+          "unit": "",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790640722112
         }
       ],
       "updated": 1789971082554
