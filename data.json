@@ -2106,6 +2106,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790647052976
+        },
+        {
+          "id": "ioszq0rmum11bm0",
+          "added": 1790647077384,
+          "name": "SALTED EGG ( LOCAL WHITE )",
+          "no": "",
+          "qty": 30,
+          "unit": "PCS",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790647077384
         }
       ],
       "updated": 1790646968360
