@@ -2067,6 +2067,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790647000585
+        },
+        {
+          "id": "lulveznmum104m0",
+          "added": 1790647021656,
+          "name": "PUCUK PAKU",
+          "no": "",
+          "qty": 5,
+          "unit": "IKAT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790647021656
         }
       ],
       "updated": 1790646968360
