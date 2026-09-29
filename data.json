@@ -694,6 +694,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790640722112
+        },
+        {
+          "id": "7ib3e5omulx9mdc",
+          "added": 1790640746112,
+          "name": "Jering",
+          "no": "31",
+          "qty": 4,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790640746112
         }
       ],
       "updated": 1789971082554
