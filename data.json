@@ -2158,6 +2158,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790647149241
+        },
+        {
+          "id": "34t550fmum13egn",
+          "added": 1790647174391,
+          "name": "KACANG2 ( NO1 PEANUT )",
+          "no": "",
+          "qty": 4,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790647174391
         }
       ],
       "updated": 1790646968360
