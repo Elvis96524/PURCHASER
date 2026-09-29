@@ -1379,16 +1379,8 @@
         },
         {
           "id": "f24kadgmudh7wgs",
-          "added": 1790130062620,
-          "name": "Sprite 1.5litre",
-          "no": "",
-          "qty": 1,
-          "unit": "Ctn",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1790130067049
+          "deleted": true,
+          "updated": 1790640059477
         }
       ],
       "updated": 1790640040159
