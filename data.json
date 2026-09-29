@@ -1498,6 +1498,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790640265346
+        },
+        {
+          "id": "y1o856umum4v61r",
+          "added": 1790653508703,
+          "name": "Jering",
+          "no": "33",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790653508703
         }
       ],
       "updated": 1790640040159
