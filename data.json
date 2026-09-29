@@ -707,6 +707,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790640746112
+        },
+        {
+          "id": "q72owr2mulxeqsx",
+          "added": 1790640985137,
+          "name": "Petai",
+          "no": "46",
+          "qty": 2,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790640985137
         }
       ],
       "updated": 1789971082554
