@@ -2151,6 +2151,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790666266248
+        },
+        {
+          "id": "n6oc7i5mumchg6p",
+          "added": 1790666305585,
+          "name": "Pisang Emas",
+          "no": "",
+          "qty": 15,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790666305585
         }
       ],
       "updated": 1790640870723
