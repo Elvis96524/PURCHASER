@@ -1995,7 +1995,21 @@
     {
       "id": "76pfykemulxcair",
       "name": "Helang(17/9/26)",
-      "items": [],
+      "items": [
+        {
+          "id": "xb7b80fmulxcv6a",
+          "added": 1790640897490,
+          "name": "Tempe",
+          "no": "56",
+          "qty": 15,
+          "unit": "Ppk",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790640897490
+        }
+      ],
       "updated": 1790640870723
     }
   ]
