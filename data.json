@@ -2136,9 +2136,9 @@
           "unit": "Ppk",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1790640897490
+          "updated": 1790722538112
         },
         {
           "id": "8s62khgmulxhg24",
