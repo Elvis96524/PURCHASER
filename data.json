@@ -1374,16 +1374,8 @@
         },
         {
           "id": "pc7dzt3muccov10",
-          "added": 1790061989652,
-          "name": "Gardenia",
-          "no": "",
-          "qty": 10,
-          "unit": "Loaf",
-          "category": "Frozen",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1790138316614
+          "deleted": true,
+          "updated": 1790640056154
         },
         {
           "id": "f24kadgmudh7wgs",
