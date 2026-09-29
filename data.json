@@ -2308,6 +2308,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790647428233
+        },
+        {
+          "id": "vngc0komum1al5b",
+          "added": 1790647509647,
+          "name": "ROTI GARDENIA",
+          "no": "",
+          "qty": 2,
+          "unit": "LOAF",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790647509647
         }
       ],
       "updated": 1790647249569
