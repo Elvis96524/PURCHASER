@@ -1534,9 +1534,9 @@
           "unit": "Pcs",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790654130172
+          "updated": 1790668334883
         },
         {
           "id": "eiv550emumak40o",
