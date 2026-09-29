@@ -1280,6 +1280,19 @@
           "status": "received",
           "notes": "Store have",
           "updated": 1790639953177
+        },
+        {
+          "id": "8a6vr9rmum4knwr",
+          "added": 1790653018635,
+          "name": "Jantung Pisang",
+          "no": "44",
+          "qty": 2,
+          "unit": "Nos",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790653018634
         }
       ],
       "updated": 1790054497831
