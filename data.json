@@ -1570,6 +1570,19 @@
           "status": "received",
           "notes": "",
           "updated": 1790301237521
+        },
+        {
+          "id": "9uo4txwmulxb5tr",
+          "added": 1790640817983,
+          "name": "Tempe",
+          "no": "60",
+          "qty": 50,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790640817983
         }
       ],
       "updated": 1790229444289
