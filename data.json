@@ -1550,6 +1550,19 @@
           "status": "received",
           "notes": "Exp 21.5.27",
           "updated": 1790666226215
+        },
+        {
+          "id": "i3xugb4mumf5l4w",
+          "added": 1790670790976,
+          "name": "Salam",
+          "no": "26",
+          "qty": 6,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790670790972
         }
       ],
       "updated": 1790640040159
