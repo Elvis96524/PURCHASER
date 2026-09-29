@@ -1521,9 +1521,9 @@
           "unit": "Pcs",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790654104605
+          "updated": 1790664827777
         },
         {
           "id": "3cja0mkmum58hks",
