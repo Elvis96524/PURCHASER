@@ -1547,9 +1547,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790665117861
+          "updated": 1790666207266
         }
       ],
       "updated": 1790640040159
