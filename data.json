@@ -2041,7 +2041,21 @@
     {
       "id": "datzwjgmum0yzhk",
       "name": "PERDAN EMERALD (01.10.26)",
-      "items": [],
+      "items": [
+        {
+          "id": "au6k27pmum0zemp",
+          "added": 1790646987985,
+          "name": "BAWANG PUTIH KOEPK",
+          "no": "",
+          "qty": 2,
+          "unit": "kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790646987985
+        }
+      ],
       "updated": 1790646968360
     }
   ]
