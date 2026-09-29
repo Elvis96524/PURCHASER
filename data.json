@@ -1251,9 +1251,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1790573746331
+          "status": "received",
+          "notes": "Exp: 30.6.27",
+          "updated": 1790646164110
         },
         {
           "id": "z78u328mukvufim",
