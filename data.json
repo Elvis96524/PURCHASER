@@ -691,9 +691,9 @@
           "unit": "",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "6pkt only",
-          "updated": 1790732181495
+          "updated": 1790732184000
         },
         {
           "id": "7ib3e5omulx9mdc",
