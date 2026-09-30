@@ -1298,6 +1298,19 @@
           "status": "received",
           "notes": "",
           "updated": 1790734939511
+        },
+        {
+          "id": "8qv7vz3muniypqn",
+          "added": 1790737654991,
+          "name": "Puteri marjerin 1kg",
+          "no": "2",
+          "qty": 1,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "Item list put at chiller",
+          "updated": 1790737654989
         }
       ],
       "updated": 1790054497831
