@@ -1992,9 +1992,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1790572892878
+          "updated": 1790732317808
         },
         {
           "id": "j5wyd16muklkd16",
