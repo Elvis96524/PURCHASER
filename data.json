@@ -2647,9 +2647,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Cornflake brand Kellogg's 275gm 3pkt Exp 25.3.27",
-          "updated": 1790754190552,
+          "updated": 1790754194010,
           "updatedBy": "chelson"
         },
         {
