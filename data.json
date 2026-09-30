@@ -2806,7 +2806,21 @@
     {
       "id": "iqg9t84munkw5pz",
       "name": "Sk pinnacle (OCT 2ND)11/9/26",
-      "items": [],
+      "items": [
+        {
+          "id": "0d79auymunkwpp2",
+          "added": 1790740920854,
+          "name": "Smiling fish pedas",
+          "no": "",
+          "qty": 10,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790740920854
+        }
+      ],
       "updated": 1790740894967
     }
   ]
