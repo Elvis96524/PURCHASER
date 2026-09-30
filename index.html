@@ -97,6 +97,7 @@ th.num{text-align:right}
 .nm{font-weight:600}
 td.no{white-space:nowrap;font-weight:600;font-variant-numeric:tabular-nums;color:var(--muted)}
 .nt{color:var(--muted);font-size:.85rem;margin-top:2px;max-width:34ch}
+.by{color:var(--muted);font-size:.78rem;margin-top:2px}
 tr.done .nm{text-decoration:line-through;text-decoration-thickness:1.5px;color:var(--muted)}
 .pri{display:inline-block;padding:2px 9px;border-radius:99px;font-size:.82rem;font-weight:600;border:1.5px solid var(--line)}
 .pri.urgent{background:var(--red);border-color:var(--red);color:#fff}
@@ -120,6 +121,7 @@ select.st.na{border-color:var(--line);color:var(--muted)}
 .card h2{margin:0 0 14px;font-stretch:80%;font-weight:800;font-size:1.5rem}
 .card p{margin:0 0 4px}
 .hint{color:var(--muted);font-size:.85rem;margin:0 0 12px}
+#i-by{color:var(--muted);font-size:.85rem;margin:-4px 0 14px}
 .f .hint{margin:4px 0 0}
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
 .grid .full{grid-column:1/-1}
@@ -252,6 +254,7 @@ select.st.na{border-color:var(--line);color:var(--muted)}
         <select id="i-st"><option value="tobuy">To buy</option><option value="ordered">Ordered</option><option value="received">Received</option><option value="na">N/A</option></select></div>
       <div class="f full"><label for="i-notes">Notes</label><textarea id="i-notes" maxlength="400" placeholder="Brand, size, pack, remarks"></textarea></div>
     </div>
+    <p id="i-by" hidden></p>
     <div class="foot">
       <button type="button" class="btn" data-act="close-modal">Cancel</button>
       <button type="button" class="btn primary" data-act="save-item">Save item</button>
@@ -1001,7 +1004,7 @@ select.st.na{border-color:var(--line);color:var(--muted)}
         return '<tr data-id="'+esc(i.id)+'" data-vid="'+esc(r.v.id)+'" class="'+(i.status==="received"?"done":"")+'">'+
           (showVessel?'<td data-label="Vessel" class="vcell"><button type="button" class="linkbtn" data-act="goto-vessel" data-id="'+esc(r.v.id)+'">'+esc(r.v.name)+'</button></td>':'')+
           '<td data-label="Item no." class="no">'+esc(i.no||"-")+'</td>'+
-          '<td class="c-name"><div class="nm">'+esc(i.name)+'</div>'+(i.notes?'<div class="nt">'+esc(i.notes)+'</div>':"")+'</td>'+
+          '<td class="c-name"><div class="nm">'+esc(i.name)+'</div>'+(i.notes?'<div class="nt">'+esc(i.notes)+'</div>':"")+(i.addedBy?'<div class="by">Added by '+esc(i.addedBy)+'</div>':"")+'</td>'+
           '<td data-label="Category">'+esc(i.category)+'</td>'+
           '<td data-label="Quantity" class="num">'+fmtQty(i.qty)+' '+esc(i.unit||"")+'</td>'+
           '<td data-label="Priority"><span class="pri '+i.priority+'">'+PRI[i.priority]+'</span></td>'+
@@ -1049,6 +1052,12 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     $("#i-pri").value=i?i.priority:"normal";
     $("#i-st").value=i?i.status:"tobuy";
     $("#i-notes").value=i?(i.notes||""):"";
+    var byEl=$("#i-by");
+    if(i&&(i.addedBy||i.updatedBy)){
+      var line="Added by "+esc(i.addedBy||"?");
+      if(i.updatedBy&&i.updatedBy!==i.addedBy) line+=", last changed by "+esc(i.updatedBy);
+      byEl.innerHTML=line; byEl.hidden=false;
+    }else{ byEl.hidden=true; }
     show($("#itemModal"));
     setTimeout(function(){ $("#i-name").focus(); },0);
   }
@@ -1062,8 +1071,8 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     var v=editingId?(vesselById(editingVid)||vessel()):vessel();
     if(editingId){
       var it=v.items.filter(function(x){return x.id===editingId})[0];
-      if(it){ Object.assign(it,data); delete it.deleted; }
-    }else{ v.items.push(Object.assign({id:uid(),added:now()},data)); }
+      if(it){ if(sess&&sess.id!==it.addedBy) data.updatedBy=sess.id; Object.assign(it,data); delete it.deleted; }
+    }else{ v.items.push(Object.assign({id:uid(),added:now(),addedBy:sess?sess.id:""},data)); }
     save(); renderAll(); hide($("#itemModal"));
   }
 
