@@ -1309,8 +1309,9 @@
           "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "Item list put at chiller",
-          "updated": 1790737654989
+          "notes": "Item list put at chiller,Exp 11.1.27",
+          "updated": 1790748447548,
+          "updatedBy": "chelson"
         },
         {
           "id": "8us4wermunk4lrh",
