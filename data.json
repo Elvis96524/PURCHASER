@@ -2538,6 +2538,20 @@
           "status": "received",
           "notes": "",
           "updated": 1790734843477
+        },
+        {
+          "id": "3mn8tpdmunnjkyc",
+          "added": 1790745347028,
+          "addedBy": "beviana",
+          "name": "DAUN KUCHAI",
+          "no": "13",
+          "qty": 2,
+          "unit": "kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790745347028
         }
       ],
       "updated": 1790647249569
