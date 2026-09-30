@@ -2686,9 +2686,9 @@
           "unit": "Pcs",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790726825092
+          "updated": 1790750684938
         },
         {
           "id": "9epu7mymunckgrt",
