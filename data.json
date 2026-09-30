@@ -2260,9 +2260,9 @@
           "unit": "PCS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1790662844985
+          "updated": 1790734815982
         },
         {
           "id": "a88mtznmum11xjl",
