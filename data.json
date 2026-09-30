@@ -2566,6 +2566,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790745347028
+        },
+        {
+          "id": "2m15vcomunntv5o",
+          "added": 1790745826812,
+          "addedBy": "beviana",
+          "name": "LACTEL YOGURT ASST 130GM",
+          "no": "44",
+          "qty": 30,
+          "unit": "cup",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790745826812
         }
       ],
       "updated": 1790647249569
