@@ -43,9 +43,9 @@
           "unit": "kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "received",
+          "status": "na",
           "notes": "jering fresh beli pasar",
-          "updated": 1790737032531
+          "updated": 1790737038051
         }
       ],
       "updated": 1789967459033
