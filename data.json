@@ -2501,9 +2501,9 @@
           "unit": "Tray",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1790662833492
+          "updated": 1790734843477
         }
       ],
       "updated": 1790647249569
