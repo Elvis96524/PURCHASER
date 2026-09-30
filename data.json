@@ -2602,6 +2602,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790726757760
+        },
+        {
+          "id": "e3qnamcmuncilc4",
+          "added": 1790726825092,
+          "name": "Tatura salted butter 250gm",
+          "no": "132",
+          "qty": 5,
+          "unit": "Pcs",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790726825092
         }
       ],
       "updated": 1790653928901
