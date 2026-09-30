@@ -2693,6 +2693,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790739813442
+        },
+        {
+          "id": "5jr9nkymunk9ogi",
+          "added": 1790739846162,
+          "name": "D.pudina",
+          "no": "29",
+          "qty": 1,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790739846162
         }
       ],
       "updated": 1790739645127
