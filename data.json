@@ -1952,8 +1952,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "received",
-          "notes": "",
-          "updated": 1790752256492
+          "notes": "Exp 2.11.28",
+          "updated": 1790752269141,
+          "updatedBy": "chelson"
         },
         {
           "id": "1w2c03vmuklh8wr",
