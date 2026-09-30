@@ -2610,9 +2610,9 @@
           "unit": "Pkt",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790654010051
+          "updated": 1790746587947
         },
         {
           "id": "6x5bjnlmuncc8lg",
