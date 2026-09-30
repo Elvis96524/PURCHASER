@@ -2706,6 +2706,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790739846162
+        },
+        {
+          "id": "zaq4d4rmunka903",
+          "added": 1790739872787,
+          "name": "Jantung Pisang",
+          "no": "37",
+          "qty": 2,
+          "unit": "Nos",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790739872787
         }
       ],
       "updated": 1790739645127
