@@ -2669,9 +2669,10 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1790726757760
+          "status": "received",
+          "notes": "Exp 26.7.28",
+          "updated": 1790748928564,
+          "updatedBy": "chelson"
         },
         {
           "id": "e3qnamcmuncilc4",
