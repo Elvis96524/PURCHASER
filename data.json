@@ -32,6 +32,20 @@
           "id": "m4pgcp0mubrqm0w",
           "deleted": true,
           "updated": 1790026822748
+        },
+        {
+          "id": "lxjm65cmunil0g2",
+          "added": 1790737015682,
+          "addedBy": "lim",
+          "name": "jering",
+          "no": "22",
+          "qty": 10,
+          "unit": "kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790737015682
         }
       ],
       "updated": 1789967459033
