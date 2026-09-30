@@ -1311,6 +1311,20 @@
           "status": "tobuy",
           "notes": "Item list put at chiller",
           "updated": 1790737654989
+        },
+        {
+          "id": "8us4wermunk4lrh",
+          "added": 1790739609389,
+          "addedBy": "fathin",
+          "name": "Milo in can 240mlx24's",
+          "no": "",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790739609389
         }
       ],
       "updated": 1790054497831
