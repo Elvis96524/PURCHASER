@@ -2628,9 +2628,9 @@
           "unit": "Can",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Exp 7.6.28",
-          "updated": 1790748406624,
+          "updated": 1790748413489,
           "updatedBy": "chelson"
         },
         {
