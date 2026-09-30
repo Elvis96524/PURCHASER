@@ -1684,9 +1684,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1790664659949
+          "status": "received",
+          "notes": "replace to guava",
+          "updated": 1790732243192
         },
         {
           "id": "3d2yuh3mumbijxn",
