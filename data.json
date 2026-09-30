@@ -2773,6 +2773,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790740703333
+        },
+        {
+          "id": "crvr9vgmunkszkj",
+          "added": 1790740747027,
+          "name": "Yes beef curry 155g",
+          "no": "69",
+          "qty": 4,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790740747027
         }
       ],
       "updated": 1790739645127
