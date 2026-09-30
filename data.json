@@ -1710,9 +1710,9 @@
           "unit": "pcs",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1790664707291
+          "updated": 1790732213768
         }
       ],
       "updated": 1790229444289
