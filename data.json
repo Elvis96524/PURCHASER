@@ -1308,9 +1308,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Item list put at chiller,Exp 11.1.27",
-          "updated": 1790748447548,
+          "updated": 1790748564080,
           "updatedBy": "chelson"
         },
         {
