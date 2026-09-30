@@ -35,17 +35,8 @@
         },
         {
           "id": "lxjm65cmunil0g2",
-          "added": 1790737015682,
-          "addedBy": "lim",
-          "name": "jering",
-          "no": "22",
-          "qty": 10,
-          "unit": "kg",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "na",
-          "notes": "jering fresh beli pasar",
-          "updated": 1790737038051
+          "deleted": true,
+          "updated": 1790737042698
         }
       ],
       "updated": 1789967459033
