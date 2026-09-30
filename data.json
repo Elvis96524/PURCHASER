@@ -2286,9 +2286,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "na",
+          "status": "received",
           "notes": "",
-          "updated": 1790666566238
+          "updated": 1790757883094
         },
         {
           "id": "ioszq0rmum11bm0",
