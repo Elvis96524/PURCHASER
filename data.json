@@ -2760,6 +2760,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790740631842
+        },
+        {
+          "id": "gmaqseymunks1ut",
+          "added": 1790740703333,
+          "name": "Ikan masin keropok lumi",
+          "no": "68",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790740703333
         }
       ],
       "updated": 1790739645127
