@@ -2786,6 +2786,19 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790740747027
+        },
+        {
+          "id": "nxksz1xmunktnat",
+          "added": 1790740777781,
+          "name": "Nescafe mocha",
+          "no": "80",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790740777781
         }
       ],
       "updated": 1790739645127
