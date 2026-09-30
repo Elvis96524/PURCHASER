@@ -2388,6 +2388,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790653786100
+        },
+        {
+          "id": "8jxzygmmunnqng5",
+          "added": 1790745676853,
+          "addedBy": "beviana",
+          "name": "DAUN SELOM",
+          "no": "51",
+          "qty": 4,
+          "unit": "bdl",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790745676853
         }
       ],
       "updated": 1790666065509
