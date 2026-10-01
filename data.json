@@ -2391,9 +2391,9 @@
           "unit": "",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1790653786100
+          "updated": 1790823141572
         },
         {
           "id": "8jxzygmmunnqng5",
@@ -2405,9 +2405,9 @@
           "unit": "bdl",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1790745676853
+          "updated": 1790823143915
         }
       ],
       "updated": 1790666065509
