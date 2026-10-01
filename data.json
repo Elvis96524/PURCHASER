@@ -2901,6 +2901,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790822301976
+        },
+        {
+          "id": "spcjx9vmuoxdmbs",
+          "added": 1790822331208,
+          "addedBy": "fathin",
+          "name": "PUCUK PAKU PAKIS",
+          "no": "53",
+          "qty": 20,
+          "unit": "BDL",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790822331208
         }
       ],
       "updated": 1790822238184
