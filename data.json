@@ -2803,9 +2803,10 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1790740631842
+          "status": "received",
+          "notes": "Exp 28.02.27",
+          "updated": 1790822885162,
+          "updatedBy": "chelson"
         },
         {
           "id": "gmaqseymunks1ut",
