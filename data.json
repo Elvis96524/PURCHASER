@@ -2873,7 +2873,22 @@
     {
       "id": "e4gyllemuoxbmjs",
       "name": "HELANG PLATFORM (05/10/2026)",
-      "items": [],
+      "items": [
+        {
+          "id": "1rv6xtkmuoxc9uh",
+          "added": 1790822268377,
+          "addedBy": "fathin",
+          "name": "DAUN PUCUK UBI",
+          "no": "31",
+          "qty": 20,
+          "unit": "BDL",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790822268377
+        }
+      ],
       "updated": 1790822238184
     }
   ]
