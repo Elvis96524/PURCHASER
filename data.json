@@ -2865,9 +2865,9 @@
           "unit": "Tin",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Exp 4.6.29",
-          "updated": 1790824711195,
+          "updated": 1790824715068,
           "updatedBy": "chelson"
         }
       ],
