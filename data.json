@@ -2851,9 +2851,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1790823124394
+          "updated": 1790833096911
         },
         {
           "id": "0lxsnrumuozvley",
