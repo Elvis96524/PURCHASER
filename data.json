@@ -2248,9 +2248,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790647000585
+          "updated": 1790824881309
         },
         {
           "id": "lulveznmum104m0",
