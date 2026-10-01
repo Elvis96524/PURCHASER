@@ -2868,6 +2868,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790826529066
+        },
+        {
+          "id": "tdcvqrimuozz547",
+          "added": 1790826694567,
+          "addedBy": "farah",
+          "name": "LKK Plum sauce 260gm",
+          "no": "93",
+          "qty": 1,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790826694567
         }
       ],
       "updated": 1790739645127
