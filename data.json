@@ -2973,6 +2973,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790823218921
+        },
+        {
+          "id": "ng9uukimuoxxcmh",
+          "added": 1790823251753,
+          "addedBy": "fathin",
+          "name": "D.DAIRY LOW FAT 1LT",
+          "no": "3",
+          "qty": 2,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790823251753
         }
       ],
       "updated": 1790822238184
