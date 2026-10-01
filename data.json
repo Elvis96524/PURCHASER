@@ -2854,6 +2854,20 @@
           "status": "ordered",
           "notes": "",
           "updated": 1790823124394
+        },
+        {
+          "id": "0lxsnrumuozvley",
+          "added": 1790826529066,
+          "addedBy": "chelson",
+          "name": "Manggo",
+          "no": "7",
+          "qty": 5,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790826529066
         }
       ],
       "updated": 1790739645127
