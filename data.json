@@ -2945,6 +2945,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790822371456
+        },
+        {
+          "id": "pxqkhhtmuoxw6ch",
+          "added": 1790823196961,
+          "addedBy": "fathin",
+          "name": "PHILIPINE MANGO",
+          "no": "66",
+          "qty": 15,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790823196961
         }
       ],
       "updated": 1790822238184
