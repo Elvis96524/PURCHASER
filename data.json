@@ -2570,9 +2570,9 @@
           "unit": "kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1790748610844
+          "updated": 1790824889685
         },
         {
           "id": "2m15vcomunntv5o",
