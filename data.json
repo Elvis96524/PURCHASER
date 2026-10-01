@@ -2816,9 +2816,9 @@
           "unit": "Kg",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790740703333
+          "updated": 1790817402592
         },
         {
           "id": "crvr9vgmunkszkj",
