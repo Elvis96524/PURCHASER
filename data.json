@@ -1193,9 +1193,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "na",
+          "status": "received",
           "notes": "Btl don't have,soft pkt 1liter have",
-          "updated": 1790653564344
+          "updated": 1790820062184
         },
         {
           "id": "rzm8px7mukt9w6j",
