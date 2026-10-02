@@ -4184,6 +4184,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790928514143
+        },
+        {
+          "id": "jomwqcsmuqom8dk",
+          "added": 1790928548840,
+          "addedBy": "fathin",
+          "name": "BUDU 200GM",
+          "no": "",
+          "qty": 6,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790928548840
         }
       ],
       "updated": 1790927006554
