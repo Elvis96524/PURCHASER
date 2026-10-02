@@ -2909,6 +2909,20 @@
           "notes": "Exp 4.6.29",
           "updated": 1790824715068,
           "updatedBy": "chelson"
+        },
+        {
+          "id": "nlp90btmuqiqi8c",
+          "added": 1790918670540,
+          "addedBy": "chelson",
+          "name": "Milo can 24's240ml",
+          "no": "REMAINING no.1",
+          "qty": 4,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790918670540
         }
       ],
       "updated": 1790740894967
