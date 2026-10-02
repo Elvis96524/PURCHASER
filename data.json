@@ -3516,6 +3516,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790924968182
+        },
+        {
+          "id": "bsez9wcmuqmifvp",
+          "added": 1790925012709,
+          "addedBy": "chelson",
+          "name": "Margarine 18kg",
+          "no": "53",
+          "qty": 2,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790925012709
         }
       ],
       "updated": 1790918931600
