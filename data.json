@@ -3999,13 +3999,13 @@
           "addedBy": "fathin",
           "name": "BEAN SPROUT",
           "no": "",
-          "qty": 1,
-          "unit": "",
-          "category": "Dry",
+          "qty": 10,
+          "unit": "KG",
+          "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1790926693002
+          "updated": 1790926705379
         }
       ],
       "updated": 1790926654803
