@@ -3794,7 +3794,22 @@
     {
       "id": "sgls793muqm7i1d",
       "name": "OS (2/10/2026 order)",
-      "items": [],
+      "items": [
+        {
+          "id": "yuoag81muqm9cdu",
+          "added": 1790924588274,
+          "addedBy": "chelson",
+          "name": "Pringles assorted 110g",
+          "no": "90",
+          "qty": 10,
+          "unit": "Tub",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790924588274
+        }
+      ],
       "updated": 1790924502289
     }
   ]
