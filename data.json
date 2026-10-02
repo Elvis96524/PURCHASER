@@ -3427,11 +3427,11 @@
           "no": "58",
           "qty": 50,
           "unit": "Pkt",
-          "category": "Chiller",
+          "category": "Frozen",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1790919195265
+          "updated": 1790919205016
         }
       ],
       "updated": 1790918931600
