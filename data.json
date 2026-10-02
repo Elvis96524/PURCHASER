@@ -3119,6 +3119,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790910922490
+        },
+        {
+          "id": "mo09xkpmuqe5aka",
+          "added": 1790910962362,
+          "addedBy": "chelson",
+          "name": "Salam",
+          "no": "30",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790910962362
         }
       ],
       "updated": 1790910548939
