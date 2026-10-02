@@ -3530,6 +3530,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790925012709
+        },
+        {
+          "id": "ytn9x5gmuqmk8ql",
+          "added": 1790925096765,
+          "addedBy": "chelson",
+          "name": "Fourway crab",
+          "no": "92",
+          "qty": 10,
+          "unit": "Pack",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790925096765
         }
       ],
       "updated": 1790918931600
