@@ -3717,6 +3717,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790921153464
+        },
+        {
+          "id": "49hw6nemuqka3hu",
+          "added": 1790921264178,
+          "addedBy": "fathin",
+          "name": "BLACK PEPPER POWDER 400GM",
+          "no": "40",
+          "qty": 4,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790921264178
         }
       ],
       "updated": 1790920988250
