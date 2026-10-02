@@ -3187,6 +3187,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790918222485
+        },
+        {
+          "id": "epr3weomuqiixka",
+          "added": 1790918317162,
+          "addedBy": "chelson",
+          "name": "White claim 1kg",
+          "no": "25",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790918317162
         }
       ],
       "updated": 1790910729785
