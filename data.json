@@ -3509,6 +3509,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790920516950
+        },
+        {
+          "id": "fnb39qbmuqjupki",
+          "added": 1790920546290,
+          "addedBy": "fathin",
+          "name": "JINTAN MANIS POWDER",
+          "no": "46",
+          "qty": 3,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790920546290
         }
       ],
       "updated": 1790920445631
