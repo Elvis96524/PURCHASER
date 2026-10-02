@@ -3992,7 +3992,22 @@
     {
       "id": "vtcc3yfmuqnhmxf",
       "name": "PETRO DIAMOND (08.10.2026)",
-      "items": [],
+      "items": [
+        {
+          "id": "d7hy0wxmuqnigei",
+          "added": 1790926693002,
+          "addedBy": "fathin",
+          "name": "BEAN SPROUT",
+          "no": "",
+          "qty": 1,
+          "unit": "",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790926693002
+        }
+      ],
       "updated": 1790926654803
     }
   ]
