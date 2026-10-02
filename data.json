@@ -3568,17 +3568,8 @@
         },
         {
           "id": "llyjt7kmuqjygsi",
-          "added": 1790920721538,
-          "addedBy": "fathin",
-          "name": "PUCUK UBI",
-          "no": "32",
-          "qty": 20,
-          "unit": "BDL",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1790920721538
+          "deleted": true,
+          "updated": 1790920767522
         },
         {
           "id": "pmv0u4hmuqjz3t2",
