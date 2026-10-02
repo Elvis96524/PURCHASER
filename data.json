@@ -4174,6 +4174,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790928397743
+        },
+        {
+          "id": "zhko9crmuqojjif",
+          "added": 1790928423303,
+          "addedBy": "fathin",
+          "name": "NONA KETUPAT 780GM",
+          "no": "",
+          "qty": 8,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790928423303
         }
       ],
       "updated": 1790927006554
