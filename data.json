@@ -3647,7 +3647,22 @@
     {
       "id": "yxrylfxmuqk46l6",
       "name": "OS ONE (07/10/2026)",
-      "items": [],
+      "items": [
+        {
+          "id": "g6sx7gamuqk4pxw",
+          "added": 1790921013332,
+          "addedBy": "fathin",
+          "name": "PUCUK UBI",
+          "no": "28",
+          "qty": 10,
+          "unit": "BDL",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790921013332
+        }
+      ],
       "updated": 1790920988250
     }
   ]
