@@ -3334,7 +3334,22 @@
     {
       "id": "r2k4b9rmuqiw3o0",
       "name": "Wisdom(2/10/26 order)",
-      "items": [],
+      "items": [
+        {
+          "id": "nqf8rdymuqix2sy",
+          "added": 1790918977138,
+          "addedBy": "chelson",
+          "name": "Kantan",
+          "no": "6",
+          "qty": 20,
+          "unit": "Pcs",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790918977138
+        }
+      ],
       "updated": 1790918931600
     }
   ]
