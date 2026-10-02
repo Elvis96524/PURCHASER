@@ -3418,6 +3418,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790919162706
+        },
+        {
+          "id": "5qj8ojimuqj1r41",
+          "added": 1790919195265,
+          "addedBy": "chelson",
+          "name": "Tempe",
+          "no": "58",
+          "qty": 50,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790919195265
         }
       ],
       "updated": 1790918931600
