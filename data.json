@@ -4160,6 +4160,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790928374600
+        },
+        {
+          "id": "3lwvyuvmuqoizsf",
+          "added": 1790928397744,
+          "addedBy": "fathin",
+          "name": "OLIVE OIL 250ML/BTL",
+          "no": "",
+          "qty": 1,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790928397743
         }
       ],
       "updated": 1790927006554
