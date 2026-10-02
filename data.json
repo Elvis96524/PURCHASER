@@ -4146,6 +4146,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790926924482
+        },
+        {
+          "id": "28554numuqoihxm",
+          "added": 1790928374602,
+          "addedBy": "fathin",
+          "name": "MARGARINE 18KG",
+          "no": "",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790928374600
         }
       ],
       "updated": 1790927006554
