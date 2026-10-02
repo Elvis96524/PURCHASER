@@ -3640,6 +3640,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790920957751
+        },
+        {
+          "id": "wz725v7muqkdclp",
+          "added": 1790921415949,
+          "addedBy": "fathin",
+          "name": "PRINGLES ASST FLVR 110GM",
+          "no": "95",
+          "qty": 8,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790921415949
         }
       ],
       "updated": 1790920445631
