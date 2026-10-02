@@ -3467,7 +3467,22 @@
     {
       "id": "3y2hd14muqjsjwf",
       "name": "KEYFIELD WISDOM ( 06/07/2026 )",
-      "items": [],
+      "items": [
+        {
+          "id": "4b83ro7muqjt18q",
+          "added": 1790920468106,
+          "addedBy": "fathin",
+          "name": "SANTAN KARA 1LT",
+          "no": "10",
+          "qty": 12,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790920468106
+        }
+      ],
       "updated": 1790920445631
     }
   ]
