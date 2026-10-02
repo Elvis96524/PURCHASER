@@ -3035,7 +3035,22 @@
     {
       "id": "pjhc1ssmuqdwfkb",
       "name": "Sk prudence OCT 2ND ORDER",
-      "items": [],
+      "items": [
+        {
+          "id": "p0uo1numuqdx681",
+          "added": 1790910583489,
+          "addedBy": "chelson",
+          "name": "Bamboo shoots 552gm",
+          "no": "23",
+          "qty": 3,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790910583489
+        }
+      ],
       "updated": 1790910548939
     }
   ]
