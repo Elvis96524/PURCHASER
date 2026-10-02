@@ -3460,6 +3460,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790919454011
+        },
+        {
+          "id": "xg63zfgmuqmf0jv",
+          "added": 1790924852875,
+          "addedBy": "chelson",
+          "name": "Santan Kara 1LITER",
+          "no": "10",
+          "qty": 12,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790924852875
         }
       ],
       "updated": 1790918931600
