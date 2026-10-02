@@ -3133,6 +3133,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790910962362
+        },
+        {
+          "id": "0q2msifmuqe76o8",
+          "added": 1790911050632,
+          "addedBy": "chelson",
+          "name": "Jantung pisang",
+          "no": "40",
+          "qty": 2,
+          "unit": "Nos",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790911050632
         }
       ],
       "updated": 1790910548939
