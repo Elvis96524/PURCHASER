@@ -3551,6 +3551,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790920596837
+        },
+        {
+          "id": "pk7bobzmuqjwf0u",
+          "added": 1790920625934,
+          "addedBy": "fathin",
+          "name": "ASSORTED VITAGEN LESS SUGAR",
+          "no": "103",
+          "qty": 4,
+          "unit": "PKT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790920625933
         }
       ],
       "updated": 1790920445631
