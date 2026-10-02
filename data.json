@@ -3661,6 +3661,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790921013332
+        },
+        {
+          "id": "4rcgkoxmuqk5br0",
+          "added": 1790921041596,
+          "addedBy": "fathin",
+          "name": "BEAN SPROUTS",
+          "no": "46",
+          "qty": 10,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790921041596
         }
       ],
       "updated": 1790920988250
