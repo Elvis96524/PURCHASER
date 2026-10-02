@@ -3147,6 +3147,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790911050632
+        },
+        {
+          "id": "6eiz4emmuqe7xpp",
+          "added": 1790911085677,
+          "addedBy": "chelson",
+          "name": "Nangka muda",
+          "no": "53",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790911085677
         }
       ],
       "updated": 1790910548939
