@@ -3689,6 +3689,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790921071306
+        },
+        {
+          "id": "go0adapmuqk6gbh",
+          "added": 1790921094173,
+          "addedBy": "fathin",
+          "name": "FRESH PETAI",
+          "no": "54",
+          "qty": 6,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790921094173
         }
       ],
       "updated": 1790920988250
