@@ -2923,6 +2923,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790918670540
+        },
+        {
+          "id": "y60r21hmuqir9fk",
+          "added": 1790918705792,
+          "addedBy": "chelson",
+          "name": "Vsoy original 1liter",
+          "no": "REMAINING no.2",
+          "qty": 4,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790918705792
         }
       ],
       "updated": 1790740894967
