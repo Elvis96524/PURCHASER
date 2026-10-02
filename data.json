@@ -2997,9 +2997,9 @@
           "unit": "BDL",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790822268377
+          "updated": 1790925819678
         },
         {
           "id": "x7g5lrjmuoxczrs",
