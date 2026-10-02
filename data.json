@@ -3822,6 +3822,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790924621966
+        },
+        {
+          "id": "v248uudmuqmbupw",
+          "added": 1790924705348,
+          "addedBy": "chelson",
+          "name": "Black pepper powder 400gm",
+          "no": "40",
+          "qty": 1,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790924705348
         }
       ],
       "updated": 1790924502289
