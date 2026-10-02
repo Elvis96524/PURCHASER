@@ -3558,6 +3558,20 @@
           "status": "tobuy",
           "notes": "Hot spicy 2tub Exp\nCheese 3tub Exp\nOriginal 3tub Exp",
           "updated": 1790925206950
+        },
+        {
+          "id": "450j2itmuqmo71p",
+          "added": 1790925281197,
+          "addedBy": "chelson",
+          "name": "MURUKU POPO 12GMX30'S",
+          "no": "97",
+          "qty": 8,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "Pedas 4tub Exp\nOri 4tub Exp",
+          "updated": 1790925281197
         }
       ],
       "updated": 1790918931600
