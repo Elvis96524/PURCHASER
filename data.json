@@ -3348,6 +3348,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790918977138
+        },
+        {
+          "id": "swsjbhdmuqixun1",
+          "added": 1790919013213,
+          "addedBy": "chelson",
+          "name": "Pucuk ubi",
+          "no": "32",
+          "qty": 20,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790919013213
         }
       ],
       "updated": 1790918931600
