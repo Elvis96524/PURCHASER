@@ -3703,6 +3703,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790921094173
+        },
+        {
+          "id": "nxv4s55muqk7q2h",
+          "added": 1790921153465,
+          "addedBy": "fathin",
+          "name": "TEMPE",
+          "no": "53",
+          "qty": 20,
+          "unit": "PKT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790921153464
         }
       ],
       "updated": 1790920988250
