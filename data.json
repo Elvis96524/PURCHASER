@@ -3474,6 +3474,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790924852875
+        },
+        {
+          "id": "oc2jx1vmuqmfq44",
+          "added": 1790924886004,
+          "addedBy": "chelson",
+          "name": "Bears basmati 5kg",
+          "no": "15",
+          "qty": 2,
+          "unit": "Bag",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790924886004
         }
       ],
       "updated": 1790918931600
