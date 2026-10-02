@@ -3105,6 +3105,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790910893870
+        },
+        {
+          "id": "voerv0zmuqe4fsq",
+          "added": 1790910922490,
+          "addedBy": "chelson",
+          "name": "Pakis",
+          "no": "29",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790910922490
         }
       ],
       "updated": 1790910548939
