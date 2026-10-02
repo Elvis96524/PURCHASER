@@ -3208,6 +3208,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790918442497
+        },
+        {
+          "id": "ghxk44rmuqimfv4",
+          "added": 1790918480848,
+          "addedBy": "chelson",
+          "name": "Dragon fruit red",
+          "no": "49",
+          "qty": 3,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790918480848
         }
       ],
       "updated": 1790910548939
