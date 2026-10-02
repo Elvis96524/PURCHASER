@@ -3502,6 +3502,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790924917689
+        },
+        {
+          "id": "kygbymhmuqmhhiu",
+          "added": 1790924968182,
+          "addedBy": "chelson",
+          "name": "Jintan manis powder",
+          "no": "46",
+          "qty": 3,
+          "unit": "Kg",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790924968182
         }
       ],
       "updated": 1790918931600
