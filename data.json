@@ -4306,17 +4306,8 @@
         },
         {
           "id": "sfufvjcmurn2gd2",
-          "added": 1790986412630,
-          "addedBy": "chelson",
-          "name": "Ovalette",
-          "no": "105",
-          "qty": 3,
-          "unit": "Pkt",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1790986412630
+          "deleted": true,
+          "updated": 1790988053918
         },
         {
           "id": "3rblcpgmurn3kvs",
