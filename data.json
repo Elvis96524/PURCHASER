@@ -4415,6 +4415,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790986758198
+        },
+        {
+          "id": "q2t71ydmurnb0yd",
+          "added": 1790986812565,
+          "addedBy": "chelson",
+          "name": "Rempah redang 250gm adabi",
+          "no": "123",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790986812565
         }
       ],
       "updated": 1790985919858
