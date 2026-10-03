@@ -4246,9 +4246,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790985992516
+          "updated": 1791005171101
         },
         {
           "id": "cespn21murmvpwc",
