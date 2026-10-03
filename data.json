@@ -4114,9 +4114,10 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1790926901314
+          "status": "received",
+          "notes": "90g,95g",
+          "updated": 1791010131241,
+          "updatedBy": "chelson"
         },
         {
           "id": "lm9oxu7muqnnf0i",
