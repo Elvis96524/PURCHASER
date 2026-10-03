@@ -3676,9 +3676,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "No less sugar,buy standard only twin pack",
-          "updated": 1791008578955,
+          "updated": 1791008582464,
           "updatedBy": "chelson"
         },
         {
