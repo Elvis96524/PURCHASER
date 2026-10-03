@@ -4471,6 +4471,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790986934140
+        },
+        {
+          "id": "29tdr6cmurni9g5",
+          "added": 1790987150165,
+          "addedBy": "chelson",
+          "name": "Budu 150gm",
+          "no": "38",
+          "qty": 5,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790987150165
         }
       ],
       "updated": 1790985919858
