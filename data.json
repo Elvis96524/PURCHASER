@@ -4317,6 +4317,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790986412630
+        },
+        {
+          "id": "3rblcpgmurn3kvs",
+          "added": 1790986465144,
+          "addedBy": "chelson",
+          "name": "Nestle Omega plus acticol 1kg",
+          "no": "106",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790986465144
         }
       ],
       "updated": 1790985919858
