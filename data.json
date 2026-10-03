@@ -4289,6 +4289,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790986298306
+        },
+        {
+          "id": "v4nhbpjmurn1s4p",
+          "added": 1790986381225,
+          "addedBy": "chelson",
+          "name": "Serbuk koko 1kg",
+          "no": "101",
+          "qty": 2,
+          "unit": "Kg",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790986381225
         }
       ],
       "updated": 1790985919858
