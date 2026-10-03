@@ -3591,9 +3591,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "Change brand",
-          "updated": 1790992799468,
+          "updated": 1790992802155,
           "updatedBy": "chelson"
         },
         {
