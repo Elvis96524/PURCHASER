@@ -3899,9 +3899,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790921318713
+          "updated": 1791009624414
         }
       ],
       "updated": 1790920988250
