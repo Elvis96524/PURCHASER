@@ -4517,9 +4517,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790987256617
+          "updated": 1791005421199
         },
         {
           "id": "lep34yhmurnm6ay",
