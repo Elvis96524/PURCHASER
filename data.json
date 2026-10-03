@@ -4275,6 +4275,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790986127530
+        },
+        {
+          "id": "2wbc2x8murn005e",
+          "added": 1790986298306,
+          "addedBy": "chelson",
+          "name": "Mi sedaap soto CUP 24'S",
+          "no": "83",
+          "qty": 2,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790986298306
         }
       ],
       "updated": 1790985919858
