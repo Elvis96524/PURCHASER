@@ -4447,9 +4447,9 @@
           "unit": "Tub",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790986903513
+          "updated": 1791006951349
         },
         {
           "id": "c2i67b8murndmrg",
