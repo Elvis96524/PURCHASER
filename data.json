@@ -4335,9 +4335,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790986510075
+          "updated": 1791005577254
         },
         {
           "id": "hejs4pomurn625x",
