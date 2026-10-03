@@ -3592,8 +3592,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1790920468106
+          "notes": "Change brand",
+          "updated": 1790992799468,
+          "updatedBy": "chelson"
         },
         {
           "id": "hpkjrlcmuqjtqh3",
