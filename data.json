@@ -4499,6 +4499,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790987187189
+        },
+        {
+          "id": "q1sqcxmmurnjpkf",
+          "added": 1790987217711,
+          "addedBy": "chelson",
+          "name": "Pudding powder",
+          "no": "59",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1790987217711
         }
       ],
       "updated": 1790985919858
