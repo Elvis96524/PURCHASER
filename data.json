@@ -4365,9 +4365,9 @@
           "unit": "Pcs",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790986634417
+          "updated": 1791166240463
         },
         {
           "id": "tb00mlxmurn8970",
