@@ -4613,6 +4613,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791166872787
+        },
+        {
+          "id": "6e77ahamuumitsb",
+          "added": 1791166895435,
+          "addedBy": "fathin",
+          "name": "JANTUNG PISANG",
+          "no": "25",
+          "qty": 5,
+          "unit": "NOS",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791166895435
         }
       ],
       "updated": 1791166813779
