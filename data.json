@@ -4683,6 +4683,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791166993330
+        },
+        {
+          "id": "nub90zlmuumlh4a",
+          "added": 1791167018986,
+          "addedBy": "fathin",
+          "name": "KIWI FRUIT",
+          "no": "54",
+          "qty": 2,
+          "unit": "BOX",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791167018986
         }
       ],
       "updated": 1791166813779
