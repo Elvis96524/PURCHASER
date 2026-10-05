@@ -4641,6 +4641,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791166920242
+        },
+        {
+          "id": "qg0bjeimuumjwiz",
+          "added": 1791166945643,
+          "addedBy": "fathin",
+          "name": "LAKSA NOODLE",
+          "no": "36",
+          "qty": 24,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791166945643
         }
       ],
       "updated": 1791166813779
