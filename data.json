@@ -5209,6 +5209,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791184540619
+        },
+        {
+          "id": "amvvr6wmuuxl0z6",
+          "added": 1791185473842,
+          "addedBy": "fathin",
+          "name": "DRAGON FRUIT",
+          "no": "93",
+          "qty": 6,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791185473842
         }
       ],
       "updated": 1791183367852
