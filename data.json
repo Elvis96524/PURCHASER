@@ -4591,14 +4591,14 @@
           "added": 1791166833500,
           "addedBy": "fathin",
           "name": "DAUN PUCUK UBI",
-          "no": "",
-          "qty": 1,
-          "unit": "",
-          "category": "Dry",
+          "no": "21",
+          "qty": 7,
+          "unit": "IKAT",
+          "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791166837051
+          "updated": 1791166848860
         }
       ],
       "updated": 1791166813779
