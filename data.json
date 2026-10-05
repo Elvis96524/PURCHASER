@@ -5111,6 +5111,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791184289915
+        },
+        {
+          "id": "k0phn3tmuuww8jv",
+          "added": 1791184317259,
+          "addedBy": "fathin",
+          "name": "PETAI BERTANGKAI",
+          "no": "50",
+          "qty": 1,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791184317259
         }
       ],
       "updated": 1791183367852
