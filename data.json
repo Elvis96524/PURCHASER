@@ -5055,6 +5055,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791184088707
+        },
+        {
+          "id": "dieuq7imuuwtkub",
+          "added": 1791184193219,
+          "addedBy": "fathin",
+          "name": "PISANG EMAS",
+          "no": "1",
+          "qty": 10,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791184193219
         }
       ],
       "updated": 1791183367852
