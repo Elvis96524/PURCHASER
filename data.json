@@ -5245,6 +5245,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791244007278
+        },
+        {
+          "id": "oh91wmumuvwghlu",
+          "added": 1791244048674,
+          "addedBy": "chelson",
+          "name": "Mister potato 75gm",
+          "no": "30",
+          "qty": 8,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791244048674
         }
       ],
       "updated": 1791243962425
