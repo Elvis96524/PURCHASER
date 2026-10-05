@@ -4761,6 +4761,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183465044
+        },
+        {
+          "id": "3wf50esmuuweosj",
+          "added": 1791183498499,
+          "addedBy": "fathin",
+          "name": "MURUKU 900GM",
+          "no": "49",
+          "qty": 10,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183498499
         }
       ],
       "updated": 1791183367852
