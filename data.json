@@ -5078,11 +5078,11 @@
           "no": "5",
           "qty": 3,
           "unit": "KG",
-          "category": "Dry",
+          "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791184221627
+          "updated": 1791184579651
         },
         {
           "id": "11wasvkmuuwv43n",
