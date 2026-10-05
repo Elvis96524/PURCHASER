@@ -5167,6 +5167,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791184391395
+        },
+        {
+          "id": "4puwctcmuuwyumr",
+          "added": 1791184439187,
+          "addedBy": "fathin",
+          "name": "SALTED EGG/TELUR MASIN (LOCAL WHITE)",
+          "no": "81",
+          "qty": 30,
+          "unit": "PCS",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791184439187
         }
       ],
       "updated": 1791183367852
