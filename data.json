@@ -4585,7 +4585,22 @@
     {
       "id": "lom6axamuumh2s3",
       "name": "KEYFIELD HARMONY",
-      "items": [],
+      "items": [
+        {
+          "id": "crrg56bmuumhhzw",
+          "added": 1791166833500,
+          "addedBy": "fathin",
+          "name": "DAUN PUCUK UBI",
+          "no": "",
+          "qty": 1,
+          "unit": "",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791166833500
+        }
+      ],
       "updated": 1791166813779
     }
   ]
