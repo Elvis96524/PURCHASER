@@ -4985,6 +4985,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183912380
+        },
+        {
+          "id": "krk1ewwmuuwo877",
+          "added": 1791183943555,
+          "addedBy": "fathin",
+          "name": "FRESH JAGUNG",
+          "no": "97",
+          "qty": 10,
+          "unit": "PCS",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183943555
         }
       ],
       "updated": 1791183367852
