@@ -4859,6 +4859,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183658051
+        },
+        {
+          "id": "ede6ts2muuwiorv",
+          "added": 1791183685099,
+          "addedBy": "fathin",
+          "name": "MEE SEDAP SOTO CUP (24'S/CTN)",
+          "no": "63",
+          "qty": 2,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183685099
         }
       ],
       "updated": 1791183367852
