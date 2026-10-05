@@ -5069,6 +5069,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791184193219
+        },
+        {
+          "id": "11l0t8imuuwu6rf",
+          "added": 1791184221627,
+          "addedBy": "fathin",
+          "name": "MANGO/MANGGA LEMAK MANIS",
+          "no": "5",
+          "qty": 3,
+          "unit": "KG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791184221627
         }
       ],
       "updated": 1791183367852
