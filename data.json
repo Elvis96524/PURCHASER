@@ -4627,6 +4627,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791166895435
+        },
+        {
+          "id": "xbsr1armuumjcxf",
+          "added": 1791166920243,
+          "addedBy": "fathin",
+          "name": "JERING",
+          "no": "26",
+          "qty": 5,
+          "unit": "5KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791166920242
         }
       ],
       "updated": 1791166813779
