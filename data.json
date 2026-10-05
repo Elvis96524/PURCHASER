@@ -4887,6 +4887,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183709555
+        },
+        {
+          "id": "18v7jc1muuwjr3n",
+          "added": 1791183734771,
+          "addedBy": "fathin",
+          "name": "RED BEAN PASTE 1KG",
+          "no": "77",
+          "qty": 4,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183734771
         }
       ],
       "updated": 1791183367852
