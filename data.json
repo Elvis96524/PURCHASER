@@ -4845,6 +4845,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183626083
+        },
+        {
+          "id": "ca1w1qsmuuwi3wj",
+          "added": 1791183658051,
+          "addedBy": "fathin",
+          "name": "MAGGI CUP TOM YAM 72GX54'S",
+          "no": "61",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183658051
         }
       ],
       "updated": 1791183367852
