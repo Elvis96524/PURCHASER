@@ -5097,6 +5097,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791184264835
+        },
+        {
+          "id": "mfmn77qmuuwvngb",
+          "added": 1791184289915,
+          "addedBy": "fathin",
+          "name": "NANGKA MUDA",
+          "no": "47",
+          "qty": 4,
+          "unit": "PKT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791184289915
         }
       ],
       "updated": 1791183367852
