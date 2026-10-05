@@ -4943,6 +4943,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183809643
+        },
+        {
+          "id": "alcjnk7muuwlvhf",
+          "added": 1791183833763,
+          "addedBy": "fathin",
+          "name": "KLFC MINCED CHICKEN 400GM",
+          "no": "86",
+          "qty": 5,
+          "unit": "PKT",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183833763
         }
       ],
       "updated": 1791183367852
