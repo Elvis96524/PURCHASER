@@ -4669,6 +4669,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791166973139
+        },
+        {
+          "id": "6bx2hz6muumkxbm",
+          "added": 1791166993330,
+          "addedBy": "fathin",
+          "name": "PUCUK PAKU",
+          "no": "53",
+          "qty": 20,
+          "unit": "IKAT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791166993330
         }
       ],
       "updated": 1791166813779
