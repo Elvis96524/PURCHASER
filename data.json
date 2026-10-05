@@ -5027,6 +5027,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791184023531
+        },
+        {
+          "id": "olbylk5muuwqokj",
+          "added": 1791184058083,
+          "addedBy": "fathin",
+          "name": "SATAY KAMBING",
+          "no": "96",
+          "qty": 100,
+          "unit": "PCS",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791184058083
         }
       ],
       "updated": 1791183367852
