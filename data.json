@@ -4711,6 +4711,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791167058714
+        },
+        {
+          "id": "c9c0au6muumn2gi",
+          "added": 1791167093298,
+          "addedBy": "fathin",
+          "name": "BEAN SPROUT",
+          "no": "9",
+          "qty": 5,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791167093298
         }
       ],
       "updated": 1791166813779
