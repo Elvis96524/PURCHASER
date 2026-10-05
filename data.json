@@ -4733,7 +4733,22 @@
     {
       "id": "lzgt4qymuuwbvzg",
       "name": "SK PERFECT ( OCT 2ND ORDER )",
-      "items": [],
+      "items": [
+        {
+          "id": "xaqickqmuuwdhzw",
+          "added": 1791183443036,
+          "addedBy": "fathin",
+          "name": "NESCAFE 3IN1 RICH 25'SX19GM",
+          "no": "22",
+          "qty": 5,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183443036
+        }
+      ],
       "updated": 1791183367852
     }
   ]
