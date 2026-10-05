@@ -4831,6 +4831,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183594947
+        },
+        {
+          "id": "pr7h6i0muuwhf8j",
+          "added": 1791183626083,
+          "addedBy": "fathin",
+          "name": "MAGGI CUP CURRY 64GX54'S",
+          "no": "60",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183626083
         }
       ],
       "updated": 1791183367852
