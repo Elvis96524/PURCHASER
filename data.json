@@ -4929,6 +4929,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183784731
+        },
+        {
+          "id": "2gvwbsrmuuwlcvf",
+          "added": 1791183809643,
+          "addedBy": "fathin",
+          "name": "DONGGUAN MEE HOON 260GM",
+          "no": "83",
+          "qty": 10,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183809643
         }
       ],
       "updated": 1791183367852
