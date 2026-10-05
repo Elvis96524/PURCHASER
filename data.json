@@ -4957,6 +4957,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183833763
+        },
+        {
+          "id": "886kx1dmuuwmgub",
+          "added": 1791183861443,
+          "addedBy": "fathin",
+          "name": "NESCAFE LATTE 240MLX24",
+          "no": "90",
+          "qty": 3,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183861443
         }
       ],
       "updated": 1791183367852
