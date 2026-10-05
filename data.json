@@ -4599,6 +4599,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791166848860
+        },
+        {
+          "id": "y5x8jwxmuumicb7",
+          "added": 1791166872787,
+          "addedBy": "fathin",
+          "name": "DAUN PUCK GAJUS",
+          "no": "24",
+          "qty": 7,
+          "unit": "IKAT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791166872787
         }
       ],
       "updated": 1791166813779
