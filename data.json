@@ -4803,6 +4803,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183542043
+        },
+        {
+          "id": "6j9a0bimuuwg2wz",
+          "added": 1791183563459,
+          "addedBy": "fathin",
+          "name": "WHOLEMEAL BREAD 400GM",
+          "no": "53",
+          "qty": 10,
+          "unit": "PKT",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183563459
         }
       ],
       "updated": 1791183367852
