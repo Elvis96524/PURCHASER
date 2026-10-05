@@ -4789,6 +4789,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183519859
+        },
+        {
+          "id": "ccdaqxxmuuwfme3",
+          "added": 1791183542043,
+          "addedBy": "fathin",
+          "name": "BURGER BUN 6'S",
+          "no": "52",
+          "qty": 10,
+          "unit": "PKT",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183542043
         }
       ],
       "updated": 1791183367852
