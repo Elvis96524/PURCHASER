@@ -4697,6 +4697,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791167018986
+        },
+        {
+          "id": "776fiovmuummbru",
+          "added": 1791167058714,
+          "addedBy": "fathin",
+          "name": "DAUN SELOM",
+          "no": "23",
+          "qty": 7,
+          "unit": "IKAT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791167058714
         }
       ],
       "updated": 1791166813779
