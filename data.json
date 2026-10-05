@@ -3872,9 +3872,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1791006753498
+          "updated": 1791243890073
         },
         {
           "id": "d2ovoxcmuqkauna",
