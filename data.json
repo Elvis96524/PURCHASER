@@ -4901,6 +4901,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183734771
+        },
+        {
+          "id": "kca146nmuuwkdwz",
+          "added": 1791183764339,
+          "addedBy": "fathin",
+          "name": "NESTLE OMEGA PLUS ACTICOL 1KG",
+          "no": "79",
+          "qty": 2,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183764339
         }
       ],
       "updated": 1791183367852
