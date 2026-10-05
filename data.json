@@ -4873,6 +4873,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183685099
+        },
+        {
+          "id": "ddc7yuhmuuwj24k",
+          "added": 1791183702404,
+          "addedBy": "fathin",
+          "name": "BERAS BASMATHI 5KG",
+          "no": "64",
+          "qty": 20,
+          "unit": "",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183702404
         }
       ],
       "updated": 1791183367852
