@@ -5041,6 +5041,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791184058083
+        },
+        {
+          "id": "ec1cqv1muuwr5ez",
+          "added": 1791184079915,
+          "addedBy": "fathin",
+          "name": "GREEN CORAL",
+          "no": "82",
+          "qty": 5,
+          "unit": "KG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791184079915
         }
       ],
       "updated": 1791183367852
