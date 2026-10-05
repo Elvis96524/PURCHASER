@@ -3606,9 +3606,9 @@
           "unit": "Bag",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790920500807
+          "updated": 1791171376602
         },
         {
           "id": "zd51vbvmuqju2xi",
