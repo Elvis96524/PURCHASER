@@ -4775,6 +4775,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183498499
+        },
+        {
+          "id": "q2u2mukmuuwf59v",
+          "added": 1791183519859,
+          "addedBy": "fathin",
+          "name": "HUP SENG SUGAR CRACKERS 428GM",
+          "no": "50",
+          "qty": 5,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183519859
         }
       ],
       "updated": 1791183367852
