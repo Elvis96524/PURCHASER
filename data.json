@@ -4747,6 +4747,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791183443036
+        },
+        {
+          "id": "x1vyzjdmuuwdyz8",
+          "added": 1791183465044,
+          "addedBy": "fathin",
+          "name": "BUDU/PATI IKAN BILIS 150ML",
+          "no": "30",
+          "qty": 5,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791183465044
         }
       ],
       "updated": 1791183367852
