@@ -5460,9 +5460,9 @@
           "unit": "PCS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791245403793
+          "updated": 1791254367871
         },
         {
           "id": "2s14l63muvxa33t",
