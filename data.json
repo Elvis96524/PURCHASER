@@ -3988,6 +3988,20 @@
           "status": "received",
           "notes": "",
           "updated": 1791244292056
+        },
+        {
+          "id": "c8krgcrmuvwxd53",
+          "added": 1791244836039,
+          "addedBy": "chelson",
+          "name": "Kucai",
+          "no": "12",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791244836039
         }
       ],
       "updated": 1790925515778
