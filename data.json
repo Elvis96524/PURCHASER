@@ -5576,9 +5576,9 @@
           "unit": "PACK",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Left 1",
-          "updated": 1791266068918,
+          "updated": 1791269833709,
           "updatedBy": "chelson"
         },
         {
