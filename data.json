@@ -4315,6 +4315,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791245100766
+        },
+        {
+          "id": "wimz1fwmuvx3nhn",
+          "added": 1791245129387,
+          "addedBy": "chelson",
+          "name": "D.kunyit",
+          "no": "38",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791245129387
         }
       ],
       "updated": 1790927006554
