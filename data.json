@@ -5420,7 +5420,22 @@
     {
       "id": "eazb4m5muvx86ps",
       "name": "BELAIT PSV 2",
-      "items": [],
+      "items": [
+        {
+          "id": "i3mrog7muvx8idv",
+          "added": 1791245356051,
+          "addedBy": "fathin",
+          "name": "BEAN SPROUT",
+          "no": "32",
+          "qty": 4,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791245356051
+        }
+      ],
       "updated": 1791245340928
     }
   ]
