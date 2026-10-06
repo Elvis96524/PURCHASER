@@ -5576,8 +5576,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1791245735530
+          "notes": "Left 1",
+          "updated": 1791266068918,
+          "updatedBy": "chelson"
         },
         {
           "id": "v85sd71muvxgysp",
