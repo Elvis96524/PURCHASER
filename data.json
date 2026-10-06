@@ -5448,6 +5448,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791245373097
+        },
+        {
+          "id": "4i1v7olmuvx9j81",
+          "added": 1791245403793,
+          "addedBy": "fathin",
+          "name": "TEMPE",
+          "no": "45",
+          "qty": 5,
+          "unit": "PCS",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791245403793
         }
       ],
       "updated": 1791245340928
