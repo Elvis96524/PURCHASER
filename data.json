@@ -4343,6 +4343,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791245156791
+        },
+        {
+          "id": "875fh8rmuvx4nxt",
+          "added": 1791245176625,
+          "addedBy": "chelson",
+          "name": "Pegaga",
+          "no": "51",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791245176625
         }
       ],
       "updated": 1790927006554
