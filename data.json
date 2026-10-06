@@ -5546,6 +5546,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791245609993
+        },
+        {
+          "id": "ezwxd3nmuvxew8p",
+          "added": 1791245653945,
+          "addedBy": "fathin",
+          "name": "CHILI BOH",
+          "no": "36",
+          "qty": 4,
+          "unit": "BTL",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791245653945
         }
       ],
       "updated": 1791245340928
