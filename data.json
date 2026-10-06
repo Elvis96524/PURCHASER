@@ -5630,6 +5630,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791246011321
+        },
+        {
+          "id": "n68ajdsmuvybn4n",
+          "added": 1791247181783,
+          "addedBy": "fathin",
+          "name": "REX KERANG PANGGANG",
+          "no": "64",
+          "qty": 4,
+          "unit": "TIN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791247181782
         }
       ],
       "updated": 1791245340928
