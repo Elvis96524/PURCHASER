@@ -5588,6 +5588,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791245750569
+        },
+        {
+          "id": "sq6bwfwmuvxi1rd",
+          "added": 1791245801065,
+          "addedBy": "fathin",
+          "name": "SAMYANG PINK /KUNING",
+          "no": "70",
+          "qty": 4,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791245801065
         }
       ],
       "updated": 1791245340928
