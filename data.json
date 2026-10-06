@@ -5562,9 +5562,9 @@
           "unit": "BTL",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791245653945
+          "updated": 1791270789338
         },
         {
           "id": "286u7y1muvxgn6y",
