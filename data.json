@@ -5602,6 +5602,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791245801065
+        },
+        {
+          "id": "pu4lr4smuvxm0mx",
+          "added": 1791245986233,
+          "addedBy": "fathin",
+          "name": "IKAN MASIN YU",
+          "no": "67",
+          "qty": 1,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791245986233
         }
       ],
       "updated": 1791245340928
