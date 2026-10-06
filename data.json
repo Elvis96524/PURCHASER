@@ -5574,6 +5574,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791245735530
+        },
+        {
+          "id": "v85sd71muvxgysp",
+          "added": 1791245750569,
+          "addedBy": "fathin",
+          "name": "AJINOMOTO 300GM",
+          "no": "48",
+          "qty": 2,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791245750569
         }
       ],
       "updated": 1791245340928
