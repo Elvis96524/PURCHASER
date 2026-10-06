@@ -5490,6 +5490,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791245446136
+        },
+        {
+          "id": "10wg8bymuvxbhyp",
+          "added": 1791245495473,
+          "addedBy": "fathin",
+          "name": "KIWI FRUIT ( REQ KIWI YELLOW, OFFER ZESPRI GOLD KIWI 4'S/PACK )",
+          "no": "61",
+          "qty": 1,
+          "unit": "PACK",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791245495473
         }
       ],
       "updated": 1791245340928
