@@ -5644,6 +5644,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791247181782
+        },
+        {
+          "id": "s26suplmuvyiztc",
+          "added": 1791247524816,
+          "addedBy": "fathin",
+          "name": "Chilli Padi Burung/Kampung",
+          "no": "50",
+          "qty": 2,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791247524815
         }
       ],
       "updated": 1791245340928
