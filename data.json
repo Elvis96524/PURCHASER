@@ -5506,9 +5506,9 @@
           "unit": "PACK",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791245495473
+          "updated": 1791266676876
         },
         {
           "id": "4135su7muvxck14",
