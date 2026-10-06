@@ -5520,9 +5520,9 @@
           "unit": "CUP",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791245544808
+          "updated": 1791272447725
         },
         {
           "id": "j7kqx3fmuvxd06p",
