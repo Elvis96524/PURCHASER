@@ -4273,6 +4273,20 @@
           "status": "received",
           "notes": "",
           "updated": 1791011509304
+        },
+        {
+          "id": "l31ep2nmuvx1k2f",
+          "added": 1791245031639,
+          "addedBy": "chelson",
+          "name": "Kantan",
+          "no": "5",
+          "qty": 10,
+          "unit": "Pcs",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791245031639
         }
       ],
       "updated": 1790927006554
