@@ -5476,6 +5476,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791245429561
+        },
+        {
+          "id": "52u5874muvxafw8",
+          "added": 1791245446136,
+          "addedBy": "fathin",
+          "name": "ROCK MELON",
+          "no": "59",
+          "qty": 7,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791245446136
         }
       ],
       "updated": 1791245340928
