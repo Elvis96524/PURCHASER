@@ -5616,6 +5616,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791245986233
+        },
+        {
+          "id": "yjmzdpmmuvxmjzt",
+          "added": 1791246011321,
+          "addedBy": "fathin",
+          "name": "PUCUK UBI",
+          "no": "69",
+          "qty": 5,
+          "unit": "IKAT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791246011321
         }
       ],
       "updated": 1791245340928
