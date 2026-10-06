@@ -5560,6 +5560,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791245653945
+        },
+        {
+          "id": "286u7y1muvxgn6y",
+          "added": 1791245735530,
+          "addedBy": "fathin",
+          "name": "SERBUK CUKUP RASA 500GM",
+          "no": "46",
+          "qty": 2,
+          "unit": "PACK",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791245735530
         }
       ],
       "updated": 1791245340928
