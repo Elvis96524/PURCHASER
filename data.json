@@ -4044,6 +4044,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791244924791
+        },
+        {
+          "id": "dlnu6eamuvwzucc",
+          "added": 1791244951644,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "11",
+          "qty": 3,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791244951644
         }
       ],
       "updated": 1790925515778
