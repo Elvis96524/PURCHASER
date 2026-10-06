@@ -4016,6 +4016,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791244868526
+        },
+        {
+          "id": "bnie2k3muvwypba",
+          "added": 1791244898470,
+          "addedBy": "chelson",
+          "name": "Jantung Pisang",
+          "no": "19",
+          "qty": 10,
+          "unit": "Nos",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791244898470
         }
       ],
       "updated": 1790925515778
