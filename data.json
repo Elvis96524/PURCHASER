@@ -4780,9 +4780,9 @@
           "unit": "NOS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "4nos saja",
-          "updated": 1791255162271,
+          "updated": 1791255166549,
           "updatedBy": "chelson"
         },
         {
@@ -4795,9 +4795,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1791167136738
+          "updated": 1791255165349
         },
         {
           "id": "qg0bjeimuumjwiz",
