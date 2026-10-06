@@ -5445,9 +5445,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "3ikat=2kg",
-          "updated": 1791254351685,
+          "updated": 1791254357283,
           "updatedBy": "chelson"
         },
         {
