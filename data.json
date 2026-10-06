@@ -3846,8 +3846,9 @@
           "category": "Chiller",
           "priority": "normal",
           "status": "received",
-          "notes": "",
-          "updated": 1791274328137
+          "notes": "4kg",
+          "updated": 1791274340137,
+          "updatedBy": "chelson"
         },
         {
           "id": "nxv4s55muqk7q2h",
