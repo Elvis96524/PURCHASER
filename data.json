@@ -5462,6 +5462,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791245403793
+        },
+        {
+          "id": "2s14l63muvxa33t",
+          "added": 1791245429561,
+          "addedBy": "fathin",
+          "name": "FRESH MANGO MADU",
+          "no": "58",
+          "qty": 6,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791245429561
         }
       ],
       "updated": 1791245340928
