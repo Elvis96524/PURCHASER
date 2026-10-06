@@ -4853,9 +4853,9 @@
           "unit": "BOX",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791167018986
+          "updated": 1791266690299
         },
         {
           "id": "776fiovmuummbru",
