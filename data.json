@@ -5474,9 +5474,10 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1791245429561
+          "status": "received",
+          "notes": "Mangga susu 6kg",
+          "updated": 1791254411732,
+          "updatedBy": "chelson"
         },
         {
           "id": "52u5874muvxafw8",
