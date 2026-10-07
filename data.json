@@ -5695,6 +5695,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791247524815
+        },
+        {
+          "id": "64bn7opmuxg7kn1",
+          "added": 1791337691197,
+          "addedBy": "admin",
+          "name": "CHICKEN SAUSAGE RAMLY 340G",
+          "no": "",
+          "qty": 15,
+          "unit": "PKT",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791337691196
         }
       ],
       "updated": 1791245340928
