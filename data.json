@@ -4399,6 +4399,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791358011566
+        },
+        {
+          "id": "un7x7g2muxtms55",
+          "added": 1791360235769,
+          "addedBy": "chelson",
+          "name": "Red bean paste 1kg",
+          "no": "",
+          "qty": 3,
+          "unit": "pack",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791360235767
         }
       ],
       "updated": 1790927006554
