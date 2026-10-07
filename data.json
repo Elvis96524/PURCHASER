@@ -4885,6 +4885,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791167093298
+        },
+        {
+          "id": "cppe8o5muxfuub2",
+          "added": 1791337097198,
+          "addedBy": "admin",
+          "name": "Yeos coconut juice 300ml",
+          "no": "",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791337097198
         }
       ],
       "updated": 1791166813779
