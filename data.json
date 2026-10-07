@@ -5703,9 +5703,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791247524815
+          "updated": 1791355114677
         },
         {
           "id": "64bn7opmuxg7kn1",
