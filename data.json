@@ -4083,12 +4083,12 @@
           "name": "YOUNG CORN/JAGUNG MUDA",
           "no": "33",
           "qty": 10,
-          "unit": "",
+          "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791339206225
+          "updated": 1791339287292
         },
         {
           "id": "k8wejb6muxh5awc",
