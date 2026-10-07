@@ -2979,6 +2979,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790918730874
+        },
+        {
+          "id": "z9biro8muxg5flx",
+          "added": 1791337591365,
+          "addedBy": "farah",
+          "name": "Keropok ikan terengganu 500gm",
+          "no": "28",
+          "qty": 12,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791337591365
         }
       ],
       "updated": 1790740894967
