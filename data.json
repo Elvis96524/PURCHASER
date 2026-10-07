@@ -2962,9 +2962,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790918705792
+          "updated": 1791360265693
         },
         {
           "id": "esl7lxdmuqirssa",
