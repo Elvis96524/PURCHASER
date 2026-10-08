@@ -5289,7 +5289,7 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791184193219
+          "updated": 1791443275941
         },
         {
           "id": "11l0t8imuuwu6rf",
@@ -5746,6 +5746,30 @@
       ],
       "deleted": true,
       "updated": 1791358060157
+    }
+  ],
+  "history": [
+    {
+      "id": "f6f33zwmuz72mcl",
+      "ts": 1791443275941,
+      "by": "lim",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT ( OCT 2ND ORDER )",
+      "action": "status",
+      "item": "PISANG EMAS",
+      "no": "1",
+      "detail": "Status: Ordered → To buy"
+    },
+    {
+      "id": "irup736muz72l1h",
+      "ts": 1791443274245,
+      "by": "lim",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT ( OCT 2ND ORDER )",
+      "action": "status",
+      "item": "PISANG EMAS",
+      "no": "1",
+      "detail": "Status: To buy → Ordered"
     }
   ]
 }
