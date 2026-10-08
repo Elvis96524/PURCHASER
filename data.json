@@ -5750,11 +5750,37 @@
     {
       "id": "45yogyhmuz74b5z",
       "name": "TWO AARYAN",
-      "items": [],
+      "items": [
+        {
+          "id": "6iqxw9imuz74n4u",
+          "added": 1791443370270,
+          "addedBy": "fathin",
+          "name": "TEMPE",
+          "no": "22",
+          "qty": 1,
+          "unit": "pcs",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791443370270
+        }
+      ],
       "updated": 1791443354759
     }
   ],
   "history": [
+    {
+      "id": "57v335bmuz74n4v",
+      "ts": 1791443370271,
+      "by": "fathin",
+      "vid": "45yogyhmuz74b5z",
+      "vname": "TWO AARYAN",
+      "action": "added",
+      "item": "TEMPE",
+      "no": "22",
+      "detail": "Qty 1 pcs, Dry"
+    },
     {
       "id": "mjfm09gmuz74b5z",
       "ts": 1791443354759,
