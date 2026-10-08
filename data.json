@@ -5761,15 +5761,26 @@
           "unit": "pcs",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791443370270
+          "updated": 1791443382729
         }
       ],
       "updated": 1791443354759
     }
   ],
   "history": [
+    {
+      "id": "m2drvanmuz74wqx",
+      "ts": 1791443382729,
+      "by": "fathin",
+      "vid": "45yogyhmuz74b5z",
+      "vname": "TWO AARYAN",
+      "action": "status",
+      "item": "TEMPE",
+      "no": "22",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "57v335bmuz74n4v",
       "ts": 1791443370271,
