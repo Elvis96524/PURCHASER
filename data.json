@@ -5833,12 +5833,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791448279744
+        },
+        {
+          "id": "oaylovcmuza2udl",
+          "added": 1791448325193,
+          "addedBy": "fathin",
+          "name": "HAND BRUSH ( For Housekeeping Upon Offhire )",
+          "no": "",
+          "qty": 6,
+          "unit": "PCS",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791448325193
         }
       ],
       "updated": 1791448096249
     }
   ],
   "history": [
+    {
+      "id": "yq7aozpmuza2udl",
+      "ts": 1791448325193,
+      "by": "fathin",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "HAND BRUSH ( For Housekeeping Upon Offhire )",
+      "no": "",
+      "detail": "Qty 6 PCS, Dry"
+    },
     {
       "id": "pl54gk5muza1vb4",
       "ts": 1791448279744,
