@@ -5753,23 +5753,25 @@
       "items": [
         {
           "id": "6iqxw9imuz74n4u",
-          "added": 1791443370270,
-          "addedBy": "fathin",
-          "name": "TEMPE",
-          "no": "22",
-          "qty": 1,
-          "unit": "pcs",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1791443382729
+          "deleted": true,
+          "updated": 1791443388855
         }
       ],
       "updated": 1791443354759
     }
   ],
   "history": [
+    {
+      "id": "t2yb05emuz751h3",
+      "ts": 1791443388855,
+      "by": "fathin",
+      "vid": "45yogyhmuz74b5z",
+      "vname": "TWO AARYAN",
+      "action": "deleted",
+      "item": "TEMPE",
+      "no": "22",
+      "detail": ""
+    },
     {
       "id": "m2drvanmuz74wqx",
       "ts": 1791443382729,
