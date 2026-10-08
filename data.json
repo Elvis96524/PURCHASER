@@ -5479,6 +5479,20 @@
           "status": "received",
           "notes": "Hot spicy,tomato,onion, BBQ",
           "updated": 1791358794577
+        },
+        {
+          "id": "tj0fd0emv07738u",
+          "added": 1791503950638,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "15",
+          "qty": 3,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791503950637
         }
       ],
       "updated": 1791244338292
@@ -5881,6 +5895,17 @@
     }
   ],
   "history": [
+    {
+      "id": "vu0q3ggmv07738u",
+      "ts": 1791503950638,
+      "by": "chelson",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "added",
+      "item": "Kesum",
+      "no": "15",
+      "detail": "Qty 3 Ikat, Chiller"
+    },
     {
       "id": "mb9z6g3muza3uw0",
       "ts": 1791448372512,
