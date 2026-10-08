@@ -138,6 +138,19 @@ select.st.na{border-color:var(--line);color:var(--muted)}
 .ua{display:flex;gap:14px;flex:none}
 .ua .del:hover{color:var(--red)}
 .ugen{margin-top:8px}
+.hrow{display:flex;width:100%;justify-content:space-between;align-items:center;gap:12px;padding:10px 0;border-bottom:1px solid var(--line);background:none;border-left:0;border-right:0;border-top:0;text-align:left;color:inherit;font:inherit;cursor:pointer}
+.hrow:last-child{border-bottom:0}
+.hrow:hover{color:var(--blue)}
+.hname{font-weight:600}
+.hcount{color:var(--muted);font-size:.85rem;white-space:nowrap}
+.hlist{max-height:58vh;overflow-y:auto;margin-top:6px}
+.hback{display:inline-block;margin-bottom:12px}
+.htx{padding:10px 0;border-bottom:1px solid var(--line)}
+.htx:last-child{border-bottom:0}
+.hwhen{color:var(--muted);font-size:.8rem}
+.hwhat{margin-top:2px}
+.hwhat b{font-weight:600}
+.hdetail{color:var(--muted);font-size:.85rem;margin-top:2px}
 .ok{color:var(--green);font-size:.9rem;margin-top:10px;font-weight:600;overflow-wrap:anywhere}
 
 .who{flex-wrap:wrap}
@@ -203,7 +216,7 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     </div>
     <div class="sync">
       <button type="button" class="syncstat" id="syncstat" data-act="sync-status"><span class="dot" id="dot"></span><span id="syncmsg">Not signed in</span></button>
-      <div class="who"><span id="who"></span><span class="wl"><button type="button" class="linkbtn" id="usersBtn" data-act="open-users" hidden>Users</button><button type="button" class="linkbtn" id="adminBtn" data-act="open-admin" hidden>Settings</button><button type="button" class="linkbtn" id="lockBtn" data-act="open-lock" hidden>Lock</button><button type="button" class="linkbtn" id="signoutBtn" data-act="sign-out">Sign out</button></span></div>
+      <div class="who"><span id="who"></span><span class="wl"><button type="button" class="linkbtn" id="usersBtn" data-act="open-users" hidden>Users</button><button type="button" class="linkbtn" id="historyBtn" data-act="open-history" hidden>History</button><button type="button" class="linkbtn" id="adminBtn" data-act="open-admin" hidden>Settings</button><button type="button" class="linkbtn" id="lockBtn" data-act="open-lock" hidden>Lock</button><button type="button" class="linkbtn" id="signoutBtn" data-act="sign-out">Sign out</button></span></div>
     </div>
   </aside>
 
@@ -294,6 +307,17 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     <div class="foot">
       <button type="button" class="btn" data-act="close-modal">Close</button>
       <button type="button" class="btn primary" id="u-save" data-act="user-save">Save user</button>
+    </div>
+  </div>
+</div>
+
+<!-- History -->
+<div class="modal" id="historyModal" hidden>
+  <div class="card" role="dialog" aria-modal="true" aria-labelledby="h-title">
+    <h2 id="h-title">History</h2>
+    <div id="h-body"></div>
+    <div class="foot">
+      <button type="button" class="btn" data-act="close-modal">Close</button>
     </div>
   </div>
 </div>
@@ -400,6 +424,9 @@ select.st.na{border-color:var(--line);color:var(--muted)}
   var lock=loadLock(), locked=false, hiddenAt=0;
   var sync={busy:false,queued:false,timer:null,retry:null,last:0,probing:false};
   var editingId=null, editingVid=null, vesselMode="add", pendingOk=null;
+  var HIST_CAP=1000;
+  var HACT={added:"Added",edited:"Edited",status:"Status changed",deleted:"Deleted",cleared:"List cleared",vadd:"Vessel created",vrename:"Vessel renamed",vdelete:"Vessel deleted"};
+  var historyVid=null;
   ensureActive();
 
   /* ---------- Local data ---------- */
@@ -426,7 +453,29 @@ select.st.na{border-color:var(--line);color:var(--muted)}
         i.added=i.added||0;
       });
     });
+    s.history=fixHistory(s.history);
     return s;
+  }
+  function fixHistory(h){
+    if(!Array.isArray(h)) return [];
+    return h.filter(function(e){return e&&e.id;}).map(function(e){
+      return {id:String(e.id),ts:Number(e.ts)||0,by:String(e.by||"?"),vid:String(e.vid||""),vname:String(e.vname||""),
+        action:String(e.action||""),item:String(e.item||""),no:String(e.no||""),detail:String(e.detail||"")};
+    });
+  }
+  function serializeHistory(h){
+    return (h||[]).slice().sort(function(a,b){return (b.ts||0)-(a.ts||0);}).slice(0,HIST_CAP);
+  }
+  function mergeHistory(local,remote){
+    var map={};
+    (local||[]).forEach(function(e){ map[e.id]=e; });
+    (remote||[]).forEach(function(e){ if(!map[e.id]) map[e.id]=e; });
+    return serializeHistory(Object.keys(map).map(function(k){return map[k];}));
+  }
+  function fullPayload(vessels,history){ return Object.assign(serialize(vessels),{history:serializeHistory(history)}); }
+  function logHist(vid,vname,action,item,no,detail){
+    state.history.push({id:uid(),ts:now(),by:sess?sess.id:"?",vid:vid,vname:vname,action:action,item:item||"",no:no||"",detail:detail||""});
+    if(state.history.length>HIST_CAP*2) state.history=serializeHistory(state.history);
   }
   function liveVessels(){ return state.vessels.filter(function(v){return !v.deleted}); }
   function liveItems(v){ return v.items.filter(function(i){return !i.deleted}); }
@@ -536,10 +585,12 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     });
     return mergeList(localV,remoteV,mergeVessel);
   }
-  function applyMerged(merged){
-    var changed=canon(serialize(state.vessels))!==canon(serialize(merged));
+  function applyMerged(merged,mergedH){
+    var changed=canon(serialize(state.vessels))!==canon(serialize(merged))||
+      canon(serializeHistory(state.history))!==canon(serializeHistory(mergedH));
     var before=state.active;
     state.vessels=merged;
+    state.history=mergedH;
     ensureActive();
     saveLocal();
     if(changed||before!==state.active) renderAll();
@@ -575,11 +626,13 @@ select.st.na{border-color:var(--line);color:var(--muted)}
       for(var attempt=0;attempt<4;attempt++){
         var res=await getRemote();
         var remoteV=res.missing?[]:fix({vessels:res.data.vessels}).vessels;
+        var remoteH=res.missing?[]:fixHistory(res.data.history);
         var merged=mergeData(state.vessels,remoteV);
-        applyMerged(merged);
-        var mine=canon(serialize(state.vessels)), theirs=canon(serialize(remoteV));
+        var mergedH=mergeHistory(state.history,remoteH);
+        applyMerged(merged,mergedH);
+        var mine=canon(fullPayload(state.vessels,state.history)), theirs=canon(fullPayload(remoteV,remoteH));
         if(!res.missing&&mine===theirs) break;               // already identical: nothing to save
-        var put=await putRemote(serialize(state.vessels),res.missing?null:res.sha);
+        var put=await putRemote(fullPayload(state.vessels,state.history),res.missing?null:res.sha);
         if(put.ok) break;
         if(attempt===3) throw mkErr("Another device kept changing the list while saving. Tap to try again.");
       }
@@ -599,7 +652,7 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     $("#who").textContent=sess?("Signed in as "+sess.id):"Not signed in";
     var admin=!!(sess&&sess.role==="admin");
     $("#usersBtn").hidden=!admin; $("#adminBtn").hidden=!admin;
-    $("#signoutBtn").hidden=!sess; $("#lockBtn").hidden=!sess;
+    $("#signoutBtn").hidden=!sess; $("#lockBtn").hidden=!sess; $("#historyBtn").hidden=!sess;
   }
   function showLogin(msg){
     var e=$("#l-err"); e.textContent=msg||""; e.hidden=!msg;
@@ -955,7 +1008,7 @@ select.st.na{border-color:var(--line);color:var(--muted)}
   $("#fc").innerHTML='<option value="">All categories</option>'+CATS.map(function(c){return '<option>'+c+'</option>'}).join("");
   $("#i-cat").innerHTML=CATS.map(function(c){return '<option>'+c+'</option>'}).join("");
 
-  function renderAll(){ renderSide(); renderHead(); renderTable(); }
+  function renderAll(){ renderSide(); renderHead(); renderTable(); if(!$("#historyModal").hidden) renderHistoryBody(); }
 
   function toggleVessels(){
     var open=!$("#vpanel").classList.contains("open");
@@ -1037,6 +1090,51 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     $("#wrap").innerHTML=tableHtml(list,false);
   }
 
+  /* ---------- History ---------- */
+  function fmtDate(t){ return t?new Date(t).toLocaleDateString([],{month:"short",day:"numeric"}):""; }
+  function fmtDateTime(t){
+    var d=new Date(t);
+    return d.toLocaleDateString([],{month:"short",day:"numeric"})+", "+d.toLocaleTimeString([],{hour:"2-digit",minute:"2-digit"});
+  }
+  function historyGroups(){
+    var byVid={};
+    state.history.forEach(function(e){
+      var g=byVid[e.vid];
+      if(!g){ g=byVid[e.vid]={vid:e.vid,name:e.vname,last:0,count:0}; }
+      g.count++;
+      if(e.ts>=g.last){ g.last=e.ts; g.name=e.vname; }
+    });
+    state.vessels.forEach(function(v){ if(byVid[v.id]) byVid[v.id].name=v.name; });
+    return Object.keys(byVid).map(function(k){return byVid[k];}).sort(function(a,b){return b.last-a.last;});
+  }
+  function openHistory(){ historyVid=null; renderHistoryBody(); show($("#historyModal")); }
+  function renderHistoryBody(){
+    var body=$("#h-body");
+    if(!historyVid){
+      $("#h-title").textContent="History";
+      var groups=historyGroups();
+      body.innerHTML=groups.length?(
+        '<p class="hint">Every add, edit, status change and delete is recorded here, kept for the most recent '+HIST_CAP+' entries across all vessels.</p>'+
+        '<div class="hlist">'+groups.map(function(g){
+          return '<button type="button" class="hrow" data-act="open-history-v" data-id="'+esc(g.vid)+'">'+
+            '<span class="hname">'+esc(g.name||"(deleted vessel)")+'</span>'+
+            '<span class="hcount">'+g.count+' entr'+(g.count===1?"y":"ies")+' \u00b7 '+fmtDate(g.last)+'</span></button>';
+        }).join("")+'</div>'
+      ):'<p class="hint">Nothing recorded yet. Every add, edit, status change and delete will show up here.</p>';
+    }else{
+      var g2=historyGroups().filter(function(x){return x.vid===historyVid;})[0];
+      $("#h-title").textContent=g2?g2.name:"(deleted vessel)";
+      var entries=state.history.filter(function(e){return e.vid===historyVid;}).sort(function(a,b){return b.ts-a.ts;});
+      body.innerHTML='<button type="button" class="linkbtn hback" data-act="history-back">&larr; All vessels</button>'+
+        '<div class="hlist">'+entries.map(function(e){
+          var label=HACT[e.action]||e.action;
+          var what="<b>"+esc(label)+"</b>"+(e.item?" "+esc(e.item):"")+(e.no?" (#"+esc(e.no)+")":"");
+          return '<div class="htx"><div class="hwhen">'+fmtDateTime(e.ts)+' \u00b7 '+esc(e.by||"?")+'</div>'+
+            '<div class="hwhat">'+what+'</div>'+(e.detail?'<div class="hdetail">'+esc(e.detail)+'</div>':"")+'</div>';
+        }).join("")+'</div>';
+    }
+  }
+
   /* ---------- Item pop-up ---------- */
   function openItem(id,vid){
     editingId=id||null; editingVid=id?(vid||vessel().id):null;
@@ -1061,6 +1159,18 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     show($("#itemModal"));
     setTimeout(function(){ $("#i-name").focus(); },0);
   }
+  function itemEditDetail(before,after){
+    var parts=[];
+    if(before.name!==after.name) parts.push('Name "'+before.name+'" \u2192 "'+after.name+'"');
+    if((before.no||"")!==(after.no||"")) parts.push("No. "+(before.no||"\u2014")+" \u2192 "+(after.no||"\u2014"));
+    if(Number(before.qty)!==Number(after.qty)) parts.push("Qty "+fmtQty(before.qty)+" \u2192 "+fmtQty(after.qty));
+    if((before.unit||"")!==(after.unit||"")) parts.push("Unit "+(before.unit||"\u2014")+" \u2192 "+(after.unit||"\u2014"));
+    if(before.category!==after.category) parts.push(before.category+" \u2192 "+after.category);
+    if(before.priority!==after.priority) parts.push(PRI[before.priority]+" \u2192 "+PRI[after.priority]);
+    if(before.status!==after.status) parts.push("Status: "+ST[before.status]+" \u2192 "+ST[after.status]);
+    if((before.notes||"")!==(after.notes||"")) parts.push("Notes changed");
+    return parts.join("; ");
+  }
   function saveItem(){
     var name=$("#i-name").value.trim();
     if(!name){ $("#i-err").hidden=false; $("#i-name").focus(); return; }
@@ -1071,8 +1181,21 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     var v=editingId?(vesselById(editingVid)||vessel()):vessel();
     if(editingId){
       var it=v.items.filter(function(x){return x.id===editingId})[0];
-      if(it){ if(sess&&sess.id!==it.addedBy) data.updatedBy=sess.id; Object.assign(it,data); delete it.deleted; }
-    }else{ v.items.push(Object.assign({id:uid(),added:now(),addedBy:sess?sess.id:""},data)); }
+      if(it){
+        var before={name:it.name,no:it.no,qty:it.qty,unit:it.unit,category:it.category,priority:it.priority,status:it.status,notes:it.notes};
+        if(sess&&sess.id!==it.addedBy) data.updatedBy=sess.id;
+        Object.assign(it,data); delete it.deleted;
+        var det=itemEditDetail(before,data);
+        if(det) logHist(v.id,v.name,"edited",data.name,data.no,det);
+      }
+    }else{
+      var ni=Object.assign({id:uid(),added:now(),addedBy:sess?sess.id:""},data);
+      v.items.push(ni);
+      var bits=["Qty "+fmtQty(ni.qty)+(ni.unit?" "+ni.unit:""),ni.category];
+      if(ni.priority!=="normal") bits.push(PRI[ni.priority]+" priority");
+      if(ni.status!=="tobuy") bits.push(ST[ni.status]);
+      logHist(v.id,v.name,"added",ni.name,ni.no,bits.join(", "));
+    }
     save(); renderAll(); hide($("#itemModal"));
   }
 
@@ -1088,8 +1211,15 @@ select.st.na{border-color:var(--line);color:var(--muted)}
   function saveVessel(){
     var name=$("#v-name").value.trim();
     if(!name){ $("#v-err").hidden=false; $("#v-name").focus(); return; }
-    if(vesselMode==="add"){ var v={id:uid(),name:name,items:[],updated:now()}; state.vessels.push(v); state.active=v.id; }
-    else{ var cur=vessel(); cur.name=name; cur.updated=now(); }
+    if(vesselMode==="add"){
+      var v={id:uid(),name:name,items:[],updated:now()};
+      state.vessels.push(v); state.active=v.id;
+      logHist(v.id,v.name,"vadd","","","Vessel created");
+    }else{
+      var cur=vessel(), oldName=cur.name;
+      cur.name=name; cur.updated=now();
+      if(oldName!==name) logHist(cur.id,name,"vrename","","",'Renamed from "'+oldName+'" to "'+name+'"');
+    }
     save(); renderAll(); hide($("#vesselModal"));
   }
 
@@ -1106,7 +1236,9 @@ select.st.na{border-color:var(--line);color:var(--muted)}
       case "delete-vessel":
         if(liveVessels().length<2){ ask("Keep at least one vessel","Add another vessel first, or rename this one.","Got it"); break; }
         ask("Delete "+v.name+"?","This removes the vessel and all "+liveItems(v).length+" items on its list, on every connected device.","Delete vessel",function(){
-          state.vessels=state.vessels.map(function(x){ return x.id===v.id?{id:x.id,name:x.name,items:[],deleted:true,updated:now()}:x; });
+          var dvid=v.id, dvname=v.name;
+          state.vessels=state.vessels.map(function(x){ return x.id===dvid?{id:x.id,name:x.name,items:[],deleted:true,updated:now()}:x; });
+          logHist(dvid,dvname,"vdelete","","","Vessel deleted");
           ensureActive(); save(); renderAll();
         },true);
         break;
@@ -1117,7 +1249,9 @@ select.st.na{border-color:var(--line);color:var(--muted)}
         var it=liveItems(rv).filter(function(x){return x.id===id})[0];
         if(it) ask("Delete this item?",it.name+" will be removed from "+rv.name+", on every connected device.","Delete item",function(){
           var cv=vesselById(rvid); if(!cv) return;
+          var victim=liveItems(cv).filter(function(x){return x.id===id})[0];
           cv.items=cv.items.map(function(x){ return x.id===id?{id:id,deleted:true,updated:now()}:x; });
+          if(victim) logHist(cv.id,cv.name,"deleted",victim.name,victim.no,"");
           save(); renderAll();
         },true);
         break; }
@@ -1125,7 +1259,11 @@ select.st.na{border-color:var(--line);color:var(--muted)}
         var cn=liveItems(v).length, cvid=v.id;
         if(cn) ask("Clear the list for "+v.name+"?","This deletes all "+cn+" item"+(cn===1?"":"s")+" from "+v.name+", on every connected device. The vessel itself stays.","Clear list",function(){
           var cv=vesselById(cvid); if(!cv) return;
+          var names=liveItems(cv).map(function(x){return x.name;});
           cv.items=cv.items.map(function(x){ return x.deleted?x:{id:x.id,deleted:true,updated:now()}; });
+          var det="Removed "+names.length+" item"+(names.length===1?"":"s");
+          if(names.length) det+=": "+names.slice(0,6).join(", ")+(names.length>6?", +"+(names.length-6)+" more":"");
+          logHist(cv.id,cv.name,"cleared","","",det);
           save(); renderAll();
         },true);
         break; }
@@ -1135,6 +1273,9 @@ select.st.na{border-color:var(--line);color:var(--muted)}
       case "save-vessel": saveVessel(); break;
       case "close-modal": hide(b.closest(".modal")); break;
       case "confirm-ok": { var f=pendingOk; hide($("#confirmModal")); if(f) f(); break; }
+      case "open-history": openHistory(); break;
+      case "open-history-v": historyVid=b.dataset.id; renderHistoryBody(); break;
+      case "history-back": historyVid=null; renderHistoryBody(); break;
       case "sync-status": if(sess) syncNow(); else showLogin(); break;
       case "sign-out": signOutFlow(); break;
       case "login": doLogin(); break;
@@ -1163,11 +1304,16 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     }
   });
   document.addEventListener("change",function(e){
-    var s=e.target.closest('select[data-act="status"]');
-    if(s){
-      var str=s.closest("tr");
-      var it=liveItems(rowVessel(str)).filter(function(x){return x.id===str.dataset.id})[0];
-      if(it){ it.status=s.value; it.updated=now(); save(); renderAll(); }
+    var sel=e.target.closest('select[data-act="status"]');
+    if(sel){
+      var str=sel.closest("tr"), rv=rowVessel(str);
+      var it=liveItems(rv).filter(function(x){return x.id===str.dataset.id})[0];
+      if(it){
+        var old=it.status;
+        it.status=sel.value; it.updated=now();
+        if(old!==it.status) logHist(rv.id,rv.name,"status",it.name,it.no,"Status: "+ST[old]+" \u2192 "+ST[it.status]);
+        save(); renderAll();
+      }
     }
   });
   ["#q","#fs","#fc"].forEach(function(sel){ $(sel).addEventListener("input",renderTable); });
