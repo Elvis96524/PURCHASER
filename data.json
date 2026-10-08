@@ -5746,9 +5746,26 @@
       ],
       "deleted": true,
       "updated": 1791358060157
+    },
+    {
+      "id": "45yogyhmuz74b5z",
+      "name": "TWO AARYAN",
+      "items": [],
+      "updated": 1791443354759
     }
   ],
   "history": [
+    {
+      "id": "mjfm09gmuz74b5z",
+      "ts": 1791443354759,
+      "by": "fathin",
+      "vid": "45yogyhmuz74b5z",
+      "vname": "TWO AARYAN",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "f6f33zwmuz72mcl",
       "ts": 1791443275941,
