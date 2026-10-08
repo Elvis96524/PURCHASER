@@ -5493,6 +5493,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791503950637
+        },
+        {
+          "id": "ppilbzjmv077uyj",
+          "added": 1791503986555,
+          "addedBy": "chelson",
+          "name": "Pucuk ubi",
+          "no": "19",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791503986555
         }
       ],
       "updated": 1791244338292
@@ -5895,6 +5909,17 @@
     }
   ],
   "history": [
+    {
+      "id": "oz0ndmxmv077uyj",
+      "ts": 1791503986555,
+      "by": "chelson",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "added",
+      "item": "Pucuk ubi",
+      "no": "19",
+      "detail": "Qty 5 Ikat, Chiller"
+    },
     {
       "id": "vu0q3ggmv07738u",
       "ts": 1791503950638,
