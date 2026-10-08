@@ -5805,12 +5805,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791448151232
+        },
+        {
+          "id": "3ev1w7smuz9zefd",
+          "added": 1791448164553,
+          "addedBy": "fathin",
+          "name": "FRESH PETAI",
+          "no": "",
+          "qty": 6,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791448164553
         }
       ],
       "updated": 1791448096249
     }
   ],
   "history": [
+    {
+      "id": "kl7uz2imuz9zefd",
+      "ts": 1791448164553,
+      "by": "fathin",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "FRESH PETAI",
+      "no": "",
+      "detail": "Qty 6 KG, Chiller"
+    },
     {
       "id": "ieqkjmwmuz9z45c",
       "ts": 1791448151233,
