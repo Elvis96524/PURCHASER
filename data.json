@@ -5757,10 +5757,22 @@
           "updated": 1791443388855
         }
       ],
-      "updated": 1791443354759
+      "deleted": true,
+      "updated": 1791443392759
     }
   ],
   "history": [
+    {
+      "id": "q080h5lmuz754hj",
+      "ts": 1791443392759,
+      "by": "fathin",
+      "vid": "45yogyhmuz74b5z",
+      "vname": "TWO AARYAN",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "t2yb05emuz751h3",
       "ts": 1791443388855,
