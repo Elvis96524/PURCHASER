@@ -5993,9 +5993,26 @@
         }
       ],
       "updated": 1791448096249
+    },
+    {
+      "id": "ctgml0xmv0ae5xm",
+      "name": "KEYFIELD WISDOM",
+      "items": [],
+      "updated": 1791509319562
     }
   ],
   "history": [
+    {
+      "id": "2zckao9mv0ae5xm",
+      "ts": 1791509319562,
+      "by": "fathin",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "nnhwzg5mv0adkgq",
       "ts": 1791509291738,
