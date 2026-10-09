@@ -3131,9 +3131,9 @@
           "unit": "Tin",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791362737408
+          "updated": 1791527701629
         },
         {
           "id": "0uvcn05muqdy3oz",
@@ -6171,6 +6171,17 @@
     }
   ],
   "history": [
+    {
+      "id": "jun3si8mv0lc5ml",
+      "ts": 1791527701629,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER",
+      "action": "status",
+      "item": "Bamboo shoots 552gm",
+      "no": "23",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ts8yyvsmv0l221h",
       "ts": 1791527230421,
