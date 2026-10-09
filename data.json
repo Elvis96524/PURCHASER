@@ -3290,9 +3290,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790918442497
+          "updated": 1791524933429
         },
         {
           "id": "ghxk44rmuqimfv4",
@@ -6171,6 +6171,17 @@
     }
   ],
   "history": [
+    {
+      "id": "0hwuhhwmv0joto5",
+      "ts": 1791524933429,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER",
+      "action": "status",
+      "item": "Chipmore biscuits Kraft 180gm",
+      "no": "47",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "bx02pe3mv0iidlv",
       "ts": 1791522953059,
