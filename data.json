@@ -5931,9 +5931,9 @@
           "unit": "PCS",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791448325193
+          "updated": 1791522953059
         },
         {
           "id": "olrxzh8muza3lyw",
@@ -6171,6 +6171,17 @@
     }
   ],
   "history": [
+    {
+      "id": "bx02pe3mv0iidlv",
+      "ts": 1791522953059,
+      "by": "chelson",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE ( 14/10/2026 )",
+      "action": "status",
+      "item": "HAND BRUSH ( For Housekeeping Upon Offhire )",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ayrqpt1mv0b84j4",
       "ts": 1791510717424,
