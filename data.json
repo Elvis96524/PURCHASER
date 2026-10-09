@@ -5493,9 +5493,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791503950637
+          "updated": 1791530678028
         },
         {
           "id": "ppilbzjmv077uyj",
@@ -6173,6 +6173,17 @@
     }
   ],
   "history": [
+    {
+      "id": "tpxomhbmv0n3y8c",
+      "ts": 1791530678028,
+      "by": "chelson",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "status",
+      "item": "Kesum",
+      "no": "15",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "dbvfhwkmv0mq380",
       "ts": 1791530031312,
