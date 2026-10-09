@@ -5945,9 +5945,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791448360952
+          "updated": 1791528464724
         },
         {
           "id": "v9acybhmuza3uw0",
@@ -6171,6 +6171,17 @@
     }
   ],
   "history": [
+    {
+      "id": "r8tnlxvmv0lsifp",
+      "ts": 1791528464725,
+      "by": "chelson",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE ( 14/10/2026 )",
+      "action": "status",
+      "item": "PRINGLES ASST FLAVOUR 110G",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "jun3si8mv0lc5ml",
       "ts": 1791527701629,
