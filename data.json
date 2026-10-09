@@ -6109,12 +6109,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791510586248
+        },
+        {
+          "id": "110kup5mv0b5tkp",
+          "added": 1791510609913,
+          "addedBy": "fathin",
+          "name": "PRINGLES ASSORTED FLAVOR 110G",
+          "no": "",
+          "qty": 10,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791510609913
         }
       ],
       "updated": 1791509319562
     }
   ],
   "history": [
+    {
+      "id": "rh19f2cmv0b5tkp",
+      "ts": 1791510609913,
+      "by": "fathin",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "PRINGLES ASSORTED FLAVOR 110G",
+      "no": "",
+      "detail": "Qty 10 BTL, Dry"
+    },
     {
       "id": "hobio2ymv0b5bbc",
       "ts": 1791510586248,
