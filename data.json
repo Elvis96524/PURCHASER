@@ -6151,12 +6151,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791510634296
+        },
+        {
+          "id": "wqi1213mv0b6oy8",
+          "added": 1791510650576,
+          "addedBy": "fathin",
+          "name": "RED BEAN PASTE 1KG",
+          "no": "",
+          "qty": 10,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791510650576
         }
       ],
       "updated": 1791509319562
     }
   ],
   "history": [
+    {
+      "id": "uxixk18mv0b6oy9",
+      "ts": 1791510650577,
+      "by": "fathin",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "RED BEAN PASTE 1KG",
+      "no": "",
+      "detail": "Qty 10 PKT, Dry"
+    },
     {
       "id": "gmgnd9gmv0b6ce0",
       "ts": 1791510634296,
