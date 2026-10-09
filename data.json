@@ -5521,6 +5521,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791504039478
+        },
+        {
+          "id": "5zb1o0qmv079ldx",
+          "added": 1791504067461,
+          "addedBy": "chelson",
+          "name": "Raja",
+          "no": "22",
+          "qty": 2,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791504067461
         }
       ],
       "updated": 1791244338292
@@ -5923,6 +5937,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ogoyjg1mv079ldx",
+      "ts": 1791504067461,
+      "by": "chelson",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "added",
+      "item": "Raja",
+      "no": "22",
+      "detail": "Qty 2 Ikat, Chiller"
+    },
     {
       "id": "brba6ufmv078zsm",
       "ts": 1791504039478,
