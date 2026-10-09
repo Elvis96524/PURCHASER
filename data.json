@@ -4088,7 +4088,8 @@
           "updated": 1791354710719
         }
       ],
-      "updated": 1790925515778
+      "deleted": true,
+      "updated": 1791509291738
     },
     {
       "id": "vtcc3yfmuqnhmxf",
@@ -5995,6 +5996,17 @@
     }
   ],
   "history": [
+    {
+      "id": "nnhwzg5mv0adkgq",
+      "ts": 1791509291738,
+      "by": "fathin",
+      "vid": "3999u2dmuqmt81u",
+      "vname": "Majestic",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "mjpjj7smv0adf5t",
       "ts": 1791509284865,
