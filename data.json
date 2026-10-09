@@ -6134,9 +6134,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791510625168
+          "updated": 1791527226710
         },
         {
           "id": "n4riowxmv0b6ce0",
@@ -6171,6 +6171,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4ezox0zmv0l1z6e",
+      "ts": 1791527226710,
+      "by": "chelson",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "status",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "51pv96jmv0l1q3k",
       "ts": 1791527214944,
