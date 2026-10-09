@@ -5917,9 +5917,9 @@
           "unit": "PAIR",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1791448279744
+          "updated": 1791529297112
         },
         {
           "id": "oaylovcmuza2udl",
@@ -6172,6 +6172,17 @@
     }
   ],
   "history": [
+    {
+      "id": "1sf85ksmv0macpk",
+      "ts": 1791529297112,
+      "by": "chelson",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE ( 14/10/2026 )",
+      "action": "status",
+      "item": "LONG RUBBER HAND GLOVE ( For Dishwasher )",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "uq483nomv0lsxqy",
       "ts": 1791528484570,
