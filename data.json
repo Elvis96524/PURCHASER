@@ -6149,9 +6149,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791510634296
+          "updated": 1791531143994
         },
         {
           "id": "wqi1213mv0b6oy8",
@@ -6173,6 +6173,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qz502nnmv0ndxru",
+      "ts": 1791531143994,
+      "by": "chelson",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "status",
+      "item": "MARGARINE 18KG",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "3w2cn5gmv0ndnc5",
       "ts": 1791531130469,
