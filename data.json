@@ -6137,12 +6137,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791510625168
+        },
+        {
+          "id": "n4riowxmv0b6ce0",
+          "added": 1791510634296,
+          "addedBy": "fathin",
+          "name": "MARGARINE 18KG",
+          "no": "",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791510634296
         }
       ],
       "updated": 1791509319562
     }
   ],
   "history": [
+    {
+      "id": "gmgnd9gmv0b6ce0",
+      "ts": 1791510634296,
+      "by": "fathin",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "MARGARINE 18KG",
+      "no": "",
+      "detail": "Qty 1 CTN, Dry"
+    },
     {
       "id": "5kogr9qmv0b65cg",
       "ts": 1791510625168,
