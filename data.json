@@ -6095,12 +6095,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791510571777
+        },
+        {
+          "id": "abnppaemv0b5bbc",
+          "added": 1791510586248,
+          "addedBy": "fathin",
+          "name": "FOURWAY CRAB",
+          "no": "",
+          "qty": 10,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791510586248
         }
       ],
       "updated": 1791509319562
     }
   ],
   "history": [
+    {
+      "id": "hobio2ymv0b5bbc",
+      "ts": 1791510586248,
+      "by": "fathin",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "FOURWAY CRAB",
+      "no": "",
+      "detail": "Qty 10 PKT, Dry"
+    },
     {
       "id": "9v7ex0umv0b505d",
       "ts": 1791510571777,
