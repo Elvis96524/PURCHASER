@@ -3276,9 +3276,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790918409177
+          "updated": 1791524936411
         },
         {
           "id": "rl01b3vmuqilm9t",
@@ -6171,6 +6171,17 @@
     }
   ],
   "history": [
+    {
+      "id": "g7fb4hwmv0jovyz",
+      "ts": 1791524936411,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER",
+      "action": "status",
+      "item": "Oreo vanilla Kraft 137gm",
+      "no": "46",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "0hwuhhwmv0joto5",
       "ts": 1791524933429,
