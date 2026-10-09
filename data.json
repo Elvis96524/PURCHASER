@@ -5959,9 +5959,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791448372512
+          "updated": 1791527214944
         },
         {
           "id": "pioblxtmv07dsuj",
@@ -6171,6 +6171,17 @@
     }
   ],
   "history": [
+    {
+      "id": "51pv96jmv0l1q3k",
+      "ts": 1791527214944,
+      "by": "chelson",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE ( 14/10/2026 )",
+      "action": "status",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "542phqsmv0l1g02",
       "ts": 1791527201858,
