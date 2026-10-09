@@ -5008,9 +5008,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791183519859
+          "updated": 1791524972735
         },
         {
           "id": "ccdaqxxmuuwfme3",
@@ -6171,6 +6171,17 @@
     }
   ],
   "history": [
+    {
+      "id": "x3sc5btmv0jpnzz",
+      "ts": 1791524972735,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT ( OCT 2ND ORDER )",
+      "action": "status",
+      "item": "HUP SENG SUGAR CRACKERS 428GM",
+      "no": "50",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "g7fb4hwmv0jovyz",
       "ts": 1791524936411,
