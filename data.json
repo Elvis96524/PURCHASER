@@ -6164,14 +6164,26 @@
           "category": "Dry",
           "priority": "normal",
           "status": "received",
-          "notes": "",
-          "updated": 1791530012588
+          "notes": "900gm",
+          "updated": 1791530031311,
+          "updatedBy": "chelson"
         }
       ],
       "updated": 1791510717424
     }
   ],
   "history": [
+    {
+      "id": "dbvfhwkmv0mq380",
+      "ts": 1791530031312,
+      "by": "chelson",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "edited",
+      "item": "RED BEAN PASTE 1KG",
+      "no": "",
+      "detail": "Notes changed"
+    },
     {
       "id": "jyrebtxmv0mporw",
       "ts": 1791530012588,
