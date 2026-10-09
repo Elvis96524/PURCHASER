@@ -6123,12 +6123,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791510609913
+        },
+        {
+          "id": "iaqb31smv0b65cg",
+          "added": 1791510625168,
+          "addedBy": "fathin",
+          "name": "MURUKU POPO 12GMX30'S",
+          "no": "",
+          "qty": 6,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791510625168
         }
       ],
       "updated": 1791509319562
     }
   ],
   "history": [
+    {
+      "id": "5kogr9qmv0b65cg",
+      "ts": 1791510625168,
+      "by": "fathin",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "",
+      "detail": "Qty 6 PKT, Dry"
+    },
     {
       "id": "rh19f2cmv0b5tkp",
       "ts": 1791510609913,
