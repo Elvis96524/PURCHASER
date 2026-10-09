@@ -6106,9 +6106,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791510586248
+          "updated": 1791527230421
         },
         {
           "id": "110kup5mv0b5tkp",
@@ -6171,6 +6171,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ts8yyvsmv0l221h",
+      "ts": 1791527230421,
+      "by": "chelson",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "status",
+      "item": "FOURWAY CRAB",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "4ezox0zmv0l1z6e",
       "ts": 1791527226710,
