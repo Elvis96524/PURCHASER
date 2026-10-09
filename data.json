@@ -6121,9 +6121,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791510609913
+          "updated": 1791528484570
         },
         {
           "id": "iaqb31smv0b65cg",
@@ -6172,6 +6172,17 @@
     }
   ],
   "history": [
+    {
+      "id": "uq483nomv0lsxqy",
+      "ts": 1791528484570,
+      "by": "chelson",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "status",
+      "item": "PRINGLES ASSORTED FLAVOR 110G",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "r8tnlxvmv0lsifp",
       "ts": 1791528464725,
