@@ -5521,9 +5521,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791504039478
+          "updated": 1791531130469
         },
         {
           "id": "5zb1o0qmv079ldx",
@@ -6173,6 +6173,17 @@
     }
   ],
   "history": [
+    {
+      "id": "3w2cn5gmv0ndnc5",
+      "ts": 1791531130469,
+      "by": "chelson",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "status",
+      "item": "Salam",
+      "no": "20",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "tpxomhbmv0n3y8c",
       "ts": 1791530678028,
