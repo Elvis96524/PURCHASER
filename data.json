@@ -5507,6 +5507,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791503986555
+        },
+        {
+          "id": "frw5vipmv078zsm",
+          "added": 1791504039478,
+          "addedBy": "chelson",
+          "name": "Salam",
+          "no": "20",
+          "qty": 4,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791504039478
         }
       ],
       "updated": 1791244338292
@@ -5909,6 +5923,17 @@
     }
   ],
   "history": [
+    {
+      "id": "brba6ufmv078zsm",
+      "ts": 1791504039478,
+      "by": "chelson",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "added",
+      "item": "Salam",
+      "no": "20",
+      "detail": "Qty 4 Ikat, Chiller"
+    },
     {
       "id": "oz0ndmxmv077uyj",
       "ts": 1791503986555,
