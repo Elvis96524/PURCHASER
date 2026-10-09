@@ -6086,7 +6086,7 @@
           "id": "tx663mkmv0b505d",
           "added": 1791510571777,
           "addedBy": "fathin",
-          "name": "SERBUK PUTIH",
+          "name": "SERBUK JINTAN PUTIH",
           "no": "",
           "qty": 1,
           "unit": "KG",
@@ -6094,7 +6094,7 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791510571777
+          "updated": 1791510679961
         },
         {
           "id": "abnppaemv0b5bbc",
@@ -6171,6 +6171,17 @@
     }
   ],
   "history": [
+    {
+      "id": "r2qkhgamv0b7bmj",
+      "ts": 1791510679963,
+      "by": "fathin",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM",
+      "action": "edited",
+      "item": "SERBUK JINTAN PUTIH",
+      "no": "",
+      "detail": "Name \"SERBUK PUTIH\" → \"SERBUK JINTAN PUTIH\""
+    },
     {
       "id": "uxixk18mv0b6oy9",
       "ts": 1791510650577,
