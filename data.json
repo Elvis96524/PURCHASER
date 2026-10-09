@@ -5535,6 +5535,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791504067461
+        },
+        {
+          "id": "a03i5hmmv07a5pr",
+          "added": 1791504093807,
+          "addedBy": "chelson",
+          "name": "Petai",
+          "no": "30",
+          "qty": 2,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791504093807
         }
       ],
       "updated": 1791244338292
@@ -5937,6 +5951,17 @@
     }
   ],
   "history": [
+    {
+      "id": "hxs9dmsmv07a5pr",
+      "ts": 1791504093807,
+      "by": "chelson",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "added",
+      "item": "Petai",
+      "no": "30",
+      "detail": "Qty 2 Kg, Chiller"
+    },
     {
       "id": "ogoyjg1mv079ldx",
       "ts": 1791504067461,
