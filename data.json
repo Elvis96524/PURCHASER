@@ -5456,15 +5456,16 @@
           "id": "xi8rok9muvwflny",
           "added": 1791244007278,
           "addedBy": "chelson",
-          "name": "Muruku 900gm original",
+          "name": "Muruku 900gm original ( Offer muruku 24'sx12gm )",
           "no": "25",
-          "qty": 5,
+          "qty": 7,
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791244007278
+          "updated": 1791506298688,
+          "updatedBy": "farah"
         },
         {
           "id": "oh91wmumuvwghlu",
@@ -5993,6 +5994,17 @@
     }
   ],
   "history": [
+    {
+      "id": "h1xmip8mv08lf0h",
+      "ts": 1791506298689,
+      "by": "farah",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "edited",
+      "item": "Muruku 900gm original ( Offer muruku 24'sx12gm )",
+      "no": "25",
+      "detail": "Name \"Muruku 900gm original\" → \"Muruku 900gm original ( Offer muruku 24'sx12gm )\"; Qty 5 → 7"
+    },
     {
       "id": "ger858mmv07lr6p",
       "ts": 1791504634849,
