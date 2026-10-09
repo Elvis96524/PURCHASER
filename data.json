@@ -5504,9 +5504,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791503986555
+          "updated": 1791504634848
         },
         {
           "id": "frw5vipmv078zsm",
@@ -5993,6 +5993,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ger858mmv07lr6p",
+      "ts": 1791504634849,
+      "by": "chelson",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "status",
+      "item": "Pucuk ubi",
+      "no": "19",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "hbfrel5mv07el7q",
       "ts": 1791504300518,
