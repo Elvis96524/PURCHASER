@@ -5464,9 +5464,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791506298688,
+          "updated": 1791527201858,
           "updatedBy": "farah"
         },
         {
@@ -6171,6 +6171,17 @@
     }
   ],
   "history": [
+    {
+      "id": "542phqsmv0l1g02",
+      "ts": 1791527201858,
+      "by": "chelson",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "status",
+      "item": "Muruku 900gm original ( Offer muruku 24'sx12gm )",
+      "no": "25",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "x3sc5btmv0jpnzz",
       "ts": 1791524972735,
