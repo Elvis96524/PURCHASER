@@ -5973,12 +5973,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791504263755
+        },
+        {
+          "id": "4mbi3qkmv07el7q",
+          "added": 1791504300518,
+          "addedBy": "chelson",
+          "name": "Raja",
+          "no": "44",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791504300518
         }
       ],
       "updated": 1791448096249
     }
   ],
   "history": [
+    {
+      "id": "hbfrel5mv07el7q",
+      "ts": 1791504300518,
+      "by": "chelson",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "Raja",
+      "no": "44",
+      "detail": "Qty 5 Ikat, Chiller"
+    },
     {
       "id": "izdnagkmv07dsuj",
       "ts": 1791504263755,
