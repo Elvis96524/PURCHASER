@@ -5549,6 +5549,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791504093807
+        },
+        {
+          "id": "a8moyvgmv07b3te",
+          "added": 1791504138002,
+          "addedBy": "chelson",
+          "name": "Tempe",
+          "no": "45",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791504138002
         }
       ],
       "updated": 1791244338292
@@ -5951,6 +5965,17 @@
     }
   ],
   "history": [
+    {
+      "id": "wdmpsiymv07b3te",
+      "ts": 1791504138002,
+      "by": "chelson",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "added",
+      "item": "Tempe",
+      "no": "45",
+      "detail": "Qty 5 Ikat, Frozen"
+    },
     {
       "id": "hxs9dmsmv07a5pr",
       "ts": 1791504093807,
