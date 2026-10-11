@@ -5903,9 +5903,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791448164553
+          "updated": 1791687087311
         },
         {
           "id": "ymfax29muza1vb4",
@@ -6065,9 +6065,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791509426673
+          "updated": 1791687094198
         },
         {
           "id": "we0s7bqmv0agyux",
@@ -6173,6 +6173,28 @@
     }
   ],
   "history": [
+    {
+      "id": "pjhevqzmv388hpy",
+      "ts": 1791687094198,
+      "by": "chelson",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "status",
+      "item": "FRESH PETAI",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "6lpvxx5mv388cen",
+      "ts": 1791687087311,
+      "by": "chelson",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE ( 15/10/2026 )",
+      "action": "status",
+      "item": "FRESH PETAI",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "7a4j3xzmv3885pk",
       "ts": 1791687078632,
