@@ -5549,9 +5549,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791504093807
+          "updated": 1791687078632
         },
         {
           "id": "a8moyvgmv07b3te",
@@ -6173,6 +6173,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7a4j3xzmv3885pk",
+      "ts": 1791687078632,
+      "by": "chelson",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "status",
+      "item": "Petai",
+      "no": "30",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "mrfflrhmv0oqyor",
       "ts": 1791533431323,
