@@ -6461,12 +6461,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791790870713
+        },
+        {
+          "id": "jeffrv3mv4y1jav",
+          "added": 1791790905847,
+          "addedBy": "chelson",
+          "name": "Pringles assorted",
+          "no": "90",
+          "qty": 8,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791790905847
         }
       ],
       "updated": 1791789282604
     }
   ],
   "history": [
+    {
+      "id": "yqfwssgmv4y1jav",
+      "ts": 1791790905847,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Pringles assorted",
+      "no": "90",
+      "detail": "Qty 8 Btl, Dry"
+    },
     {
       "id": "iq59suwmv4y0s6x",
       "ts": 1791790870713,
