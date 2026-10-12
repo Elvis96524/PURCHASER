@@ -6525,11 +6525,37 @@
     {
       "id": "9gxyop0mv4yge8f",
       "name": "Paladin(OCT 1ST ORDER)",
-      "items": [],
+      "items": [
+        {
+          "id": "cejh67amv4yisxr",
+          "added": 1791791711487,
+          "addedBy": "chelson",
+          "name": "Nescafe 3in1 rich 25's x19GM",
+          "no": "27",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791791711487
+        }
+      ],
       "updated": 1791791599119
     }
   ],
   "history": [
+    {
+      "id": "vak8qgomv4yisxr",
+      "ts": 1791791711487,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "added",
+      "item": "Nescafe 3in1 rich 25's x19GM",
+      "no": "27",
+      "detail": "Qty 2 Pkt, Dry"
+    },
     {
       "id": "5404ay0mv4yge8f",
       "ts": 1791791599119,
