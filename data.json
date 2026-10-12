@@ -6447,12 +6447,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791790787755
+        },
+        {
+          "id": "4shihuwmv4y0s6x",
+          "added": 1791790870713,
+          "addedBy": "chelson",
+          "name": "BOH TEA ICELEMON SACHET 20'S X 14.5GM",
+          "no": "89",
+          "qty": 1,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791790870713
         }
       ],
       "updated": 1791789282604
     }
   ],
   "history": [
+    {
+      "id": "iq59suwmv4y0s6x",
+      "ts": 1791790870713,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "BOH TEA ICELEMON SACHET 20'S X 14.5GM",
+      "no": "89",
+      "detail": "Qty 1 Pkt, Dry"
+    },
     {
       "id": "js10m3pmv4xz06j",
       "ts": 1791790787755,
