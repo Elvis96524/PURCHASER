@@ -6335,11 +6335,37 @@
     {
       "id": "jqrlhw2mv4x2qss",
       "name": "Power (NOVEMBER)",
-      "items": [],
+      "items": [
+        {
+          "id": "54rbwpxmv4x41re",
+          "added": 1791789343466,
+          "addedBy": "chelson",
+          "name": "Gardenia",
+          "no": "72",
+          "qty": 15,
+          "unit": "Loaf",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791789343466
+        }
+      ],
       "updated": 1791789282604
     }
   ],
   "history": [
+    {
+      "id": "hkrniodmv4x41re",
+      "ts": 1791789343466,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Gardenia",
+      "no": "72",
+      "detail": "Qty 15 Loaf, Frozen"
+    },
     {
       "id": "g07v9lwmv4x2qss",
       "ts": 1791789282604,
