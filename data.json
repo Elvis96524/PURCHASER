@@ -6503,12 +6503,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791790978132
+        },
+        {
+          "id": "m53cfflmv4y3mqo",
+          "added": 1791791003616,
+          "addedBy": "chelson",
+          "name": "Puteri marjerin 1kg",
+          "no": "",
+          "qty": 1,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791791003616
         }
       ],
       "updated": 1791789282604
     }
   ],
   "history": [
+    {
+      "id": "nx2teegmv4y3mqo",
+      "ts": 1791791003616,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Puteri marjerin 1kg",
+      "no": "",
+      "detail": "Qty 1 Pkt, Dry"
+    },
     {
       "id": "2rrg91kmv4y332s",
       "ts": 1791790978132,
