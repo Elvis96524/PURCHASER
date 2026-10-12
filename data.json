@@ -6331,9 +6331,26 @@
         }
       ],
       "updated": 1791785613322
+    },
+    {
+      "id": "jqrlhw2mv4x2qss",
+      "name": "Power (NOVEMBER)",
+      "items": [],
+      "updated": 1791789282604
     }
   ],
   "history": [
+    {
+      "id": "g07v9lwmv4x2qss",
+      "ts": 1791789282604,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "774kh9omv4v8fb3",
       "ts": 1791786188415,
