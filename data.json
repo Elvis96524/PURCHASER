@@ -6093,9 +6093,9 @@
           "unit": "KG",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791510679961
+          "updated": 1791768071712
         },
         {
           "id": "abnppaemv0b5bbc",
@@ -6173,6 +6173,17 @@
     }
   ],
   "history": [
+    {
+      "id": "vte6ko8mv4kg4dc",
+      "ts": 1791768071712,
+      "by": "chelson",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "status",
+      "item": "SERBUK JINTAN PUTIH",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "pjhevqzmv388hpy",
       "ts": 1791687094198,
