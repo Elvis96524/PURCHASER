@@ -6216,12 +6216,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791785704804
+        },
+        {
+          "id": "zhudrxwmv4uysww",
+          "added": 1791785739488,
+          "addedBy": "chelson",
+          "name": "Pudina",
+          "no": "27",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791785739488
         }
       ],
       "updated": 1791785613322
     }
   ],
   "history": [
+    {
+      "id": "k3hfpmdmv4uysww",
+      "ts": 1791785739488,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "added",
+      "item": "Pudina",
+      "no": "27",
+      "detail": "Qty 5 Ikat, Chiller"
+    },
     {
       "id": "qfqur2ymv4uy25g",
       "ts": 1791785704804,
