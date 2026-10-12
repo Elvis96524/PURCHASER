@@ -6521,9 +6521,26 @@
         }
       ],
       "updated": 1791789282604
+    },
+    {
+      "id": "9gxyop0mv4yge8f",
+      "name": "Paladin(OCT 1ST ORDER)",
+      "items": [],
+      "updated": 1791791599119
     }
   ],
   "history": [
+    {
+      "id": "5404ay0mv4yge8f",
+      "ts": 1791791599119,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "8eb8ty4mv4ybrbh",
       "ts": 1791791382797,
