@@ -5568,7 +5568,8 @@
           "updated": 1791769299961
         }
       ],
-      "updated": 1791244338292
+      "deleted": true,
+      "updated": 1791791382797
     },
     {
       "id": "eazb4m5muvx86ps",
@@ -6523,6 +6524,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8eb8ty4mv4ybrbh",
+      "ts": 1791791382797,
+      "by": "lim",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "zpuqc2amv4ybbdi",
       "ts": 1791791362134,
