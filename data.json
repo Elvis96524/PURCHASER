@@ -6419,12 +6419,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791790721180
+        },
+        {
+          "id": "gcwrb1ymv4xy90j",
+          "added": 1791790752547,
+          "addedBy": "chelson",
+          "name": "Hotdog bun 10's",
+          "no": "70",
+          "qty": 6,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791790752547
         }
       ],
       "updated": 1791789282604
     }
   ],
   "history": [
+    {
+      "id": "y982j6emv4xy90j",
+      "ts": 1791790752547,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Hotdog bun 10's",
+      "no": "70",
+      "detail": "Qty 6 Pkt, Frozen"
+    },
     {
       "id": "kb8t9ojmv4xxkt8",
       "ts": 1791790721180,
