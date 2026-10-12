@@ -6170,9 +6170,26 @@
         }
       ],
       "updated": 1791510717424
+    },
+    {
+      "id": "90x90lhmv4uw3ka",
+      "name": "Geotek (OCT 2ND ORDER)",
+      "items": [],
+      "updated": 1791785613322
     }
   ],
   "history": [
+    {
+      "id": "2qldkacmv4uw3ka",
+      "ts": 1791785613322,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "anlfihsmv4l6g3d",
       "ts": 1791769299961,
