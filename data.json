@@ -6475,12 +6475,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791790905847
+        },
+        {
+          "id": "4ejg3dtmv4y27at",
+          "added": 1791790936949,
+          "addedBy": "chelson",
+          "name": "Dragon fruit red",
+          "no": "",
+          "qty": 3,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791790936949
         }
       ],
       "updated": 1791789282604
     }
   ],
   "history": [
+    {
+      "id": "xlevthsmv4y27at",
+      "ts": 1791790936949,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Dragon fruit red",
+      "no": "",
+      "detail": "Qty 3 Kg, Chiller"
+    },
     {
       "id": "yqfwssgmv4y1jav",
       "ts": 1791790905847,
