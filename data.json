@@ -6188,12 +6188,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791785648876
+        },
+        {
+          "id": "t26ztenmv4uxep6",
+          "added": 1791785674410,
+          "addedBy": "chelson",
+          "name": "Kucai",
+          "no": "23",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791785674410
         }
       ],
       "updated": 1791785613322
     }
   ],
   "history": [
+    {
+      "id": "9ga7le9mv4uxep6",
+      "ts": 1791785674410,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "added",
+      "item": "Kucai",
+      "no": "23",
+      "detail": "Qty 1 Kg, Chiller"
+    },
     {
       "id": "5vmi9hzmv4uwuzw",
       "ts": 1791785648876,
