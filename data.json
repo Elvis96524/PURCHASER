@@ -6300,12 +6300,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791785934502
+        },
+        {
+          "id": "9p76yyvmv4v3itv",
+          "added": 1791785959699,
+          "addedBy": "chelson",
+          "name": "Tempe",
+          "no": "71",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791785959699
         }
       ],
       "updated": 1791785613322
     }
   ],
   "history": [
+    {
+      "id": "p8ovgdvmv4v3itv",
+      "ts": 1791785959699,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "added",
+      "item": "Tempe",
+      "no": "71",
+      "detail": "Qty 5 Pkt, Chiller"
+    },
     {
       "id": "m4kejr6mv4v2zdy",
       "ts": 1791785934502,
