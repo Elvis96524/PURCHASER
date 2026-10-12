@@ -6405,12 +6405,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791790676131
+        },
+        {
+          "id": "fupyq3gmv4xxkt8",
+          "added": 1791790721180,
+          "addedBy": "chelson",
+          "name": "Kek pisang",
+          "no": "69",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791790721180
         }
       ],
       "updated": 1791789282604
     }
   ],
   "history": [
+    {
+      "id": "kb8t9ojmv4xxkt8",
+      "ts": 1791790721180,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Kek pisang",
+      "no": "69",
+      "detail": "Qty 5 Pkt, Dry"
+    },
     {
       "id": "y2rhkx3mv4xwm1v",
       "ts": 1791790676131,
