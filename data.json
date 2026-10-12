@@ -6414,11 +6414,11 @@
           "no": "69",
           "qty": 5,
           "unit": "Pkt",
-          "category": "Chiller",
+          "category": "Frozen",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791791058645
+          "updated": 1791791066086
         },
         {
           "id": "gcwrb1ymv4xy90j",
@@ -6523,6 +6523,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6961k1fmv4y4yxy",
+      "ts": 1791791066086,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "edited",
+      "item": "Kek pisang",
+      "no": "69",
+      "detail": "Chiller → Frozen"
+    },
     {
       "id": "iyd9z57mv4y4t7a",
       "ts": 1791791058646,
