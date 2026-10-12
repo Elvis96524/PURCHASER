@@ -5535,9 +5535,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791504067461
+          "updated": 1791791362134
         },
         {
           "id": "a03i5hmmv07a5pr",
@@ -6523,6 +6523,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zpuqc2amv4ybbdi",
+      "ts": 1791791362134,
+      "by": "lim",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "status",
+      "item": "Raja",
+      "no": "22",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "6961k1fmv4y4yxy",
       "ts": 1791791066086,
