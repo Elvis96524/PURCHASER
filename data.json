@@ -6167,6 +6167,20 @@
           "notes": "900gm",
           "updated": 1791530031311,
           "updatedBy": "chelson"
+        },
+        {
+          "id": "mjsin2cmv4v56xh",
+          "added": 1791786037589,
+          "addedBy": "chelson",
+          "name": "Yogurt 135g",
+          "no": "Supervisor team",
+          "qty": 20,
+          "unit": "Cup",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791786037589
         }
       ],
       "updated": 1791510717424
@@ -6320,6 +6334,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xofpnoxmv4v56xh",
+      "ts": 1791786037589,
+      "by": "chelson",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "added",
+      "item": "Yogurt 135g",
+      "no": "Supervisor team",
+      "detail": "Qty 20 Cup, Chiller"
+    },
     {
       "id": "p8ovgdvmv4v3itv",
       "ts": 1791785959699,
