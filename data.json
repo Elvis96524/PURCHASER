@@ -6230,12 +6230,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791785739488
+        },
+        {
+          "id": "0xqt0izmv4uzo4c",
+          "added": 1791785779932,
+          "addedBy": "chelson",
+          "name": "Pegaga",
+          "no": "28",
+          "qty": 4,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791785779932
         }
       ],
       "updated": 1791785613322
     }
   ],
   "history": [
+    {
+      "id": "lgkieeomv4uzo4c",
+      "ts": 1791785779932,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "added",
+      "item": "Pegaga",
+      "no": "28",
+      "detail": "Qty 4 Ikat, Chiller"
+    },
     {
       "id": "k3hfpmdmv4uysww",
       "ts": 1791785739488,
