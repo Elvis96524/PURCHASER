@@ -6349,12 +6349,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791789343466
+        },
+        {
+          "id": "6gfwpa0mv4xseym",
+          "added": 1791790480318,
+          "addedBy": "chelson",
+          "name": "Orange/Mango Sunquick 840ml",
+          "no": "14",
+          "qty": 1,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791790480318
         }
       ],
       "updated": 1791789282604
     }
   ],
   "history": [
+    {
+      "id": "ccxp7vomv4xseym",
+      "ts": 1791790480318,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Orange/Mango Sunquick 840ml",
+      "no": "14",
+      "detail": "Qty 1 Btl, Dry"
+    },
     {
       "id": "hkrniodmv4x41re",
       "ts": 1791789343466,
