@@ -6202,12 +6202,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791785674410
+        },
+        {
+          "id": "5r5gmo6mv4uy25g",
+          "added": 1791785704804,
+          "addedBy": "chelson",
+          "name": "Pucuk ubi",
+          "no": "26",
+          "qty": 2,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791785704804
         }
       ],
       "updated": 1791785613322
     }
   ],
   "history": [
+    {
+      "id": "qfqur2ymv4uy25g",
+      "ts": 1791785704804,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "added",
+      "item": "Pucuk ubi",
+      "no": "26",
+      "detail": "Qty 2 Ikat, Chiller"
+    },
     {
       "id": "9ga7le9mv4uxep6",
       "ts": 1791785674410,
