@@ -5563,9 +5563,9 @@
           "unit": "Ikat",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791504138002
+          "updated": 1791769299961
         }
       ],
       "updated": 1791244338292
@@ -6173,6 +6173,17 @@
     }
   ],
   "history": [
+    {
+      "id": "anlfihsmv4l6g3d",
+      "ts": 1791769299961,
+      "by": "chelson",
+      "vid": "7e83qekmuvwen21",
+      "vname": "Sk Falcon (OCT 1st order)",
+      "action": "status",
+      "item": "Tempe",
+      "no": "45",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "vte6ko8mv4kg4dc",
       "ts": 1791768071712,
