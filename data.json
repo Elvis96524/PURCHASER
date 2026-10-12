@@ -6244,12 +6244,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791785779932
+        },
+        {
+          "id": "6s4smjtmv4v0sum",
+          "added": 1791785832718,
+          "addedBy": "chelson",
+          "name": "Yam",
+          "no": "59",
+          "qty": 2,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791785832718
         }
       ],
       "updated": 1791785613322
     }
   ],
   "history": [
+    {
+      "id": "5j5d7k7mv4v0sum",
+      "ts": 1791785832718,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "added",
+      "item": "Yam",
+      "no": "59",
+      "detail": "Qty 2 Kg, Chiller"
+    },
     {
       "id": "lgkieeomv4uzo4c",
       "ts": 1791785779932,
