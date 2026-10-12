@@ -6174,11 +6174,37 @@
     {
       "id": "90x90lhmv4uw3ka",
       "name": "Geotek (OCT 2ND ORDER)",
-      "items": [],
+      "items": [
+        {
+          "id": "iv56yjnmv4uwuzw",
+          "added": 1791785648876,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "22",
+          "qty": 4,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791785648876
+        }
+      ],
       "updated": 1791785613322
     }
   ],
   "history": [
+    {
+      "id": "5vmi9hzmv4uwuzw",
+      "ts": 1791785648876,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "added",
+      "item": "Kesum",
+      "no": "22",
+      "detail": "Qty 4 Ikat, Chiller"
+    },
     {
       "id": "2qldkacmv4uw3ka",
       "ts": 1791785613322,
