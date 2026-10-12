@@ -6391,12 +6391,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791790621743
+        },
+        {
+          "id": "pe13fdzmv4xwm1v",
+          "added": 1791790676131,
+          "addedBy": "chelson",
+          "name": "Sugar cracker Hupseng 428g",
+          "no": "68",
+          "qty": 15,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791790676131
         }
       ],
       "updated": 1791789282604
     }
   ],
   "history": [
+    {
+      "id": "y2rhkx3mv4xwm1v",
+      "ts": 1791790676131,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Sugar cracker Hupseng 428g",
+      "no": "68",
+      "detail": "Qty 15 Pkt, Dry"
+    },
     {
       "id": "63wocnbmv4xvg33",
       "ts": 1791790621743,
