@@ -6272,12 +6272,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791785885448
+        },
+        {
+          "id": "cavgi88mv4v2g5s",
+          "added": 1791785909584,
+          "addedBy": "chelson",
+          "name": "Cendol",
+          "no": "64",
+          "qty": 3,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791785909584
         }
       ],
       "updated": 1791785613322
     }
   ],
   "history": [
+    {
+      "id": "stkwg41mv4v2g5s",
+      "ts": 1791785909584,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "added",
+      "item": "Cendol",
+      "no": "64",
+      "detail": "Qty 3 Pkt, Chiller"
+    },
     {
       "id": "q19s78mmv4v1xjc",
       "ts": 1791785885448,
