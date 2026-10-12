@@ -236,9 +236,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790055111620
+          "updated": 1791786188415
         },
         {
           "id": "ynmm5v4muqitqgl",
@@ -6334,6 +6334,17 @@
     }
   ],
   "history": [
+    {
+      "id": "774kh9omv4v8fb3",
+      "ts": 1791786188415,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "status",
+      "item": "Petai",
+      "no": "93",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "xofpnoxmv4v56xh",
       "ts": 1791786037589,
