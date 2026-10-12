@@ -6286,12 +6286,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791785909584
+        },
+        {
+          "id": "lwn0ti6mv4v2zdy",
+          "added": 1791785934502,
+          "addedBy": "chelson",
+          "name": "Cincau",
+          "no": "65",
+          "qty": 3,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791785934502
         }
       ],
       "updated": 1791785613322
     }
   ],
   "history": [
+    {
+      "id": "m4kejr6mv4v2zdy",
+      "ts": 1791785934502,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "added",
+      "item": "Cincau",
+      "no": "65",
+      "detail": "Qty 3 Pkt, Chiller"
+    },
     {
       "id": "stkwg41mv4v2g5s",
       "ts": 1791785909584,
