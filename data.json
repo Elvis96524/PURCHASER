@@ -6258,12 +6258,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791785832718
+        },
+        {
+          "id": "awmlbo9mv4v1xjc",
+          "added": 1791785885448,
+          "addedBy": "chelson",
+          "name": "Yogurt 135g",
+          "no": "60",
+          "qty": 20,
+          "unit": "Cup",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791785885448
         }
       ],
       "updated": 1791785613322
     }
   ],
   "history": [
+    {
+      "id": "q19s78mmv4v1xjc",
+      "ts": 1791785885448,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "added",
+      "item": "Yogurt 135g",
+      "no": "60",
+      "detail": "Qty 20 Cup, Chiller"
+    },
     {
       "id": "5j5d7k7mv4v0sum",
       "ts": 1791785832718,
