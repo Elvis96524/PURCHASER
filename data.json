@@ -6363,12 +6363,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791790480318
+        },
+        {
+          "id": "qvjubrrmv4xumfp",
+          "added": 1791790583317,
+          "addedBy": "chelson",
+          "name": "Peaches Halves in syrup 822G",
+          "no": "45",
+          "qty": 2,
+          "unit": "Can",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791790583317
         }
       ],
       "updated": 1791789282604
     }
   ],
   "history": [
+    {
+      "id": "6rbyaoymv4xumfp",
+      "ts": 1791790583317,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Peaches Halves in syrup 822G",
+      "no": "45",
+      "detail": "Qty 2 Can, Dry"
+    },
     {
       "id": "ccxp7vomv4xseym",
       "ts": 1791790480318,
