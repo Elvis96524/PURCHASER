@@ -6414,11 +6414,11 @@
           "no": "69",
           "qty": 5,
           "unit": "Pkt",
-          "category": "Dry",
+          "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791790721180
+          "updated": 1791791058645
         },
         {
           "id": "gcwrb1ymv4xy90j",
@@ -6523,6 +6523,17 @@
     }
   ],
   "history": [
+    {
+      "id": "iyd9z57mv4y4t7a",
+      "ts": 1791791058646,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "edited",
+      "item": "Kek pisang",
+      "no": "69",
+      "detail": "Dry → Chiller"
+    },
     {
       "id": "nx2teegmv4y3mqo",
       "ts": 1791791003616,
