@@ -6489,12 +6489,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791790936949
+        },
+        {
+          "id": "1uonlcqmv4y332s",
+          "added": 1791790978132,
+          "addedBy": "chelson",
+          "name": "Indomie soto",
+          "no": "96",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791790978132
         }
       ],
       "updated": 1791789282604
     }
   ],
   "history": [
+    {
+      "id": "2rrg91kmv4y332s",
+      "ts": 1791790978132,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Indomie soto",
+      "no": "96",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "xlevthsmv4y27at",
       "ts": 1791790936949,
