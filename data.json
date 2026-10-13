@@ -6819,12 +6819,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850149349
+        },
+        {
+          "id": "1ksadommv5xy6fe",
+          "added": 1791851215370,
+          "addedBy": "chelson",
+          "name": "Mister potato 75gm mix",
+          "no": "93",
+          "qty": 15,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791851215370
         }
       ],
       "updated": 1791791599119
     }
   ],
   "history": [
+    {
+      "id": "mx3ug56mv5xy6fe",
+      "ts": 1791851215370,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "added",
+      "item": "Mister potato 75gm mix",
+      "no": "93",
+      "detail": "Qty 15 Pkt, Dry"
+    },
     {
       "id": "pu2ouqhmv5xufdo",
       "ts": 1791851040348,
