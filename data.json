@@ -6529,9 +6529,9 @@
           "unit": "Pkt",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791790752547
+          "updated": 1791852334003
         },
         {
           "id": "173rc06mv4xz06j",
@@ -6853,6 +6853,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xb6kn2xmv5ym5kj",
+      "ts": 1791852334003,
+      "by": "akhbar",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Hotdog bun 10's",
+      "no": "70",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "274fz2omv5ylyaf",
       "ts": 1791852324567,
