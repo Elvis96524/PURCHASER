@@ -7495,12 +7495,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791874197020
+        },
+        {
+          "id": "12inalpmv6fyrrj",
+          "added": 1791881476111,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "",
+          "qty": 2,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791881476111
         }
       ],
       "updated": 1791875229005
     }
   ],
   "history": [
+    {
+      "id": "e61w76qmv6fyrrj",
+      "ts": 1791881476111,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "added",
+      "item": "Kesum",
+      "no": "",
+      "detail": "Qty 2 Ikat, Chiller"
+    },
     {
       "id": "vzdgy20mv6fxfhw",
       "ts": 1791881413556,
