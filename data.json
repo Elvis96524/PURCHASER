@@ -7509,12 +7509,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791881476111
+        },
+        {
+          "id": "fd32b1zmv6fz1vc",
+          "added": 1791881489208,
+          "addedBy": "chelson",
+          "name": "Kucai",
+          "no": "",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791881489208
         }
       ],
       "updated": 1791875229005
     }
   ],
   "history": [
+    {
+      "id": "prhwak0mv6fz1vc",
+      "ts": 1791881489208,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "added",
+      "item": "Kucai",
+      "no": "",
+      "detail": "Qty 1 Kg, Chiller"
+    },
     {
       "id": "e61w76qmv6fyrrj",
       "ts": 1791881476111,
