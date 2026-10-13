@@ -6515,9 +6515,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791790480318
+          "updated": 1791858878781
         },
         {
           "id": "qvjubrrmv4xumfp",
@@ -6909,6 +6909,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7i9b7romv62ifjx",
+      "ts": 1791858878781,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Orange/Mango Sunquick 840ml",
+      "no": "14",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "2dkxq4dmv61v3ua",
       "ts": 1791857790514,
