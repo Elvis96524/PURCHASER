@@ -6539,12 +6539,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791791711487
+        },
+        {
+          "id": "eauye79mv5x8t60",
+          "added": 1791850031784,
+          "addedBy": "chelson",
+          "name": "Pakis",
+          "no": "23",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850031784
         }
       ],
       "updated": 1791791599119
     }
   ],
   "history": [
+    {
+      "id": "9fhnmblmv5x8t60",
+      "ts": 1791850031784,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "added",
+      "item": "Pakis",
+      "no": "23",
+      "detail": "Qty 5 Ikat, Chiller"
+    },
     {
       "id": "vak8qgomv4yisxr",
       "ts": 1791791711487,
