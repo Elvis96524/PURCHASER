@@ -6073,9 +6073,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791504263755
+          "updated": 1791855345588
         },
         {
           "id": "4mbi3qkmv07el7q",
@@ -6298,9 +6298,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791785648876
+          "updated": 1791855343087
         },
         {
           "id": "t26ztenmv4uxep6",
@@ -6853,6 +6853,28 @@
     }
   ],
   "history": [
+    {
+      "id": "0acl1m2mv60epbo",
+      "ts": 1791855345588,
+      "by": "chelson",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE ( 15/10/2026 )",
+      "action": "status",
+      "item": "Kesum",
+      "no": "31",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "0vthczomv60ene8",
+      "ts": 1791855343088,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "status",
+      "item": "Kesum",
+      "no": "22",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "t6qix3lmv5zvshx",
       "ts": 1791854463237,
