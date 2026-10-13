@@ -6888,9 +6888,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791851215370
+          "updated": 1791871344523
         },
         {
           "id": "gw5lpz1mv5xzawl",
@@ -7239,6 +7239,17 @@
     }
   ],
   "history": [
+    {
+      "id": "s92ajd3mv69xm6j",
+      "ts": 1791871344523,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "status",
+      "item": "Mister potato 75gm mix",
+      "no": "93",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "4glr5anmv69xchu",
       "ts": 1791871331970,
