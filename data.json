@@ -6769,9 +6769,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791850847968
+          "updated": 1791866985310
         },
         {
           "id": "er83hvwmv5xufdo",
@@ -7175,6 +7175,28 @@
     }
   ],
   "history": [
+    {
+      "id": "soihiwwmv67c6la",
+      "ts": 1791866985310,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Tempe",
+      "no": "64",
+      "detail": "Status: Received → Ordered"
+    },
+    {
+      "id": "2vcxeramv67c4l0",
+      "ts": 1791866982708,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Tempe",
+      "no": "64",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "xb54chwmv67c118",
       "ts": 1791866978108,
