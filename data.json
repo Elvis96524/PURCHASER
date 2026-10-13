@@ -6595,12 +6595,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850100125
+        },
+        {
+          "id": "cf2mwxfmv5xb2md",
+          "added": 1791850137349,
+          "addedBy": "chelson",
+          "name": "Tempe",
+          "no": "61",
+          "qty": 10,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850137349
         }
       ],
       "updated": 1791791599119
     }
   ],
   "history": [
+    {
+      "id": "wm29ybjmv5xb2md",
+      "ts": 1791850137349,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "added",
+      "item": "Tempe",
+      "no": "61",
+      "detail": "Qty 10 Pkt, Chiller"
+    },
     {
       "id": "y6prvspmv5xa9wd",
       "ts": 1791850100125,
