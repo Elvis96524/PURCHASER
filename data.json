@@ -6991,20 +6991,31 @@
           "added": 1791861448157,
           "addedBy": "fathin",
           "name": "LANGSAT ( IKUT MUSIM ) *subject to availability*",
-          "no": "",
-          "qty": 1,
-          "unit": "",
-          "category": "Dry",
+          "no": "64",
+          "qty": 2,
+          "unit": "KG",
+          "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791861448157
+          "updated": 1791861469742
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "jzp8vhumv641yr2",
+      "ts": 1791861469742,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "edited",
+      "item": "LANGSAT ( IKUT MUSIM ) *subject to availability*",
+      "no": "64",
+      "detail": "No. — → 64; Qty 1 → 2; Unit — → KG; Dry → Chiller"
+    },
     {
       "id": "k1rrd60mv641qpa",
       "ts": 1791861459310,
