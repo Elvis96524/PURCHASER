@@ -6943,12 +6943,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791861333757
+        },
+        {
+          "id": "vkxgrvpmv63zj59",
+          "added": 1791861356205,
+          "addedBy": "fathin",
+          "name": "BEAN SPROUT",
+          "no": "41",
+          "qty": 2,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791861356205
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "fc5bhycmv63zj59",
+      "ts": 1791861356205,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "BEAN SPROUT",
+      "no": "41",
+      "detail": "Qty 2 KG, Chiller"
+    },
     {
       "id": "rwyz0tdmv63z1tp",
       "ts": 1791861333757,
