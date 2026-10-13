@@ -7201,6 +7201,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791881680379
+        },
+        {
+          "id": "bi6mg48mv6g3g56",
+          "added": 1791881694330,
+          "addedBy": "chelson",
+          "name": "Kucai",
+          "no": "",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791881694330
         }
       ],
       "updated": 1791875217701
@@ -7557,6 +7571,17 @@
     }
   ],
   "history": [
+    {
+      "id": "sb40c0xmv6g3g56",
+      "ts": 1791881694330,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "added",
+      "item": "Kucai",
+      "no": "",
+      "detail": "Qty 1 Kg, Chiller"
+    },
     {
       "id": "xmwz791mv6g35dn",
       "ts": 1791881680379,
