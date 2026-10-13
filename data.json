@@ -7126,8 +7126,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "received",
-          "notes": "",
-          "updated": 1791874764691
+          "notes": "24 tins",
+          "updated": 1791874788505,
+          "updatedBy": "chelson"
         },
         {
           "id": "tpmmqvimv64v7ec",
@@ -7414,6 +7415,17 @@
     }
   ],
   "history": [
+    {
+      "id": "hpzogr6mv6bzfkp",
+      "ts": 1791874788505,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "edited",
+      "item": "SPRITE 325ML",
+      "no": "14",
+      "detail": "Notes changed"
+    },
     {
       "id": "hte9qsgmv6byx77",
       "ts": 1791874764691,
