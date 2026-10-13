@@ -6683,9 +6683,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791850764723
+          "updated": 1791854190899
         },
         {
           "id": "v8i8z32mv5xpqkn",
@@ -6774,9 +6774,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791850062017
+          "updated": 1791854188531
         },
         {
           "id": "dh7tllxmv5x9wpk",
@@ -6853,6 +6853,28 @@
     }
   ],
   "history": [
+    {
+      "id": "335regumv5zpycz",
+      "ts": 1791854190899,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Salam",
+      "no": "26",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "oatj1uwmv5zpwj7",
+      "ts": 1791854188531,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "status",
+      "item": "Salam",
+      "no": "24",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "xb6kn2xmv5ym5kj",
       "ts": 1791852334003,
