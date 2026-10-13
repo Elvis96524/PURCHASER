@@ -6901,9 +6901,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "received",
+          "status": "tobuy",
           "notes": "",
-          "updated": 1791861472286
+          "updated": 1791861776457
         },
         {
           "id": "cxln99gmv63xsu6",
@@ -7090,6 +7090,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6sx69ukmv648jex",
+      "ts": 1791861776457,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "status",
+      "item": "Sprite 1.5L",
+      "no": "",
+      "detail": "Status: Received → To buy"
+    },
     {
       "id": "8v1nkmtmv648inz",
       "ts": 1791861775487,
