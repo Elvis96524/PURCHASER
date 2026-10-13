@@ -5960,9 +5960,9 @@
           "unit": "BDL",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791448120609
+          "updated": 1791855376790
         },
         {
           "id": "x98xl92muz9ytig",
@@ -6853,6 +6853,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ofsyelamv60fdee",
+      "ts": 1791855376790,
+      "by": "chelson",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE ( 15/10/2026 )",
+      "action": "status",
+      "item": "DAUN PUCUK UBI",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "qaof7dpmv60erpa",
       "ts": 1791855348670,
