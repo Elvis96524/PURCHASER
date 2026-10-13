@@ -295,6 +295,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850361837
+        },
+        {
+          "id": "gu0yrdkmv5xgh5s",
+          "added": 1791850389472,
+          "addedBy": "chelson",
+          "name": "Pucuk ubi",
+          "no": "25",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850389472
         }
       ],
       "updated": 1790131185241
@@ -6643,6 +6657,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xcjs0yomv5xgh5s",
+      "ts": 1791850389472,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "added",
+      "item": "Pucuk ubi",
+      "no": "25",
+      "detail": "Qty 5 Ikat, Chiller"
+    },
     {
       "id": "hn9l0brmv5xfvu5",
       "ts": 1791850361837,
