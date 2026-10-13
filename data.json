@@ -6581,12 +6581,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850083032
+        },
+        {
+          "id": "0dm314amv5xa9wd",
+          "added": 1791850100125,
+          "addedBy": "chelson",
+          "name": "Raja",
+          "no": "26",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850100125
         }
       ],
       "updated": 1791791599119
     }
   ],
   "history": [
+    {
+      "id": "y6prvspmv5xa9wd",
+      "ts": 1791850100125,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "added",
+      "item": "Raja",
+      "no": "26",
+      "detail": "Qty 5 Ikat, Chiller"
+    },
     {
       "id": "3wy47mimv5x9wpk",
       "ts": 1791850083032,
