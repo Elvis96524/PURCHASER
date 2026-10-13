@@ -7083,8 +7083,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1791861714301
+          "notes": "Left 2",
+          "updated": 1791871149092,
+          "updatedBy": "chelson"
         },
         {
           "id": "2r8kwp0mv6497ot",
@@ -7238,6 +7239,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4ozwyxtmv69tfdw",
+      "ts": 1791871149092,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "edited",
+      "item": "NO1 KACANG KACANG",
+      "no": "21",
+      "detail": "Notes changed"
+    },
     {
       "id": "w01hjqnmv69qtzc",
       "ts": 1791871028040,
