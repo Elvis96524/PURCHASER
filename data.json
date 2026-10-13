@@ -7201,9 +7201,9 @@
           "unit": "Loaf",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791869230440
+          "updated": 1791869623816
         },
         {
           "id": "d2bxn46mv68p734",
@@ -7238,6 +7238,17 @@
     }
   ],
   "history": [
+    {
+      "id": "u6qtd7rmv68wqh4",
+      "ts": 1791869623816,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "status",
+      "item": "Gardenia",
+      "no": "44",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "loxn9bimv68w3ud",
       "ts": 1791869594485,
