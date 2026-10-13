@@ -323,6 +323,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850419240
+        },
+        {
+          "id": "8yp9476mv5xho89",
+          "added": 1791850445289,
+          "addedBy": "chelson",
+          "name": "Nangka muda",
+          "no": "39",
+          "qty": 6,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850445289
         }
       ],
       "updated": 1790131185241
@@ -6671,6 +6685,17 @@
     }
   ],
   "history": [
+    {
+      "id": "02951t0mv5xho89",
+      "ts": 1791850445289,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "added",
+      "item": "Nangka muda",
+      "no": "39",
+      "detail": "Qty 6 Pkt, Chiller"
+    },
     {
       "id": "cnt71ummv5xh44o",
       "ts": 1791850419240,
