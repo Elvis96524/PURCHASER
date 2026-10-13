@@ -6655,9 +6655,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791850658207
+          "updated": 1791856428037
         },
         {
           "id": "xl6z622mv5xms7w",
@@ -6853,6 +6853,17 @@
     }
   ],
   "history": [
+    {
+      "id": "jr59zucmv611wjq",
+      "ts": 1791856428038,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Pucuk ubi",
+      "no": "24",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "2mq9zqomv60yt4i",
       "ts": 1791856283634,
