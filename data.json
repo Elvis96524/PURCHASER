@@ -7083,9 +7083,9 @@
           "unit": "PACK",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Left 2",
-          "updated": 1791871149092,
+          "updated": 1791877804671,
           "updatedBy": "chelson"
         },
         {
@@ -7417,6 +7417,17 @@
     }
   ],
   "history": [
+    {
+      "id": "j226jfjmv6ds2v3",
+      "ts": 1791877804671,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "status",
+      "item": "NO1 KACANG KACANG",
+      "no": "21",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "easobl0mv6drsgs",
       "ts": 1791877791196,
