@@ -6604,17 +6604,28 @@
           "no": "61",
           "qty": 10,
           "unit": "Pkt",
-          "category": "Chiller",
+          "category": "Frozen",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791850137349
+          "updated": 1791850149349
         }
       ],
       "updated": 1791791599119
     }
   ],
   "history": [
+    {
+      "id": "hk6n768mv5xbbvp",
+      "ts": 1791850149349,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "edited",
+      "item": "Tempe",
+      "no": "61",
+      "detail": "Chiller → Frozen"
+    },
     {
       "id": "wm29ybjmv5xb2md",
       "ts": 1791850137349,
