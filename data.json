@@ -6585,9 +6585,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791790936949
+          "updated": 1791856278967
         },
         {
           "id": "1uonlcqmv4y332s",
@@ -6853,6 +6853,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6cbbeewmv60ypiv",
+      "ts": 1791856278967,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Dragon fruit red",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "wxfg1d9mv60xq0y",
       "ts": 1791856232962,
