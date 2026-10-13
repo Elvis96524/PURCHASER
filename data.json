@@ -6929,12 +6929,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791861322485
+        },
+        {
+          "id": "2x4u1femv63z1tp",
+          "added": 1791861333757,
+          "addedBy": "fathin",
+          "name": "PETAI",
+          "no": "33",
+          "qty": 1,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791861333757
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "rwyz0tdmv63z1tp",
+      "ts": 1791861333757,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "PETAI",
+      "no": "33",
+      "detail": "Qty 1 KG, Chiller"
+    },
     {
       "id": "yjzw2e9mv63yt4l",
       "ts": 1791861322485,
