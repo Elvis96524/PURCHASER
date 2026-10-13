@@ -6030,9 +6030,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791448151232
+          "updated": 1791866990314
         },
         {
           "id": "3ev1w7smuz9zefd",
@@ -7175,6 +7175,17 @@
     }
   ],
   "history": [
+    {
+      "id": "42rfs6smv67caga",
+      "ts": 1791866990314,
+      "by": "chelson",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE ( 15/10/2026 )",
+      "action": "status",
+      "item": "TEMPE",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "soihiwwmv67c6la",
       "ts": 1791866985310,
