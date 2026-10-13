@@ -7172,9 +7172,26 @@
         }
       ],
       "updated": 1791861308237
+    },
+    {
+      "id": "wv4asgcmv68mvgt",
+      "name": "Prodigy",
+      "items": [],
+      "updated": 1791869163725
     }
   ],
   "history": [
+    {
+      "id": "ae63ioxmv68mvgt",
+      "ts": 1791869163725,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "l6yratimv68gsku",
       "ts": 1791868880046,
