@@ -6613,9 +6613,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791790870713
+          "updated": 1791858949010
         },
         {
           "id": "jeffrv3mv4y1jav",
@@ -6909,6 +6909,17 @@
     }
   ],
   "history": [
+    {
+      "id": "jojhx4dmv62jxqq",
+      "ts": 1791858949010,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "BOH TEA ICELEMON SACHET 20'S X 14.5GM",
+      "no": "89",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "wdp4n20mv62j3zq",
       "ts": 1791858910454,
