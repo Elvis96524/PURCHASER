@@ -6714,6 +6714,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850847968
+        },
+        {
+          "id": "er83hvwmv5xufdo",
+          "added": 1791851040348,
+          "addedBy": "chelson",
+          "name": "Tepung Bestari pedas 1kg",
+          "no": "94",
+          "qty": 7,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791851040347
         }
       ],
       "updated": 1791789282604
@@ -6811,6 +6825,17 @@
     }
   ],
   "history": [
+    {
+      "id": "pu2ouqhmv5xufdo",
+      "ts": 1791851040348,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Tepung Bestari pedas 1kg",
+      "no": "94",
+      "detail": "Qty 7 Pkt, Dry"
+    },
     {
       "id": "rihighfmv5xqaxs",
       "ts": 1791850847968,
