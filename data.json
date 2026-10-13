@@ -309,6 +309,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850389472
+        },
+        {
+          "id": "12wbfzwmv5xh44o",
+          "added": 1791850419240,
+          "addedBy": "chelson",
+          "name": "Jantung pisang",
+          "no": "31",
+          "qty": 5,
+          "unit": "Nos",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850419240
         }
       ],
       "updated": 1790131185241
@@ -6657,6 +6671,17 @@
     }
   ],
   "history": [
+    {
+      "id": "cnt71ummv5xh44o",
+      "ts": 1791850419240,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "added",
+      "item": "Jantung pisang",
+      "no": "31",
+      "detail": "Qty 5 Nos, Chiller"
+    },
     {
       "id": "xcjs0yomv5xgh5s",
       "ts": 1791850389472,
