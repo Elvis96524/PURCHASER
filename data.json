@@ -7068,9 +7068,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791861682109
+          "updated": 1791876109186
         },
         {
           "id": "g8veqfgmv6477gd",
@@ -7415,6 +7415,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zfvayfgmv6crqmb",
+      "ts": 1791876109187,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "status",
+      "item": "NESCAFE GOLD CREAMY LATTE 3IN1 28X19G",
+      "no": "3",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "z98rvd7mv6c8vgt",
       "ts": 1791875229005,
