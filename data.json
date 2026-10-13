@@ -365,6 +365,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850502508
+        },
+        {
+          "id": "hkw9a4hmv61otpy",
+          "added": 1791857497462,
+          "addedBy": "nicole",
+          "name": "Sprite 1.5L x 12",
+          "no": "14",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791857497462
         }
       ],
       "updated": 1790131185241
@@ -6853,6 +6867,17 @@
     }
   ],
   "history": [
+    {
+      "id": "57jiaxhmv61otpy",
+      "ts": 1791857497462,
+      "by": "nicole",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "added",
+      "item": "Sprite 1.5L x 12",
+      "no": "14",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "wtuyh6bmv611zfu",
       "ts": 1791856431786,
