@@ -7240,11 +7240,37 @@
     {
       "id": "tptuuc9mv6aj647",
       "name": "PERDANA PROTECTOR",
-      "items": [],
+      "items": [
+        {
+          "id": "owyghg0mv6ajxpi",
+          "added": 1791872385894,
+          "addedBy": "fathin",
+          "name": "BEAN SPROUTS",
+          "no": "36",
+          "qty": 2,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791872385894
+        }
+      ],
       "updated": 1791872350135
     }
   ],
   "history": [
+    {
+      "id": "upol9atmv6ajxpi",
+      "ts": 1791872385894,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA PROTECTOR",
+      "action": "added",
+      "item": "BEAN SPROUTS",
+      "no": "36",
+      "detail": "Qty 2 KG, Chiller"
+    },
     {
       "id": "8lo6zhvmv6aj647",
       "ts": 1791872350135,
