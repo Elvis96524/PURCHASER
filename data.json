@@ -351,6 +351,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850471854
+        },
+        {
+          "id": "y2zu3d2mv5xiwdo",
+          "added": 1791850502508,
+          "addedBy": "chelson",
+          "name": "Tempe",
+          "no": "62",
+          "qty": 15,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850502508
         }
       ],
       "updated": 1790131185241
@@ -6699,6 +6713,17 @@
     }
   ],
   "history": [
+    {
+      "id": "n0wer46mv5xiwdo",
+      "ts": 1791850502508,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "added",
+      "item": "Tempe",
+      "no": "62",
+      "detail": "Qty 15 Pkt, Frozen"
+    },
     {
       "id": "dz5muebmv5xi8q6",
       "ts": 1791850471854,
