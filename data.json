@@ -223,9 +223,9 @@
           "unit": "Loaf",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1790055048516
+          "updated": 1791872001112
         },
         {
           "id": "hk96wfrmuc8lfwk",
@@ -348,9 +348,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791850471854
+          "updated": 1791871996693
         },
         {
           "id": "y2zu3d2mv5xiwdo",
@@ -7153,9 +7153,9 @@
           "unit": "PACK",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791863076638
+          "updated": 1791871955919
         },
         {
           "id": "h10ut9mmv64zhz8",
@@ -7239,6 +7239,39 @@
     }
   ],
   "history": [
+    {
+      "id": "p6eck19mv6abot4",
+      "ts": 1791872001112,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "status",
+      "item": "Wholemeal bread",
+      "no": "65",
+      "detail": "Status: To buy → Ordered"
+    },
+    {
+      "id": "s303cremv6abled",
+      "ts": 1791871996693,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "status",
+      "item": "Cendol",
+      "no": "57",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "2evc661mv6aapxr",
+      "ts": 1791871955919,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "status",
+      "item": "TWISTIES ASST 60GM",
+      "no": "21",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "dhc2mu5mv6a92jt",
       "ts": 1791871878953,
