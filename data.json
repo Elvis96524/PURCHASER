@@ -6971,12 +6971,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791861372821
+        },
+        {
+          "id": "gw2krk6mv640smd",
+          "added": 1791861415141,
+          "addedBy": "fathin",
+          "name": "CEMPEDAK MASAK *subject to availability*",
+          "no": "63",
+          "qty": 4,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791861415141
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "binj7gnmv640smd",
+      "ts": 1791861415141,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "CEMPEDAK MASAK *subject to availability*",
+      "no": "63",
+      "detail": "Qty 4 KG, Chiller"
+    },
     {
       "id": "oiodxvgmv63zvyt",
       "ts": 1791861372821,
