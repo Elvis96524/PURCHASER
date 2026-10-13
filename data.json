@@ -6903,12 +6903,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791851267829
+        },
+        {
+          "id": "cxln99gmv63xsu6",
+          "added": 1791861275454,
+          "addedBy": "fathin",
+          "name": "BAWANG PUTIH KOPEK",
+          "no": "3",
+          "qty": 2,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791861275454
         }
       ],
       "updated": 1791791599119
     }
   ],
   "history": [
+    {
+      "id": "rxc7dsymv63xsu6",
+      "ts": 1791861275454,
+      "by": "fathin",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "added",
+      "item": "BAWANG PUTIH KOPEK",
+      "no": "3",
+      "detail": "Qty 2 KG, Chiller"
+    },
     {
       "id": "znhnp0jmv63ht69",
       "ts": 1791860529393,
