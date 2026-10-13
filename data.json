@@ -7099,12 +7099,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791861807917
+        },
+        {
+          "id": "iinopromv64bhh1",
+          "added": 1791861913909,
+          "addedBy": "fathin",
+          "name": "ULAM SELOM",
+          "no": "48",
+          "qty": 4,
+          "unit": "IKAT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791861913909
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "rptv0vfmv64bhh1",
+      "ts": 1791861913909,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "ULAM SELOM",
+      "no": "48",
+      "detail": "Qty 4 IKAT, Chiller"
+    },
     {
       "id": "zia0buymv64b41y",
       "ts": 1791861896518,
