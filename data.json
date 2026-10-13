@@ -250,9 +250,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790918821173
+          "updated": 1791856283634
         },
         {
           "id": "mfw02glmuqiu8h3",
@@ -6853,6 +6853,17 @@
     }
   ],
   "history": [
+    {
+      "id": "2mq9zqomv60yt4i",
+      "ts": 1791856283634,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "status",
+      "item": "Dragon fruit red",
+      "no": "85",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "6cbbeewmv60ypiv",
       "ts": 1791856278967,
