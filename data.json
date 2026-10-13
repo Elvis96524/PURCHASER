@@ -7127,12 +7127,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791862728044
+        },
+        {
+          "id": "tpmmqvimv64v7ec",
+          "added": 1791862833972,
+          "addedBy": "fathin",
+          "name": "MURUKU POPO 12GMX24'S",
+          "no": "21",
+          "qty": 4,
+          "unit": "PACK",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791862833972
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "jrwipnjmv64v7ec",
+      "ts": 1791862833972,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "MURUKU POPO 12GMX24'S",
+      "no": "21",
+      "detail": "Qty 4 PACK, Dry"
+    },
     {
       "id": "dv3ut8imv64sxnx",
       "ts": 1791862728045,
