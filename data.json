@@ -7187,6 +7187,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791873092528
+        },
+        {
+          "id": "szp5jhkmv6g35dn",
+          "added": 1791881680379,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "",
+          "qty": 3,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791881680379
         }
       ],
       "updated": 1791875217701
@@ -7543,6 +7557,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xmwz791mv6g35dn",
+      "ts": 1791881680379,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "added",
+      "item": "Kesum",
+      "no": "",
+      "detail": "Qty 3 Ikat, Chiller"
+    },
     {
       "id": "6gsmpvsmv6g0hi8",
       "ts": 1791881556128,
