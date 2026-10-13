@@ -7268,12 +7268,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791872453591
+        },
+        {
+          "id": "akgx296mv6ambkl",
+          "added": 1791872497173,
+          "addedBy": "fathin",
+          "name": "ROTI GARDENIA",
+          "no": "41",
+          "qty": 2,
+          "unit": "LOAF",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791872497173
         }
       ],
       "updated": 1791872350135
     }
   ],
   "history": [
+    {
+      "id": "94a5rr2mv6ambkl",
+      "ts": 1791872497173,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA PROTECTOR",
+      "action": "added",
+      "item": "ROTI GARDENIA",
+      "no": "41",
+      "detail": "Qty 2 LOAF, Frozen"
+    },
     {
       "id": "doceovrmv6aldxz",
       "ts": 1791872453591,
