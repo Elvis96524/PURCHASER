@@ -278,9 +278,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791850337894
+          "updated": 1791855348670
         },
         {
           "id": "4pxb628mv5xfvu5",
@@ -6853,6 +6853,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qaof7dpmv60erpa",
+      "ts": 1791855348670,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "status",
+      "item": "Kesum",
+      "no": "21",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "0acl1m2mv60epbo",
       "ts": 1791855345588,
