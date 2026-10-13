@@ -7523,12 +7523,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791881489208
+        },
+        {
+          "id": "m7pgvommv6g0hi8",
+          "added": 1791881556128,
+          "addedBy": "chelson",
+          "name": "Yogurt 130gm mix",
+          "no": "",
+          "qty": 30,
+          "unit": "Cup",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791881556128
         }
       ],
       "updated": 1791875229005
     }
   ],
   "history": [
+    {
+      "id": "6gsmpvsmv6g0hi8",
+      "ts": 1791881556128,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "added",
+      "item": "Yogurt 130gm mix",
+      "no": "",
+      "detail": "Qty 30 Cup, Chiller"
+    },
     {
       "id": "prhwak0mv6fz1vc",
       "ts": 1791881489208,
