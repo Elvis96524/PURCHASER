@@ -7170,6 +7170,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791863034308
+        },
+        {
+          "id": "dao5pxxmv6az2y8",
+          "added": 1791873092528,
+          "addedBy": "fathin",
+          "name": "CHILI PADI BURUNG",
+          "no": "11",
+          "qty": 1,
+          "unit": "KG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791873092528
         }
       ],
       "updated": 1791861308237
@@ -7372,6 +7386,17 @@
     }
   ],
   "history": [
+    {
+      "id": "stsnr1kmv6az2y9",
+      "ts": 1791873092529,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "CHILI PADI BURUNG",
+      "no": "11",
+      "detail": "Qty 1 KG, Dry"
+    },
     {
       "id": "69qt6g9mv6as1v2",
       "ts": 1791872764526,
