@@ -6159,14 +6159,14 @@
           "added": 1791509367770,
           "addedBy": "fathin",
           "name": "ASSORTED VITAGEN LESS SUGAR",
-          "no": "",
+          "no": "Supervisor Team",
           "qty": 6,
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791509367770
+          "updated": 1791863378901
         },
         {
           "id": "gbrksx0mv0afl7u",
@@ -7175,6 +7175,17 @@
     }
   ],
   "history": [
+    {
+      "id": "i7w06q0mv656vv9",
+      "ts": 1791863378901,
+      "by": "fathin",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "edited",
+      "item": "ASSORTED VITAGEN LESS SUGAR",
+      "no": "Supervisor Team",
+      "detail": "No. — → Supervisor Team"
+    },
     {
       "id": "3zhpqu2mv650en3",
       "ts": 1791863076639,
