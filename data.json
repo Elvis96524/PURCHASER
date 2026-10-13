@@ -7041,12 +7041,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791861620925
+        },
+        {
+          "id": "itkiz1bmv645uc5",
+          "added": 1791861650645,
+          "addedBy": "fathin",
+          "name": "OLD TOWN WHITE COFFEE 3IN1 CARAMEL",
+          "no": "1",
+          "qty": 1,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791861650645
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "werwebzmv645uc5",
+      "ts": 1791861650645,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "OLD TOWN WHITE COFFEE 3IN1 CARAMEL",
+      "no": "1",
+      "detail": "Qty 1 PKT, Dry"
+    },
     {
       "id": "l5cxilimv6457el",
       "ts": 1791861620925,
