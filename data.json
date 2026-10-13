@@ -6354,9 +6354,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791785779932
+          "updated": 1791856183654
         },
         {
           "id": "6s4smjtmv4v0sum",
@@ -6853,6 +6853,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zzf2l33mv60wnza",
+      "ts": 1791856183654,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "status",
+      "item": "Pegaga",
+      "no": "28",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "j0ms9b9mv60vd6k",
       "ts": 1791856123004,
