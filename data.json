@@ -7084,12 +7084,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791861714301
+        },
+        {
+          "id": "2r8kwp0mv6497ot",
+          "added": 1791861807917,
+          "addedBy": "fathin",
+          "name": "MISTER POTATO 75G",
+          "no": "21",
+          "qty": 4,
+          "unit": "PACK",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791861807917
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "8zawj2vmv6497ot",
+      "ts": 1791861807917,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "MISTER POTATO 75G",
+      "no": "21",
+      "detail": "Qty 4 PACK, Dry"
+    },
     {
       "id": "6sx69ukmv648jex",
       "ts": 1791861776457,
