@@ -7239,7 +7239,7 @@
     },
     {
       "id": "tptuuc9mv6aj647",
-      "name": "PERDANA PROTECTOR",
+      "name": "PERDANA ENDURANCE",
       "items": [
         {
           "id": "owyghg0mv6ajxpi",
@@ -7368,10 +7368,21 @@
           "updated": 1791872740373
         }
       ],
-      "updated": 1791872350135
+      "updated": 1791872764526
     }
   ],
   "history": [
+    {
+      "id": "69qt6g9mv6as1v2",
+      "ts": 1791872764526,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"PERDANA PROTECTOR\" to \"PERDANA ENDURANCE\""
+    },
     {
       "id": "cjgyh0emv6arj85",
       "ts": 1791872740373,
