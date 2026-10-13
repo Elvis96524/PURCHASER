@@ -6438,9 +6438,9 @@
           "unit": "Cup",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791785885448
+          "updated": 1791871627237
         },
         {
           "id": "cavgi88mv4v2g5s",
@@ -7239,6 +7239,17 @@
     }
   ],
   "history": [
+    {
+      "id": "lkafnsumv6a3obp",
+      "ts": 1791871627237,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "status",
+      "item": "Yogurt 135g",
+      "no": "60",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "stypuf9mv6a3dxw",
       "ts": 1791871613780,
