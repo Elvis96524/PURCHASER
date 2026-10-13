@@ -7215,9 +7215,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791869272096
+          "updated": 1791869594485
         },
         {
           "id": "gtb83pwmv68qs8g",
@@ -7238,6 +7238,17 @@
     }
   ],
   "history": [
+    {
+      "id": "loxn9bimv68w3ud",
+      "ts": 1791869594485,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "status",
+      "item": "Maggi cup curry",
+      "no": "50",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "l9ez2h7mv68qs8g",
       "ts": 1791869346160,
