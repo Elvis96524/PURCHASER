@@ -6916,7 +6916,7 @@
     },
     {
       "id": "iruqolnmv63yi4t",
-      "name": "PERDANA EMERALD",
+      "name": "PERDANA EMERALD (16.10.2026)",
       "items": [
         {
           "id": "0ujshhsmv63yt4l",
@@ -7187,7 +7187,7 @@
           "updated": 1791873092528
         }
       ],
-      "updated": 1791861308237
+      "updated": 1791875217701
     },
     {
       "id": "wv4asgcmv68mvgt",
@@ -7415,6 +7415,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ej480sumv6c8mqt",
+      "ts": 1791875217701,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"PERDANA EMERALD\" to \"PERDANA EMERALD (16.10.2026)\""
+    },
     {
       "id": "ne8xbyvmv6c88m4",
       "ts": 1791875199388,
