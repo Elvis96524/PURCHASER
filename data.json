@@ -7125,9 +7125,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791862728044
+          "updated": 1791874764691
         },
         {
           "id": "tpmmqvimv64v7ec",
@@ -7414,6 +7414,17 @@
     }
   ],
   "history": [
+    {
+      "id": "hte9qsgmv6byx77",
+      "ts": 1791874764691,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "status",
+      "item": "SPRITE 325ML",
+      "no": "14",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "7p7sdrhmv6buyyd",
       "ts": 1791874580341,
