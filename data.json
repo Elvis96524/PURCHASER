@@ -7282,12 +7282,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791872497173
+        },
+        {
+          "id": "v7ibcb0mv6amv0l",
+          "added": 1791872522373,
+          "addedBy": "fathin",
+          "name": "TEPUNG CAP SAUH 1KG",
+          "no": "3",
+          "qty": 5,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791872522373
         }
       ],
       "updated": 1791872350135
     }
   ],
   "history": [
+    {
+      "id": "brsoio9mv6amv0l",
+      "ts": 1791872522373,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA PROTECTOR",
+      "action": "added",
+      "item": "TEPUNG CAP SAUH 1KG",
+      "no": "3",
+      "detail": "Qty 5 PKT, Dry"
+    },
     {
       "id": "94a5rr2mv6ambkl",
       "ts": 1791872497173,
