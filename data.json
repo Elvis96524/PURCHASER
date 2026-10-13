@@ -7170,8 +7170,8 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1791863034308
+          "notes": "CHANGE TO KING CAR COCONUT JUICE 300ML",
+          "updated": 1791877476443
         },
         {
           "id": "dao5pxxmv6az2y8",
@@ -7416,6 +7416,17 @@
     }
   ],
   "history": [
+    {
+      "id": "rxvfvbymv6dl1ln",
+      "ts": 1791877476443,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "edited",
+      "item": "YEO'S COCONUT JUICE 300ML",
+      "no": "20",
+      "detail": "Notes changed"
+    },
     {
       "id": "exrd0oymv6csjzl",
       "ts": 1791876147249,
