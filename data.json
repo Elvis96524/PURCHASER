@@ -6559,9 +6559,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791790676131
+          "updated": 1791871028040
         },
         {
           "id": "fupyq3gmv4xxkt8",
@@ -7238,6 +7238,17 @@
     }
   ],
   "history": [
+    {
+      "id": "w01hjqnmv69qtzc",
+      "ts": 1791871028040,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Sugar cracker Hupseng 428g",
+      "no": "68",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "bmrhjz3mv69mmtr",
       "ts": 1791870832143,
