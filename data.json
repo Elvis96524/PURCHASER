@@ -6480,9 +6480,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791785959699
+          "updated": 1791866994191
         }
       ],
       "updated": 1791785613322
@@ -7175,6 +7175,17 @@
     }
   ],
   "history": [
+    {
+      "id": "x7ateqpmv67cdfz",
+      "ts": 1791866994191,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "status",
+      "item": "Tempe",
+      "no": "71",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "42rfs6smv67caga",
       "ts": 1791866990314,
