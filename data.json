@@ -7310,12 +7310,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791872596246
+        },
+        {
+          "id": "yj786ucmv6ap565",
+          "added": 1791872628845,
+          "addedBy": "fathin",
+          "name": "FLYING SWALLOW AGAR-AGAR 7GM",
+          "no": "26",
+          "qty": 5,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791872628845
         }
       ],
       "updated": 1791872350135
     }
   ],
   "history": [
+    {
+      "id": "f07n2hymv6ap565",
+      "ts": 1791872628845,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA PROTECTOR",
+      "action": "added",
+      "item": "FLYING SWALLOW AGAR-AGAR 7GM",
+      "no": "26",
+      "detail": "Qty 5 PKT, Dry"
+    },
     {
       "id": "p0fitbumv6aog0m",
       "ts": 1791872596246,
