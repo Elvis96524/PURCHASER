@@ -6957,12 +6957,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791861356205
+        },
+        {
+          "id": "2ln99gcmv63zvyt",
+          "added": 1791861372821,
+          "addedBy": "fathin",
+          "name": "TEMPE",
+          "no": "49",
+          "qty": 9,
+          "unit": "PKT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791861372821
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "oiodxvgmv63zvyt",
+      "ts": 1791861372821,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "TEMPE",
+      "no": "49",
+      "detail": "Qty 9 PKT, Chiller"
+    },
     {
       "id": "fc5bhycmv63zj59",
       "ts": 1791861356205,
