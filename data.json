@@ -7176,11 +7176,37 @@
     {
       "id": "wv4asgcmv68mvgt",
       "name": "Prodigy",
-      "items": [],
+      "items": [
+        {
+          "id": "f3eak7lmv68nfco",
+          "added": 1791869189496,
+          "addedBy": "chelson",
+          "name": "Sprite 1.5litre",
+          "no": "13",
+          "qty": 2,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791869189496
+        }
+      ],
       "updated": 1791869163725
     }
   ],
   "history": [
+    {
+      "id": "2tm3lx1mv68nfco",
+      "ts": 1791869189496,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "added",
+      "item": "Sprite 1.5litre",
+      "no": "13",
+      "detail": "Qty 2 Ctn, Dry"
+    },
     {
       "id": "ae63ioxmv68mvgt",
       "ts": 1791869163725,
