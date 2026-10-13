@@ -7324,12 +7324,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791872628845
+        },
+        {
+          "id": "f97z0gcmv6apoot",
+          "added": 1791872654141,
+          "addedBy": "fathin",
+          "name": "ADABI SERBUK KURMA 250GM",
+          "no": "30",
+          "qty": 1,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791872654141
         }
       ],
       "updated": 1791872350135
     }
   ],
   "history": [
+    {
+      "id": "4ghebmomv6apoot",
+      "ts": 1791872654141,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA PROTECTOR",
+      "action": "added",
+      "item": "ADABI SERBUK KURMA 250GM",
+      "no": "30",
+      "detail": "Qty 1 PKT, Dry"
+    },
     {
       "id": "f07n2hymv6ap565",
       "ts": 1791872628845,
