@@ -7041,9 +7041,9 @@
           "unit": "LOAF",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791861620925
+          "updated": 1791877786593
         },
         {
           "id": "itkiz1bmv645uc5",
@@ -7416,6 +7416,17 @@
     }
   ],
   "history": [
+    {
+      "id": "e1kg238mv6drowx",
+      "ts": 1791877786593,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "status",
+      "item": "ROTI GARDENIA",
+      "no": "12",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "05e6mzdmv6drjg1",
       "ts": 1791877779505,
