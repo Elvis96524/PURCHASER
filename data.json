@@ -7338,12 +7338,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791872654141
+        },
+        {
+          "id": "p772i5rmv6aqkot",
+          "added": 1791872695613,
+          "addedBy": "fathin",
+          "name": "CORNTO",
+          "no": "58",
+          "qty": 1,
+          "unit": "BDL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791872695613
         }
       ],
       "updated": 1791872350135
     }
   ],
   "history": [
+    {
+      "id": "ezewsfdmv6aqkot",
+      "ts": 1791872695613,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA PROTECTOR",
+      "action": "added",
+      "item": "CORNTO",
+      "no": "58",
+      "detail": "Qty 1 BDL, Dry"
+    },
     {
       "id": "4ghebmomv6apoot",
       "ts": 1791872654141,
