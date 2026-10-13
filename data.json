@@ -6544,9 +6544,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791861775487,
+          "updated": 1791874534339,
           "updatedBy": "farah"
         },
         {
@@ -7414,6 +7414,17 @@
     }
   ],
   "history": [
+    {
+      "id": "9b4w3nlmv6btzgk",
+      "ts": 1791874534340,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Muruku 900gm ( Offer Muruku 12gmx24's )",
+      "no": "67",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "xblx7o9mv6bmr6l",
       "ts": 1791874197021,
