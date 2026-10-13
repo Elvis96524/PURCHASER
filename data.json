@@ -6616,6 +6616,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791791003616
+        },
+        {
+          "id": "hmen2xfmv5xl60q",
+          "added": 1791850608314,
+          "addedBy": "chelson",
+          "name": "Kemangi",
+          "no": "19",
+          "qty": 3,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850608314
         }
       ],
       "updated": 1791789282604
@@ -6713,6 +6727,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7qvcg8jmv5xl60q",
+      "ts": 1791850608314,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Kemangi",
+      "no": "19",
+      "detail": "Qty 3 Ikat, Chiller"
+    },
     {
       "id": "n0wer46mv5xiwdo",
       "ts": 1791850502508,
