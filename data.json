@@ -6452,9 +6452,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791785909584
+          "updated": 1791871611710
         },
         {
           "id": "lwn0ti6mv4v2zdy",
@@ -6466,9 +6466,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791785934502
+          "updated": 1791871613780
         },
         {
           "id": "9p76yyvmv4v3itv",
@@ -7239,6 +7239,28 @@
     }
   ],
   "history": [
+    {
+      "id": "stypuf9mv6a3dxw",
+      "ts": 1791871613780,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "status",
+      "item": "Cincau",
+      "no": "65",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "qnmstd0mv6a3cce",
+      "ts": 1791871611710,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "status",
+      "item": "Cendol",
+      "no": "64",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "7z7f277mv6a2xpb",
       "ts": 1791871592735,
