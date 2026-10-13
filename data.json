@@ -7097,9 +7097,9 @@
           "unit": "PACK",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791861807917
+          "updated": 1791871331970
         },
         {
           "id": "iinopromv64bhh1",
@@ -7239,6 +7239,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4glr5anmv69xchu",
+      "ts": 1791871331970,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "status",
+      "item": "MISTER POTATO 75G",
+      "no": "21",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "4ozwyxtmv69tfdw",
       "ts": 1791871149092,
