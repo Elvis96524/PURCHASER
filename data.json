@@ -7306,6 +7306,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791881333644
+        },
+        {
+          "id": "tzvp0scmv6fwo8a",
+          "added": 1791881378218,
+          "addedBy": "chelson",
+          "name": "Jantung Pisang",
+          "no": "",
+          "qty": 4,
+          "unit": "Nos",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791881378218
         }
       ],
       "updated": 1791869163725
@@ -7473,6 +7487,17 @@
     }
   ],
   "history": [
+    {
+      "id": "gid44tjmv6fwo8a",
+      "ts": 1791881378218,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "added",
+      "item": "Jantung Pisang",
+      "no": "",
+      "detail": "Qty 4 Nos, Chiller"
+    },
     {
       "id": "z0zrjptmv6fvpu5",
       "ts": 1791881333645,
