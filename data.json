@@ -7141,12 +7141,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791862833972
+        },
+        {
+          "id": "fj9dsvmmv64yljg",
+          "added": 1791862992268,
+          "addedBy": "fathin",
+          "name": "TWISTIES ASST 60GM",
+          "no": "21",
+          "qty": 4,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791862992268
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "hsykkh8mv64yljg",
+      "ts": 1791862992268,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "TWISTIES ASST 60GM",
+      "no": "21",
+      "detail": "Qty 4 PKT, Dry"
+    },
     {
       "id": "jrwipnjmv64v7ec",
       "ts": 1791862833972,
