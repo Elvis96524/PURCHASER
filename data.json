@@ -6942,9 +6942,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791861333757
+          "updated": 1791868880045
         },
         {
           "id": "vkxgrvpmv63zj59",
@@ -7175,6 +7175,17 @@
     }
   ],
   "history": [
+    {
+      "id": "l6yratimv68gsku",
+      "ts": 1791868880046,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "status",
+      "item": "PETAI",
+      "no": "33",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "x7ateqpmv67cdfz",
       "ts": 1791866994191,
