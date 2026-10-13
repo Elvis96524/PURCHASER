@@ -267,6 +267,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790918844519
+        },
+        {
+          "id": "rx2scr2mv5xfdd2",
+          "added": 1791850337894,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "21",
+          "qty": 2,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850337894
         }
       ],
       "updated": 1790131185241
@@ -6615,6 +6629,17 @@
     }
   ],
   "history": [
+    {
+      "id": "x1mgszbmv5xfdd3",
+      "ts": 1791850337895,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "added",
+      "item": "Kesum",
+      "no": "21",
+      "detail": "Qty 2 Ikat, Chiller"
+    },
     {
       "id": "hk6n768mv5xbbvp",
       "ts": 1791850149349,
