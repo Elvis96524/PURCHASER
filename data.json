@@ -7113,12 +7113,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791861913909
+        },
+        {
+          "id": "jr28fm5mv64sxnx",
+          "added": 1791862728045,
+          "addedBy": "fathin",
+          "name": "SPRITE 325ML",
+          "no": "14",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791862728044
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "dv3ut8imv64sxnx",
+      "ts": 1791862728045,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "SPRITE 325ML",
+      "no": "14",
+      "detail": "Qty 1 CTN, Dry"
+    },
     {
       "id": "g5uozammv64n81f",
       "ts": 1791862461555,
