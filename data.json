@@ -6627,9 +6627,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1791850608314
+          "updated": 1791856232962
         },
         {
           "id": "hgk4zgtmv5xlpa8",
@@ -6853,6 +6853,17 @@
     }
   ],
   "history": [
+    {
+      "id": "wxfg1d9mv60xq0y",
+      "ts": 1791856232962,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Kemangi",
+      "no": "19",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "zzf2l33mv60wnza",
       "ts": 1791856183654,
