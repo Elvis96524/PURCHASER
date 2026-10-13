@@ -393,6 +393,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791857546909
+        },
+        {
+          "id": "tcf4367mv61tcy7",
+          "added": 1791857709007,
+          "addedBy": "nicole",
+          "name": "Basmati 5kg",
+          "no": "79",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791857709007
         }
       ],
       "updated": 1790131185241
@@ -6881,6 +6895,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qtrsstjmv61tcy8",
+      "ts": 1791857709008,
+      "by": "nicole",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "added",
+      "item": "Basmati 5kg",
+      "no": "79",
+      "detail": "Qty 2 Pkt, Dry"
+    },
     {
       "id": "9683gkymv61pvvh",
       "ts": 1791857546909,
