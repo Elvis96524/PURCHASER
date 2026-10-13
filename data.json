@@ -6833,12 +6833,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791851215370
+        },
+        {
+          "id": "gw5lpz1mv5xzawl",
+          "added": 1791851267829,
+          "addedBy": "chelson",
+          "name": "Sprite 1.5L",
+          "no": "",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791851267829
         }
       ],
       "updated": 1791791599119
     }
   ],
   "history": [
+    {
+      "id": "28sbdnymv5xzawl",
+      "ts": 1791851267829,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "added",
+      "item": "Sprite 1.5L",
+      "no": "",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "mx3ug56mv5xy6fe",
       "ts": 1791851215370,
