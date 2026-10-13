@@ -6132,6 +6132,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791504300518
+        },
+        {
+          "id": "bpgrk94mv61v3ua",
+          "added": 1791857790514,
+          "addedBy": "nicole",
+          "name": "Basmati 5kg",
+          "no": "12",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791857790514
         }
       ],
       "updated": 1791533431323
@@ -6895,6 +6909,17 @@
     }
   ],
   "history": [
+    {
+      "id": "2dkxq4dmv61v3ua",
+      "ts": 1791857790514,
+      "by": "nicole",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE ( 15/10/2026 )",
+      "action": "added",
+      "item": "Basmati 5kg",
+      "no": "12",
+      "detail": "Qty 5 Pkt, Dry"
+    },
     {
       "id": "qtrsstjmv61tcy8",
       "ts": 1791857709008,
