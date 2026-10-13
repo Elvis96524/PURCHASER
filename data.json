@@ -6783,9 +6783,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791851040347
+          "updated": 1791871782288
         }
       ],
       "updated": 1791789282604
@@ -7239,6 +7239,17 @@
     }
   ],
   "history": [
+    {
+      "id": "cltbsmmmv6a6zyo",
+      "ts": 1791871782288,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Tepung Bestari pedas 1kg",
+      "no": "94",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ml4d3a4mv6a48ol",
       "ts": 1791871653621,
