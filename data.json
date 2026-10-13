@@ -281,6 +281,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850337894
+        },
+        {
+          "id": "4pxb628mv5xfvu5",
+          "added": 1791850361837,
+          "addedBy": "chelson",
+          "name": "Pakis",
+          "no": "24",
+          "qty": 10,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850361837
         }
       ],
       "updated": 1790131185241
@@ -6629,6 +6643,17 @@
     }
   ],
   "history": [
+    {
+      "id": "hn9l0brmv5xfvu5",
+      "ts": 1791850361837,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "added",
+      "item": "Pakis",
+      "no": "24",
+      "detail": "Qty 10 Ikat, Chiller"
+    },
     {
       "id": "x1mgszbmv5xfdd3",
       "ts": 1791850337895,
