@@ -6700,6 +6700,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850821575
+        },
+        {
+          "id": "q8eezcfmv5xqaxs",
+          "added": 1791850847968,
+          "addedBy": "chelson",
+          "name": "Tempe",
+          "no": "64",
+          "qty": 7,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850847968
         }
       ],
       "updated": 1791789282604
@@ -6797,6 +6811,17 @@
     }
   ],
   "history": [
+    {
+      "id": "rihighfmv5xqaxs",
+      "ts": 1791850847968,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Tempe",
+      "no": "64",
+      "detail": "Qty 7 Pkt, Chiller"
+    },
     {
       "id": "v9gojtamv5xpqkn",
       "ts": 1791850821575,
