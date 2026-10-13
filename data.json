@@ -6523,7 +6523,7 @@
           "id": "qvjubrrmv4xumfp",
           "added": 1791790583317,
           "addedBy": "chelson",
-          "name": "Peaches Halves in syrup 822G",
+          "name": "Peaches Halves in syrup 822G ( Offer Pear Halves )",
           "no": "45",
           "qty": 2,
           "unit": "Can",
@@ -6531,7 +6531,8 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791790583317
+          "updated": 1791861896517,
+          "updatedBy": "farah"
         },
         {
           "id": "ah2fzq3mv4xvg33",
@@ -7104,6 +7105,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zia0buymv64b41y",
+      "ts": 1791861896518,
+      "by": "farah",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "edited",
+      "item": "Peaches Halves in syrup 822G ( Offer Pear Halves )",
+      "no": "45",
+      "detail": "Name \"Peaches Halves in syrup 822G\" → \"Peaches Halves in syrup 822G ( Offer Pear Halves )\""
+    },
     {
       "id": "8zawj2vmv6497ot",
       "ts": 1791861807917,
