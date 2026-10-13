@@ -6658,6 +6658,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850658207
+        },
+        {
+          "id": "xl6z622mv5xms7w",
+          "added": 1791850683740,
+          "addedBy": "chelson",
+          "name": "Pudina",
+          "no": "25",
+          "qty": 3,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850683740
         }
       ],
       "updated": 1791789282604
@@ -6755,6 +6769,17 @@
     }
   ],
   "history": [
+    {
+      "id": "a0n76g8mv5xms7w",
+      "ts": 1791850683740,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Pudina",
+      "no": "25",
+      "detail": "Qty 3 Ikat, Chiller"
+    },
     {
       "id": "els0anmmv5xm8in",
       "ts": 1791850658207,
