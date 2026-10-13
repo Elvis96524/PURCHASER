@@ -6601,9 +6601,9 @@
           "unit": "Pkt",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791790787755
+          "updated": 1791871653621
         },
         {
           "id": "4shihuwmv4y0s6x",
@@ -7239,6 +7239,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ml4d3a4mv6a48ol",
+      "ts": 1791871653621,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Burger Bun 6's",
+      "no": "71",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "lkafnsumv6a3obp",
       "ts": 1791871627237,
