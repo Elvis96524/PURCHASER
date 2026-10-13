@@ -6804,9 +6804,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791791711487
+          "updated": 1791870782227
         },
         {
           "id": "eauye79mv5x8t60",
@@ -7238,6 +7238,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ox4nwkymv69lkb7",
+      "ts": 1791870782227,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "status",
+      "item": "Nescafe 3in1 rich 25's x19GM",
+      "no": "27",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "u6qtd7rmv68wqh4",
       "ts": 1791869623816,
