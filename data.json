@@ -306,9 +306,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791850389472
+          "updated": 1791856431786
         },
         {
           "id": "12wbfzwmv5xh44o",
@@ -6853,6 +6853,17 @@
     }
   ],
   "history": [
+    {
+      "id": "wtuyh6bmv611zfu",
+      "ts": 1791856431786,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "status",
+      "item": "Pucuk ubi",
+      "no": "25",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "jr59zucmv611wjq",
       "ts": 1791856428038,
