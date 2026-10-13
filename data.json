@@ -6530,8 +6530,8 @@
           "category": "Dry",
           "priority": "normal",
           "status": "received",
-          "notes": "",
-          "updated": 1791862434182,
+          "notes": "Pear Halves been purchased",
+          "updated": 1791862461555,
           "updatedBy": "farah"
         },
         {
@@ -7119,6 +7119,17 @@
     }
   ],
   "history": [
+    {
+      "id": "g5uozammv64n81f",
+      "ts": 1791862461555,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "edited",
+      "item": "Peaches Halves in syrup 822G ( Offer Pear Halves )",
+      "no": "45",
+      "detail": "Notes changed"
+    },
     {
       "id": "b4eybc8mv64mmx2",
       "ts": 1791862434182,
