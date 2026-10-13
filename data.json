@@ -7352,12 +7352,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791872705310
+        },
+        {
+          "id": "4w0zwa9mv6arj85",
+          "added": 1791872740373,
+          "addedBy": "fathin",
+          "name": "CHEEZEL CHEEZY BBQ PACKAGING 60GM ( TWISTIES)",
+          "no": "59",
+          "qty": 1,
+          "unit": "BDL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791872740373
         }
       ],
       "updated": 1791872350135
     }
   ],
   "history": [
+    {
+      "id": "cjgyh0emv6arj85",
+      "ts": 1791872740373,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA PROTECTOR",
+      "action": "added",
+      "item": "CHEEZEL CHEEZY BBQ PACKAGING 60GM ( TWISTIES)",
+      "no": "59",
+      "detail": "Qty 1 BDL, Dry"
+    },
     {
       "id": "d5go5xzmv6aqs66",
       "ts": 1791872705310,
