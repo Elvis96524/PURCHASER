@@ -7149,12 +7149,12 @@
           "name": "TWISTIES ASST 60GM",
           "no": "21",
           "qty": 4,
-          "unit": "PKT",
+          "unit": "PACK",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791862992268
+          "updated": 1791863076638
         },
         {
           "id": "h10ut9mmv64zhz8",
@@ -7175,6 +7175,17 @@
     }
   ],
   "history": [
+    {
+      "id": "3zhpqu2mv650en3",
+      "ts": 1791863076639,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "edited",
+      "item": "TWISTIES ASST 60GM",
+      "no": "21",
+      "detail": "Unit PKT → PACK"
+    },
     {
       "id": "rzfdwelmv64zhz8",
       "ts": 1791863034308,
