@@ -7054,9 +7054,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791861650645
+          "updated": 1791870832142
         },
         {
           "id": "milmht3mv646im5",
@@ -7238,6 +7238,17 @@
     }
   ],
   "history": [
+    {
+      "id": "bmrhjz3mv69mmtr",
+      "ts": 1791870832143,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "status",
+      "item": "OLD TOWN WHITE COFFEE 3IN1 CARAMEL",
+      "no": "1",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ox4nwkymv69lkb7",
       "ts": 1791870782227,
