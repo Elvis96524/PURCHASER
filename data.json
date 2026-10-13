@@ -7027,9 +7027,9 @@
           "unit": "PKT",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791861600341
+          "updated": 1791877779505
         },
         {
           "id": "izqb4d6mv6457el",
@@ -7416,6 +7416,17 @@
     }
   ],
   "history": [
+    {
+      "id": "05e6mzdmv6drjg1",
+      "ts": 1791877779505,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "status",
+      "item": "BURGER BUN (6'S)",
+      "no": "11",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "rxvfvbymv6dl1ln",
       "ts": 1791877476443,
