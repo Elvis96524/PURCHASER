@@ -6671,9 +6671,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791791003616
+          "updated": 1791871878953
         },
         {
           "id": "hmen2xfmv5xl60q",
@@ -7239,6 +7239,17 @@
     }
   ],
   "history": [
+    {
+      "id": "dhc2mu5mv6a92jt",
+      "ts": 1791871878953,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Puteri marjerin 1kg",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "cltbsmmmv6a6zyo",
       "ts": 1791871782288,
