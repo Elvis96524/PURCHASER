@@ -376,9 +376,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791857497462
+          "updated": 1791861714355
         },
         {
           "id": "hjgb0tamv61pvvh",
@@ -7089,6 +7089,17 @@
     }
   ],
   "history": [
+    {
+      "id": "b4qdj2mmv6477hv",
+      "ts": 1791861714355,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "status",
+      "item": "Sprite 1.5L x 12",
+      "no": "14",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "crjczdimv6477gd",
       "ts": 1791861714301,
