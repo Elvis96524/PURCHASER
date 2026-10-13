@@ -7027,12 +7027,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791861600341
+        },
+        {
+          "id": "izqb4d6mv6457el",
+          "added": 1791861620925,
+          "addedBy": "fathin",
+          "name": "ROTI GARDENIA",
+          "no": "12",
+          "qty": 3,
+          "unit": "LOAF",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791861620925
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "l5cxilimv6457el",
+      "ts": 1791861620925,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "ROTI GARDENIA",
+      "no": "12",
+      "detail": "Qty 3 LOAF, Frozen"
+    },
     {
       "id": "vy47dobmv644rit",
       "ts": 1791861600341,
