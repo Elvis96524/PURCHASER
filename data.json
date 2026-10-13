@@ -6340,9 +6340,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791785739488
+          "updated": 1791854463237
         },
         {
           "id": "0xqt0izmv4uzo4c",
@@ -6853,6 +6853,17 @@
     }
   ],
   "history": [
+    {
+      "id": "t6qix3lmv5zvshx",
+      "ts": 1791854463237,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "status",
+      "item": "Pudina",
+      "no": "27",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "nqdtyb6mv5zuv2u",
       "ts": 1791854419926,
