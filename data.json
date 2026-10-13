@@ -6915,11 +6915,37 @@
     {
       "id": "iruqolnmv63yi4t",
       "name": "PERDANA EMERALD",
-      "items": [],
+      "items": [
+        {
+          "id": "0ujshhsmv63yt4l",
+          "added": 1791861322485,
+          "addedBy": "fathin",
+          "name": "BAWANG PUTIH KOPEK",
+          "no": "3",
+          "qty": 2,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791861322485
+        }
+      ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "yjzw2e9mv63yt4l",
+      "ts": 1791861322485,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "BAWANG PUTIH KOPEK",
+      "no": "3",
+      "detail": "Qty 2 KG, Chiller"
+    },
     {
       "id": "pfjm5ptmv63yi4t",
       "ts": 1791861308237,
