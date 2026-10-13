@@ -6657,9 +6657,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791790978132
+          "updated": 1791875129341
         },
         {
           "id": "m53cfflmv4y3mqo",
@@ -7415,6 +7415,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zdcql16mv6c6qkd",
+      "ts": 1791875129341,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Indomie soto",
+      "no": "96",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "hpzogr6mv6bzfkp",
       "ts": 1791874788505,
