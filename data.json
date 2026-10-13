@@ -7204,12 +7204,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791869230440
+        },
+        {
+          "id": "d2bxn46mv68p734",
+          "added": 1791869272096,
+          "addedBy": "chelson",
+          "name": "Maggi cup curry",
+          "no": "50",
+          "qty": 2,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791869272096
         }
       ],
       "updated": 1791869163725
     }
   ],
   "history": [
+    {
+      "id": "jgqu8lzmv68p734",
+      "ts": 1791869272096,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "added",
+      "item": "Maggi cup curry",
+      "no": "50",
+      "detail": "Qty 2 Ctn, Dry"
+    },
     {
       "id": "dsz54oumv68oay0",
       "ts": 1791869230440,
