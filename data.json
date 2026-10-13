@@ -7202,9 +7202,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791869189496
+          "updated": 1791874580341
         },
         {
           "id": "lhl8b0nmv68oay0",
@@ -7414,6 +7414,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7p7sdrhmv6buyyd",
+      "ts": 1791874580341,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "status",
+      "item": "Sprite 1.5litre",
+      "no": "13",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "bfnaee3mv6bu31q",
       "ts": 1791874538990,
