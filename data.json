@@ -7380,12 +7380,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791872740373
+        },
+        {
+          "id": "cveriy1mv6azx71",
+          "added": 1791873131725,
+          "addedBy": "fathin",
+          "name": "CHILI PADI BURUNG/CHILI PADI KAMPUNG",
+          "no": "9",
+          "qty": 1,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791873131724
         }
       ],
       "updated": 1791872764526
     }
   ],
   "history": [
+    {
+      "id": "xko0nm4mv6azx71",
+      "ts": 1791873131725,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE",
+      "action": "added",
+      "item": "CHILI PADI BURUNG/CHILI PADI KAMPUNG",
+      "no": "9",
+      "detail": "Qty 1 KG, Chiller"
+    },
     {
       "id": "stsnr1kmv6az2y9",
       "ts": 1791873092529,
