@@ -7296,12 +7296,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791872522373
+        },
+        {
+          "id": "2vyzqwnmv6aog0m",
+          "added": 1791872596246,
+          "addedBy": "fathin",
+          "name": "KARA BRAND SERBUK SANTAN KELAPA 50GM",
+          "no": "22",
+          "qty": 5,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791872596246
         }
       ],
       "updated": 1791872350135
     }
   ],
   "history": [
+    {
+      "id": "p0fitbumv6aog0m",
+      "ts": 1791872596246,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA PROTECTOR",
+      "action": "added",
+      "item": "KARA BRAND SERBUK SANTAN KELAPA 50GM",
+      "no": "22",
+      "detail": "Qty 5 PKT, Dry"
+    },
     {
       "id": "brsoio9mv6amv0l",
       "ts": 1791872522373,
