@@ -7292,6 +7292,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791881318872
+        },
+        {
+          "id": "1mscc4zmv6fvpu4",
+          "added": 1791881333645,
+          "addedBy": "chelson",
+          "name": "Pegaga",
+          "no": "",
+          "qty": 4,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791881333644
         }
       ],
       "updated": 1791869163725
@@ -7459,6 +7473,17 @@
     }
   ],
   "history": [
+    {
+      "id": "z0zrjptmv6fvpu5",
+      "ts": 1791881333645,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "added",
+      "item": "Pegaga",
+      "no": "",
+      "detail": "Qty 4 Ikat, Chiller"
+    },
     {
       "id": "id6vrpbmv6fvefs",
       "ts": 1791881318872,
