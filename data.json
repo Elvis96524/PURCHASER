@@ -6985,12 +6985,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791861415141
+        },
+        {
+          "id": "fni0kwemv641i3h",
+          "added": 1791861448157,
+          "addedBy": "fathin",
+          "name": "LANGSAT ( IKUT MUSIM ) *subject to availability*",
+          "no": "",
+          "qty": 1,
+          "unit": "",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791861448157
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "ie6617lmv641i3h",
+      "ts": 1791861448157,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "LANGSAT ( IKUT MUSIM ) *subject to availability*",
+      "no": "",
+      "detail": "Qty 1, Dry"
+    },
     {
       "id": "binj7gnmv640smd",
       "ts": 1791861415141,
