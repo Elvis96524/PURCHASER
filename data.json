@@ -390,9 +390,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791857546909
+          "updated": 1791861668762
         },
         {
           "id": "tcf4367mv61tcy7",
@@ -7061,6 +7061,17 @@
     }
   ],
   "history": [
+    {
+      "id": "v9wqx89mv6468be",
+      "ts": 1791861668762,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "status",
+      "item": "Winter melon 300ml x 24",
+      "no": "17",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "werwebzmv645uc5",
       "ts": 1791861650645,
