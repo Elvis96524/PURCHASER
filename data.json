@@ -7250,6 +7250,20 @@
           "status": "received",
           "notes": "Please remind to frozen",
           "updated": 1791872096359
+        },
+        {
+          "id": "qt8kosymv6fuk67",
+          "added": 1791881279647,
+          "addedBy": "chelson",
+          "name": "Kucai",
+          "no": "19",
+          "qty": 2,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791881279647
         }
       ],
       "updated": 1791869163725
@@ -7417,6 +7431,17 @@
     }
   ],
   "history": [
+    {
+      "id": "pc4a0e9mv6fuk67",
+      "ts": 1791881279647,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "added",
+      "item": "Kucai",
+      "no": "19",
+      "detail": "Qty 2 Kg, Chiller"
+    },
     {
       "id": "j226jfjmv6ds2v3",
       "ts": 1791877804671,
