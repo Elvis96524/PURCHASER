@@ -7021,18 +7021,29 @@
           "name": "BURGER BUN (6'S)",
           "no": "11",
           "qty": 3,
-          "unit": "LOAF",
+          "unit": "PKT",
           "category": "Frozen",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791861584085
+          "updated": 1791861600341
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "vy47dobmv644rit",
+      "ts": 1791861600341,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "edited",
+      "item": "BURGER BUN (6'S)",
+      "no": "11",
+      "detail": "Unit LOAF → PKT"
+    },
     {
       "id": "dcs2rs5mv644ez9",
       "ts": 1791861584085,
