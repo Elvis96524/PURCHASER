@@ -6629,9 +6629,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791790905847
+          "updated": 1791871592735
         },
         {
           "id": "4ejg3dtmv4y27at",
@@ -7239,6 +7239,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7z7f277mv6a2xpb",
+      "ts": 1791871592735,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Pringles assorted",
+      "no": "90",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "s92ajd3mv69xm6j",
       "ts": 1791871344523,
