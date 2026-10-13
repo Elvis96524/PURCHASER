@@ -362,9 +362,9 @@
           "unit": "Pkt",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791850502508
+          "updated": 1791866978107
         },
         {
           "id": "hkw9a4hmv61otpy",
@@ -7175,6 +7175,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xb54chwmv67c118",
+      "ts": 1791866978108,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "status",
+      "item": "Tempe",
+      "no": "62",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "i7w06q0mv656vv9",
       "ts": 1791863378901,
