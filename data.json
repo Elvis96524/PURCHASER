@@ -7254,12 +7254,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791872385894
+        },
+        {
+          "id": "he0ucjkmv6aldxz",
+          "added": 1791872453591,
+          "addedBy": "fathin",
+          "name": "BURGER BUN (6'S)",
+          "no": "40",
+          "qty": 2,
+          "unit": "PKT",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791872453591
         }
       ],
       "updated": 1791872350135
     }
   ],
   "history": [
+    {
+      "id": "doceovrmv6aldxz",
+      "ts": 1791872453591,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA PROTECTOR",
+      "action": "added",
+      "item": "BURGER BUN (6'S)",
+      "no": "40",
+      "detail": "Qty 2 PKT, Frozen"
+    },
     {
       "id": "upol9atmv6ajxpi",
       "ts": 1791872385894,
