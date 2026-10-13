@@ -6999,12 +6999,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791861469742
+        },
+        {
+          "id": "kjubizcmv642xmn",
+          "added": 1791861514943,
+          "addedBy": "fathin",
+          "name": "TELUR MASIN 30'S ( FRESH PUTIH )",
+          "no": "5",
+          "qty": 1,
+          "unit": "TRAY",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791861514943
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "89vwuskmv642xmn",
+      "ts": 1791861514943,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "TELUR MASIN 30'S ( FRESH PUTIH )",
+      "no": "5",
+      "detail": "Qty 1 TRAY, Chiller"
+    },
     {
       "id": "be0gvohmv6420pt",
       "ts": 1791861472289,
