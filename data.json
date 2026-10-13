@@ -6686,6 +6686,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850764723
+        },
+        {
+          "id": "v8i8z32mv5xpqkn",
+          "added": 1791850821575,
+          "addedBy": "chelson",
+          "name": "Yam",
+          "no": "56",
+          "qty": 4,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850821575
         }
       ],
       "updated": 1791789282604
@@ -6783,6 +6797,17 @@
     }
   ],
   "history": [
+    {
+      "id": "v9gojtamv5xpqkn",
+      "ts": 1791850821575,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Yam",
+      "no": "56",
+      "detail": "Qty 4 Kg, Chiller"
+    },
     {
       "id": "daa9lg3mv5xoipf",
       "ts": 1791850764723,
