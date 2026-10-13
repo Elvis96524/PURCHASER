@@ -337,6 +337,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850445289
+        },
+        {
+          "id": "obnfwsomv5xi8q6",
+          "added": 1791850471854,
+          "addedBy": "chelson",
+          "name": "Cendol",
+          "no": "57",
+          "qty": 1,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850471854
         }
       ],
       "updated": 1790131185241
@@ -6685,6 +6699,17 @@
     }
   ],
   "history": [
+    {
+      "id": "dz5muebmv5xi8q6",
+      "ts": 1791850471854,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "added",
+      "item": "Cendol",
+      "no": "57",
+      "detail": "Qty 1 Pkt, Chiller"
+    },
     {
       "id": "02951t0mv5xho89",
       "ts": 1791850445289,
