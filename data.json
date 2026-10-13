@@ -7320,6 +7320,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791881378218
+        },
+        {
+          "id": "wqcw2mrmv6fxfhw",
+          "added": 1791881413556,
+          "addedBy": "chelson",
+          "name": "Tempe",
+          "no": "",
+          "qty": 15,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791881413556
         }
       ],
       "updated": 1791869163725
@@ -7487,6 +7501,17 @@
     }
   ],
   "history": [
+    {
+      "id": "vzdgy20mv6fxfhw",
+      "ts": 1791881413556,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "added",
+      "item": "Tempe",
+      "no": "",
+      "detail": "Qty 15 Pkt, Frozen"
+    },
     {
       "id": "gid44tjmv6fwo8a",
       "ts": 1791881378218,
