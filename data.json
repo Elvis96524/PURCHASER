@@ -334,9 +334,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791850445289
+          "updated": 1791854205491
         },
         {
           "id": "obnfwsomv5xi8q6",
@@ -6853,6 +6853,17 @@
     }
   ],
   "history": [
+    {
+      "id": "wg8zfy2mv5zq9mb",
+      "ts": 1791854205491,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "status",
+      "item": "Nangka muda",
+      "no": "39",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "335regumv5zpycz",
       "ts": 1791854190899,
