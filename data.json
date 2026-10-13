@@ -7230,15 +7230,26 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Please remind to frozen",
-          "updated": 1791869346160
+          "updated": 1791872096359
         }
       ],
       "updated": 1791869163725
     }
   ],
   "history": [
+    {
+      "id": "pf7wjrumv6adqav",
+      "ts": 1791872096359,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "status",
+      "item": "White clam 1kg",
+      "no": "62",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "p6eck19mv6abot4",
       "ts": 1791872001112,
