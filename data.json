@@ -7236,9 +7236,26 @@
         }
       ],
       "updated": 1791869163725
+    },
+    {
+      "id": "tptuuc9mv6aj647",
+      "name": "PERDANA PROTECTOR",
+      "items": [],
+      "updated": 1791872350135
     }
   ],
   "history": [
+    {
+      "id": "8lo6zhvmv6aj647",
+      "ts": 1791872350135,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA PROTECTOR",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "pf7wjrumv6adqav",
       "ts": 1791872096359,
