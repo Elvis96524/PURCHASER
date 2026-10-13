@@ -6567,12 +6567,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850062017
+        },
+        {
+          "id": "dh7tllxmv5x9wpk",
+          "added": 1791850083032,
+          "addedBy": "chelson",
+          "name": "Pegaga",
+          "no": "25",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850083032
         }
       ],
       "updated": 1791791599119
     }
   ],
   "history": [
+    {
+      "id": "3wy47mimv5x9wpk",
+      "ts": 1791850083032,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "added",
+      "item": "Pegaga",
+      "no": "25",
+      "detail": "Qty 5 Ikat, Chiller"
+    },
     {
       "id": "1csh2b3mv5x9ght",
       "ts": 1791850062017,
