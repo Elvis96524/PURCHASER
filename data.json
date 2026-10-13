@@ -6906,23 +6906,25 @@
         },
         {
           "id": "cxln99gmv63xsu6",
-          "added": 1791861275454,
-          "addedBy": "fathin",
-          "name": "BAWANG PUTIH KOPEK",
-          "no": "3",
-          "qty": 2,
-          "unit": "KG",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1791861275454
+          "deleted": true,
+          "updated": 1791861295726
         }
       ],
       "updated": 1791791599119
     }
   ],
   "history": [
+    {
+      "id": "ji7jwrpmv63y8ha",
+      "ts": 1791861295726,
+      "by": "fathin",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "deleted",
+      "item": "BAWANG PUTIH KOPEK",
+      "no": "3",
+      "detail": ""
+    },
     {
       "id": "rxc7dsymv63xsu6",
       "ts": 1791861275454,
