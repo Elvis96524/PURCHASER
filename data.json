@@ -7254,7 +7254,7 @@
     },
     {
       "id": "tptuuc9mv6aj647",
-      "name": "PERDANA ENDURANCE ( 16.10.2026 )",
+      "name": "PERDANA ENDURANCE (16.10.2026)",
       "items": [
         {
           "id": "owyghg0mv6ajxpi",
@@ -7411,10 +7411,21 @@
           "updated": 1791874197020
         }
       ],
-      "updated": 1791875199388
+      "updated": 1791875229005
     }
   ],
   "history": [
+    {
+      "id": "z98rvd7mv6c8vgt",
+      "ts": 1791875229005,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"PERDANA ENDURANCE ( 16.10.2026 )\" to \"PERDANA ENDURANCE (16.10.2026)\""
+    },
     {
       "id": "ej480sumv6c8mqt",
       "ts": 1791875217701,
