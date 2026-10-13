@@ -7394,12 +7394,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791873131724
+        },
+        {
+          "id": "3yx2gxqmv6bmr6k",
+          "added": 1791874197020,
+          "addedBy": "fathin",
+          "name": "DRINHO GREEN TEA 1LT",
+          "no": "",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791874197020
         }
       ],
       "updated": 1791872764526
     }
   ],
   "history": [
+    {
+      "id": "xblx7o9mv6bmr6l",
+      "ts": 1791874197021,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE",
+      "action": "added",
+      "item": "DRINHO GREEN TEA 1LT",
+      "no": "",
+      "detail": "Qty 1 CTN, Dry"
+    },
     {
       "id": "xko0nm4mv6azx71",
       "ts": 1791873131725,
