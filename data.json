@@ -6368,9 +6368,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791785674410
+          "updated": 1791860529393
         },
         {
           "id": "5r5gmo6mv4uy25g",
@@ -6909,6 +6909,17 @@
     }
   ],
   "history": [
+    {
+      "id": "znhnp0jmv63ht69",
+      "ts": 1791860529393,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "status",
+      "item": "Kucai",
+      "no": "23",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "jojhx4dmv62jxqq",
       "ts": 1791858949010,
