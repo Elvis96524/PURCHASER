@@ -6672,6 +6672,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791850683740
+        },
+        {
+          "id": "kodpm3ymv5xoipf",
+          "added": 1791850764723,
+          "addedBy": "chelson",
+          "name": "Salam",
+          "no": "26",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791850764723
         }
       ],
       "updated": 1791789282604
@@ -6769,6 +6783,17 @@
     }
   ],
   "history": [
+    {
+      "id": "daa9lg3mv5xoipf",
+      "ts": 1791850764723,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "added",
+      "item": "Salam",
+      "no": "26",
+      "detail": "Qty 5 Pkt, Chiller"
+    },
     {
       "id": "a0n76g8mv5xms7w",
       "ts": 1791850683740,
