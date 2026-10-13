@@ -6641,9 +6641,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791850633280
+          "updated": 1791854416958
         },
         {
           "id": "nhp1ejamv5xm8in",
@@ -6853,6 +6853,17 @@
     }
   ],
   "history": [
+    {
+      "id": "5hio8dumv5zusse",
+      "ts": 1791854416958,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Pakis",
+      "no": "23",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "5ib2ej6mv5zqrwm",
       "ts": 1791854229190,
