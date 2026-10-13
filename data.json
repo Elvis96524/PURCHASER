@@ -6976,7 +6976,7 @@
           "id": "gw2krk6mv640smd",
           "added": 1791861415141,
           "addedBy": "fathin",
-          "name": "CEMPEDAK MASAK *subject to availability*",
+          "name": "CEMPEDAK ( MASAK ) *subject to availability*",
           "no": "63",
           "qty": 4,
           "unit": "KG",
@@ -6984,7 +6984,7 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791861415141
+          "updated": 1791861459309
         },
         {
           "id": "fni0kwemv641i3h",
@@ -7005,6 +7005,17 @@
     }
   ],
   "history": [
+    {
+      "id": "k1rrd60mv641qpa",
+      "ts": 1791861459310,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "edited",
+      "item": "CEMPEDAK ( MASAK ) *subject to availability*",
+      "no": "63",
+      "detail": "Name \"CEMPEDAK MASAK *subject to availability*\" → \"CEMPEDAK ( MASAK ) *subject to availability*\""
+    },
     {
       "id": "ie6617lmv641i3h",
       "ts": 1791861448157,
