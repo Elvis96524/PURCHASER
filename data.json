@@ -7139,9 +7139,9 @@
           "unit": "PACK",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791862833972
+          "updated": 1791874538990
         },
         {
           "id": "fj9dsvmmv64yljg",
@@ -7414,6 +7414,17 @@
     }
   ],
   "history": [
+    {
+      "id": "bfnaee3mv6bu31q",
+      "ts": 1791874538990,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "status",
+      "item": "MURUKU POPO 12GMX24'S",
+      "no": "21",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "9b4w3nlmv6btzgk",
       "ts": 1791874534340,
