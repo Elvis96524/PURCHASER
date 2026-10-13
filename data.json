@@ -379,6 +379,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791857497462
+        },
+        {
+          "id": "hjgb0tamv61pvvh",
+          "added": 1791857546909,
+          "addedBy": "nicole",
+          "name": "Winter melon 300ml x 24",
+          "no": "17",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791857546909
         }
       ],
       "updated": 1790131185241
@@ -6867,6 +6881,17 @@
     }
   ],
   "history": [
+    {
+      "id": "9683gkymv61pvvh",
+      "ts": 1791857546909,
+      "by": "nicole",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "added",
+      "item": "Winter melon 300ml x 24",
+      "no": "17",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "57jiaxhmv61otpy",
       "ts": 1791857497462,
