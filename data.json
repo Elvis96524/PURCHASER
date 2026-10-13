@@ -6164,9 +6164,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791863378901
+          "updated": 1791876119258
         },
         {
           "id": "gbrksx0mv0afl7u",
@@ -7415,6 +7415,17 @@
     }
   ],
   "history": [
+    {
+      "id": "kgxh4uhmv6crye2",
+      "ts": 1791876119258,
+      "by": "chelson",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "status",
+      "item": "ASSORTED VITAGEN LESS SUGAR",
+      "no": "Supervisor Team",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "zfvayfgmv6crqmb",
       "ts": 1791876109187,
