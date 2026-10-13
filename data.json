@@ -7343,7 +7343,7 @@
           "id": "p772i5rmv6aqkot",
           "added": 1791872695613,
           "addedBy": "fathin",
-          "name": "CORNTO",
+          "name": "CORNTOZ ASSORTED FLAVOUR PACKAGING 60-100GM",
           "no": "58",
           "qty": 1,
           "unit": "BDL",
@@ -7351,13 +7351,24 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791872695613
+          "updated": 1791872705310
         }
       ],
       "updated": 1791872350135
     }
   ],
   "history": [
+    {
+      "id": "d5go5xzmv6aqs66",
+      "ts": 1791872705310,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA PROTECTOR",
+      "action": "edited",
+      "item": "CORNTOZ ASSORTED FLAVOUR PACKAGING 60-100GM",
+      "no": "58",
+      "detail": "Name \"CORNTO\" → \"CORNTOZ ASSORTED FLAVOUR PACKAGING 60-100GM\""
+    },
     {
       "id": "ezewsfdmv6aqkot",
       "ts": 1791872695613,
