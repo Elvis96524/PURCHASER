@@ -7155,12 +7155,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791862992268
+        },
+        {
+          "id": "h10ut9mmv64zhz8",
+          "added": 1791863034308,
+          "addedBy": "fathin",
+          "name": "YEO'S COCONUT JUICE 300ML",
+          "no": "20",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791863034308
         }
       ],
       "updated": 1791861308237
     }
   ],
   "history": [
+    {
+      "id": "rzfdwelmv64zhz8",
+      "ts": 1791863034308,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD",
+      "action": "added",
+      "item": "YEO'S COCONUT JUICE 300ML",
+      "no": "20",
+      "detail": "Qty 1 CTN, Dry"
+    },
     {
       "id": "hsykkh8mv64yljg",
       "ts": 1791862992268,
