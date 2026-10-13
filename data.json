@@ -6165,8 +6165,9 @@
           "category": "Chiller",
           "priority": "normal",
           "status": "received",
-          "notes": "",
-          "updated": 1791876119258
+          "notes": "No less sugar.purchased standard vitagen",
+          "updated": 1791876147248,
+          "updatedBy": "chelson"
         },
         {
           "id": "gbrksx0mv0afl7u",
@@ -7415,6 +7416,17 @@
     }
   ],
   "history": [
+    {
+      "id": "exrd0oymv6csjzl",
+      "ts": 1791876147249,
+      "by": "chelson",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "edited",
+      "item": "ASSORTED VITAGEN LESS SUGAR",
+      "no": "Supervisor Team",
+      "detail": "Notes changed"
+    },
     {
       "id": "kgxh4uhmv6crye2",
       "ts": 1791876119258,
