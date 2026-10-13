@@ -292,9 +292,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791850361837
+          "updated": 1791854419926
         },
         {
           "id": "gu0yrdkmv5xgh5s",
@@ -6853,6 +6853,17 @@
     }
   ],
   "history": [
+    {
+      "id": "nqdtyb6mv5zuv2u",
+      "ts": 1791854419926,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "status",
+      "item": "Pakis",
+      "no": "24",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "5hio8dumv5zusse",
       "ts": 1791854416958,
