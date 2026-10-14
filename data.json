@@ -7338,9 +7338,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791881318872
+          "updated": 1791941274833
         },
         {
           "id": "1mscc4zmv6fvpu4",
@@ -7753,6 +7753,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8f4vhiimv7fkgr5",
+      "ts": 1791941274833,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "status",
+      "item": "Pakis",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "m08ro1kmv7fgdll",
       "ts": 1791941084121,
