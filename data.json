@@ -7615,12 +7615,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791939623773
+        },
+        {
+          "id": "py6brxfmv7elg0d",
+          "added": 1791939640909,
+          "addedBy": "fathin",
+          "name": "PISANG EMAS",
+          "no": "63",
+          "qty": 15,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791939640909
         }
       ],
       "updated": 1791939576629
     }
   ],
   "history": [
+    {
+      "id": "ilpyh2kmv7elg0d",
+      "ts": 1791939640909,
+      "by": "fathin",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "PISANG EMAS",
+      "no": "63",
+      "detail": "Qty 15 KG, Chiller"
+    },
     {
       "id": "4oppn5tmv7el2sd",
       "ts": 1791939623773,
