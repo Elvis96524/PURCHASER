@@ -7476,9 +7476,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791872522373
+          "updated": 1791955709213
         },
         {
           "id": "2vyzqwnmv6aog0m",
@@ -7850,6 +7850,17 @@
     }
   ],
   "history": [
+    {
+      "id": "0rlu5ubmv7o5ue6",
+      "ts": 1791955709214,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "status",
+      "item": "TEPUNG CAP SAUH 1KG",
+      "no": "3",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "3fp5c2gmv7nfb13",
       "ts": 1791954471063,
