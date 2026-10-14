@@ -6179,9 +6179,9 @@
           "unit": "BDL",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791509386026
+          "updated": 1791940947512
         },
         {
           "id": "leopd4qmv0afwft",
@@ -7739,6 +7739,17 @@
     }
   ],
   "history": [
+    {
+      "id": "rmcojbomv7fdg6w",
+      "ts": 1791940947512,
+      "by": "chelson",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "status",
+      "item": "PUCUK UBI",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "g2ra71mmv7fd8xv",
       "ts": 1791940938115,
