@@ -7575,9 +7575,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "received",
+          "status": "tobuy",
           "notes": "",
-          "updated": 1791960327979
+          "updated": 1791961046511
         },
         {
           "id": "12inalpmv6fyrrj",
@@ -7850,6 +7850,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8jv75x4mv7rc8of",
+      "ts": 1791961046511,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "status",
+      "item": "DRINHO GREEN TEA 1LT",
+      "no": "",
+      "detail": "Status: Received → To buy"
+    },
     {
       "id": "nffv30emv7r3fsn",
       "ts": 1791960635831,
