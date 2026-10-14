@@ -7583,9 +7583,9 @@
           "unit": "Cup",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791881556128
+          "updated": 1791946579091
         }
       ],
       "updated": 1791875229005
@@ -7753,6 +7753,17 @@
     }
   ],
   "history": [
+    {
+      "id": "t58i5l6mv7iq5jn",
+      "ts": 1791946579091,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "status",
+      "item": "Yogurt 130gm mix",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "8e4bnalmv7incnq",
       "ts": 1791946448342,
