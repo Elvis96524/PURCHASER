@@ -7555,9 +7555,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791881476111
+          "updated": 1791940931051
         },
         {
           "id": "fd32b1zmv6fz1vc",
@@ -7725,6 +7725,17 @@
     }
   ],
   "history": [
+    {
+      "id": "rzogj9mmv7fd3hn",
+      "ts": 1791940931051,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "status",
+      "item": "Kesum",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "472s8lqmv7fd0dk",
       "ts": 1791940927016,
