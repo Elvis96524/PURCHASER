@@ -7648,12 +7648,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791940763845
+        },
+        {
+          "id": "sn7sktbmv7f9v6b",
+          "added": 1791940780307,
+          "addedBy": "fathin",
+          "name": "BERAS BASMATHI 5KG",
+          "no": "",
+          "qty": 2,
+          "unit": "BAG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791940780307
         }
       ],
       "updated": 1791939576629
     }
   ],
   "history": [
+    {
+      "id": "q15zfsxmv7f9v6b",
+      "ts": 1791940780307,
+      "by": "fathin",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "BERAS BASMATHI 5KG",
+      "no": "",
+      "detail": "Qty 2 BAG, Dry"
+    },
     {
       "id": "g1iyb8nmv7f9ih2",
       "ts": 1791940763846,
