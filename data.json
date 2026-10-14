@@ -6489,7 +6489,7 @@
           "id": "mohtcv5mv7e3ljm",
           "added": 1791938808274,
           "addedBy": "farah",
-          "name": "Daun ketumbar",
+          "name": "Daun ketumbar(offer daun sup)",
           "no": "18",
           "qty": 1,
           "unit": "Kg",
@@ -6497,7 +6497,8 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791938808274
+          "updated": 1791940873203,
+          "updatedBy": "chelson"
         }
       ],
       "updated": 1791785613322
@@ -7696,6 +7697,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qb93o7imv7fbuur",
+      "ts": 1791940873203,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "edited",
+      "item": "Daun ketumbar(offer daun sup)",
+      "no": "18",
+      "detail": "Name \"Daun ketumbar\" → \"Daun ketumbar(offer daun sup)\""
+    },
     {
       "id": "6jh6pl6mv7fbn4b",
       "ts": 1791940863179,
