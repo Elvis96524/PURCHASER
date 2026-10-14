@@ -7324,9 +7324,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791881299174
+          "updated": 1791940935120
         },
         {
           "id": "vky713dmv6fvefs",
@@ -7725,6 +7725,17 @@
     }
   ],
   "history": [
+    {
+      "id": "mwineopmv7fd6mo",
+      "ts": 1791940935120,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "status",
+      "item": "Kesum",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "rzogj9mmv7fd3hn",
       "ts": 1791940931051,
