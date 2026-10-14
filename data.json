@@ -7634,12 +7634,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791939640909
+        },
+        {
+          "id": "5pzj759mv7f9ih2",
+          "added": 1791940763846,
+          "addedBy": "fathin",
+          "name": "SANTAN KARA 1LT",
+          "no": "",
+          "qty": 24,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791940763845
         }
       ],
       "updated": 1791939576629
     }
   ],
   "history": [
+    {
+      "id": "g1iyb8nmv7f9ih2",
+      "ts": 1791940763846,
+      "by": "fathin",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "SANTAN KARA 1LT",
+      "no": "",
+      "detail": "Qty 24 PKT, Dry"
+    },
     {
       "id": "9868dg3mv7evr22",
       "ts": 1791940121786,
