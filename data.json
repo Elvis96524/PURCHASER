@@ -7750,9 +7750,26 @@
         }
       ],
       "updated": 1791946670504
+    },
+    {
+      "id": "wm6h00wmv7jj41s",
+      "name": "BELAIT PSV 2",
+      "items": [],
+      "updated": 1791947930176
     }
   ],
   "history": [
+    {
+      "id": "jkztr4lmv7jj41s",
+      "ts": 1791947930176,
+      "by": "fathin",
+      "vid": "wm6h00wmv7jj41s",
+      "vname": "BELAIT PSV 2",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "swapk3rmv7izbcc",
       "ts": 1791947006508,
