@@ -7514,8 +7514,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1791872740373
+          "notes": "Store have 2pkt",
+          "updated": 1791948782531,
+          "updatedBy": "chelson"
         },
         {
           "id": "cveriy1mv6azx71",
@@ -7759,6 +7760,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xq87rj2mv7k1dqb",
+      "ts": 1791948782532,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "edited",
+      "item": "CHEEZEL CHEEZY BBQ PACKAGING 60GM ( TWISTIES)",
+      "no": "59",
+      "detail": "Notes changed"
+    },
     {
       "id": "jkztr4lmv7jj41s",
       "ts": 1791947930176,
