@@ -6365,6 +6365,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791949903218
+        },
+        {
+          "id": "k1eiwogmv7kwxeo",
+          "added": 1791950254368,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "",
+          "qty": 10,
+          "unit": "Ikat",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791950254368
         }
       ],
       "updated": 1791510717424
@@ -7845,6 +7859,17 @@
     }
   ],
   "history": [
+    {
+      "id": "5xy7d5hmv7kwxeo",
+      "ts": 1791950254368,
+      "by": "chelson",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "added",
+      "item": "Kesum",
+      "no": "",
+      "detail": "Qty 10 Ikat, Dry"
+    },
     {
       "id": "c5484grmv7kpegi",
       "ts": 1791949903218,
