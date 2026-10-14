@@ -7310,9 +7310,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1791941948661
+          "updated": 1791945749515
         },
         {
           "id": "tbhhm64mv6fuz8o",
@@ -7753,6 +7753,17 @@
     }
   ],
   "history": [
+    {
+      "id": "fng2rbsmv7i8dfw",
+      "ts": 1791945749516,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "status",
+      "item": "Kucai",
+      "no": "19",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "6gjhsy9mv7g61a8",
       "ts": 1791942281216,
