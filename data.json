@@ -6917,15 +6917,15 @@
           "id": "gw5lpz1mv5xzawl",
           "added": 1791851267829,
           "addedBy": "chelson",
-          "name": "Sprite 1.5L",
+          "name": "Sprite 1.5L(offer lain)",
           "no": "",
           "qty": 1,
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1791861776457
+          "updated": 1791946125473
         },
         {
           "id": "cxln99gmv63xsu6",
@@ -7753,6 +7753,28 @@
     }
   ],
   "history": [
+    {
+      "id": "3qmiaximv7igfj5",
+      "ts": 1791946125473,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "status",
+      "item": "Sprite 1.5L(offer lain)",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
+    {
+      "id": "vgg97bkmv7igdo5",
+      "ts": 1791946123061,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "edited",
+      "item": "Sprite 1.5L(offer lain)",
+      "no": "",
+      "detail": "Name \"Sprite 1.5L\" → \"Sprite 1.5L(offer lain)\""
+    },
     {
       "id": "22coq39mv7i9ahq",
       "ts": 1791945792350,
