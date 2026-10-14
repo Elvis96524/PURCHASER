@@ -7490,9 +7490,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791872596246
+          "updated": 1791955742953
         },
         {
           "id": "yj786ucmv6ap565",
@@ -7850,6 +7850,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xh6qsgqmv7o6kfd",
+      "ts": 1791955742953,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "status",
+      "item": "KARA BRAND SERBUK SANTAN KELAPA 50GM",
+      "no": "22",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "0rlu5ubmv7o5ue6",
       "ts": 1791955709214,
