@@ -7676,12 +7676,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791940843835
+        },
+        {
+          "id": "cey14aomv7fbn4b",
+          "added": 1791940863179,
+          "addedBy": "fathin",
+          "name": "ADABI MEAT CURRY POWDER 250GM",
+          "no": "",
+          "qty": 10,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791940863179
         }
       ],
       "updated": 1791939576629
     }
   ],
   "history": [
+    {
+      "id": "6jh6pl6mv7fbn4b",
+      "ts": 1791940863179,
+      "by": "fathin",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "ADABI MEAT CURRY POWDER 250GM",
+      "no": "",
+      "detail": "Qty 10 PKT, Dry"
+    },
     {
       "id": "knmzoesmv7fb86z",
       "ts": 1791940843835,
