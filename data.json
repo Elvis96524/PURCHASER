@@ -7592,7 +7592,7 @@
     },
     {
       "id": "7qfufh5mv7ek2et",
-      "name": "HELANG INTEGRATED PLATFORM",
+      "name": "HELANG INTEGRATED PLATFORM (20/10/26)",
       "items": [
         {
           "id": "6znc8h0mv7ekmst",
@@ -7749,10 +7749,21 @@
           "updated": 1791940958867
         }
       ],
-      "updated": 1791939576629
+      "updated": 1791946670504
     }
   ],
   "history": [
+    {
+      "id": "eurbjugmv7is42w",
+      "ts": 1791946670504,
+      "by": "chelson",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"HELANG INTEGRATED PLATFORM\" to \"HELANG INTEGRATED PLATFORM (20/10/26)\""
+    },
     {
       "id": "t58i5l6mv7iq5jn",
       "ts": 1791946579091,
