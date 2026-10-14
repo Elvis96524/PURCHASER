@@ -7269,7 +7269,7 @@
           "id": "d2bxn46mv68p734",
           "added": 1791869272096,
           "addedBy": "chelson",
-          "name": "Maggi cup curry",
+          "name": "Maggi cup curry (offer hot cup asam laksa)",
           "no": "50",
           "qty": 2,
           "unit": "Ctn",
@@ -7277,7 +7277,8 @@
           "priority": "normal",
           "status": "ordered",
           "notes": "",
-          "updated": 1791869594485
+          "updated": 1791938916935,
+          "updatedBy": "farah"
         },
         {
           "id": "gtb83pwmv68qs8g",
@@ -7585,6 +7586,17 @@
     }
   ],
   "history": [
+    {
+      "id": "sckr2rkmv7e5xdz",
+      "ts": 1791938916935,
+      "by": "farah",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "edited",
+      "item": "Maggi cup curry (offer hot cup asam laksa)",
+      "no": "50",
+      "detail": "Name \"Maggi cup curry\" → \"Maggi cup curry (offer hot cup asam laksa)\""
+    },
     {
       "id": "8wrfyhomv7e3ljn",
       "ts": 1791938808275,
