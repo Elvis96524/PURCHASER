@@ -7783,12 +7783,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791948884561
+        },
+        {
+          "id": "r0sovyfmv7k4d56",
+          "added": 1791948921738,
+          "addedBy": "fathin",
+          "name": "SHIELDTOX MOSQUITO SPRAY 800ML",
+          "no": "6",
+          "qty": 6,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791948921738
         }
       ],
       "updated": 1791947930176
     }
   ],
   "history": [
+    {
+      "id": "25q57ulmv7k4d56",
+      "ts": 1791948921738,
+      "by": "fathin",
+      "vid": "wm6h00wmv7jj41s",
+      "vname": "BELAIT PSV 2",
+      "action": "added",
+      "item": "SHIELDTOX MOSQUITO SPRAY 800ML",
+      "no": "6",
+      "detail": "Qty 6 BTL, Dry"
+    },
     {
       "id": "mcn56ltmv7k3kgh",
       "ts": 1791948884561,
