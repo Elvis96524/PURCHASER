@@ -6895,9 +6895,9 @@
           "unit": "Pkt",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791850149349
+          "updated": 1791947003222
         },
         {
           "id": "1ksadommv5xy6fe",
@@ -7753,6 +7753,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xrmnncjmv7iz8t2",
+      "ts": 1791947003222,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "status",
+      "item": "Tempe",
+      "no": "61",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "9d9xdp7mv7iz5py",
       "ts": 1791946999222,
