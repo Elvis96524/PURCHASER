@@ -7366,9 +7366,9 @@
           "unit": "Nos",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791881378218
+          "updated": 1791941037469
         },
         {
           "id": "wqcw2mrmv6fxfhw",
@@ -7753,6 +7753,17 @@
     }
   ],
   "history": [
+    {
+      "id": "s1lxubqmv7ffdlp",
+      "ts": 1791941037469,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "status",
+      "item": "Jantung Pisang",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ptqg1wxmv7ff99p",
       "ts": 1791941031853,
