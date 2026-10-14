@@ -7719,12 +7719,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791940912571
+        },
+        {
+          "id": "e7g8wpcmv7fd8xv",
+          "added": 1791940938115,
+          "addedBy": "fathin",
+          "name": "MAGGI AYAM CUP",
+          "no": "FOR SUPERVISOR TEAM",
+          "qty": 30,
+          "unit": "CUP",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791940938115
         }
       ],
       "updated": 1791939576629
     }
   ],
   "history": [
+    {
+      "id": "g2ra71mmv7fd8xv",
+      "ts": 1791940938115,
+      "by": "fathin",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "MAGGI AYAM CUP",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Qty 30 CUP, Dry"
+    },
     {
       "id": "mwineopmv7fd6mo",
       "ts": 1791940935120,
