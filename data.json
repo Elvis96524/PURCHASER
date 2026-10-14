@@ -6867,9 +6867,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791850083032
+          "updated": 1791941084121
         },
         {
           "id": "0dm314amv5xa9wd",
@@ -7352,9 +7352,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791881333644
+          "updated": 1791941082035
         },
         {
           "id": "tzvp0scmv6fwo8a",
@@ -7753,6 +7753,28 @@
     }
   ],
   "history": [
+    {
+      "id": "m08ro1kmv7fgdll",
+      "ts": 1791941084121,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "status",
+      "item": "Pegaga",
+      "no": "25",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "9h9q0s3mv7fgbzn",
+      "ts": 1791941082035,
+      "by": "chelson",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "status",
+      "item": "Pegaga",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "s1lxubqmv7ffdlp",
       "ts": 1791941037469,
