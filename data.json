@@ -7408,9 +7408,9 @@
           "unit": "LOAF",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791872497173
+          "updated": 1791936199508
         },
         {
           "id": "v7ibcb0mv6amv0l",
@@ -7571,6 +7571,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qe9820nmv7cjolw",
+      "ts": 1791936199508,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "status",
+      "item": "ROTI GARDENIA",
+      "no": "41",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "vii6uoxmv7cjm8f",
       "ts": 1791936196431,
