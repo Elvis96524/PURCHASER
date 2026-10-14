@@ -6484,6 +6484,20 @@
           "status": "ordered",
           "notes": "",
           "updated": 1791866994191
+        },
+        {
+          "id": "mohtcv5mv7e3ljm",
+          "added": 1791938808274,
+          "addedBy": "farah",
+          "name": "Daun ketumbar",
+          "no": "18",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791938808274
         }
       ],
       "updated": 1791785613322
@@ -7571,6 +7585,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8wrfyhomv7e3ljn",
+      "ts": 1791938808275,
+      "by": "farah",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "added",
+      "item": "Daun ketumbar",
+      "no": "18",
+      "detail": "Qty 1 Kg, Chiller"
+    },
     {
       "id": "qe9820nmv7cjolw",
       "ts": 1791936199508,
