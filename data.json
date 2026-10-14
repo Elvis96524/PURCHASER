@@ -6340,17 +6340,8 @@
         },
         {
           "id": "jyilrvemv7kovih",
-          "added": 1791949878665,
-          "addedBy": "chelson",
-          "name": "Raja",
-          "no": "",
-          "qty": 10,
-          "unit": "Ikat",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1791949878665
+          "deleted": true,
+          "updated": 1791954451254
         },
         {
           "id": "ni8dhtwmv7kpegi",
@@ -7859,6 +7850,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ohpu2bwmv7nevqu",
+      "ts": 1791954451254,
+      "by": "chelson",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "deleted",
+      "item": "Raja",
+      "no": "",
+      "detail": ""
+    },
     {
       "id": "ydzr6mbmv7neble",
       "ts": 1791954425138,
