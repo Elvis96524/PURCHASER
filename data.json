@@ -7710,7 +7710,7 @@
           "id": "qlyqpkymv7fcp8b",
           "added": 1791940912571,
           "addedBy": "fathin",
-          "name": "MAGGI CURRY CUP",
+          "name": "MAGGI CURRY CUP (REQ ENEOS TL)",
           "no": "FOR SUPERVISOR TEAM",
           "qty": 30,
           "unit": "CUP",
@@ -7718,7 +7718,7 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791940912571
+          "updated": 1791940976595
         },
         {
           "id": "e7g8wpcmv7fd8xv",
@@ -7753,6 +7753,17 @@
     }
   ],
   "history": [
+    {
+      "id": "gialhvcmv7fe2mr",
+      "ts": 1791940976595,
+      "by": "fathin",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "edited",
+      "item": "MAGGI CURRY CUP (REQ ENEOS TL)",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Name \"MAGGI CURRY CUP\" → \"MAGGI CURRY CUP (REQ ENEOS TL)\""
+    },
     {
       "id": "4bve1r6mv7fdoyb",
       "ts": 1791940958867,
