@@ -7232,9 +7232,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1791941332519
+          "updated": 1791945760162
         }
       ],
       "updated": 1791875217701
@@ -7569,9 +7569,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1791942281216
+          "updated": 1791945758012
         },
         {
           "id": "m7pgvommv6g0hi8",
@@ -7753,6 +7753,28 @@
     }
   ],
   "history": [
+    {
+      "id": "0enlz4kmv7i8lnm",
+      "ts": 1791945760162,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "status",
+      "item": "Kucai",
+      "no": "",
+      "detail": "Status: Ordered → Received"
+    },
+    {
+      "id": "oj5q03hmv7i8jzw",
+      "ts": 1791945758012,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "status",
+      "item": "Kucai",
+      "no": "",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "fng2rbsmv7i8dfw",
       "ts": 1791945749516,
