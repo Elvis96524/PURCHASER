@@ -7587,11 +7587,37 @@
     {
       "id": "7qfufh5mv7ek2et",
       "name": "HELANG INTEGRATED PLATFORM",
-      "items": [],
+      "items": [
+        {
+          "id": "6znc8h0mv7ekmst",
+          "added": 1791939603053,
+          "addedBy": "fathin",
+          "name": "PUCUK UBI",
+          "no": "29",
+          "qty": 15,
+          "unit": "BDL",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791939603053
+        }
+      ],
       "updated": 1791939576629
     }
   ],
   "history": [
+    {
+      "id": "2slsfnjmv7ekmst",
+      "ts": 1791939603053,
+      "by": "fathin",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "PUCUK UBI",
+      "no": "29",
+      "detail": "Qty 15 BDL, Chiller"
+    },
     {
       "id": "jyzm1zbmv7ek2et",
       "ts": 1791939576629,
