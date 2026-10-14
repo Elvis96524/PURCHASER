@@ -6207,9 +6207,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791509411785
+          "updated": 1791946999222
         },
         {
           "id": "r58ijwzmv0aggkx",
@@ -7753,6 +7753,17 @@
     }
   ],
   "history": [
+    {
+      "id": "9d9xdp7mv7iz5py",
+      "ts": 1791946999222,
+      "by": "chelson",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "action": "status",
+      "item": "TEMPE",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "eurbjugmv7is42w",
       "ts": 1791946670504,
