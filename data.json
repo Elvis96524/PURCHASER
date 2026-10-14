@@ -7061,9 +7061,9 @@
           "unit": "LOAF",
           "category": "Frozen",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1791936196431
+          "updated": 1791946188631
         },
         {
           "id": "itkiz1bmv645uc5",
@@ -7429,9 +7429,9 @@
           "unit": "LOAF",
           "category": "Frozen",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1791936199508
+          "updated": 1791946191133
         },
         {
           "id": "v7ibcb0mv6amv0l",
@@ -7753,6 +7753,28 @@
     }
   ],
   "history": [
+    {
+      "id": "mn5s3h9mv7ihu71",
+      "ts": 1791946191133,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "status",
+      "item": "ROTI GARDENIA",
+      "no": "41",
+      "detail": "Status: Ordered → Received"
+    },
+    {
+      "id": "tb2b3l1mv7ihs9j",
+      "ts": 1791946188631,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "status",
+      "item": "ROTI GARDENIA",
+      "no": "12",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "3qmiaximv7igfj5",
       "ts": 1791946125473,
