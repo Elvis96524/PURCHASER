@@ -6804,17 +6804,8 @@
         },
         {
           "id": "jjry90rmv7evi57",
-          "added": 1791940110235,
-          "addedBy": "fathin",
-          "name": "BERAS BASMATHI",
-          "no": "",
-          "qty": 2,
-          "unit": "BAG",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1791940110235
+          "deleted": true,
+          "updated": 1791940121786
         }
       ],
       "updated": 1791789282604
@@ -7649,6 +7640,17 @@
     }
   ],
   "history": [
+    {
+      "id": "9868dg3mv7evr22",
+      "ts": 1791940121786,
+      "by": "fathin",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "deleted",
+      "item": "BERAS BASMATHI",
+      "no": "",
+      "detail": ""
+    },
     {
       "id": "4n2hekwmv7evi57",
       "ts": 1791940110235,
