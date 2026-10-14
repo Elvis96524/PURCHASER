@@ -7797,12 +7797,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791948921738
+        },
+        {
+          "id": "f860z30mv7k5ehh",
+          "added": 1791948970133,
+          "addedBy": "fathin",
+          "name": "DOVE SOAP BAR 90GM",
+          "no": "7",
+          "qty": 24,
+          "unit": "PCS",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791948970133
         }
       ],
       "updated": 1791947930176
     }
   ],
   "history": [
+    {
+      "id": "bfm26czmv7k5ehh",
+      "ts": 1791948970133,
+      "by": "fathin",
+      "vid": "wm6h00wmv7jj41s",
+      "vname": "BELAIT PSV 2",
+      "action": "added",
+      "item": "DOVE SOAP BAR 90GM",
+      "no": "7",
+      "detail": "Qty 24 PCS, Dry"
+    },
     {
       "id": "25q57ulmv7k4d56",
       "ts": 1791948921738,
