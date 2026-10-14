@@ -7218,9 +7218,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791881680379
+          "updated": 1791940927016
         },
         {
           "id": "bi6mg48mv6g3g56",
@@ -7725,6 +7725,17 @@
     }
   ],
   "history": [
+    {
+      "id": "472s8lqmv7fd0dk",
+      "ts": 1791940927016,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "status",
+      "item": "Kesum",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "95td2zzmv7fcp8b",
       "ts": 1791940912571,
