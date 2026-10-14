@@ -6982,9 +6982,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791861322485
+          "updated": 1791963040187
         },
         {
           "id": "2x4u1femv63z1tp",
@@ -7850,6 +7850,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xfmq0bumv7siz0b",
+      "ts": 1791963040187,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "status",
+      "item": "BAWANG PUTIH KOPEK",
+      "no": "3",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "9oayw7smv7rkojp",
       "ts": 1791961440325,
