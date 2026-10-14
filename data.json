@@ -6129,9 +6129,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791504300518
+          "updated": 1791954417913
         },
         {
           "id": "bpgrk94mv61v3ua",
@@ -7859,6 +7859,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zpjx331mv7ne60p",
+      "ts": 1791954417913,
+      "by": "chelson",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE ( 15/10/2026 )",
+      "action": "status",
+      "item": "Raja",
+      "no": "44",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "5xy7d5hmv7kwxeo",
       "ts": 1791950254368,
