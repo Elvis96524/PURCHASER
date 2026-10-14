@@ -7504,9 +7504,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791872628845
+          "updated": 1791955851283
         },
         {
           "id": "f97z0gcmv6apoot",
@@ -7850,6 +7850,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yhuxj5xmv7o8w0j",
+      "ts": 1791955851283,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "status",
+      "item": "FLYING SWALLOW AGAR-AGAR 7GM",
+      "no": "26",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "xh6qsgqmv7o6kfd",
       "ts": 1791955742953,
