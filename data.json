@@ -7691,12 +7691,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791940863179
+        },
+        {
+          "id": "vbam2l3mv7fbw7v",
+          "added": 1791940874971,
+          "addedBy": "fathin",
+          "name": "MARGARINE 18KG",
+          "no": "",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791940874971
         }
       ],
       "updated": 1791939576629
     }
   ],
   "history": [
+    {
+      "id": "7xcs2k2mv7fbw7v",
+      "ts": 1791940874971,
+      "by": "fathin",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "MARGARINE 18KG",
+      "no": "",
+      "detail": "Qty 1 CTN, Dry"
+    },
     {
       "id": "qb93o7imv7fbuur",
       "ts": 1791940873203,
