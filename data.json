@@ -320,9 +320,9 @@
           "unit": "Nos",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791850419240
+          "updated": 1791941019876
         },
         {
           "id": "8yp9476mv5xho89",
@@ -7753,6 +7753,17 @@
     }
   ],
   "history": [
+    {
+      "id": "77wyruumv7ff010",
+      "ts": 1791941019876,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "status",
+      "item": "Jantung pisang",
+      "no": "31",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "db6a0bcmv7feg4j",
       "ts": 1791940994083,
