@@ -6425,9 +6425,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791785832718
+          "updated": 1791941640673
         },
         {
           "id": "awmlbo9mv4v1xjc",
@@ -7753,6 +7753,17 @@
     }
   ],
   "history": [
+    {
+      "id": "j14u6zamv7fsb1d",
+      "ts": 1791941640673,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "status",
+      "item": "Yam",
+      "no": "59",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "9bwrh5rmv7fqzo8",
       "ts": 1791941579288,
