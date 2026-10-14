@@ -6881,9 +6881,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1791850100125
+          "status": "na",
+          "notes": "Store have",
+          "updated": 1791946448342
         },
         {
           "id": "cf2mwxfmv5xb2md",
@@ -7753,6 +7753,28 @@
     }
   ],
   "history": [
+    {
+      "id": "8e4bnalmv7incnq",
+      "ts": 1791946448342,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "status",
+      "item": "Raja",
+      "no": "26",
+      "detail": "Status: To buy → N/A"
+    },
+    {
+      "id": "plgfrxvmv7inamq",
+      "ts": 1791946445714,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "edited",
+      "item": "Raja",
+      "no": "26",
+      "detail": "Notes changed"
+    },
     {
       "id": "zywfwl8mv7ilg26",
       "ts": 1791946359438,
