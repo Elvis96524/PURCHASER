@@ -7033,9 +7033,9 @@
           "unit": "TRAY",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791861514943
+          "updated": 1791940909489
         },
         {
           "id": "qyc6be0mv644ez9",
@@ -7711,6 +7711,17 @@
     }
   ],
   "history": [
+    {
+      "id": "520qwoimv7fcmuq",
+      "ts": 1791940909490,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "status",
+      "item": "TELUR MASIN 30'S ( FRESH PUTIH )",
+      "no": "5",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "7xcs2k2mv7fbw7v",
       "ts": 1791940874971,
