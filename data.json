@@ -7769,12 +7769,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791948789554
+        },
+        {
+          "id": "fawom7emv7k3kgh",
+          "added": 1791948884561,
+          "addedBy": "fathin",
+          "name": "GLO DISHWASHING LIQUID 4.5LT",
+          "no": "5",
+          "qty": 4,
+          "unit": "GLN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791948884561
         }
       ],
       "updated": 1791947930176
     }
   ],
   "history": [
+    {
+      "id": "mcn56ltmv7k3kgh",
+      "ts": 1791948884561,
+      "by": "fathin",
+      "vid": "wm6h00wmv7jj41s",
+      "vname": "BELAIT PSV 2",
+      "action": "added",
+      "item": "GLO DISHWASHING LIQUID 4.5LT",
+      "no": "5",
+      "detail": "Qty 4 GLN, Dry"
+    },
     {
       "id": "qgw1auqmv7k1j5e",
       "ts": 1791948789554,
