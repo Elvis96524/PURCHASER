@@ -7755,11 +7755,37 @@
     {
       "id": "wm6h00wmv7jj41s",
       "name": "BELAIT PSV 2",
-      "items": [],
+      "items": [
+        {
+          "id": "j1lstpqmv7k1j5e",
+          "added": 1791948789554,
+          "addedBy": "fathin",
+          "name": "GLADE AUTOSPRAY REFILL 252ML",
+          "no": "2",
+          "qty": 12,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791948789554
+        }
+      ],
       "updated": 1791947930176
     }
   ],
   "history": [
+    {
+      "id": "qgw1auqmv7k1j5e",
+      "ts": 1791948789554,
+      "by": "fathin",
+      "vid": "wm6h00wmv7jj41s",
+      "vname": "BELAIT PSV 2",
+      "action": "added",
+      "item": "GLADE AUTOSPRAY REFILL 252ML",
+      "no": "2",
+      "detail": "Qty 12 BTL, Dry"
+    },
     {
       "id": "xq87rj2mv7k1dqb",
       "ts": 1791948782532,
