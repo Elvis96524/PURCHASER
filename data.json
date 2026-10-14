@@ -7232,9 +7232,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791881694330
+          "updated": 1791941332519
         }
       ],
       "updated": 1791875217701
@@ -7753,6 +7753,17 @@
     }
   ],
   "history": [
+    {
+      "id": "tctj64dmv7flp9j",
+      "ts": 1791941332519,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "status",
+      "item": "Kucai",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "1ddag3mmv7fl9on",
       "ts": 1791941312327,
