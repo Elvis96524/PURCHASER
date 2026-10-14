@@ -6743,8 +6743,8 @@
           "category": "Chiller",
           "priority": "normal",
           "status": "received",
-          "notes": "Left 1pkt",
-          "updated": 1791939824420
+          "notes": "",
+          "updated": 1791939830810
         },
         {
           "id": "kodpm3ymv5xoipf",
@@ -7635,6 +7635,17 @@
     }
   ],
   "history": [
+    {
+      "id": "n3wc0ztmv7epije",
+      "ts": 1791939830810,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "edited",
+      "item": "Pudina",
+      "no": "25",
+      "detail": "Notes changed"
+    },
     {
       "id": "tel28asmv7epdlw",
       "ts": 1791939824420,
