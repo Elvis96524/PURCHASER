@@ -7518,9 +7518,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791872654141
+          "updated": 1791956209223
         },
         {
           "id": "p772i5rmv6aqkot",
@@ -7850,6 +7850,17 @@
     }
   ],
   "history": [
+    {
+      "id": "1xtg9vtmv7ogk7b",
+      "ts": 1791956209223,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "status",
+      "item": "ADABI SERBUK KURMA 250GM",
+      "no": "30",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "pxgddm3mv7oeyug",
       "ts": 1791956134888,
