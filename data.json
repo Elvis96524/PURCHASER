@@ -7532,9 +7532,9 @@
           "unit": "BDL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791872705310
+          "updated": 1791956134888
         },
         {
           "id": "4w0zwa9mv6arj85",
@@ -7850,6 +7850,17 @@
     }
   ],
   "history": [
+    {
+      "id": "pxgddm3mv7oeyug",
+      "ts": 1791956134888,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "status",
+      "item": "CORNTOZ ASSORTED FLAVOUR PACKAGING 60-100GM",
+      "no": "58",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "bp64ajkmv7o96ij",
       "ts": 1791955864891,
