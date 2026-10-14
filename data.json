@@ -6742,9 +6742,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Left 1pkt",
-          "updated": 1791856123003
+          "updated": 1791939824420
         },
         {
           "id": "kodpm3ymv5xoipf",
@@ -7635,6 +7635,17 @@
     }
   ],
   "history": [
+    {
+      "id": "tel28asmv7epdlw",
+      "ts": 1791939824420,
+      "by": "chelson",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "status",
+      "item": "Pudina",
+      "no": "25",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ilpyh2kmv7elg0d",
       "ts": 1791939640909,
