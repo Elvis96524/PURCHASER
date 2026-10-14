@@ -7662,12 +7662,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791940780307
+        },
+        {
+          "id": "0dmt6mrmv7fb86z",
+          "added": 1791940843835,
+          "addedBy": "fathin",
+          "name": "WHITE PEPPER POWDER 500GM ( Change to Aji Shio flavour pepper powder 250gm-300gm)",
+          "no": "",
+          "qty": 5,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1791940843835
         }
       ],
       "updated": 1791939576629
     }
   ],
   "history": [
+    {
+      "id": "knmzoesmv7fb86z",
+      "ts": 1791940843835,
+      "by": "fathin",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "WHITE PEPPER POWDER 500GM ( Change to Aji Shio flavour pepper powder 250gm-300gm)",
+      "no": "",
+      "detail": "Qty 5 PKT, Dry"
+    },
     {
       "id": "q15zfsxmv7f9v6b",
       "ts": 1791940780307,
