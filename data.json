@@ -223,9 +223,9 @@
           "unit": "Loaf",
           "category": "Frozen",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1791872001112
+          "updated": 1792025886388
         },
         {
           "id": "hk96wfrmuc8lfwk",
@@ -7850,6 +7850,17 @@
     }
   ],
   "history": [
+    {
+      "id": "hqncrbnmv8txzg4",
+      "ts": 1792025886388,
+      "by": "chelson",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "status",
+      "item": "Wholemeal bread",
+      "no": "65",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "xfmq0bumv7siz0b",
       "ts": 1791963040187,
