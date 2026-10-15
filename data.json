@@ -7965,11 +7965,11 @@
           "no": "",
           "qty": 1,
           "unit": "BLOCK",
-          "category": "Dry",
+          "category": "Frozen",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792042959774
+          "updated": 1792043010374
         },
         {
           "id": "96w15hrmv944ezq",
@@ -8004,6 +8004,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ixsw6ijmv9450ef",
+      "ts": 1792043010375,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "edited",
+      "item": "MOZARELLA CHEESE GRATED/SHREDED EMBORG  MOZARELA SHREDED 2KG",
+      "no": "",
+      "detail": "Dry → Frozen"
+    },
     {
       "id": "8s30izlmv944wcu",
       "ts": 1792043005134,
