@@ -7738,13 +7738,13 @@
           "addedBy": "fathin",
           "name": "MAGGI CURRY CUP",
           "no": "FOR SUPERVISOR TEAM",
-          "qty": 30,
+          "qty": 20,
           "unit": "CUP",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791940994083
+          "updated": 1792053804083
         },
         {
           "id": "e7g8wpcmv7fd8xv",
@@ -8109,6 +8109,17 @@
     }
   ],
   "history": [
+    {
+      "id": "hvtzjormv9akcvo",
+      "ts": 1792053804084,
+      "by": "fathin",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "edited",
+      "item": "MAGGI CURRY CUP",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Qty 30 → 20"
+    },
     {
       "id": "6s5uvnrmv98g042",
       "ts": 1792050241682,
