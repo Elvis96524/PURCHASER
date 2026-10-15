@@ -8024,9 +8024,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792043127821
+          "updated": 1792046555213
         },
         {
           "id": "tfheyh4mv947tfq",
@@ -8117,6 +8117,28 @@
     }
   ],
   "history": [
+    {
+      "id": "2ltm5gxmv968zm5",
+      "ts": 1792046555213,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "NATA DE  COCO 1.5KG",
+      "no": "",
+      "detail": "Status: N/A → Received"
+    },
+    {
+      "id": "enq47smmv968y78",
+      "ts": 1792046553380,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "NATA DE  COCO 1.5KG",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "mlis0ygmv968vdo",
       "ts": 1792046549724,
