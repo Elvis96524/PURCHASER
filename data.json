@@ -7863,9 +7863,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792026986597
+          "updated": 1792044138951
         },
         {
           "id": "7lpxx3zmv8ukm0m",
@@ -8117,6 +8117,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qvm96rfmv94t77r",
+      "ts": 1792044138951,
+      "by": "chelson",
+      "vid": "8649sz5mv8ujshy",
+      "vname": "PETRO DIAMOND (15.10.2026)",
+      "action": "status",
+      "item": "APPLE CIDER 946ML",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "5vkpmi1mv94l374",
       "ts": 1792043760496,
