@@ -6143,9 +6143,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791857790514
+          "updated": 1792033938846
         }
       ],
       "updated": 1791533431323
@@ -7913,6 +7913,17 @@
     }
   ],
   "history": [
+    {
+      "id": "f5qzw83mv8yqkri",
+      "ts": 1792033938846,
+      "by": "fathin",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE ( 15/10/2026 )",
+      "action": "status",
+      "item": "Basmati 5kg",
+      "no": "12",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "9mn2igemv8yprtm",
       "ts": 1792033901338,
