@@ -7940,9 +7940,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792042889014
+          "updated": 1792046541219
         },
         {
           "id": "2kigkirmv942yoe",
@@ -7954,9 +7954,9 @@
           "unit": "TUBE",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792042914830
+          "updated": 1792046543456
         },
         {
           "id": "049dhvtmv943xcu",
@@ -8117,6 +8117,28 @@
     }
   ],
   "history": [
+    {
+      "id": "uvorwdimv968qjk",
+      "ts": 1792046543456,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "ADABI PATI ASAM JAWA EXTRA 200GM",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "fw5ih5vmv968otg",
+      "ts": 1792046541220,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "BAN BAN HUNG WHITE PEPPER SEED 90GM",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ab9qrgkmv959n9q",
       "ts": 1792044906254,
