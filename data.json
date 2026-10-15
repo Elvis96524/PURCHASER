@@ -7851,11 +7851,37 @@
     {
       "id": "8649sz5mv8ujshy",
       "name": "PETRO DIAMOND (15.10.2026)",
-      "items": [],
+      "items": [
+        {
+          "id": "bdvzlznmv8uk6mf",
+          "added": 1792026922119,
+          "addedBy": "fathin",
+          "name": "APPLE CIDER 946ML",
+          "no": "",
+          "qty": 1,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792026922119
+        }
+      ],
       "updated": 1792026903814
     }
   ],
   "history": [
+    {
+      "id": "ts3i9ljmv8uk6mf",
+      "ts": 1792026922119,
+      "by": "fathin",
+      "vid": "8649sz5mv8ujshy",
+      "vname": "PETRO DIAMOND (15.10.2026)",
+      "action": "added",
+      "item": "APPLE CIDER 946ML",
+      "no": "",
+      "detail": "Qty 1 BTL, Dry"
+    },
     {
       "id": "xs5hlcsmv8ujshy",
       "ts": 1792026903814,
