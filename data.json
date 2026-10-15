@@ -7996,9 +7996,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792043005134
+          "updated": 1792046549724
         },
         {
           "id": "rx38rkdmv9458x2",
@@ -8117,6 +8117,17 @@
     }
   ],
   "history": [
+    {
+      "id": "mlis0ygmv968vdo",
+      "ts": 1792046549724,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "LONGAN KERING ( MATA KUCING ) 100GM",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "xmik3limv968sws",
       "ts": 1792046546524,
