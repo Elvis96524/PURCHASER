@@ -7956,12 +7956,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792042914830
+        },
+        {
+          "id": "049dhvtmv943xcu",
+          "added": 1792042959774,
+          "addedBy": "fathin",
+          "name": "MOZARELLA CHEESE GRATED/SHREDED EMBORG  MOZARELA SHREDED 2KG",
+          "no": "",
+          "qty": 1,
+          "unit": "BLOCK",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792042959774
         }
       ],
       "updated": 1792042850822
     }
   ],
   "history": [
+    {
+      "id": "3lvp56smv943xcu",
+      "ts": 1792042959774,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "added",
+      "item": "MOZARELLA CHEESE GRATED/SHREDED EMBORG  MOZARELA SHREDED 2KG",
+      "no": "",
+      "detail": "Qty 1 BLOCK, Dry"
+    },
     {
       "id": "wmoovfmmv942yoe",
       "ts": 1792042914830,
