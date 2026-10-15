@@ -7847,9 +7847,26 @@
         }
       ],
       "updated": 1791947930176
+    },
+    {
+      "id": "8649sz5mv8ujshy",
+      "name": "PETRO DIAMOND (15.10.2026)",
+      "items": [],
+      "updated": 1792026903814
     }
   ],
   "history": [
+    {
+      "id": "xs5hlcsmv8ujshy",
+      "ts": 1792026903814,
+      "by": "fathin",
+      "vid": "8649sz5mv8ujshy",
+      "vname": "PETRO DIAMOND (15.10.2026)",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "hqncrbnmv8txzg4",
       "ts": 1792025886388,
