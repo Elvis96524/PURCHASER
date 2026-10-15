@@ -8026,12 +8026,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792043127821
+        },
+        {
+          "id": "tfheyh4mv947tfq",
+          "added": 1792043141318,
+          "addedBy": "fathin",
+          "name": "BEAN SPROUTS",
+          "no": "",
+          "qty": 5,
+          "unit": "PKT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792043141318
         }
       ],
       "updated": 1792042850822
     }
   ],
   "history": [
+    {
+      "id": "2qgcszomv947tfq",
+      "ts": 1792043141318,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "added",
+      "item": "BEAN SPROUTS",
+      "no": "",
+      "detail": "Qty 5 PKT, Chiller"
+    },
     {
       "id": "ajco1lmmv947j0t",
       "ts": 1792043127821,
