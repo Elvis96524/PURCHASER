@@ -8152,12 +8152,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792108668771
+        },
+        {
+          "id": "asawhkymva7aty4",
+          "added": 1792108786972,
+          "addedBy": "chelson",
+          "name": "Balang kuih TALL",
+          "no": "",
+          "qty": 6,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792108786972
         }
       ],
       "updated": 1792108533751
     }
   ],
   "history": [
+    {
+      "id": "0yynwwlmva7aty4",
+      "ts": 1792108786972,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful",
+      "action": "added",
+      "item": "Balang kuih TALL",
+      "no": "",
+      "detail": "Qty 6 Btl, Dry"
+    },
     {
       "id": "iq6liuhmva78aqr",
       "ts": 1792108668771,
