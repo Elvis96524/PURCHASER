@@ -7905,9 +7905,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792026981717
+          "updated": 1792044906254
         }
       ],
       "updated": 1792026903814
@@ -8117,6 +8117,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ab9qrgkmv959n9q",
+      "ts": 1792044906254,
+      "by": "chelson",
+      "vid": "8649sz5mv8ujshy",
+      "vname": "PETRO DIAMOND (15.10.2026)",
+      "action": "status",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "qvm96rfmv94t77r",
       "ts": 1792044138951,
