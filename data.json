@@ -7910,9 +7910,26 @@
         }
       ],
       "updated": 1792026903814
+    },
+    {
+      "id": "eixhlnlmv941lae",
+      "name": "MV ALYA",
+      "items": [],
+      "updated": 1792042850822
     }
   ],
   "history": [
+    {
+      "id": "qcb07zcmv941lae",
+      "ts": 1792042850822,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "f5qzw83mv8yqkri",
       "ts": 1792033938846,
