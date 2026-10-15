@@ -7857,14 +7857,14 @@
           "added": 1792026922119,
           "addedBy": "fathin",
           "name": "APPLE CIDER 946ML",
-          "no": "",
+          "no": "FOR SUPERVISOR TEAM",
           "qty": 1,
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792026922119
+          "updated": 1792026986597
         },
         {
           "id": "7lpxx3zmv8ukm0m",
@@ -7913,6 +7913,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8zjc5b2mv8ulkdh",
+      "ts": 1792026986597,
+      "by": "fathin",
+      "vid": "8649sz5mv8ujshy",
+      "vname": "PETRO DIAMOND (15.10.2026)",
+      "action": "edited",
+      "item": "APPLE CIDER 946ML",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "No. — → FOR SUPERVISOR TEAM"
+    },
     {
       "id": "w1124u9mv8ulglx",
       "ts": 1792026981717,
