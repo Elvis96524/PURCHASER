@@ -7913,7 +7913,7 @@
     },
     {
       "id": "eixhlnlmv941lae",
-      "name": "MV ALYA",
+      "name": "MV ALYA ( 17.10.2026 )",
       "items": [
         {
           "id": "obyyrp0mv941xfi",
@@ -8112,10 +8112,21 @@
           "updated": 1792043254374
         }
       ],
-      "updated": 1792042850822
+      "updated": 1792043310182
     }
   ],
   "history": [
+    {
+      "id": "78q8e5jmv94bfqe",
+      "ts": 1792043310182,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"MV ALYA\" to \"MV ALYA ( 17.10.2026 )\""
+    },
     {
       "id": "at4x436mv94a8o6",
       "ts": 1792043254374,
