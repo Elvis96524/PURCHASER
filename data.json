@@ -8138,12 +8138,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792108568411
+        },
+        {
+          "id": "nvbilwnmva78aqr",
+          "added": 1792108668771,
+          "addedBy": "chelson",
+          "name": "Super ring 60gm",
+          "no": "",
+          "qty": 20,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792108668771
         }
       ],
       "updated": 1792108533751
     }
   ],
   "history": [
+    {
+      "id": "iq6liuhmva78aqr",
+      "ts": 1792108668771,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful",
+      "action": "added",
+      "item": "Super ring 60gm",
+      "no": "",
+      "detail": "Qty 20 Pkt, Dry"
+    },
     {
       "id": "0hr7q5xmva765az",
       "ts": 1792108568411,
