@@ -6521,18 +6521,8 @@
         },
         {
           "id": "mohtcv5mv7e3ljm",
-          "added": 1791938808274,
-          "addedBy": "farah",
-          "name": "Daun ketumbar(offer daun sup)",
-          "no": "18",
-          "qty": 1,
-          "unit": "Kg",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "na",
-          "notes": "",
-          "updated": 1791946353567,
-          "updatedBy": "chelson"
+          "deleted": true,
+          "updated": 1792046999772
         }
       ],
       "updated": 1791785613322
@@ -8117,6 +8107,17 @@
     }
   ],
   "history": [
+    {
+      "id": "598emoomv96iin1",
+      "ts": 1792046999773,
+      "by": "farah",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "deleted",
+      "item": "Daun ketumbar(offer daun sup)",
+      "no": "18",
+      "detail": ""
+    },
     {
       "id": "2ltm5gxmv968zm5",
       "ts": 1792046555213,
