@@ -7916,9 +7916,9 @@
           "unit": "CAN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792042866558
+          "updated": 1792047851592
         },
         {
           "id": "d3rcjkxmv942era",
@@ -8107,6 +8107,17 @@
     }
   ],
   "history": [
+    {
+      "id": "s9xzstimv970rwo",
+      "ts": 1792047851592,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "DAISY MARGARINE 2.5KG",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "598emoomv96iin1",
       "ts": 1792046999773,
