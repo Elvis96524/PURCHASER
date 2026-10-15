@@ -7928,12 +7928,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792042866558
+        },
+        {
+          "id": "d3rcjkxmv942era",
+          "added": 1792042889014,
+          "addedBy": "fathin",
+          "name": "BAN BAN HUNG WHITE PEPPER SEED 90GM",
+          "no": "",
+          "qty": 5,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792042889014
         }
       ],
       "updated": 1792042850822
     }
   ],
   "history": [
+    {
+      "id": "rhpkbb1mv942era",
+      "ts": 1792042889014,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "added",
+      "item": "BAN BAN HUNG WHITE PEPPER SEED 90GM",
+      "no": "",
+      "detail": "Qty 5 BTL, Dry"
+    },
     {
       "id": "83o89sfmv941xfi",
       "ts": 1792042866558,
