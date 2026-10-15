@@ -8054,12 +8054,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792043154382
+        },
+        {
+          "id": "t1a8esnmv948d26",
+          "added": 1792043166750,
+          "addedBy": "fathin",
+          "name": "KELAPA PARUT",
+          "no": "",
+          "qty": 2,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792043166750
         }
       ],
       "updated": 1792042850822
     }
   ],
   "history": [
+    {
+      "id": "oyd7x6hmv948d26",
+      "ts": 1792043166750,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "added",
+      "item": "KELAPA PARUT",
+      "no": "",
+      "detail": "Qty 2 KG, Chiller"
+    },
     {
       "id": "f5seyixmv9483im",
       "ts": 1792043154382,
