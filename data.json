@@ -7984,12 +7984,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792042982630
+        },
+        {
+          "id": "30aif3qmv944wcu",
+          "added": 1792043005134,
+          "addedBy": "fathin",
+          "name": "LONGAN KERING ( MATA KUCING ) 100GM",
+          "no": "",
+          "qty": 10,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792043005134
         }
       ],
       "updated": 1792042850822
     }
   ],
   "history": [
+    {
+      "id": "8s30izlmv944wcu",
+      "ts": 1792043005134,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "added",
+      "item": "LONGAN KERING ( MATA KUCING ) 100GM",
+      "no": "",
+      "detail": "Qty 10 PKT, Dry"
+    },
     {
       "id": "6ndre5bmv944ezq",
       "ts": 1792042982630,
