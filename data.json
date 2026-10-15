@@ -7766,13 +7766,13 @@
           "addedBy": "fathin",
           "name": "MEE SEDAP CUP",
           "no": "FOR SUPERVISOR TEAM",
-          "qty": 30,
+          "qty": 20,
           "unit": "CUP",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791940958867
+          "updated": 1792053826451
         }
       ],
       "updated": 1791946670504
@@ -8109,6 +8109,17 @@
     }
   ],
   "history": [
+    {
+      "id": "1gvxejcmv9aku4z",
+      "ts": 1792053826451,
+      "by": "fathin",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "edited",
+      "item": "MEE SEDAP CUP",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Qty 30 → 20"
+    },
     {
       "id": "8q9mqkfmv9akpkj",
       "ts": 1792053820531,
