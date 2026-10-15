@@ -8124,11 +8124,37 @@
     {
       "id": "4y15j3mmva75ek7",
       "name": "Joyful",
-      "items": [],
+      "items": [
+        {
+          "id": "ktki87dmva765az",
+          "added": 1792108568411,
+          "addedBy": "chelson",
+          "name": "Pringles assorted 110gm",
+          "no": "",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792108568411
+        }
+      ],
       "updated": 1792108533751
     }
   ],
   "history": [
+    {
+      "id": "0hr7q5xmva765az",
+      "ts": 1792108568411,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful",
+      "action": "added",
+      "item": "Pringles assorted 110gm",
+      "no": "",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "8603vjqmva75ek8",
       "ts": 1792108533752,
