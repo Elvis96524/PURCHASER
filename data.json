@@ -7914,11 +7914,37 @@
     {
       "id": "eixhlnlmv941lae",
       "name": "MV ALYA",
-      "items": [],
+      "items": [
+        {
+          "id": "obyyrp0mv941xfi",
+          "added": 1792042866558,
+          "addedBy": "fathin",
+          "name": "DAISY MARGARINE 2.5KG",
+          "no": "",
+          "qty": 2,
+          "unit": "CAN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792042866558
+        }
+      ],
       "updated": 1792042850822
     }
   ],
   "history": [
+    {
+      "id": "83o89sfmv941xfi",
+      "ts": 1792042866558,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "added",
+      "item": "DAISY MARGARINE 2.5KG",
+      "no": "",
+      "detail": "Qty 2 CAN, Dry"
+    },
     {
       "id": "qcb07zcmv941lae",
       "ts": 1792042850822,
