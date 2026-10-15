@@ -7970,12 +7970,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792042959774
+        },
+        {
+          "id": "96w15hrmv944ezq",
+          "added": 1792042982630,
+          "addedBy": "fathin",
+          "name": "SAGU MATA IKAN BESAR",
+          "no": "",
+          "qty": 1,
+          "unit": "KG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792042982630
         }
       ],
       "updated": 1792042850822
     }
   ],
   "history": [
+    {
+      "id": "6ndre5bmv944ezq",
+      "ts": 1792042982630,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "added",
+      "item": "SAGU MATA IKAN BESAR",
+      "no": "",
+      "detail": "Qty 1 KG, Dry"
+    },
     {
       "id": "3lvp56smv943xcu",
       "ts": 1792042959774,
