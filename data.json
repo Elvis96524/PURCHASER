@@ -7773,6 +7773,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792053826451
+        },
+        {
+          "id": "val038imv9au5nw",
+          "added": 1792054261292,
+          "addedBy": "fathin",
+          "name": "PUCUK PAKU PAKIS",
+          "no": "",
+          "qty": 15,
+          "unit": "BDL",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792054261292
         }
       ],
       "updated": 1791946670504
@@ -8109,6 +8123,17 @@
     }
   ],
   "history": [
+    {
+      "id": "c9gh47fmv9au5nw",
+      "ts": 1792054261292,
+      "by": "fathin",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "added",
+      "item": "PUCUK PAKU PAKIS",
+      "no": "",
+      "detail": "Qty 15 BDL, Chiller"
+    },
     {
       "id": "1gvxejcmv9aku4z",
       "ts": 1792053826451,
