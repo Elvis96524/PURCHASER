@@ -7553,8 +7553,9 @@
           "category": "Chiller",
           "priority": "normal",
           "status": "received",
-          "notes": "",
-          "updated": 1792050235122
+          "notes": "Burung",
+          "updated": 1792050241682,
+          "updatedBy": "chelson"
         },
         {
           "id": "3yx2gxqmv6bmr6k",
@@ -8108,6 +8109,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6s5uvnrmv98g042",
+      "ts": 1792050241682,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "edited",
+      "item": "CHILI PADI BURUNG/CHILI PADI KAMPUNG",
+      "no": "9",
+      "detail": "Notes changed"
+    },
     {
       "id": "8iq6398mv98fv1u",
       "ts": 1792050235122,
