@@ -7982,9 +7982,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792043414966
+          "updated": 1792046546524
         },
         {
           "id": "30aif3qmv944wcu",
@@ -8117,6 +8117,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xmik3limv968sws",
+      "ts": 1792046546524,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "SAGU MATA IKAN BESAR",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "uvorwdimv968qjk",
       "ts": 1792046543456,
