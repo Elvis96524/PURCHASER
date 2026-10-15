@@ -8012,12 +8012,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792043021414
+        },
+        {
+          "id": "jrddnqtmv947j0t",
+          "added": 1792043127821,
+          "addedBy": "fathin",
+          "name": "NATA DE  COCO 1.5KG",
+          "no": "",
+          "qty": 5,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792043127821
         }
       ],
       "updated": 1792042850822
     }
   ],
   "history": [
+    {
+      "id": "ajco1lmmv947j0t",
+      "ts": 1792043127821,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "added",
+      "item": "NATA DE  COCO 1.5KG",
+      "no": "",
+      "detail": "Qty 5 BTL, Dry"
+    },
     {
       "id": "bl58s1ymv9458x2",
       "ts": 1792043021414,
