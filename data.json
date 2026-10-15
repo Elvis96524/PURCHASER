@@ -7876,9 +7876,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792026942070
+          "updated": 1792033901338
         },
         {
           "id": "m1zzlo3mv8ul4ph",
@@ -7913,6 +7913,17 @@
     }
   ],
   "history": [
+    {
+      "id": "9mn2igemv8yprtm",
+      "ts": 1792033901338,
+      "by": "fathin",
+      "vid": "8649sz5mv8ujshy",
+      "vname": "PETRO DIAMOND (15.10.2026)",
+      "action": "status",
+      "item": "CHAI SEED 1KG/PKT",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "8zjc5b2mv8ulkdh",
       "ts": 1792026986597,
