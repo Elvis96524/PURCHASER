@@ -8096,12 +8096,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792043213478
+        },
+        {
+          "id": "e4mc2pgmv94a8o6",
+          "added": 1792043254374,
+          "addedBy": "fathin",
+          "name": "LOCAL ORANGE (LIMAU MANIS ) *subject to availability*",
+          "no": "",
+          "qty": 2,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792043254374
         }
       ],
       "updated": 1792042850822
     }
   ],
   "history": [
+    {
+      "id": "at4x436mv94a8o6",
+      "ts": 1792043254374,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "added",
+      "item": "LOCAL ORANGE (LIMAU MANIS ) *subject to availability*",
+      "no": "",
+      "detail": "Qty 2 KG, Chiller"
+    },
     {
       "id": "tt086utmv949d46",
       "ts": 1792043213478,
