@@ -7958,9 +7958,10 @@
           "unit": "BLOCK",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792043010374
+          "status": "received",
+          "notes": "Shredded cheese 2kg 1pkt",
+          "updated": 1792050144702,
+          "updatedBy": "chelson"
         },
         {
           "id": "96w15hrmv944ezq",
@@ -8107,6 +8108,28 @@
     }
   ],
   "history": [
+    {
+      "id": "849kyjomv98dxa6",
+      "ts": 1792050144702,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "MOZARELLA CHEESE GRATED/SHREDED EMBORG  MOZARELA SHREDED 2KG",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "qclxextmv98dw13",
+      "ts": 1792050143079,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "edited",
+      "item": "MOZARELLA CHEESE GRATED/SHREDED EMBORG  MOZARELA SHREDED 2KG",
+      "no": "",
+      "detail": "Notes changed"
+    },
     {
       "id": "s9xzstimv970rwo",
       "ts": 1792047851592,
