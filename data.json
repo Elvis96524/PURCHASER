@@ -6148,7 +6148,8 @@
           "updated": 1792033938846
         }
       ],
-      "updated": 1791533431323
+      "deleted": true,
+      "updated": 1792043316591
     },
     {
       "id": "ctgml0xmv0ae5xm",
@@ -8116,6 +8117,17 @@
     }
   ],
   "history": [
+    {
+      "id": "famj754mv94bkof",
+      "ts": 1792043316591,
+      "by": "fathin",
+      "vid": "cqacw4fmuz9xxq1",
+      "vname": "OS ONE ( 15/10/2026 )",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "78q8e5jmv94bfqe",
       "ts": 1792043310182,
