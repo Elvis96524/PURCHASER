@@ -8120,9 +8120,26 @@
         }
       ],
       "updated": 1792043310182
+    },
+    {
+      "id": "4y15j3mmva75ek7",
+      "name": "Joyful",
+      "items": [],
+      "updated": 1792108533751
     }
   ],
   "history": [
+    {
+      "id": "8603vjqmva75ek8",
+      "ts": 1792108533752,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "c9gh47fmv9au5nw",
       "ts": 1792054261292,
