@@ -8082,12 +8082,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792043190070
+        },
+        {
+          "id": "49eqrwvmv949d46",
+          "added": 1792043213478,
+          "addedBy": "fathin",
+          "name": "CILI PADI KAMPUNG",
+          "no": "",
+          "qty": 5,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792043213478
         }
       ],
       "updated": 1792042850822
     }
   ],
   "history": [
+    {
+      "id": "tt086utmv949d46",
+      "ts": 1792043213478,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "added",
+      "item": "CILI PADI KAMPUNG",
+      "no": "",
+      "detail": "Qty 5 KG, Chiller"
+    },
     {
       "id": "dggrscumv948v1y",
       "ts": 1792043190070,
