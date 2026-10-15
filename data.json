@@ -7998,12 +7998,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792043005134
+        },
+        {
+          "id": "rx38rkdmv9458x2",
+          "added": 1792043021414,
+          "addedBy": "fathin",
+          "name": "CINCAU",
+          "no": "",
+          "qty": 2,
+          "unit": "PKT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792043021414
         }
       ],
       "updated": 1792042850822
     }
   ],
   "history": [
+    {
+      "id": "bl58s1ymv9458x2",
+      "ts": 1792043021414,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "added",
+      "item": "CINCAU",
+      "no": "",
+      "detail": "Qty 2 PKT, Chiller"
+    },
     {
       "id": "ixsw6ijmv9450ef",
       "ts": 1792043010375,
