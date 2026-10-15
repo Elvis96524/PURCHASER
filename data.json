@@ -8043,9 +8043,9 @@
           "unit": "PCS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792043154382
+          "updated": 1792050153137
         },
         {
           "id": "t1a8esnmv948d26",
@@ -8108,6 +8108,17 @@
     }
   ],
   "history": [
+    {
+      "id": "go40lggmv98e3si",
+      "ts": 1792050153138,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "BUNGA KANTAN",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "849kyjomv98dxa6",
       "ts": 1792050144702,
