@@ -7942,12 +7942,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792042889014
+        },
+        {
+          "id": "2kigkirmv942yoe",
+          "added": 1792042914830,
+          "addedBy": "fathin",
+          "name": "ADABI PATI ASAM JAWA EXTRA 200GM",
+          "no": "",
+          "qty": 10,
+          "unit": "TUBE",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792042914830
         }
       ],
       "updated": 1792042850822
     }
   ],
   "history": [
+    {
+      "id": "wmoovfmmv942yoe",
+      "ts": 1792042914830,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "added",
+      "item": "ADABI PATI ASAM JAWA EXTRA 200GM",
+      "no": "",
+      "detail": "Qty 10 TUBE, Dry"
+    },
     {
       "id": "rhpkbb1mv942era",
       "ts": 1792042889014,
