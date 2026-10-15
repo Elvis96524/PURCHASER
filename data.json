@@ -7029,9 +7029,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1791941579288
+          "updated": 1792050188176
         },
         {
           "id": "fni0kwemv641i3h",
@@ -8108,6 +8108,17 @@
     }
   ],
   "history": [
+    {
+      "id": "jz29rjqmv98euts",
+      "ts": 1792050188176,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "status",
+      "item": "CEMPEDAK ( MASAK ) *subject to availability*",
+      "no": "63",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "go40lggmv98e3si",
       "ts": 1792050153138,
