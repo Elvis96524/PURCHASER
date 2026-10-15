@@ -7228,9 +7228,9 @@
           "unit": "KG",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791873092528
+          "updated": 1792050207868
         },
         {
           "id": "szp5jhkmv6g35dn",
@@ -8108,6 +8108,28 @@
     }
   ],
   "history": [
+    {
+      "id": "zrbwx40mv98fa0s",
+      "ts": 1792050207868,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "status",
+      "item": "CHILI PADI BURUNG",
+      "no": "11",
+      "detail": "Status: Ordered → Received"
+    },
+    {
+      "id": "yzg1boamv98f8rx",
+      "ts": 1792050206253,
+      "by": "chelson",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026)",
+      "action": "status",
+      "item": "CHILI PADI BURUNG",
+      "no": "11",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "jz29rjqmv98euts",
       "ts": 1792050188176,
