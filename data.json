@@ -7552,9 +7552,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791873131724
+          "updated": 1792050235122
         },
         {
           "id": "3yx2gxqmv6bmr6k",
@@ -8108,6 +8108,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8iq6398mv98fv1u",
+      "ts": 1792050235122,
+      "by": "chelson",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026)",
+      "action": "status",
+      "item": "CHILI PADI BURUNG/CHILI PADI KAMPUNG",
+      "no": "9",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "zrbwx40mv98fa0s",
       "ts": 1792050207868,
