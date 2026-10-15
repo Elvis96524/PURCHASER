@@ -7865,12 +7865,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792026922119
+        },
+        {
+          "id": "7lpxx3zmv8ukm0m",
+          "added": 1792026942070,
+          "addedBy": "fathin",
+          "name": "CHAI SEED 1KG/PKT",
+          "no": "FOR SUPERVISOR TEAM",
+          "qty": 2,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792026942070
         }
       ],
       "updated": 1792026903814
     }
   ],
   "history": [
+    {
+      "id": "54y1aazmv8ukm0m",
+      "ts": 1792026942070,
+      "by": "fathin",
+      "vid": "8649sz5mv8ujshy",
+      "vname": "PETRO DIAMOND (15.10.2026)",
+      "action": "added",
+      "item": "CHAI SEED 1KG/PKT",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Qty 2 PKT, Dry"
+    },
     {
       "id": "ts3i9ljmv8uk6mf",
       "ts": 1792026922119,
