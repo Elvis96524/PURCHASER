@@ -8068,12 +8068,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792043166750
+        },
+        {
+          "id": "c1211mwmv948v1y",
+          "added": 1792043190070,
+          "addedBy": "fathin",
+          "name": "TEMPE",
+          "no": "",
+          "qty": 20,
+          "unit": "PKT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792043190070
         }
       ],
       "updated": 1792042850822
     }
   ],
   "history": [
+    {
+      "id": "dggrscumv948v1y",
+      "ts": 1792043190070,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA",
+      "action": "added",
+      "item": "TEMPE",
+      "no": "",
+      "detail": "Qty 20 PKT, Chiller"
+    },
     {
       "id": "oyd7x6hmv948d26",
       "ts": 1792043166750,
