@@ -8208,12 +8208,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792108786972
+        },
+        {
+          "id": "869kskdmva89a9t",
+          "added": 1792110394433,
+          "addedBy": "fathin",
+          "name": "BUNGA KANTAN",
+          "no": "",
+          "qty": 5,
+          "unit": "PCS",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792110394433
         }
       ],
       "updated": 1792108533751
     }
   ],
   "history": [
+    {
+      "id": "iy0my2rmva89a9t",
+      "ts": 1792110394433,
+      "by": "fathin",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful",
+      "action": "added",
+      "item": "BUNGA KANTAN",
+      "no": "",
+      "detail": "Qty 5 PCS, Chiller"
+    },
     {
       "id": "3s9fkuomva7z4vy",
       "ts": 1792109920894,
