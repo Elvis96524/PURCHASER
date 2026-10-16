@@ -8372,12 +8372,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134797459
+        },
+        {
+          "id": "h6ghj7qmvamsqx6",
+          "added": 1792134817098,
+          "addedBy": "fathin",
+          "name": "FOURWAY CRAB",
+          "no": "FOR SUPERVISOR TEAM",
+          "qty": 5,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134817098
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "yev3npgmvamsqx6",
+      "ts": 1792134817098,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "FOURWAY CRAB",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Qty 5 PKT, Dry"
+    },
     {
       "id": "mbvvdqrmvamsbrn",
       "ts": 1792134797459,
