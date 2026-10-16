@@ -7836,9 +7836,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791948921738
+          "updated": 1792118323274
         },
         {
           "id": "f860z30mv7k5ehh",
@@ -8250,6 +8250,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ektqdc9mvacz87e",
+      "ts": 1792118323274,
+      "by": "chelson",
+      "vid": "wm6h00wmv7jj41s",
+      "vname": "BELAIT PSV 2",
+      "action": "status",
+      "item": "SHIELDTOX MOSQUITO SPRAY 800ML",
+      "no": "6",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "uvec861mvacws2h",
       "ts": 1792118209049,
