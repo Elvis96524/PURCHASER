@@ -8687,12 +8687,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135328331
+        },
+        {
+          "id": "cgfzwbhmvan3z4b",
+          "added": 1792135340939,
+          "addedBy": "fathin",
+          "name": "DRAGON FRUIT",
+          "no": "",
+          "qty": 30,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135340939
         }
       ],
       "updated": 1792135092666
     }
   ],
   "history": [
+    {
+      "id": "ltrk7gvmvan3z4b",
+      "ts": 1792135340939,
+      "by": "fathin",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "DRAGON FRUIT",
+      "no": "",
+      "detail": "Qty 30 KG, Chiller"
+    },
     {
       "id": "1y87wz8mvan3pe3",
       "ts": 1792135328331,
