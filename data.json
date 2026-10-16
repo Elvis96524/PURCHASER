@@ -8358,12 +8358,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134777315
+        },
+        {
+          "id": "t2v153bmvamsbrn",
+          "added": 1792134797459,
+          "addedBy": "fathin",
+          "name": "LONG RUBBER HAND GLOVE (FOR DISHWASHER)",
+          "no": "",
+          "qty": 1,
+          "unit": "PAIR",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134797459
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "mbvvdqrmvamsbrn",
+      "ts": 1792134797459,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "LONG RUBBER HAND GLOVE (FOR DISHWASHER)",
+      "no": "",
+      "detail": "Qty 1 PAIR, Dry"
+    },
     {
       "id": "vely5namvamrwi6",
       "ts": 1792134777678,
