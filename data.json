@@ -8505,11 +8505,37 @@
     {
       "id": "xq0m6kpmvamynju",
       "name": "KEYFIELD WISDOM",
-      "items": [],
+      "items": [
+        {
+          "id": "f2o8uh2mvamz0tv",
+          "added": 1792135109875,
+          "addedBy": "fathin",
+          "name": "BUDU 200GM",
+          "no": "",
+          "qty": 12,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135109875
+        }
+      ],
       "updated": 1792135092666
     }
   ],
   "history": [
+    {
+      "id": "jx3pz95mvamz0tv",
+      "ts": 1792135109875,
+      "by": "fathin",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "BUDU 200GM",
+      "no": "",
+      "detail": "Qty 12 BTL, Dry"
+    },
     {
       "id": "aojfh7smvamynju",
       "ts": 1792135092666,
