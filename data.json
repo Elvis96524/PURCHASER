@@ -8131,6 +8131,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792109769040
+        },
+        {
+          "id": "9pe3vtmmva7wafr",
+          "added": 1792109788119,
+          "addedBy": "chelson",
+          "name": "Gardenia",
+          "no": "",
+          "qty": 25,
+          "unit": "Loaf",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792109788119
         }
       ],
       "updated": 1792043310182
@@ -8186,6 +8200,17 @@
     }
   ],
   "history": [
+    {
+      "id": "gnvi22smva7wafr",
+      "ts": 1792109788119,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "added",
+      "item": "Gardenia",
+      "no": "",
+      "detail": "Qty 25 Loaf, Dry"
+    },
     {
       "id": "4k6yjmjmva7vvps",
       "ts": 1792109769040,
