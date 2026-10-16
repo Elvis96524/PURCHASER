@@ -8820,12 +8820,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135694826
+        },
+        {
+          "id": "7cc9d73mvanbyej",
+          "added": 1792135713259,
+          "addedBy": "fathin",
+          "name": "F&N SARSI/SPRITE 1.5LT",
+          "no": "",
+          "qty": 2,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135713259
         }
       ],
       "updated": 1792135551411
     }
   ],
   "history": [
+    {
+      "id": "5zodmzamvanbyej",
+      "ts": 1792135713259,
+      "by": "fathin",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "F&N SARSI/SPRITE 1.5LT",
+      "no": "",
+      "detail": "Qty 2 CTN, Dry"
+    },
     {
       "id": "ycjqp1jmvanbk6j",
       "ts": 1792135694827,
