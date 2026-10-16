@@ -8213,9 +8213,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792108786972
+          "updated": 1792134225708
         },
         {
           "id": "869kskdmva89a9t",
@@ -8258,6 +8258,17 @@
     }
   ],
   "history": [
+    {
+      "id": "spcuywrmvamg2lo",
+      "ts": 1792134225708,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful",
+      "action": "status",
+      "item": "Balang kuih TALL",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "4gvd22vmvajyk50",
       "ts": 1792130049396,
