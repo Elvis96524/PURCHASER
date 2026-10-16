@@ -8783,7 +8783,7 @@
           "id": "a4cu7uxmvana8eb",
           "added": 1792135632899,
           "addedBy": "fathin",
-          "name": "PRINGLES ASSORTEDC FLAVOUR 110GM",
+          "name": "PRINGLES ASSORTED FLAVOUR 110GM",
           "no": "FOR SUPERVISOR TEAM",
           "qty": 10,
           "unit": "BTL",
@@ -8791,7 +8791,7 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792135632899
+          "updated": 1792135796907
         },
         {
           "id": "bowxaf8mvanai8b",
@@ -8896,6 +8896,17 @@
     }
   ],
   "history": [
+    {
+      "id": "er3yitimvandqy3",
+      "ts": 1792135796907,
+      "by": "fathin",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "edited",
+      "item": "PRINGLES ASSORTED FLAVOUR 110GM",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Name \"PRINGLES ASSORTEDC FLAVOUR 110GM\" → \"PRINGLES ASSORTED FLAVOUR 110GM\""
+    },
     {
       "id": "31e9cs7mvand46j",
       "ts": 1792135767403,
