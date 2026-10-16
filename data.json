@@ -8547,12 +8547,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135137203
+        },
+        {
+          "id": "r80vmlymvamzuwr",
+          "added": 1792135148859,
+          "addedBy": "fathin",
+          "name": "STAIN REMOVAL",
+          "no": "",
+          "qty": 24,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135148859
         }
       ],
       "updated": 1792135092666
     }
   ],
   "history": [
+    {
+      "id": "a8xksfumvamzuwr",
+      "ts": 1792135148859,
+      "by": "fathin",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "STAIN REMOVAL",
+      "no": "",
+      "detail": "Qty 24 BTL, Dry"
+    },
     {
       "id": "w1t09ktmvamzlwz",
       "ts": 1792135137203,
