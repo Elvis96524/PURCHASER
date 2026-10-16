@@ -8834,12 +8834,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135713259
+        },
+        {
+          "id": "kmk3234mvancajf",
+          "added": 1792135728987,
+          "addedBy": "fathin",
+          "name": "BUNGA KANTAN",
+          "no": "",
+          "qty": 15,
+          "unit": "PCS",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135728987
         }
       ],
       "updated": 1792135551411
     }
   ],
   "history": [
+    {
+      "id": "ahdpjdomvancajf",
+      "ts": 1792135728987,
+      "by": "fathin",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "BUNGA KANTAN",
+      "no": "",
+      "detail": "Qty 15 PCS, Chiller"
+    },
     {
       "id": "5zodmzamvanbyej",
       "ts": 1792135713259,
