@@ -8383,9 +8383,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792134817098
+          "updated": 1792136932339
         },
         {
           "id": "39iw0x2mvamt6tv",
@@ -8411,9 +8411,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792134852403
+          "updated": 1792136938170
         },
         {
           "id": "6jdl0t1mvamtw2q",
@@ -8897,6 +8897,17 @@
   ],
   "history": [
     {
+      "id": "i9v6qb4mvao27ju",
+      "ts": 1792136938170,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "status",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → Received"
+    },
+    {
       "id": "edmka2tmvao26gc",
       "ts": 1792136936748,
       "by": "fathin",
@@ -8906,6 +8917,17 @@
       "item": "F&N SARSI/SPRITE 1.5LT",
       "no": "",
       "detail": "Name \"SARSI/SPRITE 1.5LT\" → \"F&N SARSI/SPRITE 1.5LT\""
+    },
+    {
+      "id": "xy80shtmvao231v",
+      "ts": 1792136932339,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "status",
+      "item": "FOURWAY CRAB",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → Received"
     },
     {
       "id": "er3yitimvandqy3",
