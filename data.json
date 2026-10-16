@@ -7918,7 +7918,8 @@
           "updated": 1792044906254
         }
       ],
-      "updated": 1792026903814
+      "deleted": true,
+      "updated": 1792134597563
     },
     {
       "id": "eixhlnlmv941lae",
@@ -8258,6 +8259,17 @@
     }
   ],
   "history": [
+    {
+      "id": "e9poajgmvamo1iz",
+      "ts": 1792134597563,
+      "by": "fathin",
+      "vid": "8649sz5mv8ujshy",
+      "vname": "PETRO DIAMOND (15.10.2026)",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "spcuywrmvamg2lo",
       "ts": 1792134225708,
