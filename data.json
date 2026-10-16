@@ -8330,12 +8330,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134746234
+        },
+        {
+          "id": "ssobt0gmvamrlyr",
+          "added": 1792134764019,
+          "addedBy": "fathin",
+          "name": "SPRITE 325ML",
+          "no": "",
+          "qty": 3,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134764019
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "t1q2gw2mvamrlyr",
+      "ts": 1792134764019,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "SPRITE 325ML",
+      "no": "",
+      "detail": "Qty 3 CTN, Dry"
+    },
     {
       "id": "ki29u59mvamr88q",
       "ts": 1792134746234,
