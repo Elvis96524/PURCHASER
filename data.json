@@ -8519,12 +8519,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135109875
+        },
+        {
+          "id": "6d09zl9mvamzdzm",
+          "added": 1792135126930,
+          "addedBy": "fathin",
+          "name": "MC PARSLEY FLAKES 5G",
+          "no": "",
+          "qty": 1,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135126930
         }
       ],
       "updated": 1792135092666
     }
   ],
   "history": [
+    {
+      "id": "guiitj8mvamzdzm",
+      "ts": 1792135126930,
+      "by": "fathin",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "MC PARSLEY FLAKES 5G",
+      "no": "",
+      "detail": "Qty 1 BTL, Dry"
+    },
     {
       "id": "jx3pz95mvamz0tv",
       "ts": 1792135109875,
