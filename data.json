@@ -8313,9 +8313,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792134717346
+          "updated": 1792137442899
         },
         {
           "id": "dl0pbjdmvamr88q",
@@ -8896,6 +8896,17 @@
     }
   ],
   "history": [
+    {
+      "id": "82ebl32mvaod103",
+      "ts": 1792137442899,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "status",
+      "item": "MARGARINE 18KG",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "i9v6qb4mvao27ju",
       "ts": 1792136938170,
