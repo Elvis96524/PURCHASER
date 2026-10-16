@@ -6864,8 +6864,8 @@
           "category": "Chiller",
           "priority": "normal",
           "status": "na",
-          "notes": "",
-          "updated": 1792113515071
+          "notes": "Hitam sudah x cantik",
+          "updated": 1792113532240
         },
         {
           "id": "t6yss59mv5x9ght",
@@ -8233,6 +8233,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4b3fdixmvaa4jf4",
+      "ts": 1792113532240,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "edited",
+      "item": "Pakis",
+      "no": "23",
+      "detail": "Notes changed"
+    },
     {
       "id": "n3pm8dkmvaa4667",
       "ts": 1792113515071,
