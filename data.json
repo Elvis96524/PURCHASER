@@ -7675,9 +7675,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791940763845
+          "updated": 1792194841632
         },
         {
           "id": "sn7sktbmv7f9v6b",
@@ -7689,9 +7689,9 @@
           "unit": "BAG",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791940780307
+          "updated": 1792194844575
         },
         {
           "id": "0dmt6mrmv7fb86z",
@@ -8899,6 +8899,28 @@
     }
   ],
   "history": [
+    {
+      "id": "9wc6g24mvbmjcf3",
+      "ts": 1792194844575,
+      "by": "chelson",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "BERAS BASMATHI 5KG",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
+    {
+      "id": "77eml1emvbmja5c",
+      "ts": 1792194841632,
+      "by": "chelson",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "SANTAN KARA 1LT",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "5fxo5hxmvbmj2xx",
       "ts": 1792194832293,
