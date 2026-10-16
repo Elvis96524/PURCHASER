@@ -8117,6 +8117,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792043254374
+        },
+        {
+          "id": "qx5zmobmva7vvps",
+          "added": 1792109769040,
+          "addedBy": "chelson",
+          "name": "Chicken frank AYAMMADU",
+          "no": "",
+          "qty": 25,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792109769040
         }
       ],
       "updated": 1792043310182
@@ -8172,6 +8186,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4k6yjmjmva7vvps",
+      "ts": 1792109769040,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "added",
+      "item": "Chicken frank AYAMMADU",
+      "no": "",
+      "detail": "Qty 25 Pkt, Frozen"
+    },
     {
       "id": "0yynwwlmva7aty4",
       "ts": 1792108786972,
