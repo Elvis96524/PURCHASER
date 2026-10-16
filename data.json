@@ -8478,12 +8478,12 @@
           "name": "GUAVA",
           "no": "",
           "qty": 20,
-          "unit": "",
+          "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792134920515
+          "updated": 1792134954947
         },
         {
           "id": "p5spmohmvamv6e3",
@@ -8504,6 +8504,17 @@
     }
   ],
   "history": [
+    {
+      "id": "utmg0wemvamvpab",
+      "ts": 1792134954947,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "edited",
+      "item": "GUAVA",
+      "no": "",
+      "detail": "Unit — → KG"
+    },
     {
       "id": "jzehaxzmvamv6e3",
       "ts": 1792134930459,
