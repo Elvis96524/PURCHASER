@@ -8400,12 +8400,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134837715
+        },
+        {
+          "id": "gveu0c6mvamti5v",
+          "added": 1792134852403,
+          "addedBy": "fathin",
+          "name": "MURUKU POPO 12GMX30'S",
+          "no": "FOR SUPERVISOR TEAM",
+          "qty": 5,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134852403
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "lcxy9o4mvamti5v",
+      "ts": 1792134852403,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Qty 5 PKT, Dry"
+    },
     {
       "id": "98gi35kmvamt6tv",
       "ts": 1792134837715,
