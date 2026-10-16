@@ -8288,12 +8288,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134678178
+        },
+        {
+          "id": "lpx494umvamqa1n",
+          "added": 1792134701915,
+          "addedBy": "fathin",
+          "name": "MUNCHY'S ASSORTED BISCUIT 500GM",
+          "no": "",
+          "qty": 36,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134701915
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "zs1r0mpmvamqa1n",
+      "ts": 1792134701915,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "MUNCHY'S ASSORTED BISCUIT 500GM",
+      "no": "",
+      "detail": "Qty 36 PKT, Dry"
+    },
     {
       "id": "lvzmfa1mvamprqa",
       "ts": 1792134678178,
