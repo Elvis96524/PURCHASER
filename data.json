@@ -3259,7 +3259,7 @@
     },
     {
       "id": "pjhc1ssmuqdwfkb",
-      "name": "Sk prudence OCT 2ND ORDER L 20/10/26",
+      "name": "Sk prudence OCT 2ND ORDER L 19/10/26",
       "items": [
         {
           "id": "p0uo1numuqdx681",
@@ -3449,7 +3449,7 @@
           "updated": 1790918480848
         }
       ],
-      "updated": 1792195129851
+      "updated": 1792195172157
     },
     {
       "id": "adwwr0qmuqe0b3t",
@@ -8903,6 +8903,17 @@
     }
   ],
   "history": [
+    {
+      "id": "n11ubxsmvbmqd6l",
+      "ts": 1792195172157,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"Sk prudence OCT 2ND ORDER L 20/10/26\" to \"Sk prudence OCT 2ND ORDER L 19/10/26\""
+    },
     {
       "id": "vourthfmvbmpgjf",
       "ts": 1792195129851,
