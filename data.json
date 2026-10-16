@@ -8016,9 +8016,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792043021414
+          "updated": 1792112736711
         },
         {
           "id": "jrddnqtmv947j0t",
@@ -8242,6 +8242,17 @@
     }
   ],
   "history": [
+    {
+      "id": "33xot2lmva9nhl3",
+      "ts": 1792112736711,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "CINCAU",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "zk3o82qmva9n4mp",
       "ts": 1792112719921,
