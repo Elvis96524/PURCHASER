@@ -8752,8 +8752,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "na",
-          "notes": "",
-          "updated": 1792194967649
+          "notes": "Offer",
+          "updated": 1792194974138,
+          "updatedBy": "chelson"
         },
         {
           "id": "ioankz9mvan9drf",
@@ -8900,6 +8901,17 @@
     }
   ],
   "history": [
+    {
+      "id": "5ab7ikumvbmm4e2",
+      "ts": 1792194974138,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "edited",
+      "item": "SPRITE 325ML",
+      "no": "BBQ",
+      "detail": "Notes changed"
+    },
     {
       "id": "g4n1yz8mvbmlzdt",
       "ts": 1792194967649,
