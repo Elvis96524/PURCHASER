@@ -8576,8 +8576,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1792135164347
+          "notes": "Left 5pkt",
+          "updated": 1792194896354,
+          "updatedBy": "chelson"
         },
         {
           "id": "mohzty3mvan0ox7",
@@ -8899,6 +8900,17 @@
     }
   ],
   "history": [
+    {
+      "id": "of0mt65mvbmkgdf",
+      "ts": 1792194896355,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM",
+      "action": "edited",
+      "item": "FORUWAY CRAB",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Notes changed"
+    },
     {
       "id": "2wlvxvlmvbmjoss",
       "ts": 1792194860620,
