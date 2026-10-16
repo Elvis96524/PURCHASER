@@ -8164,9 +8164,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792116398284
+          "updated": 1792127730955
         }
       ],
       "updated": 1792043310182
@@ -8257,6 +8257,17 @@
     }
   ],
   "history": [
+    {
+      "id": "swg81mhmvaikv7w",
+      "ts": 1792127730956,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "IKAN MASIN KEROPOK",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "8suvapumvadnupz",
       "ts": 1792119472199,
