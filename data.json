@@ -8456,12 +8456,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134896419
+        },
+        {
+          "id": "pr6hd8vmvamurwq",
+          "added": 1792134911690,
+          "addedBy": "fathin",
+          "name": "DRAGON FRUIT",
+          "no": "",
+          "qty": 10,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134911690
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "sw4tvnamvamurwq",
+      "ts": 1792134911690,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "DRAGON FRUIT",
+      "no": "",
+      "detail": "Qty 10 KG, Chiller"
+    },
     {
       "id": "pk3624nmvamug4j",
       "ts": 1792134896419,
