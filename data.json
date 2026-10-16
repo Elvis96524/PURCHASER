@@ -8778,12 +8778,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135608059
+        },
+        {
+          "id": "a4cu7uxmvana8eb",
+          "added": 1792135632899,
+          "addedBy": "fathin",
+          "name": "PRINGLES ASSORTEDC FLAVOUR 110GM",
+          "no": "FOR SUPERVISOR TEAM",
+          "qty": 10,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135632899
         }
       ],
       "updated": 1792135551411
     }
   ],
   "history": [
+    {
+      "id": "s1lixcmmvana8eb",
+      "ts": 1792135632899,
+      "by": "fathin",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "PRINGLES ASSORTEDC FLAVOUR 110GM",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Qty 10 BTL, Dry"
+    },
     {
       "id": "fxwgrx0mvan9p8b",
       "ts": 1792135608059,
