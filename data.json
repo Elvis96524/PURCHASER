@@ -8072,9 +8072,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1792043166750
+          "updated": 1792112346890
         },
         {
           "id": "c1211mwmv948v1y",
@@ -8242,6 +8242,17 @@
     }
   ],
   "history": [
+    {
+      "id": "3jzzgsqmva9f4ss",
+      "ts": 1792112346892,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "KELAPA PARUT",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "nw5952dmva8c54w",
       "ts": 1792110527744,
