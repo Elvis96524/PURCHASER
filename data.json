@@ -8414,12 +8414,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134852403
+        },
+        {
+          "id": "6jdl0t1mvamtw2q",
+          "added": 1792134870434,
+          "addedBy": "fathin",
+          "name": "CHIA SEED 1KG/PKT",
+          "no": "FOR SUPERVISOR TEAM",
+          "qty": 2,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134870434
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "6axn4q5mvamtw2q",
+      "ts": 1792134870434,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "CHIA SEED 1KG/PKT",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Qty 2 PKT, Dry"
+    },
     {
       "id": "lcxy9o4mvamti5v",
       "ts": 1792134852403,
