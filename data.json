@@ -8222,12 +8222,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792110394433
+        },
+        {
+          "id": "2xazeermva8c54w",
+          "added": 1792110527744,
+          "addedBy": "fathin",
+          "name": "RAMLY CHICKEN SAUSAGE 340GM",
+          "no": "",
+          "qty": 5,
+          "unit": "PKT",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792110527744
         }
       ],
       "updated": 1792108533751
     }
   ],
   "history": [
+    {
+      "id": "nw5952dmva8c54w",
+      "ts": 1792110527744,
+      "by": "fathin",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful",
+      "action": "added",
+      "item": "RAMLY CHICKEN SAUSAGE 340GM",
+      "no": "",
+      "detail": "Qty 5 PKT, Frozen"
+    },
     {
       "id": "iy0my2rmva89a9t",
       "ts": 1792110394433,
