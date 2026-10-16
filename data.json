@@ -7850,9 +7850,9 @@
           "unit": "PCS",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791948970133
+          "updated": 1792119472199
         }
       ],
       "updated": 1791947930176
@@ -8257,6 +8257,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8suvapumvadnupz",
+      "ts": 1792119472199,
+      "by": "chelson",
+      "vid": "wm6h00wmv7jj41s",
+      "vname": "BELAIT PSV 2",
+      "action": "status",
+      "item": "DOVE SOAP BAR 90GM",
+      "no": "7",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "si0u81amvad2e9o",
       "ts": 1792118471100,
