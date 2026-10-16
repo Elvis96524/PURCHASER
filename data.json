@@ -8131,9 +8131,9 @@
           "unit": "Pkt",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792109805771
+          "updated": 1792128583153
         },
         {
           "id": "9pe3vtmmva7wafr",
@@ -8257,6 +8257,17 @@
     }
   ],
   "history": [
+    {
+      "id": "33yppkkmvaj34s1",
+      "ts": 1792128583154,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "Chicken frank AYAMMADU",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "zzswt8pmvaj300a",
       "ts": 1792128576970,
