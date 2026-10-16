@@ -8145,9 +8145,9 @@
           "unit": "Loaf",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792109810900
+          "updated": 1792128591843
         },
         {
           "id": "2vhp9jumva7z4vy",
@@ -8257,6 +8257,17 @@
     }
   ],
   "history": [
+    {
+      "id": "l2bnvbjmvaj3bhf",
+      "ts": 1792128591843,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "Gardenia",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "33yppkkmvaj34s1",
       "ts": 1792128583154,
