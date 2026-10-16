@@ -8823,8 +8823,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "na",
-          "notes": "",
-          "updated": 1792194994887
+          "notes": "Offer",
+          "updated": 1792195001305,
+          "updatedBy": "chelson"
         },
         {
           "id": "7cc9d73mvanbyej",
@@ -8901,6 +8902,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yjogvvxmvbmmpcp",
+      "ts": 1792195001305,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "edited",
+      "item": "SPRITE 325ML",
+      "no": "",
+      "detail": "Notes changed"
+    },
     {
       "id": "r7zlriymvbmmkef",
       "ts": 1792194994887,
