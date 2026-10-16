@@ -8274,12 +8274,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134657124
+        },
+        {
+          "id": "knh0a47mvamprqa",
+          "added": 1792134678178,
+          "addedBy": "fathin",
+          "name": "MEE EKONOMI KEN CHEONG, CAP UDANG 350GM",
+          "no": "",
+          "qty": 20,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134678178
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "lvzmfa1mvamprqa",
+      "ts": 1792134678178,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "MEE EKONOMI KEN CHEONG, CAP UDANG 350GM",
+      "no": "",
+      "detail": "Qty 20 PKT, Dry"
+    },
     {
       "id": "gbg7zmcmvampbhg",
       "ts": 1792134657124,
