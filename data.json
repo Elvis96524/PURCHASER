@@ -8470,12 +8470,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134911690
+        },
+        {
+          "id": "f582dgqmvamuypv",
+          "added": 1792134920515,
+          "addedBy": "fathin",
+          "name": "GUAVA",
+          "no": "",
+          "qty": 20,
+          "unit": "",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134920515
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "1953k9smvamuypv",
+      "ts": 1792134920515,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "GUAVA",
+      "no": "",
+      "detail": "Qty 20, Chiller"
+    },
     {
       "id": "sw4tvnamvamurwq",
       "ts": 1792134911690,
