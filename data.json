@@ -7731,9 +7731,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791940874971
+          "updated": 1792137499734
         },
         {
           "id": "qlyqpkymv7fcp8b",
@@ -8896,6 +8896,17 @@
     }
   ],
   "history": [
+    {
+      "id": "mvpptujmvaoe8uu",
+      "ts": 1792137499734,
+      "by": "chelson",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "MARGARINE 18KG",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "82ebl32mvaod103",
       "ts": 1792137442899,
