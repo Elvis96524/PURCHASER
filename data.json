@@ -8200,9 +8200,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792108668771
+          "updated": 1792134777677
         },
         {
           "id": "asawhkymva7aty4",
@@ -8364,6 +8364,17 @@
     }
   ],
   "history": [
+    {
+      "id": "vely5namvamrwi6",
+      "ts": 1792134777678,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful",
+      "action": "status",
+      "item": "Super ring 60gm",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ymvu8xcmvamrw83",
       "ts": 1792134777315,
