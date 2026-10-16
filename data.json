@@ -8736,11 +8736,37 @@
     {
       "id": "ri992sdmvan8hir",
       "name": "OS ONE",
-      "items": [],
+      "items": [
+        {
+          "id": "hgm8tglmvan8w0c",
+          "added": 1792135570188,
+          "addedBy": "fathin",
+          "name": "SPRITE 325ML",
+          "no": "BBQ",
+          "qty": 2,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135570188
+        }
+      ],
       "updated": 1792135551411
     }
   ],
   "history": [
+    {
+      "id": "9efa1mvmvan8w0c",
+      "ts": 1792135570188,
+      "by": "fathin",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "SPRITE 325ML",
+      "no": "BBQ",
+      "detail": "Qty 2 CTN, Dry"
+    },
     {
       "id": "9ndld0umvan8hir",
       "ts": 1792135551411,
