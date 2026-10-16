@@ -6373,7 +6373,8 @@
           "updated": 1791950254368
         }
       ],
-      "updated": 1792117857235
+      "deleted": true,
+      "updated": 1792117868604
     },
     {
       "id": "90x90lhmv4uw3ka",
@@ -8247,6 +8248,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zng64k9mvacphdo",
+      "ts": 1792117868604,
+      "by": "fathin",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 ) (/)",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "gamuohjmvacp8lv",
       "ts": 1792117857235,
