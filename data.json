@@ -8701,12 +8701,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135340939
+        },
+        {
+          "id": "86zbfdrmvan4bez",
+          "added": 1792135356875,
+          "addedBy": "fathin",
+          "name": "PISANG EMAS",
+          "no": "",
+          "qty": 30,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135356875
         }
       ],
       "updated": 1792135092666
     }
   ],
   "history": [
+    {
+      "id": "j2ig9m2mvan4bez",
+      "ts": 1792135356875,
+      "by": "fathin",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "PISANG EMAS",
+      "no": "",
+      "detail": "Qty 30 KG, Chiller"
+    },
     {
       "id": "ltrk7gvmvan3z4b",
       "ts": 1792135340939,
