@@ -8659,12 +8659,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135305587
+        },
+        {
+          "id": "gmhp0vlmvan3h2r",
+          "added": 1792135317555,
+          "addedBy": "fathin",
+          "name": "TEMPE",
+          "no": "",
+          "qty": 50,
+          "unit": "PKT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135317555
         }
       ],
       "updated": 1792135092666
     }
   ],
   "history": [
+    {
+      "id": "qrelfswmvan3h2r",
+      "ts": 1792135317555,
+      "by": "fathin",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "TEMPE",
+      "no": "",
+      "detail": "Qty 50 PKT, Chiller"
+    },
     {
       "id": "5taqnckmvan37ub",
       "ts": 1792135305587,
