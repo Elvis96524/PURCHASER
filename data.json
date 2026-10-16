@@ -8349,7 +8349,7 @@
           "id": "7trvfu1mvamrw83",
           "added": 1792134777315,
           "addedBy": "fathin",
-          "name": "SARSI/SPRITE 1.5LT",
+          "name": "F&N SARSI/SPRITE 1.5LT",
           "no": "",
           "qty": 3,
           "unit": "CTN",
@@ -8357,7 +8357,7 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792134777315
+          "updated": 1792136936747
         },
         {
           "id": "t2v153bmvamsbrn",
@@ -8896,6 +8896,17 @@
     }
   ],
   "history": [
+    {
+      "id": "edmka2tmvao26gc",
+      "ts": 1792136936748,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "edited",
+      "item": "F&N SARSI/SPRITE 1.5LT",
+      "no": "",
+      "detail": "Name \"SARSI/SPRITE 1.5LT\" → \"F&N SARSI/SPRITE 1.5LT\""
+    },
     {
       "id": "er3yitimvandqy3",
       "ts": 1792135796907,
