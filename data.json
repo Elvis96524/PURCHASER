@@ -7262,7 +7262,8 @@
           "updated": 1791945760162
         }
       ],
-      "updated": 1792117920635
+      "deleted": true,
+      "updated": 1792117923523
     },
     {
       "id": "wv4asgcmv68mvgt",
@@ -8249,6 +8250,17 @@
     }
   ],
   "history": [
+    {
+      "id": "l0vscatmvacqnr7",
+      "ts": 1792117923523,
+      "by": "fathin",
+      "vid": "iruqolnmv63yi4t",
+      "vname": "PERDANA EMERALD (16.10.2026) (/)",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "iq8tgrymvacqliz",
       "ts": 1792117920635,
