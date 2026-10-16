@@ -8442,12 +8442,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134885010
+        },
+        {
+          "id": "wiq4osvmvamug4j",
+          "added": 1792134896419,
+          "addedBy": "fathin",
+          "name": "TEMPE",
+          "no": "",
+          "qty": 10,
+          "unit": "PKT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134896419
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "pk3624nmvamug4j",
+      "ts": 1792134896419,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "TEMPE",
+      "no": "",
+      "detail": "Qty 10 PKT, Chiller"
+    },
     {
       "id": "fonm4i6mvamu7bm",
       "ts": 1792134885010,
