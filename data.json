@@ -8428,12 +8428,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134870434
+        },
+        {
+          "id": "1cq73l9mvamu7bm",
+          "added": 1792134885010,
+          "addedBy": "fathin",
+          "name": "BUNGA KANTAN",
+          "no": "",
+          "qty": 5,
+          "unit": "PCS",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134885010
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "fonm4i6mvamu7bm",
+      "ts": 1792134885010,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "BUNGA KANTAN",
+      "no": "",
+      "detail": "Qty 5 PCS, Chiller"
+    },
     {
       "id": "6axn4q5mvamtw2q",
       "ts": 1792134870434,
