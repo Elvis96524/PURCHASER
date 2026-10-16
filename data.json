@@ -8732,9 +8732,26 @@
         }
       ],
       "updated": 1792135092666
+    },
+    {
+      "id": "ri992sdmvan8hir",
+      "name": "OS ONE",
+      "items": [],
+      "updated": 1792135551411
     }
   ],
   "history": [
+    {
+      "id": "9ndld0umvan8hir",
+      "ts": 1792135551411,
+      "by": "fathin",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "ccmijn0mvan6dno",
       "ts": 1792135453092,
