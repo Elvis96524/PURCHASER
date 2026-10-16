@@ -8806,12 +8806,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135645643
+        },
+        {
+          "id": "wekrypsmvanbk6i",
+          "added": 1792135694826,
+          "addedBy": "fathin",
+          "name": "SPRITE 325ML",
+          "no": "",
+          "qty": 2,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135694826
         }
       ],
       "updated": 1792135551411
     }
   ],
   "history": [
+    {
+      "id": "ycjqp1jmvanbk6j",
+      "ts": 1792135694827,
+      "by": "fathin",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "SPRITE 325ML",
+      "no": "",
+      "detail": "Qty 2 CTN, Dry"
+    },
     {
       "id": "2utn2qvmvanai8b",
       "ts": 1792135645643,
