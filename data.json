@@ -8140,11 +8140,11 @@
           "no": "",
           "qty": 25,
           "unit": "Loaf",
-          "category": "Dry",
+          "category": "Frozen",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792109788119
+          "updated": 1792109810900
         }
       ],
       "updated": 1792043310182
@@ -8200,6 +8200,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ixs3ncxmva7ws0k",
+      "ts": 1792109810900,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "edited",
+      "item": "Gardenia",
+      "no": "",
+      "detail": "Dry → Frozen"
+    },
     {
       "id": "gnvi22smva7wafr",
       "ts": 1792109788119,
