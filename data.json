@@ -8386,12 +8386,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134817098
+        },
+        {
+          "id": "39iw0x2mvamt6tv",
+          "added": 1792134837715,
+          "addedBy": "fathin",
+          "name": "PRINGLES ASSORTED FLAVOUR 110GM",
+          "no": "FOR SUPERVISOR TEAM",
+          "qty": 12,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134837715
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "98gi35kmvamt6tv",
+      "ts": 1792134837715,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "PRINGLES ASSORTED FLAVOUR 110GM",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Qty 12 BTL, Dry"
+    },
     {
       "id": "yev3npgmvamsqx6",
       "ts": 1792134817098,
