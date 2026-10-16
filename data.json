@@ -8751,9 +8751,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792135570188
+          "updated": 1792194967649
         },
         {
           "id": "ioankz9mvan9drf",
@@ -8900,6 +8900,17 @@
     }
   ],
   "history": [
+    {
+      "id": "g4n1yz8mvbmlzdt",
+      "ts": 1792194967649,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "SPRITE 325ML",
+      "no": "BBQ",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "of0mt65mvbmkgdf",
       "ts": 1792194896355,
