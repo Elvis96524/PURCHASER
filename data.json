@@ -8252,10 +8252,22 @@
       "id": "gdftq8gmvad266j",
       "name": "OS ONE",
       "items": [],
-      "updated": 1792118460619
+      "deleted": true,
+      "updated": 1792118471100
     }
   ],
   "history": [
+    {
+      "id": "si0u81amvad2e9o",
+      "ts": 1792118471100,
+      "by": "fathin",
+      "vid": "gdftq8gmvad266j",
+      "vname": "OS ONE",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "x26hmvsmvad266j",
       "ts": 1792118460619,
