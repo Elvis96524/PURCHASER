@@ -8256,9 +8256,26 @@
       "items": [],
       "deleted": true,
       "updated": 1792118471100
+    },
+    {
+      "id": "xtft4mwmvamoiqi",
+      "name": "PETRO DIAMOND",
+      "items": [],
+      "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "mid0kzdmvamoiqi",
+      "ts": 1792134619866,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "e9poajgmvamo1iz",
       "ts": 1792134597563,
