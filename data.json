@@ -8341,9 +8341,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "Offer",
-          "updated": 1792194770392,
+          "updated": 1792194773603,
           "updatedBy": "chelson"
         },
         {
@@ -8897,6 +8897,17 @@
     }
   ],
   "history": [
+    {
+      "id": "uv81u2xmvbmhtnn",
+      "ts": 1792194773603,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "status",
+      "item": "SPRITE 325ML",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "zn737kamvbmhr6g",
       "ts": 1792194770392,
