@@ -8848,12 +8848,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135728987
+        },
+        {
+          "id": "jst1fsumvancksj",
+          "added": 1792135742275,
+          "addedBy": "fathin",
+          "name": "DAUN PUCUK UBI",
+          "no": "",
+          "qty": 10,
+          "unit": "BDL",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135742275
         }
       ],
       "updated": 1792135551411
     }
   ],
   "history": [
+    {
+      "id": "sten9nymvancksj",
+      "ts": 1792135742275,
+      "by": "fathin",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "DAUN PUCUK UBI",
+      "no": "",
+      "detail": "Qty 10 BDL, Chiller"
+    },
     {
       "id": "ahdpjdomvancajf",
       "ts": 1792135728987,
