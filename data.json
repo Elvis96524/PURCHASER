@@ -8148,17 +8148,8 @@
         },
         {
           "id": "2vhp9jumva7z4vy",
-          "added": 1792109920894,
-          "addedBy": "chelson",
-          "name": "Tempe",
-          "no": "",
-          "qty": 20,
-          "unit": "",
-          "category": "Frozen",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792109920894
+          "deleted": true,
+          "updated": 1792113446143
         }
       ],
       "updated": 1792043310182
@@ -8242,6 +8233,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xalyetcmvaa2ozj",
+      "ts": 1792113446143,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "deleted",
+      "item": "Tempe",
+      "no": "",
+      "detail": ""
+    },
     {
       "id": "33xot2lmva9nhl3",
       "ts": 1792112736711,
