@@ -7822,9 +7822,9 @@
           "unit": "GLN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791948884561
+          "updated": 1792118209048
         },
         {
           "id": "r0sovyfmv7k4d56",
@@ -8250,6 +8250,17 @@
     }
   ],
   "history": [
+    {
+      "id": "uvec861mvacws2h",
+      "ts": 1792118209049,
+      "by": "chelson",
+      "vid": "wm6h00wmv7jj41s",
+      "vname": "BELAIT PSV 2",
+      "action": "status",
+      "item": "GLO DISHWASHING LIQUID 4.5LT",
+      "no": "5",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "l0vscatmvacqnr7",
       "ts": 1792117923523,
