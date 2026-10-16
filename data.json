@@ -8589,12 +8589,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135187755
+        },
+        {
+          "id": "ok63qzwmvan1a1n",
+          "added": 1792135215131,
+          "addedBy": "fathin",
+          "name": "ASSORTED VITAGEN LESS SUGAR",
+          "no": "FOR SUPERVISOR TEAM",
+          "qty": 6,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135215131
         }
       ],
       "updated": 1792135092666
     }
   ],
   "history": [
+    {
+      "id": "j3xtb0vmvan1a1n",
+      "ts": 1792135215131,
+      "by": "fathin",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "ASSORTED VITAGEN LESS SUGAR",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Qty 6 PKT, Dry"
+    },
     {
       "id": "njb5u7omvan0ox7",
       "ts": 1792135187755,
