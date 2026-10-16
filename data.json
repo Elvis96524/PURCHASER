@@ -8100,9 +8100,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792043213478
+          "updated": 1792112719921
         },
         {
           "id": "e4mc2pgmv94a8o6",
@@ -8242,6 +8242,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zk3o82qmva9n4mp",
+      "ts": 1792112719921,
+      "by": "chelson",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "CILI PADI KAMPUNG",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "3jzzgsqmva9f4ss",
       "ts": 1792112346892,
