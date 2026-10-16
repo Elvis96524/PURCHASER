@@ -8242,8 +8242,9 @@
           "category": "Frozen",
           "priority": "normal",
           "status": "na",
-          "notes": "",
-          "updated": 1792130027566
+          "notes": "Offer",
+          "updated": 1792130049396,
+          "updatedBy": "chelson"
         }
       ],
       "updated": 1792108533751
@@ -8257,6 +8258,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4gvd22vmvajyk50",
+      "ts": 1792130049396,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful",
+      "action": "edited",
+      "item": "RAMLY CHICKEN SAUSAGE 340GM",
+      "no": "",
+      "detail": "Notes changed"
+    },
     {
       "id": "qnokb8nmvajy3aq",
       "ts": 1792130027571,
