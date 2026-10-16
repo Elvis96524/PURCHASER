@@ -8356,9 +8356,10 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792136936747
+          "status": "na",
+          "notes": "Offer",
+          "updated": 1792194788673,
+          "updatedBy": "chelson"
         },
         {
           "id": "t2v153bmvamsbrn",
@@ -8897,6 +8898,28 @@
     }
   ],
   "history": [
+    {
+      "id": "zgt4a8gmvbmi5a9",
+      "ts": 1792194788673,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "status",
+      "item": "F&N SARSI/SPRITE 1.5LT",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
+    {
+      "id": "hmqbux6mvbmi31k",
+      "ts": 1792194785768,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "edited",
+      "item": "F&N SARSI/SPRITE 1.5LT",
+      "no": "",
+      "detail": "Notes changed"
+    },
     {
       "id": "uv81u2xmvbmhtnn",
       "ts": 1792194773603,
