@@ -8764,12 +8764,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135593195
+        },
+        {
+          "id": "p5jdxk7mvan9p8b",
+          "added": 1792135608059,
+          "addedBy": "fathin",
+          "name": "PLASTIC HAND BRUSH",
+          "no": "",
+          "qty": 6,
+          "unit": "PCS",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135608059
         }
       ],
       "updated": 1792135551411
     }
   ],
   "history": [
+    {
+      "id": "fxwgrx0mvan9p8b",
+      "ts": 1792135608059,
+      "by": "fathin",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "PLASTIC HAND BRUSH",
+      "no": "",
+      "detail": "Qty 6 PCS, Dry"
+    },
     {
       "id": "fq0mfbmmvan9drf",
       "ts": 1792135593195,
