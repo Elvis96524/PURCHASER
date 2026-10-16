@@ -8247,9 +8247,26 @@
         }
       ],
       "updated": 1792108533751
+    },
+    {
+      "id": "gdftq8gmvad266j",
+      "name": "OS ONE",
+      "items": [],
+      "updated": 1792118460619
     }
   ],
   "history": [
+    {
+      "id": "x26hmvsmvad266j",
+      "ts": 1792118460619,
+      "by": "fathin",
+      "vid": "gdftq8gmvad266j",
+      "vname": "OS ONE",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "ektqdc9mvacz87e",
       "ts": 1792118323274,
