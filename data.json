@@ -8837,9 +8837,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792135713259
+          "updated": 1792195012035
         },
         {
           "id": "kmk3234mvancajf",
@@ -8902,6 +8902,17 @@
     }
   ],
   "history": [
+    {
+      "id": "vdpmnrfmvbmmxmr",
+      "ts": 1792195012035,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "F&N SARSI/SPRITE 1.5LT",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "yjogvvxmvbmmpcp",
       "ts": 1792195001305,
