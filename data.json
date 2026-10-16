@@ -8344,12 +8344,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134764019
+        },
+        {
+          "id": "7trvfu1mvamrw83",
+          "added": 1792134777315,
+          "addedBy": "fathin",
+          "name": "SARSI/SPRITE 1.5LT",
+          "no": "",
+          "qty": 3,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134777315
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "ymvu8xcmvamrw83",
+      "ts": 1792134777315,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "SARSI/SPRITE 1.5LT",
+      "no": "",
+      "detail": "Qty 3 CTN, Dry"
+    },
     {
       "id": "t1q2gw2mvamrlyr",
       "ts": 1792134764019,
