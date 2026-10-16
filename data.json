@@ -8603,12 +8603,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135215131
+        },
+        {
+          "id": "6gyejb0mvan26v7",
+          "added": 1792135257667,
+          "addedBy": "fathin",
+          "name": "OVALETTE",
+          "no": "",
+          "qty": 6,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135257667
         }
       ],
       "updated": 1792135092666
     }
   ],
   "history": [
+    {
+      "id": "j9qpilemvan26v7",
+      "ts": 1792135257667,
+      "by": "fathin",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "OVALETTE",
+      "no": "",
+      "detail": "Qty 6 PKT, Dry"
+    },
     {
       "id": "j3xtb0vmvan1a1n",
       "ts": 1792135215131,
