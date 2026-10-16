@@ -8168,9 +8168,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792108568411
+          "updated": 1792116044248
         },
         {
           "id": "nvbilwnmva78aqr",
@@ -8233,6 +8233,17 @@
     }
   ],
   "history": [
+    {
+      "id": "vg8xbeqmvabmdp5",
+      "ts": 1792116044249,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful",
+      "action": "status",
+      "item": "Pringles assorted 110gm",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "j9c05tnmvabd0e0",
       "ts": 1792115607096,
