@@ -7615,7 +7615,8 @@
           "updated": 1791946579091
         }
       ],
-      "updated": 1792117896819
+      "deleted": true,
+      "updated": 1792117900139
     },
     {
       "id": "7qfufh5mv7ek2et",
@@ -8248,6 +8249,17 @@
     }
   ],
   "history": [
+    {
+      "id": "z7itzidmvacq5pn",
+      "ts": 1792117900139,
+      "by": "fathin",
+      "vid": "tptuuc9mv6aj647",
+      "vname": "PERDANA ENDURANCE (16.10.2026) (/)",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "ls281vnmvacq35f",
       "ts": 1792117896819,
