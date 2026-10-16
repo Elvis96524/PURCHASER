@@ -6153,7 +6153,7 @@
     },
     {
       "id": "ctgml0xmv0ae5xm",
-      "name": "KEYFIELD WISDOM  ( 16/10/2026 )",
+      "name": "KEYFIELD WISDOM  ( 16/10/2026 ) (/)",
       "items": [
         {
           "id": "jmrhgcbmv0af74q",
@@ -6373,7 +6373,7 @@
           "updated": 1791950254368
         }
       ],
-      "updated": 1791510717424
+      "updated": 1792117857235
     },
     {
       "id": "90x90lhmv4uw3ka",
@@ -8247,6 +8247,17 @@
     }
   ],
   "history": [
+    {
+      "id": "gamuohjmvacp8lv",
+      "ts": 1792117857235,
+      "by": "fathin",
+      "vid": "ctgml0xmv0ae5xm",
+      "vname": "KEYFIELD WISDOM  ( 16/10/2026 ) (/)",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"KEYFIELD WISDOM  ( 16/10/2026 )\" to \"KEYFIELD WISDOM  ( 16/10/2026 ) (/)\""
+    },
     {
       "id": "acu4d0rmvabtyvh",
       "ts": 1792116398285,
