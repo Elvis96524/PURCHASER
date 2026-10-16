@@ -8575,12 +8575,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135164347
+        },
+        {
+          "id": "mohzty3mvan0ox7",
+          "added": 1792135187755,
+          "addedBy": "fathin",
+          "name": "PRINGLES ASSORTED FLAVOUR 110GM",
+          "no": "FOR SUPERVISOR TEAM",
+          "qty": 10,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135187755
         }
       ],
       "updated": 1792135092666
     }
   ],
   "history": [
+    {
+      "id": "njb5u7omvan0ox7",
+      "ts": 1792135187755,
+      "by": "fathin",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "PRINGLES ASSORTED FLAVOUR 110GM",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Qty 10 BTL, Dry"
+    },
     {
       "id": "b9ducramvan06uz",
       "ts": 1792135164347,
