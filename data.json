@@ -8260,11 +8260,37 @@
     {
       "id": "xtft4mwmvamoiqi",
       "name": "PETRO DIAMOND",
-      "items": [],
+      "items": [
+        {
+          "id": "dalh2nrmvampbhg",
+          "added": 1792134657124,
+          "addedBy": "fathin",
+          "name": "BELACAN 250GM",
+          "no": "",
+          "qty": 10,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134657124
+        }
+      ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "gbg7zmcmvampbhg",
+      "ts": 1792134657124,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "BELACAN 250GM",
+      "no": "",
+      "detail": "Qty 10 PKT, Dry"
+    },
     {
       "id": "mid0kzdmvamoiqi",
       "ts": 1792134619866,
