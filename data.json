@@ -8750,12 +8750,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135570188
+        },
+        {
+          "id": "ioankz9mvan9drf",
+          "added": 1792135593195,
+          "addedBy": "fathin",
+          "name": "LONG RUBBER HAND GLOVE (FOR DISHWASHER)",
+          "no": "",
+          "qty": 4,
+          "unit": "PAIR",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135593195
         }
       ],
       "updated": 1792135551411
     }
   ],
   "history": [
+    {
+      "id": "fq0mfbmmvan9drf",
+      "ts": 1792135593195,
+      "by": "fathin",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "LONG RUBBER HAND GLOVE (FOR DISHWASHER)",
+      "no": "",
+      "detail": "Qty 4 PAIR, Dry"
+    },
     {
       "id": "9efa1mvmvan8w0c",
       "ts": 1792135570188,
