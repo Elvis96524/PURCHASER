@@ -8792,12 +8792,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135632899
+        },
+        {
+          "id": "bowxaf8mvanai8b",
+          "added": 1792135645643,
+          "addedBy": "fathin",
+          "name": "MURUKU POPO 12GMX30'S",
+          "no": "FOR SUPERVISOR TEAM",
+          "qty": 5,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135645643
         }
       ],
       "updated": 1792135551411
     }
   ],
   "history": [
+    {
+      "id": "2utn2qvmvanai8b",
+      "ts": 1792135645643,
+      "by": "fathin",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Qty 5 PKT, Dry"
+    },
     {
       "id": "s1lixcmmvana8eb",
       "ts": 1792135632899,
