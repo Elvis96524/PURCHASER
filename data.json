@@ -7717,9 +7717,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791940863179
+          "updated": 1792194860620
         },
         {
           "id": "vbam2l3mv7fbw7v",
@@ -8899,6 +8899,17 @@
     }
   ],
   "history": [
+    {
+      "id": "2wlvxvlmvbmjoss",
+      "ts": 1792194860620,
+      "by": "chelson",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "ADABI MEAT CURRY POWDER 250GM",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "9wc6g24mvbmjcf3",
       "ts": 1792194844575,
