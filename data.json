@@ -8299,9 +8299,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1792134701915
+          "updated": 1792194738326
         },
         {
           "id": "w72o5y8mvamqlya",
@@ -8896,6 +8896,17 @@
     }
   ],
   "history": [
+    {
+      "id": "mlvkkc6mvbmh2fr",
+      "ts": 1792194738327,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "status",
+      "item": "MUNCHY'S ASSORTED BISCUIT 500GM",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "hx88bscmvbmgufb",
       "ts": 1792194727943,
