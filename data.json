@@ -8561,12 +8561,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135148859
+        },
+        {
+          "id": "1vtd05gmvan06uz",
+          "added": 1792135164347,
+          "addedBy": "fathin",
+          "name": "FORUWAY CRAB",
+          "no": "FOR SUPERVISOR TEAM",
+          "qty": 10,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792135164347
         }
       ],
       "updated": 1792135092666
     }
   ],
   "history": [
+    {
+      "id": "b9ducramvan06uz",
+      "ts": 1792135164347,
+      "by": "fathin",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM",
+      "action": "added",
+      "item": "FORUWAY CRAB",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Qty 10 PKT, Dry"
+    },
     {
       "id": "a8xksfumvamzuwr",
       "ts": 1792135148859,
