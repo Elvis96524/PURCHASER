@@ -6863,9 +6863,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1791850031784
+          "updated": 1792113515071
         },
         {
           "id": "t6yss59mv5x9ght",
@@ -8233,6 +8233,17 @@
     }
   ],
   "history": [
+    {
+      "id": "n3pm8dkmvaa4667",
+      "ts": 1792113515071,
+      "by": "chelson",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "status",
+      "item": "Pakis",
+      "no": "23",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "xalyetcmvaa2ozj",
       "ts": 1792113446143,
