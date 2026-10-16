@@ -8484,12 +8484,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134920515
+        },
+        {
+          "id": "p5spmohmvamv6e3",
+          "added": 1792134930459,
+          "addedBy": "fathin",
+          "name": "PISANG EMAS",
+          "no": "",
+          "qty": 10,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134930459
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "jzehaxzmvamv6e3",
+      "ts": 1792134930459,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "PISANG EMAS",
+      "no": "",
+      "detail": "Qty 10 KG, Chiller"
+    },
     {
       "id": "1953k9smvamuypv",
       "ts": 1792134920515,
