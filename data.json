@@ -8316,12 +8316,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134717346
+        },
+        {
+          "id": "dl0pbjdmvamr88q",
+          "added": 1792134746234,
+          "addedBy": "fathin",
+          "name": "RED BEAN PASTE 1KG",
+          "no": "",
+          "qty": 3,
+          "unit": "KG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792134746234
         }
       ],
       "updated": 1792134619866
     }
   ],
   "history": [
+    {
+      "id": "ki29u59mvamr88q",
+      "ts": 1792134746234,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "RED BEAN PASTE 1KG",
+      "no": "",
+      "detail": "Qty 3 KG, Dry"
+    },
     {
       "id": "o1wypl0mvamqlya",
       "ts": 1792134717346,
