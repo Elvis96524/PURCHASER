@@ -8822,9 +8822,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792135694826
+          "updated": 1792194994887
         },
         {
           "id": "7cc9d73mvanbyej",
@@ -8901,6 +8901,17 @@
     }
   ],
   "history": [
+    {
+      "id": "r7zlriymvbmmkef",
+      "ts": 1792194994887,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "SPRITE 325ML",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "5ab7ikumvbmm4e2",
       "ts": 1792194974138,
