@@ -9100,12 +9100,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792203282483
+        },
+        {
+          "id": "8uk2evtmvbrlutp",
+          "added": 1792203359821,
+          "addedBy": "farah",
+          "name": "Sunquick orange 840ml",
+          "no": "98",
+          "qty": 3,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792203359820
         }
       ],
       "updated": 1792202127403
     }
   ],
   "history": [
+    {
+      "id": "atck823mvbrlutp",
+      "ts": 1792203359821,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st ORDER",
+      "action": "added",
+      "item": "Sunquick orange 840ml",
+      "no": "98",
+      "detail": "Qty 3 Btl, Dry"
+    },
     {
       "id": "yn8ttwdmvbrk75f",
       "ts": 1792203282483,
