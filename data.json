@@ -9270,12 +9270,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792211691398
+        },
+        {
+          "id": "rcza0mgmvbwl5ou",
+          "added": 1792211725326,
+          "addedBy": "farah",
+          "name": "DAUN SUP",
+          "no": "17",
+          "qty": 2,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792211725326
         }
       ],
       "updated": 1792210740237
     }
   ],
   "history": [
+    {
+      "id": "picqfajmvbwl5ou",
+      "ts": 1792211725326,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st & 2nd ORDER",
+      "action": "added",
+      "item": "DAUN SUP",
+      "no": "17",
+      "detail": "Qty 2 KG, Chiller"
+    },
     {
       "id": "9h3qrstmvbwkfie",
       "ts": 1792211691398,
