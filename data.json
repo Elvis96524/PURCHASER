@@ -9044,12 +9044,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792203119840
+        },
+        {
+          "id": "cqi5bgomvbrhek5",
+          "added": 1792203152117,
+          "addedBy": "farah",
+          "name": "Essence lemon 25ml",
+          "no": "75",
+          "qty": 1,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792203152117
         }
       ],
       "updated": 1792202127403
     }
   ],
   "history": [
+    {
+      "id": "nsfawkfmvbrhek5",
+      "ts": 1792203152117,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st ORDER",
+      "action": "added",
+      "item": "Essence lemon 25ml",
+      "no": "75",
+      "detail": "Qty 1 Btl, Dry"
+    },
     {
       "id": "zhegit1mvbrgpnk",
       "ts": 1792203119840,
