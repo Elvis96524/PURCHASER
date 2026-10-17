@@ -9127,9 +9127,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792203203434
+          "updated": 1792215172720
         },
         {
           "id": "bo9upj6mvbrj3ju",
@@ -9141,9 +9141,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792203231162
+          "updated": 1792215175448
         },
         {
           "id": "mxzhdq4mvbrk75f",
@@ -9465,6 +9465,28 @@
     }
   ],
   "history": [
+    {
+      "id": "m9m2o7zmvbyn3tk",
+      "ts": 1792215175448,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st ORDER",
+      "action": "status",
+      "item": "Cyprina tropica 1lx12’s",
+      "no": "79",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "r2gq8gamvbyn1pt",
+      "ts": 1792215172721,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st ORDER",
+      "action": "status",
+      "item": "Cyprina orange 1lx12’s",
+      "no": "78",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "31vpa2bmvbwu646",
       "ts": 1792212145782,
