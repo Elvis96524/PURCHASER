@@ -8907,8 +8907,8 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "*Stock store have 4pkt",
-          "updated": 1792196246439
+          "notes": "*There are 4 packets in stock*",
+          "updated": 1792196326921
         },
         {
           "id": "wekrypsmvanbk6i",
@@ -9001,6 +9001,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zto1i0pmvbnf47e",
+      "ts": 1792196326922,
+      "by": "fathin",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "edited",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Notes changed"
+    },
     {
       "id": "pp8ecwumvbnde3s",
       "ts": 1792196246440,
