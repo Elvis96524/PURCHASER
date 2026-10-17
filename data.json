@@ -8441,9 +8441,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792134678178
+          "updated": 1792205674187
         },
         {
           "id": "lpx494umvamqa1n",
@@ -9191,6 +9191,17 @@
     }
   ],
   "history": [
+    {
+      "id": "hrquk83mvbszgln",
+      "ts": 1792205674187,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "status",
+      "item": "MEE EKONOMI KEN CHEONG, CAP UDANG 350GM",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "d18ld8qmvbswtrn",
       "ts": 1792205551283,
