@@ -9030,12 +9030,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792202176639
+        },
+        {
+          "id": "kaxgmqzmvbrgpnk",
+          "added": 1792203119840,
+          "addedBy": "farah",
+          "name": "Essence orange 25ml",
+          "no": "72",
+          "qty": 1,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792203119840
         }
       ],
       "updated": 1792202127403
     }
   ],
   "history": [
+    {
+      "id": "zhegit1mvbrgpnk",
+      "ts": 1792203119840,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st ORDER",
+      "action": "added",
+      "item": "Essence orange 25ml",
+      "no": "72",
+      "detail": "Qty 1 Btl, Dry"
+    },
     {
       "id": "z49b1nqmvbreh8f",
       "ts": 1792203015615,
