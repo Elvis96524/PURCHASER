@@ -9072,12 +9072,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792203203434
+        },
+        {
+          "id": "bo9upj6mvbrj3ju",
+          "added": 1792203231162,
+          "addedBy": "farah",
+          "name": "Cyprina tropica 1lx12’s",
+          "no": "79",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792203231162
         }
       ],
       "updated": 1792202127403
     }
   ],
   "history": [
+    {
+      "id": "1kwtm37mvbrj3ju",
+      "ts": 1792203231162,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st ORDER",
+      "action": "added",
+      "item": "Cyprina tropica 1lx12’s",
+      "no": "79",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "4452i93mvbrii5m",
       "ts": 1792203203434,
