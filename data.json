@@ -3461,6 +3461,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792195964366
+        },
+        {
+          "id": "js0hrcomvbn8ina",
+          "added": 1792196019046,
+          "addedBy": "chelson",
+          "name": "Tempe",
+          "no": "",
+          "qty": 15,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792196019046
         }
       ],
       "updated": 1792195172157
@@ -8973,6 +8987,17 @@
     }
   ],
   "history": [
+    {
+      "id": "9j3rlyemvbn8ina",
+      "ts": 1792196019046,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "added",
+      "item": "Tempe",
+      "no": "",
+      "detail": "Qty 15 Pkt, Frozen"
+    },
     {
       "id": "b472czqmvbn7cge",
       "ts": 1792195964366,
