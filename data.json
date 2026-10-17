@@ -9347,12 +9347,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792211945062
+        },
+        {
+          "id": "jgcp33kmvbwqb5k",
+          "added": 1792211965688,
+          "addedBy": "farah",
+          "name": "celery table",
+          "no": "16",
+          "qty": 2,
+          "unit": "kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792211965688
         }
       ],
       "updated": 1792211919550
     }
   ],
   "history": [
+    {
+      "id": "1r4xpgcmvbwqb5k",
+      "ts": 1792211965688,
+      "by": "farah",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "added",
+      "item": "celery table",
+      "no": "16",
+      "detail": "Qty 2 kg, Chiller"
+    },
     {
       "id": "kc562jumvbwpv8m",
       "ts": 1792211945062,
