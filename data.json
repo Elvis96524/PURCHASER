@@ -3489,6 +3489,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792196049657
+        },
+        {
+          "id": "jhk7sytmvbrtuq8",
+          "added": 1792203732944,
+          "addedBy": "farah",
+          "name": "CELERY TABLE",
+          "no": "17",
+          "qty": 2,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792203732944
         }
       ],
       "updated": 1792195172157
@@ -9134,6 +9148,17 @@
     }
   ],
   "history": [
+    {
+      "id": "1qd0d1bmvbrtuq8",
+      "ts": 1792203732944,
+      "by": "farah",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "added",
+      "item": "CELERY TABLE",
+      "no": "17",
+      "detail": "Qty 2 KG, Chiller"
+    },
     {
       "id": "j8qfnsomvbrmckl",
       "ts": 1792203382821,
