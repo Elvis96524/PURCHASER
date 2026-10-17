@@ -8483,9 +8483,9 @@
           "unit": "KG",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792134746234
+          "updated": 1792205551283
         },
         {
           "id": "ssobt0gmvamrlyr",
@@ -8716,9 +8716,9 @@
           "unit": "KG",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135137203
+          "updated": 1792205549283
         },
         {
           "id": "r80vmlymvamzuwr",
@@ -9191,6 +9191,28 @@
     }
   ],
   "history": [
+    {
+      "id": "d18ld8qmvbswtrn",
+      "ts": 1792205551283,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "status",
+      "item": "RED BEAN PASTE 1KG",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "ssi9ungmvbsws83",
+      "ts": 1792205549283,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "status",
+      "item": "RED BEAN PASTE 1KG",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "htr0p9xmvbstwy8",
       "ts": 1792205415440,
