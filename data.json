@@ -3355,9 +3355,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790910962362
+          "updated": 1792202309276
         },
         {
           "id": "0q2msifmuqe76o8",
@@ -9036,6 +9036,17 @@
     }
   ],
   "history": [
+    {
+      "id": "u3v7e3xmvbqzc7w",
+      "ts": 1792202309276,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "Salam",
+      "no": "30",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "n48f3ojmvbqz916",
       "ts": 1792202305146,
