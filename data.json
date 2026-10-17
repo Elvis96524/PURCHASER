@@ -3369,9 +3369,9 @@
           "unit": "Nos",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790911050632
+          "updated": 1792200888606
         },
         {
           "id": "6eiz4emmuqe7xpp",
@@ -9001,6 +9001,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ik2dpdumvbq4w0v",
+      "ts": 1792200888607,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "Jantung pisang",
+      "no": "40",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "8nj8n2gmvbowhl5",
       "ts": 1792198817033,
