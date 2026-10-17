@@ -3328,9 +3328,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1790910893870
+          "updated": 1792221589189
         },
         {
           "id": "voerv0zmuqe4fsq",
@@ -9466,6 +9466,17 @@
     }
   ],
   "history": [
+    {
+      "id": "i90x7u4mvc2gkp1",
+      "ts": 1792221589189,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "Kucai",
+      "no": "26",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "lgygidnmvc2g2uj",
       "ts": 1792221566059,
