@@ -3285,9 +3285,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792210419452,
+          "updated": 1792217602541,
           "updatedBy": "farah"
         },
         {
@@ -9465,6 +9465,17 @@
     }
   ],
   "history": [
+    {
+      "id": "70k8dm2mvc034kt",
+      "ts": 1792217602541,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "Muruku 900gm ( Offer muruku popo 12gx24's)",
+      "no": "36",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "a5ym4j0mvc02yi4",
       "ts": 1792217594668,
