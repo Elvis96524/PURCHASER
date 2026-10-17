@@ -9214,12 +9214,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792211163149
+        },
+        {
+          "id": "z1o0h0zmvbw9png",
+          "added": 1792211191324,
+          "addedBy": "farah",
+          "name": "GREEN CHILLI",
+          "no": "31",
+          "qty": 3,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792211191324
         }
       ],
       "updated": 1792210740237
     }
   ],
   "history": [
+    {
+      "id": "09ywvadmvbw9png",
+      "ts": 1792211191324,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st & 2nd ORDER",
+      "action": "added",
+      "item": "GREEN CHILLI",
+      "no": "31",
+      "detail": "Qty 3 KG, Chiller"
+    },
     {
       "id": "iakvv12mvbw93wt",
       "ts": 1792211163149,
