@@ -9310,9 +9310,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1792211770253
+          "updated": 1792221566058
         },
         {
           "id": "do8qpgvmvbwnhsm",
@@ -9466,6 +9466,17 @@
     }
   ],
   "history": [
+    {
+      "id": "lgygidnmvc2g2uj",
+      "ts": 1792221566059,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "KUCHAI",
+      "no": "24",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "1m7fa23mvc28vfm",
       "ts": 1792221229858,
