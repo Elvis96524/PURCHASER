@@ -9416,9 +9416,9 @@
           "unit": "kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792212043462
+          "updated": 1792225575249
         },
         {
           "id": "x2a92z6mvbwsh3x",
@@ -9467,6 +9467,17 @@
     }
   ],
   "history": [
+    {
+      "id": "tmz2tvimvc4u0cx",
+      "ts": 1792225575249,
+      "by": "chelson",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "status",
+      "item": "parsley",
+      "no": "31",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "yp194lymvc3onjo",
       "ts": 1792223645748,
