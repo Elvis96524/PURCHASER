@@ -3529,9 +3529,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792203909473
+          "updated": 1792221609254
         },
         {
           "id": "9lpbruhmvbsthsw",
@@ -9466,6 +9466,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8qnzv29mvc2h06f",
+      "ts": 1792221609255,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "PETAI",
+      "no": "56",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "mkguv2pmvc2gudw",
       "ts": 1792221601748,
