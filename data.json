@@ -8358,9 +8358,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1792195461250
+          "updated": 1792221652296
         },
         {
           "id": "ce3hoesmvbmz2o5",
@@ -9466,6 +9466,17 @@
     }
   ],
   "history": [
+    {
+      "id": "b5ax1o9mvc2hxe0",
+      "ts": 1792221652296,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful L 19/10/26",
+      "action": "status",
+      "item": "Kucai",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "4j1pzw6mvc2hhqe",
       "ts": 1792221632006,
