@@ -9058,12 +9058,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792203152117
+        },
+        {
+          "id": "zsa62oemvbrii5m",
+          "added": 1792203203434,
+          "addedBy": "farah",
+          "name": "Cyprina orange 1lx12’s",
+          "no": "78",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792203203434
         }
       ],
       "updated": 1792202127403
     }
   ],
   "history": [
+    {
+      "id": "4452i93mvbrii5m",
+      "ts": 1792203203434,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st ORDER",
+      "action": "added",
+      "item": "Cyprina orange 1lx12’s",
+      "no": "78",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "nsfawkfmvbrhek5",
       "ts": 1792203152117,
