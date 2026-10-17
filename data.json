@@ -3514,9 +3514,9 @@
           "unit": "IKAT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792203791342
+          "updated": 1792204287355
         },
         {
           "id": "6zugiaxmvbrxmxt",
@@ -9176,6 +9176,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7to25vpmvbs5qij",
+      "ts": 1792204287355,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "DAUN SELOM",
+      "no": "21",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "alxfcy6mvbrxmxt",
       "ts": 1792203909473,
