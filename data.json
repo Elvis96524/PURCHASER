@@ -9242,12 +9242,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792211451174
+        },
+        {
+          "id": "06j2hm0mvbwh5wt",
+          "added": 1792211538989,
+          "addedBy": "farah",
+          "name": "FRESH NANGKA",
+          "no": "5",
+          "qty": 5,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792211538989
         }
       ],
       "updated": 1792210740237
     }
   ],
   "history": [
+    {
+      "id": "4lme40fmvbwh5wt",
+      "ts": 1792211538989,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st & 2nd ORDER",
+      "action": "added",
+      "item": "FRESH NANGKA",
+      "no": "5",
+      "detail": "Qty 5 KG, Chiller"
+    },
     {
       "id": "7c1ehxvmvbwfa5i",
       "ts": 1792211451174,
