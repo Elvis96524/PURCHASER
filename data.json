@@ -8271,9 +8271,9 @@
           "unit": "PCS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792110394433
+          "updated": 1792201063970
         },
         {
           "id": "2xazeermva8c54w",
@@ -9001,6 +9001,17 @@
     }
   ],
   "history": [
+    {
+      "id": "l5q39nomvbq8nc2",
+      "ts": 1792201063970,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful L 19/10/26",
+      "action": "status",
+      "item": "BUNGA KANTAN",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "yqb4qctmvbq8k05",
       "ts": 1792201059653,
