@@ -8289,6 +8289,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792195612307
+        },
+        {
+          "id": "i1pkgvvmvbn2e9i",
+          "added": 1792195733430,
+          "addedBy": "chelson",
+          "name": "Gardenia",
+          "no": "",
+          "qty": 7,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792195733430
         }
       ],
       "updated": 1792195227656
@@ -8945,6 +8959,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ohzq8q1mvbn2e9i",
+      "ts": 1792195733430,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful L 19/10/26",
+      "action": "added",
+      "item": "Gardenia",
+      "no": "",
+      "detail": "Qty 7 Pkt, Frozen"
+    },
     {
       "id": "9p018vrmvbmzssz",
       "ts": 1792195612307,
