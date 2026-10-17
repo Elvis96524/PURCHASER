@@ -8900,9 +8900,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792196193080
+          "updated": 1792217592436
         }
       ],
       "updated": 1792198246523
@@ -8978,9 +8978,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "*There are 4 packets in stock*",
-          "updated": 1792196326921
+          "updated": 1792217594668
         },
         {
           "id": "wekrypsmvanbk6i",
@@ -9465,6 +9465,28 @@
     }
   ],
   "history": [
+    {
+      "id": "a5ym4j0mvc02yi4",
+      "ts": 1792217594668,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "powku1mmvc02ws4",
+      "ts": 1792217592436,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "status",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "91ag8jrmvbzew26",
       "ts": 1792216471758,
