@@ -3531,6 +3531,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792203909473
+        },
+        {
+          "id": "9lpbruhmvbsthsw",
+          "added": 1792205395808,
+          "addedBy": "farah",
+          "name": "GREEN CHILLI",
+          "no": "38",
+          "qty": 1,
+          "unit": "KG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792205395808
         }
       ],
       "updated": 1792195172157
@@ -9177,6 +9191,17 @@
     }
   ],
   "history": [
+    {
+      "id": "2yidwrnmvbsthsw",
+      "ts": 1792205395808,
+      "by": "farah",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "added",
+      "item": "GREEN CHILLI",
+      "no": "38",
+      "detail": "Qty 1 KG, Dry"
+    },
     {
       "id": "7rrk3tkmvbso7dq",
       "ts": 1792205149022,
