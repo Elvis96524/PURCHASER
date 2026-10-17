@@ -3383,9 +3383,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790911085677
+          "updated": 1792202323007
         },
         {
           "id": "xthnvfsmuqifwoc",
@@ -3444,9 +3444,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790918480848
+          "updated": 1792202320088
         },
         {
           "id": "y31s90vmvbn7cge",
@@ -9036,6 +9036,28 @@
     }
   ],
   "history": [
+    {
+      "id": "y0oib1xmvbqzmtb",
+      "ts": 1792202323007,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "Nangka muda",
+      "no": "53",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "5z1wo5amvbqzkk8",
+      "ts": 1792202320088,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "Dragon fruit red",
+      "no": "49",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "u3v7e3xmvbqzc7w",
       "ts": 1792202309276,
