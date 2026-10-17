@@ -3475,6 +3475,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792196019046
+        },
+        {
+          "id": "sat4rfmmvbn969l",
+          "added": 1792196049657,
+          "addedBy": "chelson",
+          "name": "Yogurt 135g",
+          "no": "",
+          "qty": 15,
+          "unit": "Cup",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792196049657
         }
       ],
       "updated": 1792195172157
@@ -8987,6 +9001,17 @@
     }
   ],
   "history": [
+    {
+      "id": "z7bl4w3mvbn969l",
+      "ts": 1792196049657,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "added",
+      "item": "Yogurt 135g",
+      "no": "",
+      "detail": "Qty 15 Cup, Chiller"
+    },
     {
       "id": "9j3rlyemvbn8ina",
       "ts": 1792196019046,
