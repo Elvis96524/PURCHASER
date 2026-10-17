@@ -3503,6 +3503,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792203732944
+        },
+        {
+          "id": "ripr0e6mvbrv3se",
+          "added": 1792203791342,
+          "addedBy": "farah",
+          "name": "DAUN SELOM",
+          "no": "21",
+          "qty": 2,
+          "unit": "IKAT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792203791342
         }
       ],
       "updated": 1792195172157
@@ -9148,6 +9162,17 @@
     }
   ],
   "history": [
+    {
+      "id": "2htpo9imvbrv3se",
+      "ts": 1792203791342,
+      "by": "farah",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "added",
+      "item": "DAUN SELOM",
+      "no": "21",
+      "detail": "Qty 2 IKAT, Chiller"
+    },
     {
       "id": "1qd0d1bmvbrtuq8",
       "ts": 1792203732944,
