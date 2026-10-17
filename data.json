@@ -9256,12 +9256,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792211538989
+        },
+        {
+          "id": "q2y6lwfmvbwkfie",
+          "added": 1792211691398,
+          "addedBy": "farah",
+          "name": "BUNGA KANTAN",
+          "no": "14",
+          "qty": 5,
+          "unit": "PCS",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792211691398
         }
       ],
       "updated": 1792210740237
     }
   ],
   "history": [
+    {
+      "id": "9h3qrstmvbwkfie",
+      "ts": 1792211691398,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st & 2nd ORDER",
+      "action": "added",
+      "item": "BUNGA KANTAN",
+      "no": "14",
+      "detail": "Qty 5 PCS, Chiller"
+    },
     {
       "id": "4lme40fmvbwh5wt",
       "ts": 1792211538989,
