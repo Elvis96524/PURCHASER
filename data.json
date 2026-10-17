@@ -7733,9 +7733,9 @@
           "unit": "BDL",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791939603053
+          "updated": 1792217840958
         },
         {
           "id": "3papcwdmv7el2sd",
@@ -9465,6 +9465,17 @@
     }
   ],
   "history": [
+    {
+      "id": "nfh2asamvc088ji",
+      "ts": 1792217840958,
+      "by": "chelson",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "PUCUK UBI",
+      "no": "29",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "vdk3chgmvc0770k",
       "ts": 1792217792324,
