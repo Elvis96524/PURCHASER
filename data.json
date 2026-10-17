@@ -9228,12 +9228,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792211191324
+        },
+        {
+          "id": "jqoo4bjmvbwfa5i",
+          "added": 1792211451174,
+          "addedBy": "farah",
+          "name": "GRAPE SEEDLESS 5KG",
+          "no": "87",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792211451174
         }
       ],
       "updated": 1792210740237
     }
   ],
   "history": [
+    {
+      "id": "7c1ehxvmvbwfa5i",
+      "ts": 1792211451174,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st & 2nd ORDER",
+      "action": "added",
+      "item": "GRAPE SEEDLESS 5KG",
+      "no": "87",
+      "detail": "Qty 1 CTN, Chiller"
+    },
     {
       "id": "09ywvadmvbw9png",
       "ts": 1792211191324,
