@@ -3517,6 +3517,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792203791342
+        },
+        {
+          "id": "6zugiaxmvbrxmxt",
+          "added": 1792203909473,
+          "addedBy": "farah",
+          "name": "PETAI",
+          "no": "56",
+          "qty": 2,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792203909473
         }
       ],
       "updated": 1792195172157
@@ -9162,6 +9176,17 @@
     }
   ],
   "history": [
+    {
+      "id": "alxfcy6mvbrxmxt",
+      "ts": 1792203909473,
+      "by": "farah",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "added",
+      "item": "PETAI",
+      "no": "56",
+      "detail": "Qty 2 KG, Chiller"
+    },
     {
       "id": "2htpo9imvbrv3se",
       "ts": 1792203791342,
