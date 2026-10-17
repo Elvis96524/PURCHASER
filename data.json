@@ -9325,9 +9325,9 @@
           "unit": "pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792211834325
+          "updated": 1792223645748
         }
       ],
       "updated": 1792211903183
@@ -9467,6 +9467,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yp194lymvc3onjo",
+      "ts": 1792223645748,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "Tempe",
+      "no": "63",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "x5k2orrmvc3dc83",
       "ts": 1792223117859,
