@@ -9225,9 +9225,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792211191324
+          "updated": 1792220239930
         },
         {
           "id": "jqoo4bjmvbwfa5i",
@@ -9465,6 +9465,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7yh35wdmvc1nnlm",
+      "ts": 1792220239930,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "GREEN CHILLI",
+      "no": "31",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "3gh0rp1mvc1njpb",
       "ts": 1792220234879,
