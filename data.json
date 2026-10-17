@@ -8314,9 +8314,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792195578437
+          "updated": 1792201059653
         },
         {
           "id": "2jqgei5mvbmzssz",
@@ -9001,6 +9001,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yqb4qctmvbq8k05",
+      "ts": 1792201059653,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful L 19/10/26",
+      "action": "status",
+      "item": "Kesum",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ik2dpdumvbq4w0v",
       "ts": 1792200888607,
