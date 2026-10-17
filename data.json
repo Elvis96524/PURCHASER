@@ -8120,8 +8120,8 @@
           "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1792043254374
+          "notes": "*Change to Guava*",
+          "updated": 1792195336322
         },
         {
           "id": "qx5zmobmva7vvps",
@@ -8903,6 +8903,17 @@
     }
   ],
   "history": [
+    {
+      "id": "y5la868mvbmtvur",
+      "ts": 1792195336323,
+      "by": "fathin",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "edited",
+      "item": "LOCAL ORANGE (LIMAU MANIS ) *subject to availability*",
+      "no": "",
+      "detail": "Notes changed"
+    },
     {
       "id": "e2h5771mvbmrylp",
       "ts": 1792195246573,
