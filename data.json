@@ -9333,11 +9333,37 @@
     {
       "id": "7hud5k7mvbwpbjy",
       "name": "SK GEOTEK - NOV 2ND ORDER",
-      "items": [],
+      "items": [
+        {
+          "id": "5h70jm4mvbwppm6",
+          "added": 1792211937774,
+          "addedBy": "farah",
+          "name": "Bunga kantan",
+          "no": "13",
+          "qty": 5,
+          "unit": "",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792211937774
+        }
+      ],
       "updated": 1792211919550
     }
   ],
   "history": [
+    {
+      "id": "uacmpwqmvbwppm6",
+      "ts": 1792211937774,
+      "by": "farah",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "added",
+      "item": "Bunga kantan",
+      "no": "13",
+      "detail": "Qty 5, Dry"
+    },
     {
       "id": "fb2is4qmvbwpbjy",
       "ts": 1792211919550,
