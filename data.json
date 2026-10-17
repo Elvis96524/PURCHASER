@@ -9113,9 +9113,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792203152117
+          "updated": 1792220956820
         },
         {
           "id": "zsa62oemvbrii5m",
@@ -9465,6 +9465,17 @@
     }
   ],
   "history": [
+    {
+      "id": "p09bo9vmvc230r8",
+      "ts": 1792220956820,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "Essence lemon 25ml",
+      "no": "75",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "zsmb9uxmvc22xya",
       "ts": 1792220953186,
