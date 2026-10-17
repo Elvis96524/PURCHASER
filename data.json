@@ -8745,9 +8745,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Left 5pkt",
-          "updated": 1792194896354,
+          "updated": 1792217891705,
           "updatedBy": "chelson"
         },
         {
@@ -9465,6 +9465,17 @@
     }
   ],
   "history": [
+    {
+      "id": "71hl6y3mvc09bp5",
+      "ts": 1792217891705,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "status",
+      "item": "FORUWAY CRAB",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "nfh2asamvc088ji",
       "ts": 1792217840958,
