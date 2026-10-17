@@ -3300,9 +3300,9 @@
           "unit": "Pkt",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1790910657283
+          "updated": 1792226252711
         },
         {
           "id": "z9drkuomuqe2zav",
@@ -9467,6 +9467,17 @@
     }
   ],
   "history": [
+    {
+      "id": "r868n95mvc58j3b",
+      "ts": 1792226252711,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "Banana cake",
+      "no": "37",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "tmz2tvimvc4u0cx",
       "ts": 1792225575249,
