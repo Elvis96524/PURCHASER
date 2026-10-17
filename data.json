@@ -9375,12 +9375,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792211984494
+        },
+        {
+          "id": "gli9lxamvbwr6b1",
+          "added": 1792212006061,
+          "addedBy": "farah",
+          "name": "daun pucuk ubi",
+          "no": "26",
+          "qty": 2,
+          "unit": "ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792212006061
         }
       ],
       "updated": 1792211919550
     }
   ],
   "history": [
+    {
+      "id": "grqkcxzmvbwr6b1",
+      "ts": 1792212006061,
+      "by": "farah",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "added",
+      "item": "daun pucuk ubi",
+      "no": "26",
+      "detail": "Qty 2 ikat, Chiller"
+    },
     {
       "id": "aggnroimvbwqpny",
       "ts": 1792211984494,
