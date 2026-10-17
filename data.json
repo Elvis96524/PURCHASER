@@ -3540,11 +3540,11 @@
           "no": "38",
           "qty": 1,
           "unit": "KG",
-          "category": "Dry",
+          "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792205395808
+          "updated": 1792205415439
         }
       ],
       "updated": 1792195172157
@@ -9191,6 +9191,17 @@
     }
   ],
   "history": [
+    {
+      "id": "htr0p9xmvbstwy8",
+      "ts": 1792205415440,
+      "by": "farah",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "edited",
+      "item": "GREEN CHILLI",
+      "no": "38",
+      "detail": "Dry → Chiller"
+    },
     {
       "id": "2yidwrnmvbsthsw",
       "ts": 1792205395808,
