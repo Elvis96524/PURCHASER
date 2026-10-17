@@ -8599,6 +8599,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792134930459
+        },
+        {
+          "id": "mr83cf3mvbqoswl",
+          "added": 1792201817685,
+          "addedBy": "fathin",
+          "name": "CADBURY NEAP JAR",
+          "no": "FOR SUPERVISOR TEAM",
+          "qty": 5,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792201817685
         }
       ],
       "updated": 1792134619866
@@ -9001,6 +9015,17 @@
     }
   ],
   "history": [
+    {
+      "id": "r552tw4mvbqoswl",
+      "ts": 1792201817685,
+      "by": "fathin",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "CADBURY NEAP JAR",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Qty 5 BTL, Dry"
+    },
     {
       "id": "pohnzz8mvbq942c",
       "ts": 1792201085652,
