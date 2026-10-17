@@ -9341,18 +9341,29 @@
           "name": "Bunga kantan",
           "no": "13",
           "qty": 5,
-          "unit": "",
-          "category": "Dry",
+          "unit": "pcs",
+          "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792211937774
+          "updated": 1792211945062
         }
       ],
       "updated": 1792211919550
     }
   ],
   "history": [
+    {
+      "id": "kc562jumvbwpv8m",
+      "ts": 1792211945062,
+      "by": "farah",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "edited",
+      "item": "Bunga kantan",
+      "no": "13",
+      "detail": "Unit — → pcs; Dry → Chiller"
+    },
     {
       "id": "uacmpwqmvbwppm6",
       "ts": 1792211937774,
