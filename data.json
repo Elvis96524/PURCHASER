@@ -3313,9 +3313,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1790910854455
+          "updated": 1792202300373
         },
         {
           "id": "o533w1cmuqe3tpq",
@@ -9036,6 +9036,17 @@
     }
   ],
   "history": [
+    {
+      "id": "i5rsb29mvbqz5cn",
+      "ts": 1792202300375,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "D.kemangin",
+      "no": "24",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "rnh3ykqmvbqwhvk",
       "ts": 1792202176640,
