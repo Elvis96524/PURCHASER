@@ -9073,7 +9073,7 @@
     },
     {
       "id": "dwjcsv9mvbqvfvv",
-      "name": "SK GEOTEK - NOV 1st & 2nd ORDER",
+      "name": "SK GEOTEK - NOV 1ST ORDER",
       "items": [
         {
           "id": "k4rjcdpmvbqw8ct",
@@ -9328,10 +9328,21 @@
           "updated": 1792211834325
         }
       ],
-      "updated": 1792210740237
+      "updated": 1792211903183
     }
   ],
   "history": [
+    {
+      "id": "1sqtl9gmvbwoyxb",
+      "ts": 1792211903183,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"SK GEOTEK - NOV 1st & 2nd ORDER\" to \"SK GEOTEK - NOV 1ST ORDER\""
+    },
     {
       "id": "oanwgydmvbwnhsm",
       "ts": 1792211834326,
