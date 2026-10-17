@@ -3279,15 +3279,16 @@
           "id": "0uvcn05muqdy3oz",
           "added": 1790910626867,
           "addedBy": "chelson",
-          "name": "Muruku 900gm",
+          "name": "Muruku 900gm ( Offer muruku popo 12gx24's)",
           "no": "36",
-          "qty": 4,
+          "qty": 5,
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1790910626867
+          "updated": 1792210419452,
+          "updatedBy": "farah"
         },
         {
           "id": "484mvhqmuqdyr5v",
@@ -9205,6 +9206,17 @@
     }
   ],
   "history": [
+    {
+      "id": "t90ldckmvbvt62k",
+      "ts": 1792210419452,
+      "by": "farah",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "edited",
+      "item": "Muruku 900gm ( Offer muruku popo 12gx24's)",
+      "no": "36",
+      "detail": "Name \"Muruku 900gm\" → \"Muruku 900gm ( Offer muruku popo 12gx24's)\"; Qty 4 → 5"
+    },
     {
       "id": "kywvzlfmvbv7wdt",
       "ts": 1792209427121,
