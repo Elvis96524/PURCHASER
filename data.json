@@ -3543,9 +3543,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792205415439
+          "updated": 1792221601748
         }
       ],
       "updated": 1792195172157
@@ -9466,6 +9466,17 @@
     }
   ],
   "history": [
+    {
+      "id": "mkguv2pmvc2gudw",
+      "ts": 1792221601748,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "GREEN CHILLI",
+      "no": "38",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "i90x7u4mvc2gkp1",
       "ts": 1792221589189,
