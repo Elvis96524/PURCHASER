@@ -8703,9 +8703,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135126930
+          "updated": 1792223098677
         },
         {
           "id": "0rv95hbmvamzlwz",
@@ -9466,6 +9466,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ha3vuzimvc3cxf9",
+      "ts": 1792223098677,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "status",
+      "item": "MC PARSLEY FLAKES 5G",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "b5ax1o9mvc2hxe0",
       "ts": 1792221652296,
