@@ -3472,9 +3472,9 @@
           "unit": "Pkt",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792196019046
+          "updated": 1792202330288
         },
         {
           "id": "sat4rfmmvbn969l",
@@ -9036,6 +9036,17 @@
     }
   ],
   "history": [
+    {
+      "id": "5129wijmvbqzsfk",
+      "ts": 1792202330288,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "Tempe",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "y0oib1xmvbqzmtb",
       "ts": 1792202323007,
