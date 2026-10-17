@@ -9185,12 +9185,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792203382821
+        },
+        {
+          "id": "5nkwbh5mvbv7wdt",
+          "added": 1792209427121,
+          "addedBy": "chelson",
+          "name": "Gardenia",
+          "no": "",
+          "qty": 4,
+          "unit": "Loaf",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792209427121
         }
       ],
       "updated": 1792202127403
     }
   ],
   "history": [
+    {
+      "id": "kywvzlfmvbv7wdt",
+      "ts": 1792209427121,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st ORDER",
+      "action": "added",
+      "item": "Gardenia",
+      "no": "",
+      "detail": "Qty 4 Loaf, Dry"
+    },
     {
       "id": "nuhpbanmvbu4qup",
       "ts": 1792207600369,
