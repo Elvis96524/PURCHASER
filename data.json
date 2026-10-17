@@ -9431,12 +9431,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792212066717
+        },
+        {
+          "id": "2iu2xv0mvbwsx8e",
+          "added": 1792212087614,
+          "addedBy": "farah",
+          "name": "tempe",
+          "no": "72",
+          "qty": 5,
+          "unit": "pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792212087614
         }
       ],
       "updated": 1792211919550
     }
   ],
   "history": [
+    {
+      "id": "pai8tkbmvbwsx8e",
+      "ts": 1792212087614,
+      "by": "farah",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "added",
+      "item": "tempe",
+      "no": "72",
+      "detail": "Qty 5 pkt, Chiller"
+    },
     {
       "id": "64tjsv7mvbwsh3x",
       "ts": 1792212066717,
