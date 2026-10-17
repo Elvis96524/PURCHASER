@@ -9298,12 +9298,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792211745589
+        },
+        {
+          "id": "z6it4d5mvbwm4ct",
+          "added": 1792211770253,
+          "addedBy": "farah",
+          "name": "KUCHAI",
+          "no": "24",
+          "qty": 1,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792211770253
         }
       ],
       "updated": 1792210740237
     }
   ],
   "history": [
+    {
+      "id": "g26lc8cmvbwm4ct",
+      "ts": 1792211770253,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st & 2nd ORDER",
+      "action": "added",
+      "item": "KUCHAI",
+      "no": "24",
+      "detail": "Qty 1 KG, Chiller"
+    },
     {
       "id": "hw374vmmvbwllbp",
       "ts": 1792211745589,
