@@ -8730,9 +8730,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135257667
+          "updated": 1792203015614
         },
         {
           "id": "xy9he7lmvan2msz",
@@ -9036,6 +9036,17 @@
     }
   ],
   "history": [
+    {
+      "id": "z49b1nqmvbreh8f",
+      "ts": 1792203015615,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "status",
+      "item": "OVALETTE",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "5129wijmvbqzsfk",
       "ts": 1792202330288,
