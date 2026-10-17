@@ -9016,11 +9016,37 @@
     {
       "id": "dwjcsv9mvbqvfvv",
       "name": "SK GEOTEK - NOV 1st ORDER",
-      "items": [],
+      "items": [
+        {
+          "id": "k4rjcdpmvbqw8ct",
+          "added": 1792202164301,
+          "addedBy": "farah",
+          "name": "Nescafe 3in1 rich",
+          "no": "27",
+          "qty": 1,
+          "unit": "Okt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792202164301
+        }
+      ],
       "updated": 1792202127403
     }
   ],
   "history": [
+    {
+      "id": "171q2xgmvbqw8ct",
+      "ts": 1792202164301,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st ORDER",
+      "action": "added",
+      "item": "Nescafe 3in1 rich",
+      "no": "27",
+      "detail": "Qty 1 Okt, Dry"
+    },
     {
       "id": "75b1y84mvbqvfvv",
       "ts": 1792202127403,
