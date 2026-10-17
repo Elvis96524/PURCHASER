@@ -3402,9 +3402,9 @@
           "unit": "Loaf",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1790918350214
+          "updated": 1792207583009
         },
         {
           "id": "xo99d5gmuqikwk9",
@@ -9191,6 +9191,17 @@
     }
   ],
   "history": [
+    {
+      "id": "sau459xmvbu4dgh",
+      "ts": 1792207583009,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "Gardenia",
+      "no": "38",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "hrquk83mvbszgln",
       "ts": 1792205674187,
