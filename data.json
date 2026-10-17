@@ -9169,9 +9169,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792203359820
+          "updated": 1792217792324
         },
         {
           "id": "bxo3yknmvbrmckl",
@@ -9465,6 +9465,17 @@
     }
   ],
   "history": [
+    {
+      "id": "vdk3chgmvc0770k",
+      "ts": 1792217792324,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "Sunquick orange 840ml",
+      "no": "98",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "70k8dm2mvc034kt",
       "ts": 1792217602541,
