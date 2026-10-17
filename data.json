@@ -9403,12 +9403,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792212023741
+        },
+        {
+          "id": "8gnw9hlmvbwrz5y",
+          "added": 1792212043462,
+          "addedBy": "farah",
+          "name": "parsley",
+          "no": "31",
+          "qty": 1,
+          "unit": "kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792212043462
         }
       ],
       "updated": 1792211919550
     }
   ],
   "history": [
+    {
+      "id": "uumva7qmvbwrz5y",
+      "ts": 1792212043462,
+      "by": "farah",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "added",
+      "item": "parsley",
+      "no": "31",
+      "detail": "Qty 1 kg, Chiller"
+    },
     {
       "id": "sdah8comvbwrjy5",
       "ts": 1792212023741,
