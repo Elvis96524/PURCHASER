@@ -3488,8 +3488,8 @@
           "category": "Chiller",
           "priority": "normal",
           "status": "received",
-          "notes": "",
-          "updated": 1792221623278
+          "notes": "Store have",
+          "updated": 1792221632006
         },
         {
           "id": "jhk7sytmvbrtuq8",
@@ -9466,6 +9466,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4j1pzw6mvc2hhqe",
+      "ts": 1792221632006,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "edited",
+      "item": "Yogurt 135g",
+      "no": "",
+      "detail": "Notes changed"
+    },
     {
       "id": "u81ko40mvc2hazy",
       "ts": 1792221623278,
