@@ -9024,18 +9024,29 @@
           "name": "Nescafe 3in1 rich",
           "no": "27",
           "qty": 1,
-          "unit": "Okt",
+          "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792202164301
+          "updated": 1792202176639
         }
       ],
       "updated": 1792202127403
     }
   ],
   "history": [
+    {
+      "id": "rnh3ykqmvbqwhvk",
+      "ts": 1792202176640,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st ORDER",
+      "action": "edited",
+      "item": "Nescafe 3in1 rich",
+      "no": "27",
+      "detail": "Unit Okt → Pkt"
+    },
     {
       "id": "171q2xgmvbqw8ct",
       "ts": 1792202164301,
