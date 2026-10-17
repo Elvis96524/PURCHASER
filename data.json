@@ -9012,9 +9012,26 @@
         }
       ],
       "updated": 1792135551411
+    },
+    {
+      "id": "dwjcsv9mvbqvfvv",
+      "name": "SK GEOTEK - NOV 1st ORDER",
+      "items": [],
+      "updated": 1792202127403
     }
   ],
   "history": [
+    {
+      "id": "75b1y84mvbqvfvv",
+      "ts": 1792202127403,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st ORDER",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "r552tw4mvbqoswl",
       "ts": 1792201817685,
