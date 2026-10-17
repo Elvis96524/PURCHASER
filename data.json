@@ -9070,9 +9070,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792202176639
+          "updated": 1792205149022
         },
         {
           "id": "kaxgmqzmvbrgpnk",
@@ -9177,6 +9177,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7rrk3tkmvbso7dq",
+      "ts": 1792205149022,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st ORDER",
+      "action": "status",
+      "item": "Nescafe 3in1 rich",
+      "no": "27",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "4k3j8jamvbsnbac",
       "ts": 1792205107428,
