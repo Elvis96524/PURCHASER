@@ -8704,8 +8704,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "received",
-          "notes": "",
-          "updated": 1792223098677
+          "notes": "Parsley Leave.no Flake",
+          "updated": 1792223117859,
+          "updatedBy": "chelson"
         },
         {
           "id": "0rv95hbmvamzlwz",
@@ -9466,6 +9467,17 @@
     }
   ],
   "history": [
+    {
+      "id": "x5k2orrmvc3dc83",
+      "ts": 1792223117859,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "edited",
+      "item": "MC PARSLEY FLAKES 5G",
+      "no": "",
+      "detail": "Notes changed"
+    },
     {
       "id": "ha3vuzimvc3cxf9",
       "ts": 1792223098677,
