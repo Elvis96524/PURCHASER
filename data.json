@@ -9099,9 +9099,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792203119840
+          "updated": 1792220953186
         },
         {
           "id": "cqi5bgomvbrhek5",
@@ -9465,6 +9465,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zsmb9uxmvc22xya",
+      "ts": 1792220953186,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "Essence orange 25ml",
+      "no": "72",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "7yh35wdmvc1nnlm",
       "ts": 1792220239930,
