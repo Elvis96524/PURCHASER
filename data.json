@@ -8668,9 +8668,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792201817685
+          "updated": 1792215446042
         }
       ],
       "updated": 1792134619866
@@ -9465,6 +9465,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yfa4vewmvbyswm2",
+      "ts": 1792215446042,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "status",
+      "item": "CADBURY NEAP JAR",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "m9m2o7zmvbyn3tk",
       "ts": 1792215175448,
