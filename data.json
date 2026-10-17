@@ -8540,9 +8540,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792134837715
+          "updated": 1792205081180
         },
         {
           "id": "gveu0c6mvamti5v",
@@ -9176,6 +9176,17 @@
     }
   ],
   "history": [
+    {
+      "id": "88pext7mvbsmr18",
+      "ts": 1792205081180,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "status",
+      "item": "PRINGLES ASSORTED FLAVOUR 110GM",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "fu2n4q1mvbsmozn",
       "ts": 1792205078531,
