@@ -9445,12 +9445,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792212087614
+        },
+        {
+          "id": "yu2i6c3mvbwu646",
+          "added": 1792212145782,
+          "addedBy": "farah",
+          "name": "ulam raja",
+          "no": "29",
+          "qty": 4,
+          "unit": "ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792212145782
         }
       ],
       "updated": 1792211919550
     }
   ],
   "history": [
+    {
+      "id": "31vpa2bmvbwu646",
+      "ts": 1792212145782,
+      "by": "farah",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "added",
+      "item": "ulam raja",
+      "no": "29",
+      "detail": "Qty 4 ikat, Chiller"
+    },
     {
       "id": "pai8tkbmvbwsx8e",
       "ts": 1792212087614,
