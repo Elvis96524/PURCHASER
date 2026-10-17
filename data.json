@@ -9417,12 +9417,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792212043462
+        },
+        {
+          "id": "x2a92z6mvbwsh3x",
+          "added": 1792212066717,
+          "addedBy": "farah",
+          "name": "green chilli",
+          "no": "35",
+          "qty": 2,
+          "unit": "kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792212066717
         }
       ],
       "updated": 1792211919550
     }
   ],
   "history": [
+    {
+      "id": "64tjsv7mvbwsh3x",
+      "ts": 1792212066717,
+      "by": "farah",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "added",
+      "item": "green chilli",
+      "no": "35",
+      "detail": "Qty 2 kg, Chiller"
+    },
     {
       "id": "uumva7qmvbwrz5y",
       "ts": 1792212043462,
