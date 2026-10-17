@@ -9149,15 +9149,16 @@
           "id": "mxzhdq4mvbrk75f",
           "added": 1792203282483,
           "addedBy": "farah",
-          "name": "Apple pie filling",
+          "name": "Apple pie filling(offer mango filing)",
           "no": "81",
           "qty": 1,
           "unit": "Tin",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792203282483
+          "updated": 1792221229858,
+          "updatedBy": "chelson"
         },
         {
           "id": "8uk2evtmvbrlutp",
@@ -9465,6 +9466,28 @@
     }
   ],
   "history": [
+    {
+      "id": "1m7fa23mvc28vfm",
+      "ts": 1792221229858,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "Apple pie filling(offer mango filing)",
+      "no": "81",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "ln8a6x2mvc28sxf",
+      "ts": 1792221226611,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "edited",
+      "item": "Apple pie filling(offer mango filing)",
+      "no": "81",
+      "detail": "Name \"Apple pie filling\" → \"Apple pie filling(offer mango filing)\""
+    },
     {
       "id": "01xmagxmvc26otl",
       "ts": 1792221127977,
