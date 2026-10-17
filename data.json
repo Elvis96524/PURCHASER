@@ -9389,12 +9389,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792212006061
+        },
+        {
+          "id": "c4kiexjmvbwrjy5",
+          "added": 1792212023741,
+          "addedBy": "farah",
+          "name": "daun pudina",
+          "no": "27",
+          "qty": 5,
+          "unit": "ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792212023741
         }
       ],
       "updated": 1792211919550
     }
   ],
   "history": [
+    {
+      "id": "sdah8comvbwrjy5",
+      "ts": 1792212023741,
+      "by": "farah",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "added",
+      "item": "daun pudina",
+      "no": "27",
+      "detail": "Qty 5 ikat, Chiller"
+    },
     {
       "id": "grqkcxzmvbwr6b1",
       "ts": 1792212006061,
