@@ -9114,12 +9114,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792203359820
+        },
+        {
+          "id": "bxo3yknmvbrmckl",
+          "added": 1792203382821,
+          "addedBy": "farah",
+          "name": "Chocolate chip 1kg",
+          "no": "99",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792203382821
         }
       ],
       "updated": 1792202127403
     }
   ],
   "history": [
+    {
+      "id": "j8qfnsomvbrmckl",
+      "ts": 1792203382821,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st ORDER",
+      "action": "added",
+      "item": "Chocolate chip 1kg",
+      "no": "99",
+      "detail": "Qty 1 Kg, Dry"
+    },
     {
       "id": "atck823mvbrlutp",
       "ts": 1792203359821,
