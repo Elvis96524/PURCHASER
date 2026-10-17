@@ -9183,9 +9183,9 @@
           "unit": "Kg",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792203382821
+          "updated": 1792221127977
         },
         {
           "id": "5nkwbh5mvbv7wdt",
@@ -9465,6 +9465,17 @@
     }
   ],
   "history": [
+    {
+      "id": "01xmagxmvc26otl",
+      "ts": 1792221127977,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "Chocolate chip 1kg",
+      "no": "99",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "p09bo9vmvc230r8",
       "ts": 1792220956820,
