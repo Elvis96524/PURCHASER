@@ -9086,12 +9086,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792203231162
+        },
+        {
+          "id": "mxzhdq4mvbrk75f",
+          "added": 1792203282483,
+          "addedBy": "farah",
+          "name": "Apple pie filling",
+          "no": "81",
+          "qty": 1,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792203282483
         }
       ],
       "updated": 1792202127403
     }
   ],
   "history": [
+    {
+      "id": "yn8ttwdmvbrk75f",
+      "ts": 1792203282483,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1st ORDER",
+      "action": "added",
+      "item": "Apple pie filling",
+      "no": "81",
+      "detail": "Qty 1 Tin, Dry"
+    },
     {
       "id": "1kwtm37mvbrj3ju",
       "ts": 1792203231162,
