@@ -3458,9 +3458,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792195964366
+          "updated": 1792198802519
         },
         {
           "id": "js0hrcomvbn8ina",
@@ -9001,6 +9001,17 @@
     }
   ],
   "history": [
+    {
+      "id": "fkwa1hwmvbow6e0",
+      "ts": 1792198802520,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "Limau nipis",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "2y0908jmvbok9dn",
       "ts": 1792198246523,
