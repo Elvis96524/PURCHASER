@@ -8528,9 +8528,9 @@
           "unit": "PAIR",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792134797459
+          "updated": 1792215999376
         },
         {
           "id": "h6ghj7qmvamsqx6",
@@ -8936,9 +8936,9 @@
           "unit": "PAIR",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135593195
+          "updated": 1792215996808
         },
         {
           "id": "p5jdxk7mvan9p8b",
@@ -9465,6 +9465,28 @@
     }
   ],
   "history": [
+    {
+      "id": "e6jhausmvbz4rkg",
+      "ts": 1792215999376,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "status",
+      "item": "LONG RUBBER HAND GLOVE (FOR DISHWASHER)",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "qxmsglrmvbz4pl4",
+      "ts": 1792215996808,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "LONG RUBBER HAND GLOVE (FOR DISHWASHER)",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "yfa4vewmvbyswm2",
       "ts": 1792215446042,
