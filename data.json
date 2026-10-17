@@ -8744,9 +8744,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135187755
+          "updated": 1792205076123
         },
         {
           "id": "ok63qzwmvan1a1n",
@@ -8948,9 +8948,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135796907
+          "updated": 1792205078531
         },
         {
           "id": "bowxaf8mvanai8b",
@@ -9176,6 +9176,28 @@
     }
   ],
   "history": [
+    {
+      "id": "fu2n4q1mvbsmozn",
+      "ts": 1792205078531,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "PRINGLES ASSORTED FLAVOUR 110GM",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "kxi135omvbsmn4r",
+      "ts": 1792205076123,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "status",
+      "item": "PRINGLES ASSORTED FLAVOUR 110GM",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "7to25vpmvbs5qij",
       "ts": 1792204287355,
