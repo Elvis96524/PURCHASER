@@ -8275,6 +8275,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792195578437
+        },
+        {
+          "id": "2jqgei5mvbmzssz",
+          "added": 1792195612307,
+          "addedBy": "chelson",
+          "name": "Telur masin putih",
+          "no": "",
+          "qty": 1,
+          "unit": "Tray",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792195612307
         }
       ],
       "updated": 1792195227656
@@ -8931,6 +8945,17 @@
     }
   ],
   "history": [
+    {
+      "id": "9p018vrmvbmzssz",
+      "ts": 1792195612307,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful L 19/10/26",
+      "action": "added",
+      "item": "Telur masin putih",
+      "no": "",
+      "detail": "Qty 1 Tray, Chiller"
+    },
     {
       "id": "dycj0hhmvbmz2o5",
       "ts": 1792195578437,
