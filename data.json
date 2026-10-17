@@ -8247,6 +8247,20 @@
           "notes": "Offer",
           "updated": 1792130049396,
           "updatedBy": "chelson"
+        },
+        {
+          "id": "rrgexvmmvbmwk8y",
+          "added": 1792195461250,
+          "addedBy": "chelson",
+          "name": "Kucai",
+          "no": "",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792195461250
         }
       ],
       "updated": 1792195227656
@@ -8903,6 +8917,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7tus2xemvbmwk8y",
+      "ts": 1792195461250,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful L 19/10/26",
+      "action": "added",
+      "item": "Kucai",
+      "no": "",
+      "detail": "Qty 1 Kg, Chiller"
+    },
     {
       "id": "y5la868mvbmtvur",
       "ts": 1792195336323,
