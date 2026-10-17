@@ -6610,7 +6610,8 @@
           "updated": 1792046999772
         }
       ],
-      "updated": 1791785613322
+      "deleted": true,
+      "updated": 1792205107428
     },
     {
       "id": "jqrlhw2mv4x2qss",
@@ -9176,6 +9177,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4k3j8jamvbsnbac",
+      "ts": 1792205107428,
+      "by": "chelson",
+      "vid": "90x90lhmv4uw3ka",
+      "vname": "Geotek (OCT 2ND ORDER)",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "88pext7mvbsmr18",
       "ts": 1792205081180,
