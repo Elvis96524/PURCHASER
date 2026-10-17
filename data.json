@@ -3447,6 +3447,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1790918480848
+        },
+        {
+          "id": "y31s90vmvbn7cge",
+          "added": 1792195964366,
+          "addedBy": "chelson",
+          "name": "Limau nipis",
+          "no": "",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792195964366
         }
       ],
       "updated": 1792195172157
@@ -8959,6 +8973,17 @@
     }
   ],
   "history": [
+    {
+      "id": "b472czqmvbn7cge",
+      "ts": 1792195964366,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "added",
+      "item": "Limau nipis",
+      "no": "",
+      "detail": "Qty 1 Kg, Chiller"
+    },
     {
       "id": "ohzq8q1mvbn2e9i",
       "ts": 1792195733430,
