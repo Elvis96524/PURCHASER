@@ -3341,9 +3341,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1790910922490
+          "updated": 1792202305146
         },
         {
           "id": "mo09xkpmuqe5aka",
@@ -9036,6 +9036,17 @@
     }
   ],
   "history": [
+    {
+      "id": "n48f3ojmvbqz916",
+      "ts": 1792202305146,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "status",
+      "item": "Pakis",
+      "no": "29",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "i5rsb29mvbqz5cn",
       "ts": 1792202300375,
