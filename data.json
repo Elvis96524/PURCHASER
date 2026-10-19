@@ -9522,9 +9522,9 @@
           "unit": "Cup",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1792372794393,
+          "updated": 1792372822833,
           "updatedBy": "farah"
         }
       ],
@@ -9665,6 +9665,17 @@
     }
   ],
   "history": [
+    {
+      "id": "optr6jvmveki1bl",
+      "ts": 1792372822833,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "Yogurt 130",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "wbgfuldmvekhiah",
       "ts": 1792372798169,
