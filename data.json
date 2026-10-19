@@ -3203,6 +3203,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792368817199
+        },
+        {
+          "id": "lart9ndmvei4k5s",
+          "added": 1792368834832,
+          "addedBy": "chelson",
+          "name": "Raja",
+          "no": "",
+          "qty": 2,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792368834832
         }
       ],
       "updated": 1790740894967
@@ -9565,6 +9579,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qg2awa1mvei4k5s",
+      "ts": 1792368834832,
+      "by": "chelson",
+      "vid": "iqg9t84munkw5pz",
+      "vname": "Sk pinnacle (OCT 2ND)11/9/26",
+      "action": "added",
+      "item": "Raja",
+      "no": "",
+      "detail": "Qty 2 Ikat, Chiller"
+    },
     {
       "id": "f75zgxjmvei46jz",
       "ts": 1792368817199,
