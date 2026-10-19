@@ -9736,9 +9736,10 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792377397234
+          "status": "received",
+          "notes": "3 botol only",
+          "updated": 1792383146558,
+          "updatedBy": "chelson"
         },
         {
           "id": "s1fe2gcmven8rhd",
@@ -9759,6 +9760,28 @@
     }
   ],
   "history": [
+    {
+      "id": "e4imdnymveqnb5q",
+      "ts": 1792383146558,
+      "by": "chelson",
+      "vid": "i1ygtcrmven1yu4",
+      "vname": "Sk geotek - cleaning",
+      "action": "status",
+      "item": "MAGIC CLEAN, STAIN AND MOLD CLEANER SPRAY",
+      "no": "23",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "fw6hcigmveqn9h7",
+      "ts": 1792383144379,
+      "by": "chelson",
+      "vid": "i1ygtcrmven1yu4",
+      "vname": "Sk geotek - cleaning",
+      "action": "edited",
+      "item": "MAGIC CLEAN, STAIN AND MOLD CLEANER SPRAY",
+      "no": "23",
+      "detail": "Notes changed"
+    },
     {
       "id": "v7b6c5smveq360m",
       "ts": 1792382206774,
