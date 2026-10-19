@@ -8000,9 +8000,9 @@
           "unit": "CUP",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792370393961,
+          "updated": 1792382187731,
           "updatedBy": "chelson"
         },
         {
@@ -9759,6 +9759,17 @@
     }
   ],
   "history": [
+    {
+      "id": "mo41nezmveq2rbn",
+      "ts": 1792382187731,
+      "by": "chelson",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "MEE SEDAP CUP(change indomie cup)",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "lip4fd8mvepycpe",
       "ts": 1792381982162,
