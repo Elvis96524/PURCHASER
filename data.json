@@ -8933,8 +8933,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1792135215131
+          "notes": "Left 1twin pack",
+          "updated": 1792385689516,
+          "updatedBy": "chelson"
         },
         {
           "id": "6gyejb0mvan26v7",
@@ -9760,6 +9761,17 @@
     }
   ],
   "history": [
+    {
+      "id": "tlf6jscmves5tbg",
+      "ts": 1792385689516,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "edited",
+      "item": "ASSORTED VITAGEN LESS SUGAR",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Notes changed"
+    },
     {
       "id": "e4imdnymveqnb5q",
       "ts": 1792383146558,
