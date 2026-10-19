@@ -8937,6 +8937,20 @@
           "status": "received",
           "notes": "",
           "updated": 1792385711153
+        },
+        {
+          "id": "hhsj9s1mvext7d1",
+          "added": 1792395178885,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "",
+          "qty": 10,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792395178885
         }
       ],
       "updated": 1792198246523
@@ -9636,6 +9650,17 @@
     }
   ],
   "history": [
+    {
+      "id": "c9jrxbimvext7d1",
+      "ts": 1792395178885,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "added",
+      "item": "Kesum",
+      "no": "",
+      "detail": "Qty 10 Ikat, Chiller"
+    },
     {
       "id": "xrhj260mvewpbew",
       "ts": 1792393317896,
