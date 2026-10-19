@@ -9694,9 +9694,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792377305395
+          "updated": 1792380265594
         },
         {
           "id": "jvwb84ymven6jw2",
@@ -9759,6 +9759,17 @@
     }
   ],
   "history": [
+    {
+      "id": "la3e5xnmveoxk6y",
+      "ts": 1792380265594,
+      "by": "chelson",
+      "vid": "i1ygtcrmven1yu4",
+      "vname": "Sk geotek - cleaning",
+      "action": "status",
+      "item": "DETTOL FLOOR CLEANER 1.5L",
+      "no": "8",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "qp1f4somveoehmh",
       "ts": 1792379375801,
