@@ -8515,9 +8515,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792221652296
+          "updated": 1792385727262
         },
         {
           "id": "ce3hoesmvbmz2o5",
@@ -9761,6 +9761,17 @@
     }
   ],
   "history": [
+    {
+      "id": "lpdooh0mves6mfy",
+      "ts": 1792385727262,
+      "by": "chelson",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful L 19/10/26",
+      "action": "status",
+      "item": "Kucai",
+      "no": "",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "yqkdn8dmves6a0h",
       "ts": 1792385711153,
