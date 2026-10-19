@@ -9668,11 +9668,37 @@
     {
       "id": "i1ygtcrmven1yu4",
       "name": "Sk geotek - cleaning",
-      "items": [],
+      "items": [
+        {
+          "id": "ed79o65mven5bfn",
+          "added": 1792377268259,
+          "addedBy": "farah",
+          "name": "CLOROX BLEACH 1L",
+          "no": "6",
+          "qty": 12,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792377268259
+        }
+      ],
       "updated": 1792377111964
     }
   ],
   "history": [
+    {
+      "id": "d2ses8kmven5bfo",
+      "ts": 1792377268260,
+      "by": "farah",
+      "vid": "i1ygtcrmven1yu4",
+      "vname": "Sk geotek - cleaning",
+      "action": "added",
+      "item": "CLOROX BLEACH 1L",
+      "no": "6",
+      "detail": "Qty 12 BTL, Dry"
+    },
     {
       "id": "gc9barqmven1yu4",
       "ts": 1792377111964,
