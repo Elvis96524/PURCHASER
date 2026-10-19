@@ -3505,6 +3505,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792392970846
+        },
+        {
+          "id": "kr3uqh8mvewimkl",
+          "added": 1792393005765,
+          "addedBy": "chelson",
+          "name": "MURUKU POPO 12GMX30'S",
+          "no": "25",
+          "qty": 6,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792393005765
         }
       ],
       "updated": 1792392925920
@@ -9594,6 +9608,17 @@
     }
   ],
   "history": [
+    {
+      "id": "x955g4imvewimkl",
+      "ts": 1792393005765,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence NOV 1ST ORDER",
+      "action": "added",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "25",
+      "detail": "Qty 6 Pkt, Dry"
+    },
     {
       "id": "cf50mv7mvewhvmn",
       "ts": 1792392970847,
