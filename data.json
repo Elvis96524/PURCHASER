@@ -8703,6 +8703,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792395534242
+        },
+        {
+          "id": "mabqhndmvey1kmc",
+          "added": 1792395569316,
+          "addedBy": "chelson",
+          "name": "Raja",
+          "no": "",
+          "qty": 10,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792395569316
         }
       ],
       "updated": 1792134619866
@@ -9734,6 +9748,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6bh70d4mvey1kmc",
+      "ts": 1792395569316,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "Raja",
+      "no": "",
+      "detail": "Qty 10 Ikat, Chiller"
+    },
     {
       "id": "vdy3skjmvey0tk2",
       "ts": 1792395534242,
