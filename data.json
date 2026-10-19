@@ -8689,6 +8689,20 @@
           "status": "received",
           "notes": "",
           "updated": 1792215446042
+        },
+        {
+          "id": "ggtm3s8mvey0tk2",
+          "added": 1792395534242,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792395534242
         }
       ],
       "updated": 1792134619866
@@ -9720,6 +9734,17 @@
     }
   ],
   "history": [
+    {
+      "id": "vdy3skjmvey0tk2",
+      "ts": 1792395534242,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "Kesum",
+      "no": "",
+      "detail": "Qty 5 Ikat, Chiller"
+    },
     {
       "id": "4sdyw81mvexzddv",
       "ts": 1792395466627,
