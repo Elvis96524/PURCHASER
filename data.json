@@ -7994,7 +7994,7 @@
           "id": "n9tuhc4mv7fdoyb",
           "added": 1791940958867,
           "addedBy": "fathin",
-          "name": "MEE SEDAP CUP",
+          "name": "MEE SEDAP CUP(change indomie cup)",
           "no": "FOR SUPERVISOR TEAM",
           "qty": 20,
           "unit": "CUP",
@@ -8002,7 +8002,8 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792053826451
+          "updated": 1792370393961,
+          "updatedBy": "chelson"
         },
         {
           "id": "val038imv9au5nw",
@@ -9663,6 +9664,17 @@
     }
   ],
   "history": [
+    {
+      "id": "dy6bhewmvej1z6x",
+      "ts": 1792370393961,
+      "by": "chelson",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "edited",
+      "item": "MEE SEDAP CUP(change indomie cup)",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Name \"MEE SEDAP CUP\" → \"MEE SEDAP CUP(change indomie cup)\""
+    },
     {
       "id": "jydj04bmveivdf6",
       "ts": 1792370085810,
