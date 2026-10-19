@@ -9510,9 +9510,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792369981702
+          "updated": 1792377685043
         },
         {
           "id": "4qswakwmveivdf6",
@@ -9758,6 +9758,17 @@
     }
   ],
   "history": [
+    {
+      "id": "rh35igamvene90z",
+      "ts": 1792377685043,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "BOH iceemon tea",
+      "no": "96",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "vrhcs8imven8rhd",
       "ts": 1792377429025,
