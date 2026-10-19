@@ -9518,13 +9518,14 @@
           "addedBy": "chelson",
           "name": "Yogurt 130",
           "no": "",
-          "qty": 20,
+          "qty": 40,
           "unit": "Cup",
           "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792370085810
+          "updated": 1792372794393,
+          "updatedBy": "farah"
         }
       ],
       "updated": 1792211903183
@@ -9664,6 +9665,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6e3x8zdmvekhfdl",
+      "ts": 1792372794393,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "edited",
+      "item": "Yogurt 130",
+      "no": "",
+      "detail": "Qty 20 → 40"
+    },
     {
       "id": "4m9bsxrmvekhaad",
       "ts": 1792372787797,
