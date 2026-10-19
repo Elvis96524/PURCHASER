@@ -9664,9 +9664,26 @@
         }
       ],
       "updated": 1792211919550
+    },
+    {
+      "id": "i1ygtcrmven1yu4",
+      "name": "Sk geotek - cleaning",
+      "items": [],
+      "updated": 1792377111964
     }
   ],
   "history": [
+    {
+      "id": "gc9barqmven1yu4",
+      "ts": 1792377111964,
+      "by": "farah",
+      "vid": "i1ygtcrmven1yu4",
+      "vname": "Sk geotek - cleaning",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "9s3jcbwmvemuuz5",
       "ts": 1792376780369,
