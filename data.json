@@ -3491,6 +3491,20 @@
           "id": "9lpbruhmvbsthsw",
           "deleted": true,
           "updated": 1792392880758
+        },
+        {
+          "id": "vulq1trmvewhvmn",
+          "added": 1792392970847,
+          "addedBy": "chelson",
+          "name": "BUDU",
+          "no": "15",
+          "qty": 2,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792392970846
         }
       ],
       "updated": 1792392925920
@@ -9580,6 +9594,17 @@
     }
   ],
   "history": [
+    {
+      "id": "cf50mv7mvewhvmn",
+      "ts": 1792392970847,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence NOV 1ST ORDER",
+      "action": "added",
+      "item": "BUDU",
+      "no": "15",
+      "detail": "Qty 2 Btl, Dry"
+    },
     {
       "id": "mtylq71mvewgwyo",
       "ts": 1792392925920,
