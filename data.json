@@ -9708,9 +9708,9 @@
           "unit": "PCS",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792377325874
+          "updated": 1792381972742
         },
         {
           "id": "7ln637imven7d4j",
@@ -9759,6 +9759,17 @@
     }
   ],
   "history": [
+    {
+      "id": "wsbebonmvepy5fq",
+      "ts": 1792381972742,
+      "by": "chelson",
+      "vid": "i1ygtcrmven1yu4",
+      "vname": "Sk geotek - cleaning",
+      "action": "status",
+      "item": "MICROFIBRE CLOTH",
+      "no": "15",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "j1racpzmvepfpur",
       "ts": 1792381112739,
