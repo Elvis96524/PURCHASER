@@ -9058,6 +9058,20 @@
           "status": "received",
           "notes": "",
           "updated": 1792217592436
+        },
+        {
+          "id": "d5dplxmmveiu7gi",
+          "added": 1792370031426,
+          "addedBy": "chelson",
+          "name": "Yogurt 130gm",
+          "no": "",
+          "qty": 20,
+          "unit": "Cup",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792370031426
         }
       ],
       "updated": 1792198246523
@@ -9635,6 +9649,17 @@
     }
   ],
   "history": [
+    {
+      "id": "804nvr4mveiu7gi",
+      "ts": 1792370031426,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "added",
+      "item": "Yogurt 130gm",
+      "no": "",
+      "detail": "Qty 20 Cup, Chiller"
+    },
     {
       "id": "thxh0uzmveit53a",
       "ts": 1792369981702,
