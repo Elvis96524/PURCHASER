@@ -9696,12 +9696,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792377305395
+        },
+        {
+          "id": "jvwb84ymven6jw2",
+          "added": 1792377325874,
+          "addedBy": "farah",
+          "name": "MICROFIBRE CLOTH",
+          "no": "15",
+          "qty": 5,
+          "unit": "PCS",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792377325874
         }
       ],
       "updated": 1792377111964
     }
   ],
   "history": [
+    {
+      "id": "r4njdspmven6jw2",
+      "ts": 1792377325874,
+      "by": "farah",
+      "vid": "i1ygtcrmven1yu4",
+      "vname": "Sk geotek - cleaning",
+      "action": "added",
+      "item": "MICROFIBRE CLOTH",
+      "no": "15",
+      "detail": "Qty 5 PCS, Dry"
+    },
     {
       "id": "o0239d4mven6437",
       "ts": 1792377305395,
