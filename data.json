@@ -9466,9 +9466,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792211745589
+          "updated": 1792372889217
         },
         {
           "id": "z6it4d5mvbwm4ct",
@@ -9558,9 +9558,9 @@
           "unit": "kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792211965688
+          "updated": 1792372872795
         },
         {
           "id": "6osnwt1mvbwqpny",
@@ -9642,9 +9642,9 @@
           "unit": "pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792212087614
+          "updated": 1792372860804
         },
         {
           "id": "yu2i6c3mvbwu646",
@@ -9665,6 +9665,39 @@
     }
   ],
   "history": [
+    {
+      "id": "5k0fx5dmvekjgjl",
+      "ts": 1792372889217,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "CELERY TABLE",
+      "no": "18",
+      "detail": "Status: To buy → N/A"
+    },
+    {
+      "id": "mvor6cgmvekj3vg",
+      "ts": 1792372872796,
+      "by": "chelson",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "status",
+      "item": "celery table",
+      "no": "16",
+      "detail": "Status: To buy → N/A"
+    },
+    {
+      "id": "aldan95mvekiumc",
+      "ts": 1792372860804,
+      "by": "chelson",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "status",
+      "item": "tempe",
+      "no": "72",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "glggykemvekifsb",
       "ts": 1792372841579,
