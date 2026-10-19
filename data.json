@@ -8951,6 +8951,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792395178885
+        },
+        {
+          "id": "ar0bma3mvexudr9",
+          "added": 1792395233829,
+          "addedBy": "chelson",
+          "name": "Raja",
+          "no": "",
+          "qty": 10,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792395233829
         }
       ],
       "updated": 1792198246523
@@ -9650,6 +9664,17 @@
     }
   ],
   "history": [
+    {
+      "id": "gjlbqr9mvexudr9",
+      "ts": 1792395233829,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "added",
+      "item": "Raja",
+      "no": "",
+      "detail": "Qty 10 Ikat, Chiller"
+    },
     {
       "id": "c9jrxbimvext7d1",
       "ts": 1792395178885,
