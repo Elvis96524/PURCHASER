@@ -9750,15 +9750,26 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792377429025
+          "updated": 1792379375800
         }
       ],
       "updated": 1792377111964
     }
   ],
   "history": [
+    {
+      "id": "qp1f4somveoehmh",
+      "ts": 1792379375801,
+      "by": "chelson",
+      "vid": "i1ygtcrmven1yu4",
+      "vname": "Sk geotek - cleaning",
+      "action": "status",
+      "item": "3M STAINLESS STEEL CLEANER & POLISH SPRAY",
+      "no": "24",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "gunbu9lmvenyh1e",
       "ts": 1792378628546,
