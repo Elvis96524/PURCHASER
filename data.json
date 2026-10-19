@@ -9710,12 +9710,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792377325874
+        },
+        {
+          "id": "7ln637imven7d4j",
+          "added": 1792377363763,
+          "addedBy": "farah",
+          "name": "DETTOL WASHING DRUM CLEANER 250ML",
+          "no": "20",
+          "qty": 3,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792377363763
         }
       ],
       "updated": 1792377111964
     }
   ],
   "history": [
+    {
+      "id": "qym9frdmven7d4j",
+      "ts": 1792377363763,
+      "by": "farah",
+      "vid": "i1ygtcrmven1yu4",
+      "vname": "Sk geotek - cleaning",
+      "action": "added",
+      "item": "DETTOL WASHING DRUM CLEANER 250ML",
+      "no": "20",
+      "detail": "Qty 3 BTL, Dry"
+    },
     {
       "id": "r4njdspmven6jw2",
       "ts": 1792377325874,
