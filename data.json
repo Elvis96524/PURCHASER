@@ -8755,9 +8755,9 @@
           "unit": "PCS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792134885010
+          "updated": 1792385749930
         },
         {
           "id": "wiq4osvmvamug4j",
@@ -9761,6 +9761,17 @@
     }
   ],
   "history": [
+    {
+      "id": "vm7iifwmves73xm",
+      "ts": 1792385749930,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "status",
+      "item": "BUNGA KANTAN",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "lpdooh0mves6mfy",
       "ts": 1792385727262,
