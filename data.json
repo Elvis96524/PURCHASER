@@ -9600,9 +9600,9 @@
           "unit": "ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792212023741
+          "updated": 1792373132377
         },
         {
           "id": "8gnw9hlmvbwrz5y",
@@ -9665,6 +9665,17 @@
     }
   ],
   "history": [
+    {
+      "id": "d2dnh6nmvekoo61",
+      "ts": 1792373132377,
+      "by": "chelson",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "status",
+      "item": "daun pudina",
+      "no": "27",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "5k0fx5dmvekjgjl",
       "ts": 1792372889217,
