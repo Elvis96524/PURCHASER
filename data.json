@@ -3519,6 +3519,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792393005765
+        },
+        {
+          "id": "y0q4zcumvewj4ik",
+          "added": 1792393029021,
+          "addedBy": "chelson",
+          "name": "Gardenia",
+          "no": "26",
+          "qty": 10,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792393029020
         }
       ],
       "updated": 1792392925920
@@ -9608,6 +9622,17 @@
     }
   ],
   "history": [
+    {
+      "id": "9sv5k1ymvewj4il",
+      "ts": 1792393029021,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence NOV 1ST ORDER",
+      "action": "added",
+      "item": "Gardenia",
+      "no": "26",
+      "detail": "Qty 10 Pkt, Frozen"
+    },
     {
       "id": "x955g4imvewimkl",
       "ts": 1792393005765,
