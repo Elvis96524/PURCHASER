@@ -9241,6 +9241,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792395393462
+        },
+        {
+          "id": "qg35udkmvf0lmy6",
+          "added": 1792399864686,
+          "addedBy": "chelson",
+          "name": "Dragon fruit",
+          "no": "",
+          "qty": 35,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "20kg standard \n15kg for BBQ",
+          "updated": 1792399864686
         }
       ],
       "updated": 1792135551411
@@ -9762,6 +9776,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7m96tppmvf0lmy6",
+      "ts": 1792399864686,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "Dragon fruit",
+      "no": "",
+      "detail": "Qty 35 Kg, Chiller"
+    },
     {
       "id": "t2gyhz3mvf0fx97",
       "ts": 1792399598107,
