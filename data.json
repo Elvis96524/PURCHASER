@@ -9412,9 +9412,9 @@
           "unit": "CTN",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792211451174
+          "updated": 1792381000213
         },
         {
           "id": "06j2hm0mvbwh5wt",
@@ -9759,6 +9759,17 @@
     }
   ],
   "history": [
+    {
+      "id": "eaitdlqmvepdb12",
+      "ts": 1792381000214,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "GRAPE SEEDLESS 5KG",
+      "no": "87",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "v7afv5zmvepcfa0",
       "ts": 1792380959064,
