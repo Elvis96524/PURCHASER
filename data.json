@@ -9738,12 +9738,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792377397234
+        },
+        {
+          "id": "s1fe2gcmven8rhd",
+          "added": 1792377429025,
+          "addedBy": "farah",
+          "name": "3M STAINLESS STEEL CLEANER & POLISH SPRAY",
+          "no": "24",
+          "qty": 1,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792377429025
         }
       ],
       "updated": 1792377111964
     }
   ],
   "history": [
+    {
+      "id": "vrhcs8imven8rhd",
+      "ts": 1792377429025,
+      "by": "farah",
+      "vid": "i1ygtcrmven1yu4",
+      "vname": "Sk geotek - cleaning",
+      "action": "added",
+      "item": "3M STAINLESS STEEL CLEANER & POLISH SPRAY",
+      "no": "24",
+      "detail": "Qty 1 BTL, Dry"
+    },
     {
       "id": "pxfccsumven82ya",
       "ts": 1792377397234,
