@@ -9370,9 +9370,9 @@
           "unit": "Loaf",
           "category": "Dry",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792216471758
+          "updated": 1792381112739
         },
         {
           "id": "70ufiupmvbw93wt",
@@ -9759,6 +9759,17 @@
     }
   ],
   "history": [
+    {
+      "id": "j1racpzmvepfpur",
+      "ts": 1792381112739,
+      "by": "farah",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "Gardenia",
+      "no": "",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "eaitdlqmvepdb12",
       "ts": 1792381000214,
