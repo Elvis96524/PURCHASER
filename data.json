@@ -9586,9 +9586,9 @@
           "unit": "ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792212006061
+          "updated": 1792372841579
         },
         {
           "id": "c4kiexjmvbwrjy5",
@@ -9665,6 +9665,17 @@
     }
   ],
   "history": [
+    {
+      "id": "glggykemvekifsb",
+      "ts": 1792372841579,
+      "by": "chelson",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "status",
+      "item": "daun pucuk ubi",
+      "no": "26",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "zx8n0zomvekid9h",
       "ts": 1792372838309,
