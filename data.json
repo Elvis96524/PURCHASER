@@ -9482,6 +9482,20 @@
           "status": "received",
           "notes": "",
           "updated": 1792223645748
+        },
+        {
+          "id": "viwq0pjmveit53a",
+          "added": 1792369981702,
+          "addedBy": "chelson",
+          "name": "BOH iceemon tea",
+          "no": "96",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792369981702
         }
       ],
       "updated": 1792211903183
@@ -9621,6 +9635,17 @@
     }
   ],
   "history": [
+    {
+      "id": "thxh0uzmveit53a",
+      "ts": 1792369981702,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "added",
+      "item": "BOH iceemon tea",
+      "no": "96",
+      "detail": "Qty 2 Pkt, Dry"
+    },
     {
       "id": "f0r1pj3mvei68w7",
       "ts": 1792368913543,
