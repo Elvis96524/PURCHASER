@@ -9682,12 +9682,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792377276386
+        },
+        {
+          "id": "rk20b6qmven6437",
+          "added": 1792377305395,
+          "addedBy": "farah",
+          "name": "DETTOL FLOOR CLEANER 1.5L",
+          "no": "8",
+          "qty": 8,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792377305395
         }
       ],
       "updated": 1792377111964
     }
   ],
   "history": [
+    {
+      "id": "o0239d4mven6437",
+      "ts": 1792377305395,
+      "by": "farah",
+      "vid": "i1ygtcrmven1yu4",
+      "vname": "Sk geotek - cleaning",
+      "action": "added",
+      "item": "DETTOL FLOOR CLEANER 1.5L",
+      "no": "8",
+      "detail": "Qty 8 BTL, Dry"
+    },
     {
       "id": "d2ses8kmven5bfo",
       "ts": 1792377268260,
