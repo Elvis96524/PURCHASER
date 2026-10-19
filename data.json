@@ -9510,6 +9510,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792369981702
+        },
+        {
+          "id": "4qswakwmveivdf6",
+          "added": 1792370085810,
+          "addedBy": "chelson",
+          "name": "Yogurt 130",
+          "no": "",
+          "qty": 20,
+          "unit": "Cup",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792370085810
         }
       ],
       "updated": 1792211903183
@@ -9649,6 +9663,17 @@
     }
   ],
   "history": [
+    {
+      "id": "jydj04bmveivdf6",
+      "ts": 1792370085810,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "added",
+      "item": "Yogurt 130",
+      "no": "",
+      "detail": "Qty 20 Cup, Chiller"
+    },
     {
       "id": "804nvr4mveiu7gi",
       "ts": 1792370031426,
