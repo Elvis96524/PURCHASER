@@ -9679,9 +9679,10 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792377276386
+          "updated": 1792378628546,
+          "updatedBy": "chelson"
         },
         {
           "id": "rk20b6qmven6437",
@@ -9758,6 +9759,17 @@
     }
   ],
   "history": [
+    {
+      "id": "gunbu9lmvenyh1e",
+      "ts": 1792378628546,
+      "by": "chelson",
+      "vid": "i1ygtcrmven1yu4",
+      "vname": "Sk geotek - cleaning",
+      "action": "status",
+      "item": "CLOROX BLEACH 1L",
+      "no": "6",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "rh35igamvene90z",
       "ts": 1792377685043,
