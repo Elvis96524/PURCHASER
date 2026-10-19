@@ -8717,6 +8717,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792395569316
+        },
+        {
+          "id": "37bn1bdmvey1tvm",
+          "added": 1792395581314,
+          "addedBy": "chelson",
+          "name": "Pegaga",
+          "no": "",
+          "qty": 10,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792395581314
         }
       ],
       "updated": 1792134619866
@@ -9748,6 +9762,17 @@
     }
   ],
   "history": [
+    {
+      "id": "eo987jimvey1tvm",
+      "ts": 1792395581314,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "added",
+      "item": "Pegaga",
+      "no": "",
+      "detail": "Qty 10 Ikat, Chiller"
+    },
     {
       "id": "6bh70d4mvey1kmc",
       "ts": 1792395569316,
