@@ -9101,6 +9101,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792135767403
+        },
+        {
+          "id": "1b4gyqkmvewpbew",
+          "added": 1792393317896,
+          "addedBy": "chelson",
+          "name": "PVC APRON",
+          "no": "66",
+          "qty": 2,
+          "unit": "Pcs",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792393317896
         }
       ],
       "updated": 1792135551411
@@ -9622,6 +9636,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xrhj260mvewpbew",
+      "ts": 1792393317896,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "PVC APRON",
+      "no": "66",
+      "detail": "Qty 2 Pcs, Dry"
+    },
     {
       "id": "9sv5k1ymvewj4il",
       "ts": 1792393029021,
