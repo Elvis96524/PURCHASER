@@ -7891,6 +7891,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792054261292
+        },
+        {
+          "id": "wh99swumvei0c0q",
+          "added": 1792368637658,
+          "addedBy": "chelson",
+          "name": "Raja",
+          "no": "",
+          "qty": 10,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792368637657
         }
       ],
       "updated": 1791946670504
@@ -9467,6 +9481,17 @@
     }
   ],
   "history": [
+    {
+      "id": "w6xq5udmvei0c0q",
+      "ts": 1792368637658,
+      "by": "chelson",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "added",
+      "item": "Raja",
+      "no": "",
+      "detail": "Qty 10 Ikat, Chiller"
+    },
     {
       "id": "pmq5e1ymvehta24",
       "ts": 1792368308524,
