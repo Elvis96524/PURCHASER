@@ -8112,7 +8112,8 @@
           "updated": 1792119472199
         }
       ],
-      "updated": 1791947930176
+      "deleted": true,
+      "updated": 1792376780369
     },
     {
       "id": "8649sz5mv8ujshy",
@@ -9666,6 +9667,17 @@
     }
   ],
   "history": [
+    {
+      "id": "9s3jcbwmvemuuz5",
+      "ts": 1792376780369,
+      "by": "fathin",
+      "vid": "wm6h00wmv7jj41s",
+      "vname": "BELAIT PSV 2",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "3sqgv26mvekp7tt",
       "ts": 1792373157857,
