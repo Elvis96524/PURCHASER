@@ -9572,9 +9572,9 @@
           "unit": "kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792211984494
+          "updated": 1792372838309
         },
         {
           "id": "gli9lxamvbwr6b1",
@@ -9665,6 +9665,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zx8n0zomvekid9h",
+      "ts": 1792372838309,
+      "by": "chelson",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "status",
+      "item": "daun ketumbar",
+      "no": "18",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "7av63tdmveki77c",
       "ts": 1792372830456,
