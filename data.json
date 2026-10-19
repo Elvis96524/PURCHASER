@@ -9452,9 +9452,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792211725326
+          "updated": 1792372793883
         },
         {
           "id": "j9wowjzmvbwllbp",
@@ -9480,9 +9480,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792221566058
+          "updated": 1792372798169
         },
         {
           "id": "do8qpgvmvbwnhsm",
@@ -9666,6 +9666,17 @@
   ],
   "history": [
     {
+      "id": "wbgfuldmvekhiah",
+      "ts": 1792372798169,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "KUCHAI",
+      "no": "24",
+      "detail": "Status: Ordered → Received"
+    },
+    {
       "id": "6e3x8zdmvekhfdl",
       "ts": 1792372794393,
       "by": "farah",
@@ -9675,6 +9686,17 @@
       "item": "Yogurt 130",
       "no": "",
       "detail": "Qty 20 → 40"
+    },
+    {
+      "id": "nzq682kmvekhezf",
+      "ts": 1792372793883,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "DAUN SUP",
+      "no": "17",
+      "detail": "Status: To buy → Received"
     },
     {
       "id": "4m9bsxrmvekhaad",
