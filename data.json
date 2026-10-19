@@ -9438,9 +9438,9 @@
           "unit": "PCS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792211884621
+          "updated": 1792372787797
         },
         {
           "id": "rcza0mgmvbwl5ou",
@@ -9664,6 +9664,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4m9bsxrmvekhaad",
+      "ts": 1792372787797,
+      "by": "chelson",
+      "vid": "dwjcsv9mvbqvfvv",
+      "vname": "SK GEOTEK - NOV 1ST ORDER",
+      "action": "status",
+      "item": "BUNGA KANTAN",
+      "no": "14",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "3ta9hximvejx61b",
       "ts": 1792371849167,
