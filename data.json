@@ -9073,9 +9073,9 @@
           "unit": "Cup",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792370031426
+          "updated": 1792385711153
         }
       ],
       "updated": 1792198246523
@@ -9761,6 +9761,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yqkdn8dmves6a0h",
+      "ts": 1792385711153,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "status",
+      "item": "Yogurt 130gm",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "8wqd99vmves665j",
       "ts": 1792385706151,
