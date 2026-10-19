@@ -3175,6 +3175,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792368782718
+        },
+        {
+          "id": "a7i14lgmvei3smw",
+          "added": 1792368799160,
+          "addedBy": "chelson",
+          "name": "Pakis",
+          "no": "",
+          "qty": 4,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792368799160
         }
       ],
       "updated": 1790740894967
@@ -9537,6 +9551,17 @@
     }
   ],
   "history": [
+    {
+      "id": "b7ctkdbmvei3smw",
+      "ts": 1792368799160,
+      "by": "chelson",
+      "vid": "iqg9t84munkw5pz",
+      "vname": "Sk pinnacle (OCT 2ND)11/9/26",
+      "action": "added",
+      "item": "Pakis",
+      "no": "",
+      "detail": "Qty 4 Ikat, Chiller"
+    },
     {
       "id": "88x09emmvei3fy6",
       "ts": 1792368782718,
