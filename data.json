@@ -8043,9 +8043,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792368648515
+          "updated": 1792373157857
         }
       ],
       "updated": 1791946670504
@@ -9665,6 +9665,17 @@
     }
   ],
   "history": [
+    {
+      "id": "3sqgv26mvekp7tt",
+      "ts": 1792373157857,
+      "by": "chelson",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "Pegaga",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "wydf17smvekovum",
       "ts": 1792373142334,
