@@ -3389,130 +3389,48 @@
       "items": [
         {
           "id": "p0uo1numuqdx681",
-          "added": 1790910583489,
-          "addedBy": "chelson",
-          "name": "Bamboo shoots 552gm",
-          "no": "23",
-          "qty": 3,
-          "unit": "Tin",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1791527701629
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "0uvcn05muqdy3oz",
-          "added": 1790910626867,
-          "addedBy": "chelson",
-          "name": "Muruku 900gm ( Offer muruku popo 12gx24's)",
-          "no": "36",
-          "qty": 5,
-          "unit": "Pkt",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1792217602541,
-          "updatedBy": "farah"
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "484mvhqmuqdyr5v",
-          "added": 1790910657283,
-          "addedBy": "chelson",
-          "name": "Banana cake",
-          "no": "37",
-          "qty": 5,
-          "unit": "Pkt",
-          "category": "Frozen",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1792226252711
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "z9drkuomuqe2zav",
-          "added": 1790910854455,
-          "addedBy": "chelson",
-          "name": "D.kemangin",
-          "no": "24",
-          "qty": 3,
-          "unit": "Ikat",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "na",
-          "notes": "",
-          "updated": 1792202300373
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "o533w1cmuqe3tpq",
-          "added": 1790910893870,
-          "addedBy": "chelson",
-          "name": "Kucai",
-          "no": "26",
-          "qty": 1,
-          "unit": "Kg",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "ordered",
-          "notes": "",
-          "updated": 1792221589189
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "voerv0zmuqe4fsq",
-          "added": 1790910922490,
-          "addedBy": "chelson",
-          "name": "Pakis",
-          "no": "29",
-          "qty": 5,
-          "unit": "Ikat",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "na",
-          "notes": "",
-          "updated": 1792202305146
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "mo09xkpmuqe5aka",
-          "added": 1790910962362,
-          "addedBy": "chelson",
-          "name": "Salam",
-          "no": "30",
-          "qty": 5,
-          "unit": "Ikat",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1792202309276
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "0q2msifmuqe76o8",
-          "added": 1790911050632,
-          "addedBy": "chelson",
-          "name": "Jantung pisang",
-          "no": "40",
-          "qty": 2,
-          "unit": "Nos",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1792200888606
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "6eiz4emmuqe7xpp",
-          "added": 1790911085677,
-          "addedBy": "chelson",
-          "name": "Nangka muda",
-          "no": "53",
-          "qty": 2,
-          "unit": "Pkt",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1792202323007
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "xthnvfsmuqifwoc",
@@ -3521,157 +3439,58 @@
         },
         {
           "id": "47ugtlomuqijn2e",
-          "added": 1790918350214,
-          "addedBy": "chelson",
-          "name": "Gardenia",
-          "no": "38",
-          "qty": 15,
-          "unit": "Loaf",
-          "category": "Frozen",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1792380959064
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "xo99d5gmuqikwk9",
-          "added": 1790918409177,
-          "addedBy": "chelson",
-          "name": "Oreo vanilla Kraft 137gm",
-          "no": "46",
-          "qty": 5,
-          "unit": "Pkt",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1791524936411
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "rl01b3vmuqilm9t",
-          "added": 1790918442497,
-          "addedBy": "chelson",
-          "name": "Chipmore biscuits Kraft 180gm",
-          "no": "47",
-          "qty": 5,
-          "unit": "Pkt",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1791524933429
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "ghxk44rmuqimfv4",
-          "added": 1790918480848,
-          "addedBy": "chelson",
-          "name": "Dragon fruit red",
-          "no": "49",
-          "qty": 3,
-          "unit": "Kg",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1792202320088
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "y31s90vmvbn7cge",
-          "added": 1792195964366,
-          "addedBy": "chelson",
-          "name": "Limau nipis",
-          "no": "",
-          "qty": 1,
-          "unit": "Kg",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1792198802519
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "js0hrcomvbn8ina",
-          "added": 1792196019046,
-          "addedBy": "chelson",
-          "name": "Tempe",
-          "no": "",
-          "qty": 15,
-          "unit": "Pkt",
-          "category": "Frozen",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1792202330288
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "sat4rfmmvbn969l",
-          "added": 1792196049657,
-          "addedBy": "chelson",
-          "name": "Yogurt 135g",
-          "no": "",
-          "qty": 15,
-          "unit": "Cup",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "received",
-          "notes": "Store have",
-          "updated": 1792221632006
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "jhk7sytmvbrtuq8",
-          "added": 1792203732944,
-          "addedBy": "farah",
-          "name": "CELERY TABLE",
-          "no": "17",
-          "qty": 2,
-          "unit": "KG",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792203732944
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "ripr0e6mvbrv3se",
-          "added": 1792203791342,
-          "addedBy": "farah",
-          "name": "DAUN SELOM",
-          "no": "21",
-          "qty": 2,
-          "unit": "IKAT",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "na",
-          "notes": "",
-          "updated": 1792204287355
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "6zugiaxmvbrxmxt",
-          "added": 1792203909473,
-          "addedBy": "farah",
-          "name": "PETAI",
-          "no": "56",
-          "qty": 2,
-          "unit": "KG",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "na",
-          "notes": "",
-          "updated": 1792221609254
+          "deleted": true,
+          "updated": 1792392880758
         },
         {
           "id": "9lpbruhmvbsthsw",
-          "added": 1792205395808,
-          "addedBy": "farah",
-          "name": "GREEN CHILLI",
-          "no": "38",
-          "qty": 1,
-          "unit": "KG",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1792221601748
+          "deleted": true,
+          "updated": 1792392880758
         }
       ],
       "updated": 1792195172157
@@ -9761,6 +9580,17 @@
     }
   ],
   "history": [
+    {
+      "id": "osdrtzkmvewfy46",
+      "ts": 1792392880758,
+      "by": "chelson",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence OCT 2ND ORDER L 19/10/26",
+      "action": "cleared",
+      "item": "",
+      "no": "",
+      "detail": "Removed 20 items: Bamboo shoots 552gm, Muruku 900gm ( Offer muruku popo 12gx24's), Banana cake, D.kemangin, Kucai, Pakis, +14 more"
+    },
     {
       "id": "vm7iifwmves73xm",
       "ts": 1792385749930,
