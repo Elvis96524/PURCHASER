@@ -7905,6 +7905,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792368637657
+        },
+        {
+          "id": "g9iyrymmvei0keb",
+          "added": 1792368648515,
+          "addedBy": "chelson",
+          "name": "Pegaga",
+          "no": "",
+          "qty": 10,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792368648515
         }
       ],
       "updated": 1791946670504
@@ -9481,6 +9495,17 @@
     }
   ],
   "history": [
+    {
+      "id": "odv5oq1mvei0keb",
+      "ts": 1792368648515,
+      "by": "chelson",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "added",
+      "item": "Pegaga",
+      "no": "",
+      "detail": "Qty 10 Ikat, Chiller"
+    },
     {
       "id": "w6xq5udmvei0c0q",
       "ts": 1792368637658,
