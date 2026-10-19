@@ -8015,9 +8015,9 @@
           "unit": "BDL",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792375374624,
+          "updated": 1792382206774,
           "updatedBy": "chelson"
         },
         {
@@ -9759,6 +9759,17 @@
     }
   ],
   "history": [
+    {
+      "id": "v7b6c5smveq360m",
+      "ts": 1792382206774,
+      "by": "chelson",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "PUCUK PAKU PAKIS",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "mo41nezmveq2rbn",
       "ts": 1792382187731,
