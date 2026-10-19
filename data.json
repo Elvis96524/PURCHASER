@@ -7873,9 +7873,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792368308524
+          "updated": 1792373142334
         },
         {
           "id": "py6brxfmv7elg0d",
@@ -9665,6 +9665,17 @@
     }
   ],
   "history": [
+    {
+      "id": "wydf17smvekovum",
+      "ts": 1792373142334,
+      "by": "chelson",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "TEMPE",
+      "no": "53",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "d2dnh6nmvekoo61",
       "ts": 1792373132377,
