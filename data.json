@@ -8782,9 +8782,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135109875
+          "updated": 1792482935234
         },
         {
           "id": "6d09zl9mvamzdzm",
@@ -9803,6 +9803,17 @@
     }
   ],
   "history": [
+    {
+      "id": "s7lc7ihmvge24le",
+      "ts": 1792482935234,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "status",
+      "item": "BUDU 200GM",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ssmz9hjmvgcfl03",
       "ts": 1792480203795,
