@@ -7781,9 +7781,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791939640909
+          "updated": 1792486013121
         },
         {
           "id": "5pzj759mv7f9ih2",
@@ -9804,6 +9804,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4k6f8vimvgfw3i9",
+      "ts": 1792486013121,
+      "by": "lim",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "PISANG EMAS",
+      "no": "63",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "nm5l7z8mvgfvwjt",
       "ts": 1792486004105,
