@@ -7925,9 +7925,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792368637657
+          "updated": 1792486075193
         },
         {
           "id": "g9iyrymmvei0keb",
@@ -9805,6 +9805,17 @@
     }
   ],
   "history": [
+    {
+      "id": "2id95ugmvgfxfeh",
+      "ts": 1792486075193,
+      "by": "lim",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "Raja",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "7upfaa7mvgfx5wx",
       "ts": 1792486062897,
