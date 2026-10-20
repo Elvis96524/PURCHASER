@@ -8244,9 +8244,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792128576970
+          "updated": 1792486153633
         },
         {
           "id": "49eqrwvmv949d46",
@@ -9806,6 +9806,17 @@
     }
   ],
   "history": [
+    {
+      "id": "uzxngnumvgfz3xd",
+      "ts": 1792486153633,
+      "by": "lim",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "TEMPE",
+      "no": "",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "l04j60lmvgfyrmx",
       "ts": 1792486137705,
