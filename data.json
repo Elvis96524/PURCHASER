@@ -9037,9 +9037,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792395233829
+          "updated": 1792483378037
         },
         {
           "id": "qu6q9y0mvexum69",
@@ -9803,6 +9803,17 @@
     }
   ],
   "history": [
+    {
+      "id": "fwe8d92mvgebm9h",
+      "ts": 1792483378037,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "status",
+      "item": "Raja",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "21pyvvamvgebiin",
       "ts": 1792483373183,
