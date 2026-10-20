@@ -9676,7 +9676,8 @@
           "updated": 1792212145782
         }
       ],
-      "updated": 1792211919550
+      "deleted": true,
+      "updated": 1792459559745
     },
     {
       "id": "i1ygtcrmven1yu4",
@@ -9774,6 +9775,17 @@
     }
   ],
   "history": [
+    {
+      "id": "im6xefymvg053y9",
+      "ts": 1792459559745,
+      "by": "farah",
+      "vid": "7hud5k7mvbwpbjy",
+      "vname": "SK GEOTEK - NOV 2ND ORDER",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "exnztoymvg0514i",
       "ts": 1792459556082,
