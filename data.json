@@ -9066,7 +9066,7 @@
           "id": "hgm8tglmvan8w0c",
           "added": 1792135570188,
           "addedBy": "fathin",
-          "name": "SPRITE 325ML",
+          "name": "SPRITE 325ML x12's",
           "no": "BBQ",
           "qty": 2,
           "unit": "CTN",
@@ -9074,7 +9074,7 @@
           "priority": "normal",
           "status": "received",
           "notes": "Offer",
-          "updated": 1792480171959,
+          "updated": 1792480186991,
           "updatedBy": "chelson"
         },
         {
@@ -9803,6 +9803,17 @@
     }
   ],
   "history": [
+    {
+      "id": "47gmkpvmvgcf81c",
+      "ts": 1792480186992,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "edited",
+      "item": "SPRITE 325ML x12's",
+      "no": "BBQ",
+      "detail": "Name \"SPRITE 325ML\" → \"SPRITE 325ML x12's\""
+    },
     {
       "id": "3va8ffbmvgcewfr",
       "ts": 1792480171959,
