@@ -3571,7 +3571,8 @@
           "updated": 1791011192872
         }
       ],
-      "updated": 1790910729785
+      "deleted": true,
+      "updated": 1792459419506
     },
     {
       "id": "r2k4b9rmuqiw3o0",
@@ -9768,6 +9769,17 @@
     }
   ],
   "history": [
+    {
+      "id": "hynrtshmvg023qq",
+      "ts": 1792459419506,
+      "by": "farah",
+      "vid": "adwwr0qmuqe0b3t",
+      "vname": "Sk Plenty OCT 2ND ORDER",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "unfdixcmvg01xbv",
       "ts": 1792459411195,
