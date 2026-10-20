@@ -6923,7 +6923,8 @@
           "updated": 1791940121786
         }
       ],
-      "updated": 1791789282604
+      "deleted": true,
+      "updated": 1792459447346
     },
     {
       "id": "9gxyop0mv4yge8f",
@@ -9769,6 +9770,17 @@
     }
   ],
   "history": [
+    {
+      "id": "0vpl9zwmvg02p82",
+      "ts": 1792459447346,
+      "by": "farah",
+      "vid": "jqrlhw2mv4x2qss",
+      "vname": "Power (NOVEMBER)",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "hynrtshmvg023qq",
       "ts": 1792459419506,
