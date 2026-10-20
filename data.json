@@ -9073,9 +9073,9 @@
           "unit": "PCS",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135608059
+          "updated": 1792476371117
         },
         {
           "id": "a4cu7uxmvana8eb",
@@ -9775,6 +9775,17 @@
     }
   ],
   "history": [
+    {
+      "id": "m43z7pmmvga5fot",
+      "ts": 1792476371117,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "PLASTIC HAND BRUSH",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "im6xefymvg053y9",
       "ts": 1792459559745,
