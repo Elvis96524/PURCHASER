@@ -3414,7 +3414,7 @@
     },
     {
       "id": "pjhc1ssmuqdwfkb",
-      "name": "Sk prudence NOV 1ST ORDER",
+      "name": "Sk prudence - NOV 1ST",
       "items": [
         {
           "id": "p0uo1numuqdx681",
@@ -3564,7 +3564,7 @@
           "updated": 1792393029020
         }
       ],
-      "updated": 1792392925920
+      "updated": 1792486281968
     },
     {
       "id": "adwwr0qmuqe0b3t",
@@ -9807,6 +9807,17 @@
     }
   ],
   "history": [
+    {
+      "id": "z1za5ommvgg1uy8",
+      "ts": 1792486281968,
+      "by": "lim",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence - NOV 1ST",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"Sk prudence NOV 1ST ORDER\" to \"Sk prudence - NOV 1ST\""
+    },
     {
       "id": "6ucn81vmvgg1jxc",
       "ts": 1792486267680,
