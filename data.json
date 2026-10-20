@@ -9234,9 +9234,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792395333238
+          "updated": 1792483407250
         },
         {
           "id": "4qy37abmvexxitd",
@@ -9248,9 +9248,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792395380353
+          "updated": 1792483409437
         },
         {
           "id": "ahkplufmvexxsxi",
@@ -9803,6 +9803,28 @@
     }
   ],
   "history": [
+    {
+      "id": "2mczozmmvgecahp",
+      "ts": 1792483409437,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "Raja",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "mo4iskymvgec8sy",
+      "ts": 1792483407250,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "Kesum",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "q2s03hpmvgec04r",
       "ts": 1792483396011,
