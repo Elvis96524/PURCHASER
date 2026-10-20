@@ -8479,9 +8479,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792194727943
+          "updated": 1792483428916
         },
         {
           "id": "knh0a47mvamprqa",
@@ -9803,6 +9803,17 @@
     }
   ],
   "history": [
+    {
+      "id": "9ivzbhrmvgecpis",
+      "ts": 1792483428916,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "status",
+      "item": "BELACAN 250GM",
+      "no": "",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "n4vpqkdmvgecc0m",
       "ts": 1792483411414,
