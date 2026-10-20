@@ -7502,7 +7502,8 @@
           "updated": 1791945792350
         }
       ],
-      "updated": 1791869163725
+      "deleted": true,
+      "updated": 1792459541170
     },
     {
       "id": "tptuuc9mv6aj647",
@@ -9771,6 +9772,17 @@
     }
   ],
   "history": [
+    {
+      "id": "s6cfg11mvg04pma",
+      "ts": 1792459541170,
+      "by": "farah",
+      "vid": "wv4asgcmv68mvgt",
+      "vname": "Prodigy",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "g8f4vecmvg044hv",
       "ts": 1792459513795,
