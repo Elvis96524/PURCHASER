@@ -5209,7 +5209,7 @@
     },
     {
       "id": "lzgt4qymuuwbvzg",
-      "name": "SK PERFECT ( OCT 2ND ORDER )",
+      "name": "SK PERFECT - OCT 2ND",
       "items": [
         {
           "id": "xaqickqmuuwdhzw",
@@ -5704,7 +5704,7 @@
           "updated": 1791185473842
         }
       ],
-      "updated": 1791183367852
+      "updated": 1792486294624
     },
     {
       "id": "7e83qekmuvwen21",
@@ -9807,6 +9807,17 @@
     }
   ],
   "history": [
+    {
+      "id": "a7zfzsxmvgg24ps",
+      "ts": 1792486294624,
+      "by": "lim",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"SK PERFECT ( OCT 2ND ORDER )\" to \"SK PERFECT - OCT 2ND\""
+    },
     {
       "id": "z1za5ommvgg1uy8",
       "ts": 1792486281968,
