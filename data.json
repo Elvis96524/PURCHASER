@@ -8471,7 +8471,7 @@
     },
     {
       "id": "xtft4mwmvamoiqi",
-      "name": "PETRO DIAMOND",
+      "name": "PETRO DIAMOND ( LOADING : 21/10/2026 )",
       "items": [
         {
           "id": "dalh2nrmvampbhg",
@@ -8770,7 +8770,7 @@
           "updated": 1792395581314
         }
       ],
-      "updated": 1792134619866
+      "updated": 1792486236328
     },
     {
       "id": "xq0m6kpmvamynju",
@@ -9807,6 +9807,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7eaam2smvgg0vqg",
+      "ts": 1792486236328,
+      "by": "lim",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND ( LOADING : 21/10/2026 )",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"PETRO DIAMOND\" to \"PETRO DIAMOND ( LOADING : 21/10/2026 )\""
+    },
     {
       "id": "l3c7in2mvgg0irk",
       "ts": 1792486219520,
