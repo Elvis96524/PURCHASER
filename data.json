@@ -9023,9 +9023,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792395178885
+          "updated": 1792483373183
         },
         {
           "id": "ar0bma3mvexudr9",
@@ -9803,6 +9803,17 @@
     }
   ],
   "history": [
+    {
+      "id": "21pyvvamvgebiin",
+      "ts": 1792483373183,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "status",
+      "item": "Kesum",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "xj5sogymvgeb9mw",
       "ts": 1792483361672,
