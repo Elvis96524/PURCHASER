@@ -8868,9 +8868,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Left 1twin pack",
-          "updated": 1792385689516,
+          "updated": 1792484250109,
           "updatedBy": "chelson"
         },
         {
@@ -9803,6 +9803,17 @@
     }
   ],
   "history": [
+    {
+      "id": "d6478x6mvgeub5p",
+      "ts": 1792484250109,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "status",
+      "item": "ASSORTED VITAGEN LESS SUGAR",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "q1nvsicmvgecvfu",
       "ts": 1792483436586,
