@@ -8202,9 +8202,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792043141318
+          "updated": 1792486137705
         },
         {
           "id": "185xublmv9483im",
@@ -9806,6 +9806,17 @@
     }
   ],
   "history": [
+    {
+      "id": "l04j60lmvgfyrmx",
+      "ts": 1792486137705,
+      "by": "lim",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "status",
+      "item": "BEAN SPROUTS",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "2gpnim5mvgfxnig",
       "ts": 1792486085704,
