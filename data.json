@@ -8324,7 +8324,8 @@
           "updated": 1792127730955
         }
       ],
-      "updated": 1792043310182
+      "deleted": true,
+      "updated": 1792486174720
     },
     {
       "id": "4y15j3mmva75ek7",
@@ -9806,6 +9807,17 @@
     }
   ],
   "history": [
+    {
+      "id": "1y4nysmmvgfzk74",
+      "ts": 1792486174720,
+      "by": "lim",
+      "vid": "eixhlnlmv941lae",
+      "vname": "MV ALYA ( 17.10.2026 )",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "l5tq5n6mvgfz9bt",
       "ts": 1792486160633,
