@@ -3131,9 +3131,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792455748512
+          "updated": 1792476501279
         },
         {
           "id": "ovzcy23mvei2pk7",
@@ -9789,6 +9789,17 @@
     }
   ],
   "history": [
+    {
+      "id": "091sk6nmvga884f",
+      "ts": 1792476501279,
+      "by": "chelson",
+      "vid": "iqg9t84munkw5pz",
+      "vname": "Sk pinnacle (OCT 2ND)11/9/26",
+      "action": "status",
+      "item": "Keropok ikan terengganu 500gm ( Offer: Asst. Kerepek Ubi )",
+      "no": "28",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "uo4vygfmvga79cp",
       "ts": 1792476456217,
