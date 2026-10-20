@@ -8621,9 +8621,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792134870434
+          "updated": 1792477091202
         },
         {
           "id": "1cq73l9mvamu7bm",
@@ -9789,6 +9789,17 @@
     }
   ],
   "history": [
+    {
+      "id": "grk5ztumvgakvb6",
+      "ts": 1792477091202,
+      "by": "chelson",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND",
+      "action": "status",
+      "item": "CHIA SEED 1KG/PKT",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "091sk6nmvga884f",
       "ts": 1792476501279,
