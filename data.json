@@ -9804,9 +9804,26 @@
       ],
       "deleted": true,
       "updated": 1792459556082
+    },
+    {
+      "id": "77yyotumvhci5ro",
+      "name": "Sk majestic OCT 21-03NOV",
+      "items": [],
+      "updated": 1792540790196
     }
   ],
   "history": [
+    {
+      "id": "t9u570xmvhci5ro",
+      "ts": 1792540790196,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic OCT 21-03NOV",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "a7zfzsxmvgg24ps",
       "ts": 1792486294624,
