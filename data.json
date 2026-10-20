@@ -7824,8 +7824,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1791940843835
+          "notes": "OFFER 80GM AJI-SHIO 30BTL",
+          "updated": 1792486059504,
+          "updatedBy": "lim"
         },
         {
           "id": "cey14aomv7fbn4b",
@@ -9804,6 +9805,17 @@
     }
   ],
   "history": [
+    {
+      "id": "g0ril7zmvgfx3ao",
+      "ts": 1792486059504,
+      "by": "lim",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "edited",
+      "item": "WHITE PEPPER POWDER 500GM ( Change to Aji Shio flavour pepper powder 250gm-300gm)",
+      "no": "",
+      "detail": "Notes changed"
+    },
     {
       "id": "hkqin55mvgfwf7l",
       "ts": 1792486028289,
