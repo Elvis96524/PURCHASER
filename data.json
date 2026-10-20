@@ -3260,6 +3260,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792368913543
+        },
+        {
+          "id": "grzht35mvga79cp",
+          "added": 1792476456217,
+          "addedBy": "farah",
+          "name": "MANGO",
+          "no": "5",
+          "qty": 11,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792476456217
         }
       ],
       "updated": 1790740894967
@@ -9775,6 +9789,17 @@
     }
   ],
   "history": [
+    {
+      "id": "uo4vygfmvga79cp",
+      "ts": 1792476456217,
+      "by": "farah",
+      "vid": "iqg9t84munkw5pz",
+      "vname": "Sk pinnacle (OCT 2ND)11/9/26",
+      "action": "added",
+      "item": "MANGO",
+      "no": "5",
+      "detail": "Qty 11 KG, Chiller"
+    },
     {
       "id": "m43z7pmmvga5fot",
       "ts": 1792476371117,
