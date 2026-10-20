@@ -8456,7 +8456,8 @@
           "updated": 1792380942060
         }
       ],
-      "updated": 1792195227656
+      "deleted": true,
+      "updated": 1792485953888
     },
     {
       "id": "gdftq8gmvad266j",
@@ -9803,6 +9804,17 @@
     }
   ],
   "history": [
+    {
+      "id": "t63slxnmvgfutsw",
+      "ts": 1792485953888,
+      "by": "lim",
+      "vid": "4y15j3mmva75ek7",
+      "vname": "Joyful L 19/10/26",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "d6478x6mvgeub5p",
       "ts": 1792484250109,
