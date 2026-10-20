@@ -9769,10 +9769,22 @@
           "updated": 1792379375800
         }
       ],
-      "updated": 1792377111964
+      "deleted": true,
+      "updated": 1792459556082
     }
   ],
   "history": [
+    {
+      "id": "exnztoymvg0514i",
+      "ts": 1792459556082,
+      "by": "farah",
+      "vid": "i1ygtcrmven1yu4",
+      "vname": "Sk geotek - cleaning",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "4p8uwucmvg04wc2",
       "ts": 1792459549874,
