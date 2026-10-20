@@ -8774,7 +8774,7 @@
     },
     {
       "id": "xq0m6kpmvamynju",
-      "name": "KEYFIELD WISDOM  ( LOADING DATE : 21/10/26 )",
+      "name": "KEYFIELD WISDOM  ( LOADING : 21/10/26 )",
       "items": [
         {
           "id": "f2o8uh2mvamz0tv",
@@ -9060,7 +9060,7 @@
           "updated": 1792483381138
         }
       ],
-      "updated": 1792486219520
+      "updated": 1792486242376
     },
     {
       "id": "ri992sdmvan8hir",
@@ -9807,6 +9807,17 @@
     }
   ],
   "history": [
+    {
+      "id": "n3g2cp7mvgg10eg",
+      "ts": 1792486242376,
+      "by": "lim",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING : 21/10/26 )",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"KEYFIELD WISDOM  ( LOADING DATE : 21/10/26 )\" to \"KEYFIELD WISDOM  ( LOADING : 21/10/26 )\""
+    },
     {
       "id": "7eaam2smvgg0vqg",
       "ts": 1792486236328,
