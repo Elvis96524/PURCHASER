@@ -7048,7 +7048,8 @@
           "updated": 1791861295726
         }
       ],
-      "updated": 1791791599119
+      "deleted": true,
+      "updated": 1792459513794
     },
     {
       "id": "iruqolnmv63yi4t",
@@ -9770,6 +9771,17 @@
     }
   ],
   "history": [
+    {
+      "id": "g8f4vecmvg044hv",
+      "ts": 1792459513795,
+      "by": "farah",
+      "vid": "9gxyop0mv4yge8f",
+      "vname": "Paladin(OCT 1ST ORDER)",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "0vpl9zwmvg02p82",
       "ts": 1792459447346,
