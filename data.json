@@ -9262,9 +9262,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792395393462
+          "updated": 1792483411414
         },
         {
           "id": "qg35udkmvf0lmy6",
@@ -9803,6 +9803,17 @@
     }
   ],
   "history": [
+    {
+      "id": "n4vpqkdmvgecc0m",
+      "ts": 1792483411414,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "Pegaga",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "2mczozmmvgecahp",
       "ts": 1792483409437,
