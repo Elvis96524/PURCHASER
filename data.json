@@ -409,7 +409,8 @@
           "updated": 1791857709007
         }
       ],
-      "updated": 1790131185241
+      "deleted": true,
+      "updated": 1792459411195
     },
     {
       "id": "c6s2najmuatsut3",
@@ -9767,6 +9768,17 @@
     }
   ],
   "history": [
+    {
+      "id": "unfdixcmvg01xbv",
+      "ts": 1792459411195,
+      "by": "farah",
+      "vid": "xgudgwhmuatp3g5",
+      "vname": "SK POWER (14/9)",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "aoj3gmrmvfxvf6o",
       "ts": 1792455748512,
