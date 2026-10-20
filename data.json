@@ -7865,9 +7865,9 @@
           "unit": "CUP",
           "category": "Dry",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792194829682,
+          "updated": 1792486002497,
           "updatedBy": "chelson"
         },
         {
@@ -7880,9 +7880,9 @@
           "unit": "CUP",
           "category": "Dry",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792194832293
+          "updated": 1792486004105
         },
         {
           "id": "n9tuhc4mv7fdoyb",
@@ -9804,6 +9804,28 @@
     }
   ],
   "history": [
+    {
+      "id": "nm5l7z8mvgfvwjt",
+      "ts": 1792486004105,
+      "by": "lim",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "MAGGI AYAM CUP",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: Ordered → Received"
+    },
+    {
+      "id": "s5gluygmvgfvvb5",
+      "ts": 1792486002497,
+      "by": "lim",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "MAGGI CURRY CUP",
+      "no": "FOR SUPERVISOR TEAM",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "t63slxnmvgfutsw",
       "ts": 1792485953888,
