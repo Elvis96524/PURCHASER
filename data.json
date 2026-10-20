@@ -9143,9 +9143,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "na",
+          "status": "received",
           "notes": "Offer",
-          "updated": 1792195001305,
+          "updated": 1792480203794,
           "updatedBy": "chelson"
         },
         {
@@ -9803,6 +9803,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ssmz9hjmvgcfl03",
+      "ts": 1792480203795,
+      "by": "chelson",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "SPRITE 325ML",
+      "no": "",
+      "detail": "Status: N/A → Received"
+    },
     {
       "id": "47gmkpvmvgcf81c",
       "ts": 1792480186992,
