@@ -7795,9 +7795,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792194841632
+          "updated": 1792486021145
         },
         {
           "id": "sn7sktbmv7f9v6b",
@@ -9804,6 +9804,17 @@
     }
   ],
   "history": [
+    {
+      "id": "lexmpyqmvgfw9p5",
+      "ts": 1792486021145,
+      "by": "lim",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "SANTAN KARA 1LT",
+      "no": "",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "4k6f8vimvgfw3i9",
       "ts": 1792486013121,
