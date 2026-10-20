@@ -7809,9 +7809,9 @@
           "unit": "BAG",
           "category": "Dry",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792194844575
+          "updated": 1792486028289
         },
         {
           "id": "0dmt6mrmv7fb86z",
@@ -9804,6 +9804,17 @@
     }
   ],
   "history": [
+    {
+      "id": "hkqin55mvgfwf7l",
+      "ts": 1792486028289,
+      "by": "lim",
+      "vid": "7qfufh5mv7ek2et",
+      "vname": "HELANG INTEGRATED PLATFORM (20/10/26)",
+      "action": "status",
+      "item": "BERAS BASMATHI 5KG",
+      "no": "",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "lexmpyqmvgfw9p5",
       "ts": 1792486021145,
