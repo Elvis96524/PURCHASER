@@ -8825,9 +8825,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135148859
+          "updated": 1792483353900
         },
         {
           "id": "1vtd05gmvan06uz",
@@ -9803,6 +9803,17 @@
     }
   ],
   "history": [
+    {
+      "id": "5ficu63mvgeb3n0",
+      "ts": 1792483353900,
+      "by": "chelson",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING DATE : 20/10/26 )",
+      "action": "status",
+      "item": "STAIN REMOVAL",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "s7lc7ihmvge24le",
       "ts": 1792482935234,
