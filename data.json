@@ -9968,12 +9968,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792546733602
+        },
+        {
+          "id": "fjynfuumvhg2ne8",
+          "added": 1792546785008,
+          "addedBy": "chelson",
+          "name": "S/steel spoon(quality)",
+          "no": "Gallery 10",
+          "qty": 15,
+          "unit": "Pcs",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792546785008
         }
       ],
       "updated": 1792545915654
     }
   ],
   "history": [
+    {
+      "id": "p246fbcmvhg2ne8",
+      "ts": 1792546785008,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "S/steel spoon(quality)",
+      "no": "Gallery 10",
+      "detail": "Qty 15 Pcs, Dry"
+    },
     {
       "id": "hp9nk54mvhg1jqa",
       "ts": 1792546733602,
