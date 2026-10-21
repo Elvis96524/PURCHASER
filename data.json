@@ -9910,6 +9910,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792547602330
+        },
+        {
+          "id": "qtiou3lmvhgkl28",
+          "added": 1792547621792,
+          "addedBy": "chelson",
+          "name": "Petai",
+          "no": "",
+          "qty": 5,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792547621792
         }
       ],
       "updated": 1792540790196
@@ -10105,6 +10119,17 @@
     }
   ],
   "history": [
+    {
+      "id": "i984s5qmvhgkl28",
+      "ts": 1792547621792,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic OCT 21-03NOV",
+      "action": "added",
+      "item": "Petai",
+      "no": "",
+      "detail": "Qty 5 Kg, Chiller"
+    },
     {
       "id": "b826x0jmvhgk61m",
       "ts": 1792547602330,
