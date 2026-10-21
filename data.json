@@ -9898,12 +9898,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792546168549
+        },
+        {
+          "id": "9phhf8zmvhfqpd2",
+          "added": 1792546227686,
+          "addedBy": "chelson",
+          "name": "Margarine 1kg",
+          "no": "Remark 2",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792546227686
         }
       ],
       "updated": 1792545915654
     }
   ],
   "history": [
+    {
+      "id": "fj1v17smvhfqpd3",
+      "ts": 1792546227687,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "Margarine 1kg",
+      "no": "Remark 2",
+      "detail": "Qty 2 Pkt, Dry"
+    },
     {
       "id": "qbvlwvpmvhfpfqe",
       "ts": 1792546168550,
