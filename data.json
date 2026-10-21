@@ -9811,7 +9811,7 @@
     },
     {
       "id": "77yyotumvhci5ro",
-      "name": "Sk majestic OCT 21-03NOV",
+      "name": "Sk majestic ( LOADING : 23/10/2026 )",
       "items": [
         {
           "id": "qxdaedimvhg7shl",
@@ -9927,7 +9927,7 @@
           "updated": 1792547621792
         }
       ],
-      "updated": 1792540790196
+      "updated": 1792552761701
     },
     {
       "id": "789fb2pmvhfj88g",
@@ -10167,6 +10167,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yxr64wgmvhjmr1h",
+      "ts": 1792552761701,
+      "by": "lim",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"Sk majestic OCT 21-03NOV\" to \"Sk majestic ( LOADING : 23/10/2026 )\""
+    },
     {
       "id": "wncf1blmvhiv316",
       "ts": 1792551470874,
