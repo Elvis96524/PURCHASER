@@ -8931,9 +8931,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135305587
+          "updated": 1792547126078
         },
         {
           "id": "gmhp0vlmvan3h2r",
@@ -10019,6 +10019,17 @@
     }
   ],
   "history": [
+    {
+      "id": "s0symllmvhg9yke",
+      "ts": 1792547126078,
+      "by": "lim",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING : 21/10/26 )",
+      "action": "status",
+      "item": "BEAN SPROUTS",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "inhc40wmvhg9sti",
       "ts": 1792547118630,
