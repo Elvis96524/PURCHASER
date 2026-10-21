@@ -9828,12 +9828,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792545987403
+        },
+        {
+          "id": "51cr9txmvhfmqhd",
+          "added": 1792546042513,
+          "addedBy": "chelson",
+          "name": "Banana cake",
+          "no": "64",
+          "qty": 4,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792546042513
         }
       ],
       "updated": 1792545915654
     }
   ],
   "history": [
+    {
+      "id": "bea9qzxmvhfmqhd",
+      "ts": 1792546042513,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "Banana cake",
+      "no": "64",
+      "detail": "Qty 4 Pkt, Frozen"
+    },
     {
       "id": "byemu3emvhfljyj",
       "ts": 1792545987403,
