@@ -9810,9 +9810,26 @@
       "name": "Sk majestic OCT 21-03NOV",
       "items": [],
       "updated": 1792540790196
+    },
+    {
+      "id": "789fb2pmvhfj88g",
+      "name": "Sk premier",
+      "items": [],
+      "updated": 1792545878896
     }
   ],
   "history": [
+    {
+      "id": "nyhfyv2mvhfj88g",
+      "ts": 1792545878896,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk premier",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "t9u570xmvhci5ro",
       "ts": 1792540790196,
