@@ -9808,7 +9808,22 @@
     {
       "id": "77yyotumvhci5ro",
       "name": "Sk majestic OCT 21-03NOV",
-      "items": [],
+      "items": [
+        {
+          "id": "qxdaedimvhg7shl",
+          "added": 1792547024889,
+          "addedBy": "chelson",
+          "name": "Cincau jelly 300ml x24 season/drinkho",
+          "no": "6",
+          "qty": 5,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792547024889
+        }
+      ],
       "updated": 1792540790196
     },
     {
@@ -10023,6 +10038,17 @@
       "item": "Tempe",
       "no": "",
       "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "wwyobsvmvhg7shl",
+      "ts": 1792547024889,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic OCT 21-03NOV",
+      "action": "added",
+      "item": "Cincau jelly 300ml x24 season/drinkho",
+      "no": "6",
+      "detail": "Qty 5 Ctn, Dry"
     },
     {
       "id": "8ja1sbomvhg7rzy",
