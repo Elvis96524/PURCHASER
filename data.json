@@ -10155,12 +10155,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792547792753
+        },
+        {
+          "id": "p3dxluamvhgphoa",
+          "added": 1792547850682,
+          "addedBy": "chelson",
+          "name": "Tempe",
+          "no": "",
+          "qty": 12,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792547850682
         }
       ],
       "updated": 1792545915654
     }
   ],
   "history": [
+    {
+      "id": "vwp4cxcmvhgphoa",
+      "ts": 1792547850682,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "Tempe",
+      "no": "",
+      "detail": "Qty 12 Pkt, Frozen"
+    },
     {
       "id": "bwthqgnmvhgo8z5",
       "ts": 1792547792753,
