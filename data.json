@@ -5321,9 +5321,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1791183626083
+          "updated": 1792554349846
         },
         {
           "id": "ca1w1qsmuuwi3wj",
@@ -10167,6 +10167,17 @@
     }
   ],
   "history": [
+    {
+      "id": "fhbmpb6mvhkksgm",
+      "ts": 1792554349846,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "MAGGI CUP CURRY 64GX54'S",
+      "no": "60",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "6y2igwomvhkf0os",
       "ts": 1792554080572,
