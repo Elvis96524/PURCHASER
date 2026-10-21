@@ -9063,7 +9063,8 @@
           "updated": 1792483381138
         }
       ],
-      "updated": 1792486242376
+      "deleted": true,
+      "updated": 1792547219197
     },
     {
       "id": "ri992sdmvan8hir",
@@ -10020,6 +10021,17 @@
     }
   ],
   "history": [
+    {
+      "id": "vsfe7vsmvhgbyf1",
+      "ts": 1792547219197,
+      "by": "lim",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING : 21/10/26 )",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "f7xd2oemvhgba7a",
       "ts": 1792547187814,
