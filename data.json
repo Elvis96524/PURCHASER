@@ -5379,9 +5379,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791183734771
+          "updated": 1792563034988
         },
         {
           "id": "kca146nmuuwkdwz",
@@ -5491,9 +5491,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791183985627
+          "updated": 1792563033106
         },
         {
           "id": "2q6cf9bmuuwpxwr",
@@ -10182,6 +10182,28 @@
     }
   ],
   "history": [
+    {
+      "id": "j7pizyxmvhpqxyk",
+      "ts": 1792563034988,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "RED BEAN PASTE 1KG",
+      "no": "77",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "htycb80mvhpqwib",
+      "ts": 1792563033107,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "RED BEAN PASTE 1KG",
+      "no": "1 (REMAINING)",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "yaf2sc4mvhpe9ub",
       "ts": 1792562443860,
