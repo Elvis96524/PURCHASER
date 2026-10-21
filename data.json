@@ -9868,6 +9868,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792547529923
+        },
+        {
+          "id": "a5tb2xkmvhgj1cs",
+          "added": 1792547549596,
+          "addedBy": "chelson",
+          "name": "Kucai",
+          "no": "",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792547549596
         }
       ],
       "updated": 1792540790196
@@ -10063,6 +10077,17 @@
     }
   ],
   "history": [
+    {
+      "id": "arp1u5ymvhgj1cs",
+      "ts": 1792547549596,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic OCT 21-03NOV",
+      "action": "added",
+      "item": "Kucai",
+      "no": "",
+      "detail": "Qty 1 Kg, Chiller"
+    },
     {
       "id": "4ghdydfmvhgim6b",
       "ts": 1792547529923,
