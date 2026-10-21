@@ -9982,12 +9982,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792546785008
+        },
+        {
+          "id": "w54mpmxmvhg4qqf",
+          "added": 1792546882647,
+          "addedBy": "chelson",
+          "name": "Porcelain coffee mug 300cc",
+          "no": "Gallery 11",
+          "qty": 10,
+          "unit": "Pcs",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792546882646
         }
       ],
       "updated": 1792545915654
     }
   ],
   "history": [
+    {
+      "id": "1wzghkbmvhg4qqf",
+      "ts": 1792546882647,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "Porcelain coffee mug 300cc",
+      "no": "Gallery 11",
+      "detail": "Qty 10 Pcs, Dry"
+    },
     {
       "id": "p246fbcmvhg2ne8",
       "ts": 1792546785008,
