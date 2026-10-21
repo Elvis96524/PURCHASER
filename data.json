@@ -10113,12 +10113,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792546882646
+        },
+        {
+          "id": "928stbemvhgn6zu",
+          "added": 1792547743530,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792547743530
         }
       ],
       "updated": 1792545915654
     }
   ],
   "history": [
+    {
+      "id": "oilu70hmvhgn6zu",
+      "ts": 1792547743530,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "Kesum",
+      "no": "",
+      "detail": "Qty 5 Ikat, Chiller"
+    },
     {
       "id": "i984s5qmvhgkl28",
       "ts": 1792547621792,
