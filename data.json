@@ -9287,9 +9287,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135753691
+          "updated": 1792568961262
         },
         {
           "id": "1yw0sopmvand46j",
@@ -10245,6 +10245,17 @@
     }
   ],
   "history": [
+    {
+      "id": "djasfarmvht9ypa",
+      "ts": 1792568961262,
+      "by": "lim",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE ( LOADING : 21/10/2026 )",
+      "action": "status",
+      "item": "TEMPE",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "aog1zzamvht9sr3",
       "ts": 1792568953551,
