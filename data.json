@@ -8973,9 +8973,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135340939
+          "updated": 1792547139710
         },
         {
           "id": "86zbfdrmvan4bez",
@@ -10019,6 +10019,17 @@
     }
   ],
   "history": [
+    {
+      "id": "rrrnkzkmvhga932",
+      "ts": 1792547139710,
+      "by": "lim",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING : 21/10/26 )",
+      "action": "status",
+      "item": "DRAGON FRUIT",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "yjjf24smvhga3a6",
       "ts": 1792547132190,
