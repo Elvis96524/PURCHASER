@@ -5747,6 +5747,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792565771419
+        },
+        {
+          "id": "vyh5i4nmvhrfcc3",
+          "added": 1792565852979,
+          "addedBy": "farah",
+          "name": "ASST.YOGURT 135G",
+          "no": "67",
+          "qty": 30,
+          "unit": "CUP",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792565852979
         }
       ],
       "updated": 1792553936869
@@ -10211,6 +10225,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8mpyvdbmvhrfcc3",
+      "ts": 1792565852979,
+      "by": "farah",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "added",
+      "item": "ASST.YOGURT 135G",
+      "no": "67",
+      "detail": "Qty 30 CUP, Chiller"
+    },
     {
       "id": "q4f2lsqmvhrdlej",
       "ts": 1792565771419,
