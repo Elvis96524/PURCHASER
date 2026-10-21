@@ -5477,9 +5477,9 @@
           "unit": "PCS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791183943555
+          "updated": 1792566167447
         },
         {
           "id": "7kpmzx7muuwp4nv",
@@ -5717,9 +5717,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792559199954
+          "updated": 1792566171032
         },
         {
           "id": "e58vrr5mvhrcu98",
@@ -10240,6 +10240,28 @@
     }
   ],
   "history": [
+    {
+      "id": "umqvh50mvhrm5qw",
+      "ts": 1792566171032,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "Cream cheese tatura 250g",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "abxa35cmvhrm2zb",
+      "ts": 1792566167447,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "FRESH JAGUNG",
+      "no": "97",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "eqico26mvhrm07o",
       "ts": 1792566163860,
