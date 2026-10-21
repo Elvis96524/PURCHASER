@@ -5689,9 +5689,9 @@
           "unit": "PCS",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791184540619
+          "updated": 1792566506581
         },
         {
           "id": "amvvr6wmuuxl0z6",
@@ -10240,6 +10240,17 @@
     }
   ],
   "history": [
+    {
+      "id": "duq690dmvhrtcnp",
+      "ts": 1792566506582,
+      "by": "fse",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "SECRET RECIPE BLACKFOREST",
+      "no": "87",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "umqvh50mvhrm5qw",
       "ts": 1792566171032,
