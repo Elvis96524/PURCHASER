@@ -3187,9 +3187,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792368799160
+          "updated": 1792547019878
         },
         {
           "id": "tseid0cmvei46jz",
@@ -3201,9 +3201,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792368817199
+          "updated": 1792547021182
         },
         {
           "id": "lart9ndmvei4k5s",
@@ -10002,6 +10002,28 @@
     }
   ],
   "history": [
+    {
+      "id": "2k01u9smvhg7pmm",
+      "ts": 1792547021182,
+      "by": "lim",
+      "vid": "iqg9t84munkw5pz",
+      "vname": "Sk pinnacle - OCT 2ND ( LOADING : 21/10/26 )",
+      "action": "status",
+      "item": "Pucuk ubi",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "4ujbyxnmvhg7ome",
+      "ts": 1792547019878,
+      "by": "lim",
+      "vid": "iqg9t84munkw5pz",
+      "vname": "Sk pinnacle - OCT 2ND ( LOADING : 21/10/26 )",
+      "action": "status",
+      "item": "Pakis",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "zk127zpmvhg7mye",
       "ts": 1792547017718,
