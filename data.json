@@ -10141,12 +10141,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792547763968
+        },
+        {
+          "id": "y5jub1pmvhgo8z5",
+          "added": 1792547792753,
+          "addedBy": "chelson",
+          "name": "Pucuk ubi",
+          "no": "",
+          "qty": 12,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792547792753
         }
       ],
       "updated": 1792545915654
     }
   ],
   "history": [
+    {
+      "id": "bwthqgnmvhgo8z5",
+      "ts": 1792547792753,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "Pucuk ubi",
+      "no": "",
+      "detail": "Qty 12 Ikat, Chiller"
+    },
     {
       "id": "m85s0mkmvhgnmrl",
       "ts": 1792547763969,
