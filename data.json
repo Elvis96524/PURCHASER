@@ -8987,9 +8987,10 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792135356875
+          "status": "received",
+          "notes": "7kg only, replace with other local fruits",
+          "updated": 1792547187814,
+          "updatedBy": "lim"
         },
         {
           "id": "4ypcxhdmvan6dno",
@@ -10019,6 +10020,28 @@
     }
   ],
   "history": [
+    {
+      "id": "f7xd2oemvhgba7a",
+      "ts": 1792547187814,
+      "by": "lim",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING : 21/10/26 )",
+      "action": "status",
+      "item": "PISANG EMAS",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "f7yhmzdmvhgb8hx",
+      "ts": 1792547185605,
+      "by": "lim",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING : 21/10/26 )",
+      "action": "edited",
+      "item": "PISANG EMAS",
+      "no": "",
+      "detail": "Notes changed"
+    },
     {
       "id": "rrrnkzkmvhga932",
       "ts": 1792547139710,
