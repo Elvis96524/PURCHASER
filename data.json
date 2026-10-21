@@ -5210,7 +5210,7 @@
     },
     {
       "id": "lzgt4qymuuwbvzg",
-      "name": "SK PERFECT - OCT 2ND",
+      "name": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
       "items": [
         {
           "id": "xaqickqmuuwdhzw",
@@ -5705,7 +5705,7 @@
           "updated": 1791185473842
         }
       ],
-      "updated": 1792486294624
+      "updated": 1792553936869
     },
     {
       "id": "7e83qekmuvwen21",
@@ -10167,6 +10167,17 @@
     }
   ],
   "history": [
+    {
+      "id": "jmrthfhmvhkbxt1",
+      "ts": 1792553936869,
+      "by": "lim",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"SK PERFECT - OCT 2ND\" to \"SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )\""
+    },
     {
       "id": "yxr64wgmvhjmr1h",
       "ts": 1792552761701,
