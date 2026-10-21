@@ -8832,8 +8832,9 @@
           "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1792395569316
+          "notes": "raja 7ikt, pegaga 3ikt",
+          "updated": 1792569105534,
+          "updatedBy": "lim"
         },
         {
           "id": "37bn1bdmvey1tvm",
@@ -10248,6 +10249,17 @@
     }
   ],
   "history": [
+    {
+      "id": "z4ywquymvhtd20u",
+      "ts": 1792569105534,
+      "by": "lim",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND ( LOADING : 21/10/2026 )",
+      "action": "edited",
+      "item": "Raja",
+      "no": "",
+      "detail": "Notes added: \"raja 7ikt, pegaga 3ikt\""
+    },
     {
       "id": "va2otzzmvhtckn2",
       "ts": 1792569083006,
