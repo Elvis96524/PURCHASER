@@ -5294,9 +5294,9 @@
           "unit": "PKT",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791184663827
+          "updated": 1792569287723
         },
         {
           "id": "72zn4tdmuuwgr7n",
@@ -10250,6 +10250,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ofzfijamvhtgyln",
+      "ts": 1792569287723,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "WHOLEMEAL BREAD LOCAL 400GM",
+      "no": "53",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "vf7fbvmmvhtdpn9",
       "ts": 1792569136149,
