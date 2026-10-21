@@ -8902,9 +8902,9 @@
           "unit": "PCS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "10pcs only",
-          "updated": 1792547115806,
+          "updated": 1792547118630,
           "updatedBy": "lim"
         },
         {
@@ -10019,6 +10019,17 @@
     }
   ],
   "history": [
+    {
+      "id": "inhc40wmvhg9sti",
+      "ts": 1792547118630,
+      "by": "lim",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING : 21/10/26 )",
+      "action": "status",
+      "item": "BUNGA KANTAN",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "echkxtamvhg9qn2",
       "ts": 1792547115806,
