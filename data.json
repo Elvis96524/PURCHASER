@@ -8774,9 +8774,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792134954947
+          "updated": 1792569058191
         },
         {
           "id": "p5spmohmvamv6e3",
@@ -10247,6 +10247,17 @@
     }
   ],
   "history": [
+    {
+      "id": "o5t7zfbmvhtc1hr",
+      "ts": 1792569058191,
+      "by": "lim",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND ( LOADING : 21/10/2026 )",
+      "action": "status",
+      "item": "GUAVA",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "1csx5pgmvhtbwm6",
       "ts": 1792569051870,
