@@ -5776,6 +5776,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792565955866
+        },
+        {
+          "id": "sy9ahmemvhs8pt8",
+          "added": 1792567223468,
+          "addedBy": "farah",
+          "name": "BASMATHI 5KG",
+          "no": "64",
+          "qty": 20,
+          "unit": "BAG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792567223468
         }
       ],
       "updated": 1792553936869
@@ -10240,6 +10254,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qcn0vhpmvhs8pt8",
+      "ts": 1792567223468,
+      "by": "farah",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "added",
+      "item": "BASMATHI 5KG",
+      "no": "64",
+      "detail": "Qty 20 BAG, Dry"
+    },
     {
       "id": "xbq4iytmvhs3ix4",
       "ts": 1792566981256,
