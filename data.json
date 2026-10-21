@@ -9884,12 +9884,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792546123598
+        },
+        {
+          "id": "3vskaqkmvhfpfqe",
+          "added": 1792546168550,
+          "addedBy": "chelson",
+          "name": "Nescafe original 240ml x24",
+          "no": "80",
+          "qty": 2,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792546168549
         }
       ],
       "updated": 1792545915654
     }
   ],
   "history": [
+    {
+      "id": "qbvlwvpmvhfpfqe",
+      "ts": 1792546168550,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "Nescafe original 240ml x24",
+      "no": "80",
+      "detail": "Qty 2 Ctn, Dry"
+    },
     {
       "id": "2ksv0ngmvhfoh1q",
       "ts": 1792546123598,
