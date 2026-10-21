@@ -5731,9 +5731,9 @@
           "unit": "pcs",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792565736236
+          "updated": 1792566120249
         },
         {
           "id": "9cb6lk7mvhrdlej",
@@ -10240,6 +10240,17 @@
     }
   ],
   "history": [
+    {
+      "id": "666cy5ymvhrl2k9",
+      "ts": 1792566120249,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "BUNGA KANTAN",
+      "no": "13",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "zo73sngmvhrkz5z",
       "ts": 1792566115847,
