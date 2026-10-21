@@ -5590,9 +5590,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791184289915
+          "updated": 1792565395897
         },
         {
           "id": "k0phn3tmuuww8jv",
@@ -10183,6 +10183,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ehcte9cmvhr5jnd",
+      "ts": 1792565395897,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "NANGKA MUDA",
+      "no": "47",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "2jkeof7mvhr4vn5",
       "ts": 1792565364785,
