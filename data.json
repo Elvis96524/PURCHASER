@@ -5357,17 +5357,8 @@
         },
         {
           "id": "ddc7yuhmuuwj24k",
-          "added": 1791183702404,
-          "addedBy": "fathin",
-          "name": "BERAS BASMATHI 5KG",
-          "no": "64",
-          "qty": 20,
-          "unit": "BAG",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "received",
-          "notes": "",
-          "updated": 1792568618659
+          "deleted": true,
+          "updated": 1792568651978
         },
         {
           "id": "18v7jc1muuwjr3n",
@@ -5787,9 +5778,9 @@
           "unit": "BAG",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792567223468
+          "updated": 1792568654199
         }
       ],
       "updated": 1792553936869
@@ -10254,6 +10245,28 @@
     }
   ],
   "history": [
+    {
+      "id": "loac1btmvht3drr",
+      "ts": 1792568654199,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "BASMATHI 5KG",
+      "no": "64",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "ip3zpnwmvht3c22",
+      "ts": 1792568651978,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "deleted",
+      "item": "BERAS BASMATHI 5KG",
+      "no": "64",
+      "detail": ""
+    },
     {
       "id": "ixnd5gemvht2onx",
       "ts": 1792568621661,
