@@ -1168,7 +1168,12 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     if(before.category!==after.category) parts.push(before.category+" \u2192 "+after.category);
     if(before.priority!==after.priority) parts.push(PRI[before.priority]+" \u2192 "+PRI[after.priority]);
     if(before.status!==after.status) parts.push("Status: "+ST[before.status]+" \u2192 "+ST[after.status]);
-    if((before.notes||"")!==(after.notes||"")) parts.push("Notes changed");
+    if((before.notes||"")!==(after.notes||"")){
+      var bn=before.notes||"", an=after.notes||"";
+      if(!bn) parts.push('Notes added: "'+an+'"');
+      else if(!an) parts.push('Notes removed (was: "'+bn+'")');
+      else parts.push('Notes "'+bn+'" → "'+an+'"');
+    }
     return parts.join("; ");
   }
   function saveItem(){
