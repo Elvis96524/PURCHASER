@@ -9363,8 +9363,9 @@
           "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "20kg standard \n15kg for BBQ",
-          "updated": 1792399864686
+          "notes": "25kg dragon fruit, 10kg mango",
+          "updated": 1792569002734,
+          "updatedBy": "lim"
         }
       ],
       "updated": 1792486209176
@@ -10245,6 +10246,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yf28eh3mvhtaupa",
+      "ts": 1792569002734,
+      "by": "lim",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE ( LOADING : 21/10/2026 )",
+      "action": "edited",
+      "item": "Dragon fruit",
+      "no": "",
+      "detail": "Notes \"20kg standard \n15kg for BBQ\" → \"25kg dragon fruit, 10kg mango\""
+    },
     {
       "id": "p57ypgwmvhta7x2",
       "ts": 1792568973206,
