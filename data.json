@@ -8945,9 +8945,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135317555
+          "updated": 1792547132190
         },
         {
           "id": "tcyal18mvan3pe3",
@@ -10019,6 +10019,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yjjf24smvhga3a6",
+      "ts": 1792547132190,
+      "by": "lim",
+      "vid": "xq0m6kpmvamynju",
+      "vname": "KEYFIELD WISDOM  ( LOADING : 21/10/26 )",
+      "action": "status",
+      "item": "TEMPE",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "s0symllmvhg9yke",
       "ts": 1792547126078,
