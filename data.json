@@ -5704,6 +5704,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1791185473842
+        },
+        {
+          "id": "vt50o3emvhngqtu",
+          "added": 1792559199954,
+          "addedBy": "chelson",
+          "name": "Cream cheese tatura 250g",
+          "no": "",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792559199954
         }
       ],
       "updated": 1792553936869
@@ -10168,6 +10182,17 @@
     }
   ],
   "history": [
+    {
+      "id": "0uzp92gmvhngqtu",
+      "ts": 1792559199954,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "added",
+      "item": "Cream cheese tatura 250g",
+      "no": "",
+      "detail": "Qty 5 Pkt, Dry"
+    },
     {
       "id": "rytfagsmvhkww5r",
       "ts": 1792554914511,
