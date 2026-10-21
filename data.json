@@ -5251,9 +5251,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792554914510,
+          "updated": 1792562443859,
           "updatedBy": "farah"
         },
         {
@@ -10182,6 +10182,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yaf2sc4mvhpe9ub",
+      "ts": 1792562443860,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "MURUKU 900GM ( MURUKU POPO 24'SX12G )",
+      "no": "49",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "cw8v0rgmvhp5jgy",
       "ts": 1792562036434,
