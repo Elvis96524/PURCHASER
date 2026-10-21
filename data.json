@@ -9882,6 +9882,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792547549596
+        },
+        {
+          "id": "ovg4rbqmvhgjnn3",
+          "added": 1792547578479,
+          "addedBy": "chelson",
+          "name": "Pucuk ubi",
+          "no": "",
+          "qty": 3,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792547578479
         }
       ],
       "updated": 1792540790196
@@ -10077,6 +10091,17 @@
     }
   ],
   "history": [
+    {
+      "id": "uv8gt0ymvhgjnn3",
+      "ts": 1792547578479,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic OCT 21-03NOV",
+      "action": "added",
+      "item": "Pucuk ubi",
+      "no": "",
+      "detail": "Qty 3 Ikat, Chiller"
+    },
     {
       "id": "arp1u5ymvhgj1cs",
       "ts": 1792547549596,
