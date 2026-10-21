@@ -3290,7 +3290,8 @@
           "updated": 1792547003918
         }
       ],
-      "updated": 1792486267680
+      "deleted": true,
+      "updated": 1792547047949
     },
     {
       "id": "e4gyllemuoxbmjs",
@@ -10017,6 +10018,17 @@
     }
   ],
   "history": [
+    {
+      "id": "2l8pwy6mvhg8aa5",
+      "ts": 1792547047949,
+      "by": "lim",
+      "vid": "iqg9t84munkw5pz",
+      "vname": "Sk pinnacle - OCT 2ND ( LOADING : 21/10/26 )",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "ny6oit7mvhg81im",
       "ts": 1792547036590,
