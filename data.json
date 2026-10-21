@@ -5308,9 +5308,9 @@
           "unit": "PKT",
           "category": "Frozen",
           "priority": "normal",
-          "status": "received",
+          "status": "tobuy",
           "notes": "",
-          "updated": 1792561487691
+          "updated": 1792568540143
         },
         {
           "id": "pr7h6i0muuwhf8j",
@@ -10254,6 +10254,17 @@
     }
   ],
   "history": [
+    {
+      "id": "c2e1n04mvht0xrk",
+      "ts": 1792568540144,
+      "by": "admin",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "ROTI GARDENIA",
+      "no": "54",
+      "detail": "Status: Received → To buy"
+    },
     {
       "id": "qcn0vhpmvhs8pt8",
       "ts": 1792567223468,
