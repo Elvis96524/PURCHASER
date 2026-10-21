@@ -5759,9 +5759,9 @@
           "unit": "CUP",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792565852979
+          "updated": 1792566981256
         },
         {
           "id": "bxzi14omvhrhjq2",
@@ -10240,6 +10240,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xbq4iytmvhs3ix4",
+      "ts": 1792566981256,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "ASST.YOGURT 135G",
+      "no": "67",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "3ye0mmnmvhs37k2",
       "ts": 1792566966530,
