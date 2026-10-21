@@ -9301,9 +9301,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135767403
+          "updated": 1792568973206
         },
         {
           "id": "1b4gyqkmvewpbew",
@@ -10245,6 +10245,17 @@
     }
   ],
   "history": [
+    {
+      "id": "p57ypgwmvhta7x2",
+      "ts": 1792568973206,
+      "by": "lim",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE ( LOADING : 21/10/2026 )",
+      "action": "status",
+      "item": "FRESH PETAI",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "djasfarmvht9ypa",
       "ts": 1792568961262,
