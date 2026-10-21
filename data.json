@@ -9259,9 +9259,9 @@
           "unit": "PCS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792135728987
+          "updated": 1792568953551
         },
         {
           "id": "jst1fsumvancksj",
@@ -10245,6 +10245,17 @@
     }
   ],
   "history": [
+    {
+      "id": "aog1zzamvht9sr3",
+      "ts": 1792568953551,
+      "by": "lim",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE ( LOADING : 21/10/2026 )",
+      "action": "status",
+      "item": "BUNGA KANTAN",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "loac1btmvht3drr",
       "ts": 1792568654199,
