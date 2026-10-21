@@ -9826,6 +9826,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792547024889
+        },
+        {
+          "id": "e7r54d1mvhgd0vd",
+          "added": 1792547269033,
+          "addedBy": "chelson",
+          "name": "Soya bean 1L x12 seasons/drinkho",
+          "no": "7",
+          "qty": 7,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792547269033
         }
       ],
       "updated": 1792540790196
@@ -10021,6 +10035,17 @@
     }
   ],
   "history": [
+    {
+      "id": "t0irrvnmvhgd0vd",
+      "ts": 1792547269033,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic OCT 21-03NOV",
+      "action": "added",
+      "item": "Soya bean 1L x12 seasons/drinkho",
+      "no": "7",
+      "detail": "Qty 7 Ctn, Dry"
+    },
     {
       "id": "vsfe7vsmvhgbyf1",
       "ts": 1792547219197,
