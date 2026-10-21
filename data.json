@@ -9854,6 +9854,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792547312561
+        },
+        {
+          "id": "6fy1dgimvhgim6b",
+          "added": 1792547529923,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "12",
+          "qty": 3,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792547529923
         }
       ],
       "updated": 1792540790196
@@ -10049,6 +10063,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4ghdydfmvhgim6b",
+      "ts": 1792547529923,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic OCT 21-03NOV",
+      "action": "added",
+      "item": "Kesum",
+      "no": "12",
+      "detail": "Qty 3 Ikat, Chiller"
+    },
     {
       "id": "iiwucaumvhgdygh",
       "ts": 1792547312561,
