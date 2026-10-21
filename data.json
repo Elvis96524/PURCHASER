@@ -8760,9 +8760,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792134911690
+          "updated": 1792569051870
         },
         {
           "id": "f582dgqmvamuypv",
@@ -10247,6 +10247,17 @@
     }
   ],
   "history": [
+    {
+      "id": "1csx5pgmvhtbwm6",
+      "ts": 1792569051870,
+      "by": "lim",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND ( LOADING : 21/10/2026 )",
+      "action": "status",
+      "item": "DRAGON FRUIT",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "e9gb46jmvhtbsem",
       "ts": 1792569046414,
