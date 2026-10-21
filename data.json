@@ -5577,8 +5577,9 @@
           "category": "Chiller",
           "priority": "normal",
           "status": "received",
-          "notes": "",
-          "updated": 1792566099038
+          "notes": "3nos",
+          "updated": 1792566108100,
+          "updatedBy": "chelson"
         },
         {
           "id": "mfmn77qmuuwvngb",
@@ -10239,6 +10240,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qjc3neumvhrkt6s",
+      "ts": 1792566108100,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "edited",
+      "item": "JANTUNG PISANG",
+      "no": "33",
+      "detail": "Notes added: \"3nos\""
+    },
     {
       "id": "10x2zw2mvhrkm72",
       "ts": 1792566099038,
