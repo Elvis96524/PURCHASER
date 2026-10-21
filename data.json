@@ -5703,9 +5703,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791185473842
+          "updated": 1792566163860
         },
         {
           "id": "vt50o3emvhngqtu",
@@ -10240,6 +10240,17 @@
     }
   ],
   "history": [
+    {
+      "id": "eqico26mvhrm07o",
+      "ts": 1792566163860,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "DRAGON FRUIT",
+      "no": "93",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "ftqb46mmvhrlr3p",
       "ts": 1792566152053,
