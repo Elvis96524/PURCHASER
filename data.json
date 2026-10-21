@@ -5745,9 +5745,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792565771419
+          "updated": 1792566115847
         },
         {
           "id": "vyh5i4nmvhrfcc3",
@@ -10240,6 +10240,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zo73sngmvhrkz5z",
+      "ts": 1792566115847,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "KUCHAI",
+      "no": "24",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "qjc3neumvhrkt6s",
       "ts": 1792566108100,
