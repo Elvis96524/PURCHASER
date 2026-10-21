@@ -5764,9 +5764,9 @@
           "unit": "CTN",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792565955866
+          "updated": 1792569136149
         },
         {
           "id": "sy9ahmemvhs8pt8",
@@ -10250,6 +10250,17 @@
     }
   ],
   "history": [
+    {
+      "id": "vf7fbvmmvhtdpn9",
+      "ts": 1792569136149,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "GRAPE SEEDLESS 5KG",
+      "no": "68",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "hy3arwsmvhtdgb1",
       "ts": 1792569124045,
