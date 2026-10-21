@@ -8788,9 +8788,10 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792134930459
+          "status": "received",
+          "notes": "offer with pisang sabah",
+          "updated": 1792569074998,
+          "updatedBy": "lim"
         },
         {
           "id": "mr83cf3mvbqoswl",
@@ -10247,6 +10248,28 @@
     }
   ],
   "history": [
+    {
+      "id": "mvvuruemvhtcegn",
+      "ts": 1792569074999,
+      "by": "lim",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND ( LOADING : 21/10/2026 )",
+      "action": "status",
+      "item": "PISANG EMAS",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "exblrxhmvhtcc9q",
+      "ts": 1792569072158,
+      "by": "lim",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND ( LOADING : 21/10/2026 )",
+      "action": "edited",
+      "item": "PISANG EMAS",
+      "no": "",
+      "detail": "Notes added: \"offer with pisang sabah\""
+    },
     {
       "id": "o5t7zfbmvhtc1hr",
       "ts": 1792569058191,
