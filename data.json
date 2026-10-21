@@ -8846,9 +8846,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792395581314
+          "updated": 1792569113767
         }
       ],
       "updated": 1792486236328
@@ -10249,6 +10249,17 @@
     }
   ],
   "history": [
+    {
+      "id": "9t295bkmvhtd8dj",
+      "ts": 1792569113767,
+      "by": "lim",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND ( LOADING : 21/10/2026 )",
+      "action": "status",
+      "item": "Pegaga",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "wqkdpekmvhtd4e6",
       "ts": 1792569108606,
