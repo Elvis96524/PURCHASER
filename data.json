@@ -9842,12 +9842,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792546042513
+        },
+        {
+          "id": "4rkd6ocmvhfnazz",
+          "added": 1792546069103,
+          "addedBy": "chelson",
+          "name": "Hotdog bun 10's",
+          "no": "65",
+          "qty": 4,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792546069103
         }
       ],
       "updated": 1792545915654
     }
   ],
   "history": [
+    {
+      "id": "g18dk5dmvhfnazz",
+      "ts": 1792546069103,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "Hotdog bun 10's",
+      "no": "65",
+      "detail": "Qty 4 Pkt, Frozen"
+    },
     {
       "id": "bea9qzxmvhfmqhd",
       "ts": 1792546042513,
