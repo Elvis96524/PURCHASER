@@ -5407,9 +5407,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791183784731
+          "updated": 1792566565802
         },
         {
           "id": "2gvwbsrmuuwlcvf",
@@ -10240,6 +10240,17 @@
     }
   ],
   "history": [
+    {
+      "id": "mbhiajvmvhrumcq",
+      "ts": 1792566565802,
+      "by": "fse",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "TOMATO CHERRY",
+      "no": "80",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "duq690dmvhrtcnp",
       "ts": 1792566506582,
