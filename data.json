@@ -8746,9 +8746,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792134896419
+          "updated": 1792569046414
         },
         {
           "id": "pr6hd8vmvamurwq",
@@ -10247,6 +10247,17 @@
     }
   ],
   "history": [
+    {
+      "id": "e9gb46jmvhtbsem",
+      "ts": 1792569046414,
+      "by": "lim",
+      "vid": "xtft4mwmvamoiqi",
+      "vname": "PETRO DIAMOND ( LOADING : 21/10/2026 )",
+      "action": "status",
+      "item": "TEMPE",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "gvbdtvimvhtbf72",
       "ts": 1792569029294,
