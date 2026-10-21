@@ -9940,12 +9940,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792546585063
+        },
+        {
+          "id": "vahbvosmvhfzi07",
+          "added": 1792546638055,
+          "addedBy": "chelson",
+          "name": "Angled Broom W/Dustpan",
+          "no": "Chemical 10",
+          "qty": 6,
+          "unit": "Pcs",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792546638055
         }
       ],
       "updated": 1792545915654
     }
   ],
   "history": [
+    {
+      "id": "jmnm8g6mvhfzi07",
+      "ts": 1792546638055,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "Angled Broom W/Dustpan",
+      "no": "Chemical 10",
+      "detail": "Qty 6 Pcs, Dry"
+    },
     {
       "id": "ddsjw2wmvhfyd47",
       "ts": 1792546585063,
