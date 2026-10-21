@@ -3159,9 +3159,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792368761862
+          "updated": 1792547015534
         },
         {
           "id": "yrbxprdmvei3fy6",
@@ -3173,9 +3173,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792368782718
+          "updated": 1792547017718
         },
         {
           "id": "a7i14lgmvei3smw",
@@ -10002,6 +10002,28 @@
     }
   ],
   "history": [
+    {
+      "id": "zk127zpmvhg7mye",
+      "ts": 1792547017718,
+      "by": "lim",
+      "vid": "iqg9t84munkw5pz",
+      "vname": "Sk pinnacle - OCT 2ND ( LOADING : 21/10/26 )",
+      "action": "status",
+      "item": "Kemangi",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
+    {
+      "id": "wkdsgt5mvhg7l9q",
+      "ts": 1792547015534,
+      "by": "lim",
+      "vid": "iqg9t84munkw5pz",
+      "vname": "Sk pinnacle - OCT 2ND ( LOADING : 21/10/26 )",
+      "action": "status",
+      "item": "Kesum",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "t0szxsimvhg7hjq",
       "ts": 1792547010710,
