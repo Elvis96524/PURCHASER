@@ -5280,9 +5280,9 @@
           "unit": "PKT",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791183542043
+          "updated": 1792566657673
         },
         {
           "id": "6j9a0bimuuwg2wz",
@@ -10240,6 +10240,17 @@
     }
   ],
   "history": [
+    {
+      "id": "91rejtbmvhrwl8p",
+      "ts": 1792566657673,
+      "by": "fse",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "BURGER BUN 6'S",
+      "no": "52",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "mbhiajvmvhrumcq",
       "ts": 1792566565802,
