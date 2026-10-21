@@ -5617,9 +5617,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791184349643
+          "updated": 1792560510190
         },
         {
           "id": "3yq3n6wmuuwx6r7",
@@ -5631,9 +5631,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791184361587
+          "updated": 1792560511835
         },
         {
           "id": "a0kdoirmuuwxtr7",
@@ -10182,6 +10182,28 @@
     }
   ],
   "history": [
+    {
+      "id": "f4vmdwgmvho8v2z",
+      "ts": 1792560511835,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "CINCAU",
+      "no": "72",
+      "detail": "Status: To buy → Ordered"
+    },
+    {
+      "id": "6wymzq7mvho8ttb",
+      "ts": 1792560510191,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "CENDOL",
+      "no": "71",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "0uzp92gmvhngqtu",
       "ts": 1792559199954,
