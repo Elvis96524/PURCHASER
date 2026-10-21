@@ -5562,9 +5562,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791184579651
+          "updated": 1792566126403
         },
         {
           "id": "11wasvkmuuwv43n",
@@ -10240,6 +10240,17 @@
     }
   ],
   "history": [
+    {
+      "id": "fp8b5crmvhrl7b7",
+      "ts": 1792566126403,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "MANGO/MANGGA LEMAK MANIS",
+      "no": "5",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "666cy5ymvhrl2k9",
       "ts": 1792566120249,
