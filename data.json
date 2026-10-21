@@ -5245,15 +5245,16 @@
           "id": "3wf50esmuuweosj",
           "added": 1791183498499,
           "addedBy": "fathin",
-          "name": "MURUKU 900GM",
+          "name": "MURUKU 900GM ( MURUKU POPO 24'SX12G )",
           "no": "49",
-          "qty": 10,
+          "qty": 15,
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1791183498499
+          "updated": 1792554914510,
+          "updatedBy": "farah"
         },
         {
           "id": "q2u2mukmuuwf59v",
@@ -10167,6 +10168,17 @@
     }
   ],
   "history": [
+    {
+      "id": "rytfagsmvhkww5r",
+      "ts": 1792554914511,
+      "by": "farah",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND",
+      "action": "edited",
+      "item": "MURUKU 900GM ( MURUKU POPO 24'SX12G )",
+      "no": "49",
+      "detail": "Name \"MURUKU 900GM\" → \"MURUKU 900GM ( MURUKU POPO 24'SX12G )\"; Qty 10 → 15"
+    },
     {
       "id": "t0xphaamvhkprzd",
       "ts": 1792554582505,
