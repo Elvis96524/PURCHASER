@@ -5576,9 +5576,9 @@
           "unit": "NOS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791184264835
+          "updated": 1792566099038
         },
         {
           "id": "mfmn77qmuuwvngb",
@@ -10239,6 +10239,17 @@
     }
   ],
   "history": [
+    {
+      "id": "10x2zw2mvhrkm72",
+      "ts": 1792566099038,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "JANTUNG PISANG",
+      "no": "33",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "fg77m7vmvhrhjq2",
       "ts": 1792565955866,
