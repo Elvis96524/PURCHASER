@@ -9954,12 +9954,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792546638055
+        },
+        {
+          "id": "kpag3wymvhg1jqa",
+          "added": 1792546733602,
+          "addedBy": "chelson",
+          "name": "FLY SWATTER",
+          "no": "Gallery 8",
+          "qty": 6,
+          "unit": "Pcs",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792546733602
         }
       ],
       "updated": 1792545915654
     }
   ],
   "history": [
+    {
+      "id": "hp9nk54mvhg1jqa",
+      "ts": 1792546733602,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "FLY SWATTER",
+      "no": "Gallery 8",
+      "detail": "Qty 6 Pcs, Dry"
+    },
     {
       "id": "jmnm8g6mvhfzi07",
       "ts": 1792546638055,
