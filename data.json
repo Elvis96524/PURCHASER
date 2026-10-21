@@ -5658,9 +5658,9 @@
           "unit": "PCS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1791184439187
+          "updated": 1792554080572
         },
         {
           "id": "0a9ig6emuux09z7",
@@ -10167,6 +10167,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6y2igwomvhkf0os",
+      "ts": 1792554080572,
+      "by": "fse",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "SALTED EGG/TELUR MASIN (LOCAL WHITE)",
+      "no": "81",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "jmrthfhmvhkbxt1",
       "ts": 1792553936869,
