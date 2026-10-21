@@ -5534,8 +5534,9 @@
           "category": "Chiller",
           "priority": "normal",
           "status": "received",
-          "notes": "",
-          "updated": 1792565348969
+          "notes": "Purchase 3.7kg only",
+          "updated": 1792565364785,
+          "updatedBy": "chelson"
         },
         {
           "id": "dieuq7imuuwtkub",
@@ -10182,6 +10183,17 @@
     }
   ],
   "history": [
+    {
+      "id": "2jkeof7mvhr4vn5",
+      "ts": 1792565364785,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "edited",
+      "item": "GREEN CORAL",
+      "no": "82",
+      "detail": "Notes added: \"Purchase 3.7kg only\""
+    },
     {
       "id": "2tvs0n5mvhr4jft",
       "ts": 1792565348969,
