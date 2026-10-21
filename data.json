@@ -9362,9 +9362,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "25kg dragon fruit, 10kg mango",
-          "updated": 1792569002734,
+          "updated": 1792569007798,
           "updatedBy": "lim"
         }
       ],
@@ -10246,6 +10246,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zlk6n19mvhtayly",
+      "ts": 1792569007798,
+      "by": "lim",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE ( LOADING : 21/10/2026 )",
+      "action": "status",
+      "item": "Dragon fruit",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "yf28eh3mvhtaupa",
       "ts": 1792569002734,
