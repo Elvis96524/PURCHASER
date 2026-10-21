@@ -9840,6 +9840,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792547269033
+        },
+        {
+          "id": "16aqjdomvhgdygh",
+          "added": 1792547312561,
+          "addedBy": "chelson",
+          "name": "Gardenia",
+          "no": "",
+          "qty": 15,
+          "unit": "Loaf",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792547312561
         }
       ],
       "updated": 1792540790196
@@ -10035,6 +10049,17 @@
     }
   ],
   "history": [
+    {
+      "id": "iiwucaumvhgdygh",
+      "ts": 1792547312561,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic OCT 21-03NOV",
+      "action": "added",
+      "item": "Gardenia",
+      "no": "",
+      "detail": "Qty 15 Loaf, Frozen"
+    },
     {
       "id": "t0irrvnmvhgd0vd",
       "ts": 1792547269033,
