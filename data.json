@@ -9896,6 +9896,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792547578479
+        },
+        {
+          "id": "vpnryilmvhgk61m",
+          "added": 1792547602330,
+          "addedBy": "chelson",
+          "name": "Jantung Pisang",
+          "no": "",
+          "qty": 10,
+          "unit": "Nos",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792547602330
         }
       ],
       "updated": 1792540790196
@@ -10091,6 +10105,17 @@
     }
   ],
   "history": [
+    {
+      "id": "b826x0jmvhgk61m",
+      "ts": 1792547602330,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic OCT 21-03NOV",
+      "action": "added",
+      "item": "Jantung Pisang",
+      "no": "",
+      "detail": "Qty 10 Nos, Chiller"
+    },
     {
       "id": "uv8gt0ymvhgjnn3",
       "ts": 1792547578479,
