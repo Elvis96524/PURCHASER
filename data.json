@@ -5336,9 +5336,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1791183658051
+          "updated": 1792568621661
         },
         {
           "id": "ede6ts2muuwiorv",
@@ -5365,9 +5365,9 @@
           "unit": "BAG",
           "category": "Dry",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792562036434
+          "updated": 1792568618659
         },
         {
           "id": "18v7jc1muuwjr3n",
@@ -10254,6 +10254,28 @@
     }
   ],
   "history": [
+    {
+      "id": "ixnd5gemvht2onx",
+      "ts": 1792568621661,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "MAGGI CUP TOM YAM 72GX54'S",
+      "no": "61",
+      "detail": "Status: To buy → N/A"
+    },
+    {
+      "id": "6bu1acvmvht2mcj",
+      "ts": 1792568618659,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "BERAS BASMATHI 5KG",
+      "no": "64",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "116jfb5mvht2idg",
       "ts": 1792568613508,
