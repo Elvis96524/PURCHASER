@@ -5673,9 +5673,9 @@
           "unit": "CUP",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791184505731
+          "updated": 1792561616537
         },
         {
           "id": "le3hjtimuux10wb",
@@ -10182,6 +10182,17 @@
     }
   ],
   "history": [
+    {
+      "id": "t5pjveemvhowjh5",
+      "ts": 1792561616537,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "GREEK YOGURT WITH FLAVOURS 130GM",
+      "no": "81",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "lanxh70mvhots23",
       "ts": 1792561487691,
