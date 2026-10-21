@@ -9368,7 +9368,8 @@
           "updatedBy": "lim"
         }
       ],
-      "updated": 1792486209176
+      "deleted": true,
+      "updated": 1792569029294
     },
     {
       "id": "dwjcsv9mvbqvfvv",
@@ -10246,6 +10247,17 @@
     }
   ],
   "history": [
+    {
+      "id": "gvbdtvimvhtbf72",
+      "ts": 1792569029294,
+      "by": "lim",
+      "vid": "ri992sdmvan8hir",
+      "vname": "OS ONE ( LOADING : 21/10/2026 )",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "zlk6n19mvhtayly",
       "ts": 1792569007798,
