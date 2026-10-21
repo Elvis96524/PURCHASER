@@ -9819,13 +9819,14 @@
           "addedBy": "chelson",
           "name": "Cincau jelly 300ml x24 season/drinkho",
           "no": "6",
-          "qty": 5,
+          "qty": 3,
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792547024889
+          "updated": 1792551470873,
+          "updatedBy": "farah"
         },
         {
           "id": "e7r54d1mvhgd0vd",
@@ -10166,6 +10167,17 @@
     }
   ],
   "history": [
+    {
+      "id": "wncf1blmvhiv316",
+      "ts": 1792551470874,
+      "by": "farah",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic OCT 21-03NOV",
+      "action": "edited",
+      "item": "Cincau jelly 300ml x24 season/drinkho",
+      "no": "6",
+      "detail": "Qty 5 → 3"
+    },
     {
       "id": "ouhu1f8mvhhs5aw",
       "ts": 1792549654232,
