@@ -5304,14 +5304,13 @@
           "addedBy": "fathin",
           "name": "ROTI GARDENIA",
           "no": "54",
-          "qty": 9,
+          "qty": 15,
           "unit": "PKT",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792568546207,
-          "updatedBy": "admin"
+          "updated": 1792568613508
         },
         {
           "id": "pr7h6i0muuwhf8j",
@@ -10255,6 +10254,17 @@
     }
   ],
   "history": [
+    {
+      "id": "116jfb5mvht2idg",
+      "ts": 1792568613508,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "ROTI GARDENIA",
+      "no": "54",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "9g5f7p8mvht12fz",
       "ts": 1792568546207,
