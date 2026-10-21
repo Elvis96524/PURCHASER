@@ -9934,17 +9934,8 @@
       "items": [
         {
           "id": "x1u0240mvhfljyj",
-          "added": 1792545987403,
-          "addedBy": "chelson",
-          "name": "Full cream D/Dairy 1L x 12",
-          "no": "9",
-          "qty": 1,
-          "unit": "Ctn",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792545987403
+          "deleted": true,
+          "updated": 1792549654232
         },
         {
           "id": "51cr9txmvhfmqhd",
@@ -10175,6 +10166,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ouhu1f8mvhhs5aw",
+      "ts": 1792549654232,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "deleted",
+      "item": "Full cream D/Dairy 1L x 12",
+      "no": "9",
+      "detail": ""
+    },
     {
       "id": "vwp4cxcmvhgphoa",
       "ts": 1792547850682,
