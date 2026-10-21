@@ -10127,12 +10127,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792547743530
+        },
+        {
+          "id": "h9yix8hmvhgnmrl",
+          "added": 1792547763969,
+          "addedBy": "chelson",
+          "name": "Pakis",
+          "no": "",
+          "qty": 8,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792547763968
         }
       ],
       "updated": 1792545915654
     }
   ],
   "history": [
+    {
+      "id": "m85s0mkmvhgnmrl",
+      "ts": 1792547763969,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "Pakis",
+      "no": "",
+      "detail": "Qty 8 Ikat, Chiller"
+    },
     {
       "id": "oilu70hmvhgn6zu",
       "ts": 1792547743530,
