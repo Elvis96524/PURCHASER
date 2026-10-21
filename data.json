@@ -5365,9 +5365,9 @@
           "unit": "BAG",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1791183709555
+          "updated": 1792562036434
         },
         {
           "id": "18v7jc1muuwjr3n",
@@ -10182,6 +10182,17 @@
     }
   ],
   "history": [
+    {
+      "id": "cw8v0rgmvhp5jgy",
+      "ts": 1792562036434,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "BERAS BASMATHI 5KG",
+      "no": "64",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "t5pjveemvhowjh5",
       "ts": 1792561616537,
