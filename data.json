@@ -5733,6 +5733,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792565736236
+        },
+        {
+          "id": "9cb6lk7mvhrdlej",
+          "added": 1792565771419,
+          "addedBy": "farah",
+          "name": "KUCHAI",
+          "no": "24",
+          "qty": 1,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792565771419
         }
       ],
       "updated": 1792553936869
@@ -10197,6 +10211,17 @@
     }
   ],
   "history": [
+    {
+      "id": "q4f2lsqmvhrdlej",
+      "ts": 1792565771419,
+      "by": "farah",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "added",
+      "item": "KUCHAI",
+      "no": "24",
+      "detail": "Qty 1 KG, Chiller"
+    },
     {
       "id": "50w2b3umvhrcu98",
       "ts": 1792565736236,
