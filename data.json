@@ -5719,6 +5719,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792559199954
+        },
+        {
+          "id": "e58vrr5mvhrcu98",
+          "added": 1792565736236,
+          "addedBy": "farah",
+          "name": "BUNGA KANTAN",
+          "no": "13",
+          "qty": 6,
+          "unit": "pcs",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792565736236
         }
       ],
       "updated": 1792553936869
@@ -10183,6 +10197,17 @@
     }
   ],
   "history": [
+    {
+      "id": "50w2b3umvhrcu98",
+      "ts": 1792565736236,
+      "by": "farah",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "added",
+      "item": "BUNGA KANTAN",
+      "no": "13",
+      "detail": "Qty 6 pcs, Chiller"
+    },
     {
       "id": "ehcte9cmvhr5jnd",
       "ts": 1792565395897,
