@@ -5605,9 +5605,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1791184317259
+          "updated": 1792566136960
         },
         {
           "id": "uuwe8lmmuuwwxjf",
@@ -10240,6 +10240,17 @@
     }
   ],
   "history": [
+    {
+      "id": "77jgipamvhrlfgg",
+      "ts": 1792566136960,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "PETAI BERTANGKAI",
+      "no": "50",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "fp8b5crmvhrl7b7",
       "ts": 1792566126403,
