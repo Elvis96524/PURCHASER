@@ -9926,12 +9926,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792546537591
+        },
+        {
+          "id": "8tpjcpfmvhfyd47",
+          "added": 1792546585063,
+          "addedBy": "chelson",
+          "name": "Colgate 200gm",
+          "no": "Chemical 8",
+          "qty": 15,
+          "unit": "Pcs",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792546585063
         }
       ],
       "updated": 1792545915654
     }
   ],
   "history": [
+    {
+      "id": "ddsjw2wmvhfyd47",
+      "ts": 1792546585063,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "Colgate 200gm",
+      "no": "Chemical 8",
+      "detail": "Qty 15 Pcs, Dry"
+    },
     {
       "id": "ztc6fnqmvhfxchk",
       "ts": 1792546537592,
