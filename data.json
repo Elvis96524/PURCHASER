@@ -5696,9 +5696,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792566163860
+          "updated": 1792659223051
         },
         {
           "id": "vt50o3emvhngqtu",
@@ -11286,6 +11286,17 @@
     }
   ],
   "history": [
+    {
+      "id": "17uv5xhmvjb0l57",
+      "ts": 1792659223051,
+      "by": "lim",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "DRAGON FRUIT",
+      "no": "93",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "6vq4ctamvjb0d2b",
       "ts": 1792659212579,
@@ -22274,17 +22285,6 @@
       "item": "DAUN PUCUK UBI",
       "no": "",
       "detail": "Qty 10 BDL, Chiller"
-    },
-    {
-      "id": "1dft6mjmuz9xxq1",
-      "ts": 1791448096249,
-      "by": "fathin",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE",
-      "action": "vadd",
-      "item": "",
-      "no": "",
-      "detail": "Vessel created"
     }
   ]
 }
