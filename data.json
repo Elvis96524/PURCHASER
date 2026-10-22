@@ -10590,9 +10590,26 @@
         }
       ],
       "updated": 1792631122693
+    },
+    {
+      "id": "eux4ocqmviujd5p",
+      "name": "OS ONE",
+      "items": [],
+      "updated": 1792631545693
     }
   ],
   "history": [
+    {
+      "id": "g6vyj7fmviujd5p",
+      "ts": 1792631545693,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "mv9wae8mviuibgl",
       "ts": 1792631496837,
