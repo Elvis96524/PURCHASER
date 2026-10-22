@@ -11001,12 +11001,12 @@
           "name": "Wholemeal bread",
           "no": "55",
           "qty": 4,
-          "unit": "Pkt",
+          "unit": "Loaf",
           "category": "Frozen",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792657948703
+          "updated": 1792657983490
         },
         {
           "id": "d0dv8t2mvja9qbk",
@@ -11027,6 +11027,17 @@
     }
   ],
   "history": [
+    {
+      "id": "07u4osomvjaa0oy",
+      "ts": 1792657983490,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "edited",
+      "item": "Wholemeal bread",
+      "no": "55",
+      "detail": "Unit Pkt → Loaf"
+    },
     {
       "id": "gijtbopmvja9qbk",
       "ts": 1792657970048,
