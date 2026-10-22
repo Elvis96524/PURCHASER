@@ -5612,9 +5612,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792560510190
+          "updated": 1792659207947
         },
         {
           "id": "3yq3n6wmuuwx6r7",
@@ -11286,6 +11286,17 @@
     }
   ],
   "history": [
+    {
+      "id": "fxyq5momvjb09hn",
+      "ts": 1792659207947,
+      "by": "lim",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "CENDOL",
+      "no": "71",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "hi59j8qmvjb027f",
       "ts": 1792659198507,
@@ -22274,17 +22285,6 @@
       "item": "",
       "no": "",
       "detail": "Vessel deleted"
-    },
-    {
-      "id": "t2yb05emuz751h3",
-      "ts": 1791443388855,
-      "by": "fathin",
-      "vid": "45yogyhmuz74b5z",
-      "vname": "TWO AARYAN",
-      "action": "deleted",
-      "item": "TEMPE",
-      "no": "22",
-      "detail": ""
     }
   ]
 }
