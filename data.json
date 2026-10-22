@@ -10405,12 +10405,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631284333
+        },
+        {
+          "id": "aw0bkxdmviudzxx",
+          "added": 1792631295285,
+          "addedBy": "fathin",
+          "name": "ROTI GARDENIA",
+          "no": "",
+          "qty": 4,
+          "unit": "LOAF",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631295285
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "nmz8kxjmviudzxx",
+      "ts": 1792631295285,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "ROTI GARDENIA",
+      "no": "",
+      "detail": "Qty 4 LOAF, Frozen"
+    },
     {
       "id": "kjvtx44mviudrhp",
       "ts": 1792631284333,
