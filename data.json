@@ -10636,12 +10636,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631606429
+        },
+        {
+          "id": "616mswnmviukxlx",
+          "added": 1792631618853,
+          "addedBy": "fathin",
+          "name": "SEASON SOYA BEAN 1LT",
+          "no": "",
+          "qty": 2,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631618853
         }
       ],
       "updated": 1792631545693
     }
   ],
   "history": [
+    {
+      "id": "rmw2tmlmviukxlx",
+      "ts": 1792631618853,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "SEASON SOYA BEAN 1LT",
+      "no": "",
+      "detail": "Qty 2 CTN, Dry"
+    },
     {
       "id": "5oxgehymviuko0t",
       "ts": 1792631606429,
