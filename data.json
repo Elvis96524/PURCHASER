@@ -10720,12 +10720,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631703325
+        },
+        {
+          "id": "b87asubmviumx05",
+          "added": 1792631711381,
+          "addedBy": "fathin",
+          "name": "TEMPE",
+          "no": "",
+          "qty": 20,
+          "unit": "PKT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631711381
         }
       ],
       "updated": 1792631545693
     }
   ],
   "history": [
+    {
+      "id": "mnxb8k4mviumx05",
+      "ts": 1792631711381,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "TEMPE",
+      "no": "",
+      "detail": "Qty 20 PKT, Chiller"
+    },
     {
       "id": "ujicbqkmviumqse",
       "ts": 1792631703326,
