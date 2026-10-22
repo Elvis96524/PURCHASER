@@ -10545,12 +10545,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631452413
+        },
+        {
+          "id": "ytug15imviuhmod",
+          "added": 1792631464717,
+          "addedBy": "fathin",
+          "name": "YEO'S SOYA 320ML",
+          "no": "",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631464717
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "xidmsyumviuhmod",
+      "ts": 1792631464717,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "YEO'S SOYA 320ML",
+      "no": "",
+      "detail": "Qty 1 CTN, Dry"
+    },
     {
       "id": "yf71rsfmviuhd6l",
       "ts": 1792631452413,
