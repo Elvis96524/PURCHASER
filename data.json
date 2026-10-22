@@ -10370,9 +10370,9 @@
           "unit": "PACK",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631261277
+          "updated": 1792638124783
         },
         {
           "id": "p5vi7ajmviudivp",
@@ -10954,6 +10954,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qav5vebmviygdm9",
+      "ts": 1792638124785,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "KIWI FRUIT ( req kiwi yellow, OFFER ZESPRI GOLD KIWI 4'/PACK )",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "r41b334mvixgrz7",
       "ts": 1792636463779,
