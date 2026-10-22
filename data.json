@@ -10483,12 +10483,12 @@
           "name": "BERAS BASMATHI 5KG",
           "no": "",
           "qty": 1,
-          "unit": "bag",
+          "unit": "BAG",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792631387549
+          "updated": 1792632209036
         },
         {
           "id": "49b42scmviuga31",
@@ -10957,6 +10957,17 @@
     }
   ],
   "history": [
+    {
+      "id": "q3x40wxmviuxkzw",
+      "ts": 1792632209036,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/26 )",
+      "action": "edited",
+      "item": "BERAS BASMATHI 5KG",
+      "no": "",
+      "detail": "Unit bag → BAG"
+    },
     {
       "id": "l6rhy6fmviuwo83",
       "ts": 1792632166563,
