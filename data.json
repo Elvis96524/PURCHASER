@@ -10909,12 +10909,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792632101485
+        },
+        {
+          "id": "3s11lu7mviuvji5",
+          "added": 1792632113789,
+          "addedBy": "fathin",
+          "name": "TEMPE",
+          "no": "",
+          "qty": 10,
+          "unit": "PKT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792632113789
         }
       ],
       "updated": 1792631935685
     }
   ],
   "history": [
+    {
+      "id": "ralxky4mviuvji5",
+      "ts": 1792632113789,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "TEMPE",
+      "no": "",
+      "detail": "Qty 10 PKT, Chiller"
+    },
     {
       "id": "rj7bcm0mviuva0d",
       "ts": 1792632101485,
