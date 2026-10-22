@@ -10469,9 +10469,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631376340
+          "updated": 1792635030564
         },
         {
           "id": "vz8s2tkmviufz4t",
@@ -10954,6 +10954,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8inmphymviwm23o",
+      "ts": 1792635030564,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "APOLLO CHOCOLATE LAYER 432GM",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "a935dqtmviwkdbe",
       "ts": 1792634951786,
