@@ -10356,19 +10356,30 @@
           "addedBy": "fathin",
           "name": "ROCK MELON ( subject To Availability )",
           "no": "",
-          "qty": 1,
-          "unit": "",
-          "category": "Dry",
+          "qty": 7,
+          "unit": "KG",
+          "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792631181644
+          "updated": 1792631196245
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "oynx2hzmviubviu",
+      "ts": 1792631196246,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "edited",
+      "item": "ROCK MELON ( subject To Availability )",
+      "no": "",
+      "detail": "Qty 1 → 7; Unit — → KG; Dry → Chiller"
+    },
     {
       "id": "nxyi3vtmviubk98",
       "ts": 1792631181644,
