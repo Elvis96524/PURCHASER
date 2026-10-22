@@ -10545,31 +10545,13 @@
         },
         {
           "id": "ytug15imviuhmod",
-          "added": 1792631464717,
-          "addedBy": "fathin",
-          "name": "YEO'S SOYA 320ML",
-          "no": "",
-          "qty": 1,
-          "unit": "CTN",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792631464717
+          "deleted": true,
+          "updated": 1792640621336
         },
         {
           "id": "ppocwqpmviuhwe5",
-          "added": 1792631477309,
-          "addedBy": "fathin",
-          "name": "YEO'S CINCAU 320ML",
-          "no": "",
-          "qty": 1,
-          "unit": "CTN",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792631477309
+          "deleted": true,
+          "updated": 1792640623268
         },
         {
           "id": "fwoigkimviuibgl",
@@ -10954,6 +10936,28 @@
     }
   ],
   "history": [
+    {
+      "id": "knkcq7wmvizxxgk",
+      "ts": 1792640623268,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "deleted",
+      "item": "YEO'S CINCAU 320ML",
+      "no": "",
+      "detail": ""
+    },
+    {
+      "id": "3gty8t6mvizxvyw",
+      "ts": 1792640621336,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "deleted",
+      "item": "YEO'S SOYA 320ML",
+      "no": "",
+      "detail": ""
+    },
     {
       "id": "x6nr97tmviz59di",
       "ts": 1792639285686,
