@@ -11238,12 +11238,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792658970139
+        },
+        {
+          "id": "p2rcp31mvjawhth",
+          "added": 1792659032117,
+          "addedBy": "chelson",
+          "name": "Clorox 1liter",
+          "no": "Chemical 5",
+          "qty": 10,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792659032117
         }
       ],
       "updated": 1792658282897
     }
   ],
   "history": [
+    {
+      "id": "oidkibbmvjawhth",
+      "ts": 1792659032117,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "Clorox 1liter",
+      "no": "Chemical 5",
+      "detail": "Qty 10 Btl, Dry"
+    },
     {
       "id": "38rqauemvjav5zv",
       "ts": 1792658970139,
