@@ -5801,15 +5801,16 @@
           "id": "69sc7pdmvitv207",
           "added": 1792630411495,
           "addedBy": "chelson",
-          "name": "Ayam brand sardine in tomato",
+          "name": "Ayam brand sardine in tomato (offer sardine nazri)",
           "no": "",
-          "qty": 10,
+          "qty": 15,
           "unit": "Tin",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792630411495
+          "updated": 1792633269565,
+          "updatedBy": "farah"
         },
         {
           "id": "gel4t2xmvitzaxx",
@@ -10959,6 +10960,17 @@
     }
   ],
   "history": [
+    {
+      "id": "991u3nxmvivkbb1",
+      "ts": 1792633269565,
+      "by": "farah",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "edited",
+      "item": "Ayam brand sardine in tomato (offer sardine nazri)",
+      "no": "",
+      "detail": "Name \"Ayam brand sardine in tomato\" → \"Ayam brand sardine in tomato (offer sardine nazri)\"; Qty 10 → 15; Status: To buy → Received"
+    },
     {
       "id": "ru2vo4kmvivjrsy",
       "ts": 1792633244290,
