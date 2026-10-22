@@ -10734,12 +10734,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631711381
+        },
+        {
+          "id": "zcwho8qmviunaji",
+          "added": 1792631728926,
+          "addedBy": "fathin",
+          "name": "FRESH PETAI",
+          "no": "",
+          "qty": 6,
+          "unit": "KG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631728926
         }
       ],
       "updated": 1792631545693
     }
   ],
   "history": [
+    {
+      "id": "hgsfa3pmviunaji",
+      "ts": 1792631728926,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "FRESH PETAI",
+      "no": "",
+      "detail": "Qty 6 KG, Dry"
+    },
     {
       "id": "mnxb8k4mviumx05",
       "ts": 1792631711381,
