@@ -10101,6 +10101,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792646548077
+        },
+        {
+          "id": "v7ofv9vmvj3ibuz",
+          "added": 1792646613899,
+          "addedBy": "farah",
+          "name": "TAUHU POK/TAUHU GORENG 9'S",
+          "no": "39",
+          "qty": 20,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792646613899
         }
       ],
       "updated": 1792552761701
@@ -10964,6 +10978,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8ibhiaimvj3ibuz",
+      "ts": 1792646613899,
+      "by": "farah",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "added",
+      "item": "TAUHU POK/TAUHU GORENG 9'S",
+      "no": "39",
+      "detail": "Qty 20 PKT, Dry"
+    },
     {
       "id": "4wr2y17mvj3gx2l",
       "ts": 1792646548077,
