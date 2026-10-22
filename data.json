@@ -10829,9 +10829,9 @@
           "unit": "KG",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631983677
+          "updated": 1792648808043
         },
         {
           "id": "yocanljmviut46c",
@@ -10992,6 +10992,17 @@
     }
   ],
   "history": [
+    {
+      "id": "u5s3dxqmvj4tcvg",
+      "ts": 1792648808044,
+      "by": "chelson",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "status",
+      "item": "CHOCOLATE RICE",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "aq074asmvj3uhgj",
       "ts": 1792647181027,
