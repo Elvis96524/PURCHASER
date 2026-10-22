@@ -10650,12 +10650,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631618853
+        },
+        {
+          "id": "f2xh5jhmviul825",
+          "added": 1792631632397,
+          "addedBy": "fathin",
+          "name": "DRINHO GREEN TEA 1LT",
+          "no": "",
+          "qty": 2,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631632397
         }
       ],
       "updated": 1792631545693
     }
   ],
   "history": [
+    {
+      "id": "374jbwrmviul825",
+      "ts": 1792631632397,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "DRINHO GREEN TEA 1LT",
+      "no": "",
+      "detail": "Qty 2 CTN, Dry"
+    },
     {
       "id": "rmw2tmlmviukxlx",
       "ts": 1792631618853,
