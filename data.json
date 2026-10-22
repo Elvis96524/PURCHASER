@@ -11182,12 +11182,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792658811008
+        },
+        {
+          "id": "rpxfvcwmvjasvuf",
+          "added": 1792658863671,
+          "addedBy": "chelson",
+          "name": "Snekku Tam Tam 8's x22gm",
+          "no": "106",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792658863671
         }
       ],
       "updated": 1792658282897
     }
   ],
   "history": [
+    {
+      "id": "uvp677ymvjasvuf",
+      "ts": 1792658863671,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "Snekku Tam Tam 8's x22gm",
+      "no": "106",
+      "detail": "Qty 5 Pkt, Dry"
+    },
     {
       "id": "e3ar1b6mvjarr7k",
       "ts": 1792658811008,
