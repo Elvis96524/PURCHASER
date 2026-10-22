@@ -10096,11 +10096,11 @@
           "no": "1",
           "qty": 1,
           "unit": "CTN",
-          "category": "Dry",
+          "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792646542670
+          "updated": 1792646548077
         }
       ],
       "updated": 1792552761701
@@ -10964,6 +10964,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4wr2y17mvj3gx2l",
+      "ts": 1792646548077,
+      "by": "farah",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "edited",
+      "item": "RED APPLE",
+      "no": "1",
+      "detail": "Dry → Chiller"
+    },
     {
       "id": "84hmjqqmvj3gswe",
       "ts": 1792646542670,
