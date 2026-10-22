@@ -10539,9 +10539,9 @@
           "unit": "TIN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631452413
+          "updated": 1792634951786
         },
         {
           "id": "ytug15imviuhmod",
@@ -10954,6 +10954,17 @@
     }
   ],
   "history": [
+    {
+      "id": "a935dqtmviwkdbe",
+      "ts": 1792634951786,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "REX KERANG PANGGANG",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "3nzhpsymviwk738",
       "ts": 1792634943716,
