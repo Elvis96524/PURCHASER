@@ -10427,9 +10427,9 @@
           "unit": "PKT",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631314157
+          "updated": 1792635624969
         },
         {
           "id": "tacnxdjmviueq2l",
@@ -10954,6 +10954,17 @@
     }
   ],
   "history": [
+    {
+      "id": "0t4ok65mviwysqy",
+      "ts": 1792635624970,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "NUTRIPLUS SAUSAGE CHEESE 300GM",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "kz1pmnfmviwnhx1",
       "ts": 1792635097717,
