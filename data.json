@@ -10937,12 +10937,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792632127101
+        },
+        {
+          "id": "yit75xumviuw2px",
+          "added": 1792632138693,
+          "addedBy": "fathin",
+          "name": "DRAGON FRUIT",
+          "no": "",
+          "qty": 10,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792632138693
         }
       ],
       "updated": 1792631935685
     }
   ],
   "history": [
+    {
+      "id": "qi5noxemviuw2px",
+      "ts": 1792632138693,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "DRAGON FRUIT",
+      "no": "",
+      "detail": "Qty 10 KG, Chiller"
+    },
     {
       "id": "lke7sxzmviuvtrx",
       "ts": 1792632127101,
