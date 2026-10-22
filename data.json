@@ -10539,9 +10539,9 @@
           "unit": "BAG",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792632209036
+          "updated": 1792651810371
         },
         {
           "id": "49b42scmviuga31",
@@ -10992,6 +10992,17 @@
     }
   ],
   "history": [
+    {
+      "id": "neuenagmvj6lphi",
+      "ts": 1792651810374,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "BERAS BASMATHI 5KG",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "a9m7zx2mvj5uf5r",
       "ts": 1792650537279,
