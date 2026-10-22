@@ -10489,12 +10489,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631387549
+        },
+        {
+          "id": "49b42scmviuga31",
+          "added": 1792631401741,
+          "addedBy": "fathin",
+          "name": "RAMBUTAN CANNED 565G",
+          "no": "",
+          "qty": 3,
+          "unit": "TIN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631401741
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "q6n5keomviuga31",
+      "ts": 1792631401741,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "RAMBUTAN CANNED 565G",
+      "no": "",
+      "detail": "Qty 3 TIN, Dry"
+    },
     {
       "id": "mmm6e5nmviufz4t",
       "ts": 1792631387549,
