@@ -10461,12 +10461,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631350661
+        },
+        {
+          "id": "djshwjsmviufqhg",
+          "added": 1792631376340,
+          "addedBy": "fathin",
+          "name": "APOLLO CHOCOLATE LAYER 432GM",
+          "no": "",
+          "qty": 4,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631376340
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "t23v5qjmviufqhg",
+      "ts": 1792631376340,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "APOLLO CHOCOLATE LAYER 432GM",
+      "no": "",
+      "detail": "Qty 4 PKT, Dry"
+    },
     {
       "id": "29bgke2mviuf6o5",
       "ts": 1792631350661,
