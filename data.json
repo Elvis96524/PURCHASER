@@ -10433,12 +10433,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631314157
+        },
+        {
+          "id": "tacnxdjmviueq2l",
+          "added": 1792631329149,
+          "addedBy": "fathin",
+          "name": "SANTAN KARA 200ML",
+          "no": "",
+          "qty": 20,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631329149
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "vmsldtomviueq2l",
+      "ts": 1792631329149,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "SANTAN KARA 200ML",
+      "no": "",
+      "detail": "Qty 20 PKT, Dry"
+    },
     {
       "id": "os185szmviueei6",
       "ts": 1792631314158,
