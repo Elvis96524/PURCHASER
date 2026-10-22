@@ -10334,7 +10334,7 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792631142478
+          "updated": 1792632724908
         },
         {
           "id": "lx4mklumviuaxwk",
@@ -10957,6 +10957,28 @@
     }
   ],
   "history": [
+    {
+      "id": "84s1rcamviv8n1o",
+      "ts": 1792632724908,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/26 )",
+      "action": "status",
+      "item": "PAKIS",
+      "no": "",
+      "detail": "Status: Received → To buy"
+    },
+    {
+      "id": "ear7ogymviv8lk7",
+      "ts": 1792632722983,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/26 )",
+      "action": "status",
+      "item": "PAKIS",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "q3x40wxmviuxkzw",
       "ts": 1792632209036,
