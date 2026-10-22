@@ -10678,12 +10678,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631650045
+        },
+        {
+          "id": "foberlcmvium4jp",
+          "added": 1792631674501,
+          "addedBy": "fathin",
+          "name": "SARSI/SPRITE 1.5LT",
+          "no": "",
+          "qty": 2,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631674501
         }
       ],
       "updated": 1792631545693
     }
   ],
   "history": [
+    {
+      "id": "67lgi5amvium4jp",
+      "ts": 1792631674501,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "SARSI/SPRITE 1.5LT",
+      "no": "",
+      "detail": "Qty 2 CTN, Dry"
+    },
     {
       "id": "5c3k64fmviullod",
       "ts": 1792631650045,
