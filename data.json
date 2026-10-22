@@ -10923,12 +10923,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792632113789
+        },
+        {
+          "id": "t2nx9t1mviuvtrx",
+          "added": 1792632127101,
+          "addedBy": "fathin",
+          "name": "PISANG EMAS",
+          "no": "",
+          "qty": 10,
+          "unit": "KG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792632127101
         }
       ],
       "updated": 1792631935685
     }
   ],
   "history": [
+    {
+      "id": "lke7sxzmviuvtrx",
+      "ts": 1792632127101,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "PISANG EMAS",
+      "no": "",
+      "detail": "Qty 10 KG, Dry"
+    },
     {
       "id": "ralxky4mviuvji5",
       "ts": 1792632113789,
