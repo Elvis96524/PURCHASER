@@ -11168,12 +11168,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792658742044
+        },
+        {
+          "id": "amrm0mimvjarr7k",
+          "added": 1792658811008,
+          "addedBy": "chelson",
+          "name": "Muruku ikan POPO 60gx10",
+          "no": "105",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792658811008
         }
       ],
       "updated": 1792658282897
     }
   ],
   "history": [
+    {
+      "id": "e3ar1b6mvjarr7k",
+      "ts": 1792658811008,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "Muruku ikan POPO 60gx10",
+      "no": "105",
+      "detail": "Qty 5 Pkt, Dry"
+    },
     {
       "id": "gdzbnmamvjaq9zw",
       "ts": 1792658742044,
