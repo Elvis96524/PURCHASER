@@ -10341,9 +10341,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631152676
+          "updated": 1792634677736
         },
         {
           "id": "he258a0mviubk98",
@@ -10953,6 +10953,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6996f6tmviwehuw",
+      "ts": 1792634677736,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "LADA PUTIH",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "hq3gyncmviw7ock",
       "ts": 1792634359556,
