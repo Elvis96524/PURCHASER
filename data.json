@@ -10839,12 +10839,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792632027764
+        },
+        {
+          "id": "fwnth19mviuu0qs",
+          "added": 1792632042820,
+          "addedBy": "fathin",
+          "name": "DRINHO GREEN TEA 1LT",
+          "no": "",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792632042820
         }
       ],
       "updated": 1792631935685
     }
   ],
   "history": [
+    {
+      "id": "ersj3kamviuu0qs",
+      "ts": 1792632042820,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "DRINHO GREEN TEA 1LT",
+      "no": "",
+      "detail": "Qty 1 CTN, Dry"
+    },
     {
       "id": "6ixjdvgmviutp4k",
       "ts": 1792632027764,
