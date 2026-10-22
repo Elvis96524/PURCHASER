@@ -10014,9 +10014,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1792547549596
+          "updated": 1792647181027
         },
         {
           "id": "ovg4rbqmvhgjnn3",
@@ -10992,6 +10992,17 @@
     }
   ],
   "history": [
+    {
+      "id": "aq074asmvj3uhgj",
+      "ts": 1792647181027,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "Kucai",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "im99sptmvj3r4vh",
       "ts": 1792647024749,
