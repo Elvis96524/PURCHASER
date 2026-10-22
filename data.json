@@ -10321,11 +10321,37 @@
     {
       "id": "txw8ewrmviuaarp",
       "name": "BELAIT PSV 2 ( 22/10/2026 )",
-      "items": [],
+      "items": [
+        {
+          "id": "xye7wbemviuaq1a",
+          "added": 1792631142478,
+          "addedBy": "fathin",
+          "name": "PAKIS",
+          "no": "",
+          "qty": 4,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631142478
+        }
+      ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "0c7j0swmviuaq1a",
+      "ts": 1792631142478,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "PAKIS",
+      "no": "",
+      "detail": "Qty 4 KG, Chiller"
+    },
     {
       "id": "mh2gh4lmviuaarp",
       "ts": 1792631122693,
