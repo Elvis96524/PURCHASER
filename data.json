@@ -10342,8 +10342,9 @@
           "category": "Chiller",
           "priority": "normal",
           "status": "received",
-          "notes": "",
-          "updated": 1792634677736
+          "notes": "690gm only",
+          "updated": 1792634690198,
+          "updatedBy": "chelson"
         },
         {
           "id": "he258a0mviubk98",
@@ -10953,6 +10954,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yaaaz13mviwerh2",
+      "ts": 1792634690198,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "edited",
+      "item": "LADA PUTIH",
+      "no": "",
+      "detail": "Notes added: \"690gm only\""
+    },
     {
       "id": "6996f6tmviwehuw",
       "ts": 1792634677736,
