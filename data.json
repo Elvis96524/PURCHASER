@@ -5498,9 +5498,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1791184023531
+          "updated": 1792659148379
         },
         {
           "id": "olbylk5muuwqokj",
@@ -11286,6 +11286,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yccd8humvjayziz",
+      "ts": 1792659148379,
+      "by": "lim",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "REMPAH GARAM MASALA 700GM (BABA'S)",
+      "no": "2 (REMAINING)",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "mvpdh6kmvjaysy6",
       "ts": 1792659139854,
@@ -22274,17 +22285,6 @@
       "item": "",
       "no": "",
       "detail": "Vessel created"
-    },
-    {
-      "id": "f6f33zwmuz72mcl",
-      "ts": 1791443275941,
-      "by": "lim",
-      "vid": "lzgt4qymuuwbvzg",
-      "vname": "SK PERFECT ( OCT 2ND ORDER )",
-      "action": "status",
-      "item": "PISANG EMAS",
-      "no": "1",
-      "detail": "Status: Ordered → To buy"
     }
   ]
 }
