@@ -10783,12 +10783,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631965757
+        },
+        {
+          "id": "wyzr973mviusr3x",
+          "added": 1792631983677,
+          "addedBy": "fathin",
+          "name": "CHOCOLATE RICE",
+          "no": "",
+          "qty": 1,
+          "unit": "KG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631983677
         }
       ],
       "updated": 1792631935685
     }
   ],
   "history": [
+    {
+      "id": "ws1i1twmviusr3x",
+      "ts": 1792631983677,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "CHOCOLATE RICE",
+      "no": "",
+      "detail": "Qty 1 KG, Dry"
+    },
     {
       "id": "dk249pcmviusda5",
       "ts": 1792631965757,
