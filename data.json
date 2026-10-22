@@ -10751,9 +10751,26 @@
         }
       ],
       "updated": 1792631545693
+    },
+    {
+      "id": "aq1oi9gmviurq2t",
+      "name": "HELANG INTEGRATED PLATFORM",
+      "items": [],
+      "updated": 1792631935685
     }
   ],
   "history": [
+    {
+      "id": "un1q7rnmviurq2t",
+      "ts": 1792631935685,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "hgsfa3pmviunaji",
       "ts": 1792631728926,
