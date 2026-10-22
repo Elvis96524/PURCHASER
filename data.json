@@ -10000,9 +10000,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792547529923
+          "updated": 1792639255434
         },
         {
           "id": "a5tb2xkmvhgj1cs",
@@ -10954,6 +10954,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qjgxf0omviz4m16",
+      "ts": 1792639255434,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "Kesum",
+      "no": "12",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "qav5vebmviygdm9",
       "ts": 1792638124785,
