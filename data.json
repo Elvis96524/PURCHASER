@@ -9957,9 +9957,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792551470873,
+          "updated": 1792646487674,
           "updatedBy": "farah"
         },
         {
@@ -10950,6 +10950,17 @@
     }
   ],
   "history": [
+    {
+      "id": "07chr5cmvj3fmgq",
+      "ts": 1792646487674,
+      "by": "farah",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "Cincau jelly 300ml x24 season/drinkho",
+      "no": "6",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "xvr911ymvj34m73",
       "ts": 1792645974111,
