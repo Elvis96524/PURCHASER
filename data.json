@@ -10377,12 +10377,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631261277
+        },
+        {
+          "id": "p5vi7ajmviudivp",
+          "added": 1792631273173,
+          "addedBy": "fathin",
+          "name": "YOGURT",
+          "no": "",
+          "qty": 40,
+          "unit": "PCS",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631273173
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "bfjn8yzmviudivp",
+      "ts": 1792631273173,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "YOGURT",
+      "no": "",
+      "detail": "Qty 40 PCS, Chiller"
+    },
     {
       "id": "4h279zkmviud9p9",
       "ts": 1792631261277,
