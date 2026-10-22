@@ -10769,12 +10769,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631953613
+        },
+        {
+          "id": "9a50274mviusda5",
+          "added": 1792631965757,
+          "addedBy": "fathin",
+          "name": "SAMBOI MERAH",
+          "no": "",
+          "qty": 1,
+          "unit": "KG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631965757
         }
       ],
       "updated": 1792631935685
     }
   ],
   "history": [
+    {
+      "id": "dk249pcmviusda5",
+      "ts": 1792631965757,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "SAMBOI MERAH",
+      "no": "",
+      "detail": "Qty 1 KG, Dry"
+    },
     {
       "id": "jrlcq05mvius3wt",
       "ts": 1792631953613,
