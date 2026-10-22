@@ -10867,12 +10867,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792632056172
+        },
+        {
+          "id": "hclbfi1mviuuksk",
+          "added": 1792632068804,
+          "addedBy": "fathin",
+          "name": "PUCUK UBI",
+          "no": "",
+          "qty": 10,
+          "unit": "BDL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792632068804
         }
       ],
       "updated": 1792631935685
     }
   ],
   "history": [
+    {
+      "id": "ghbpug3mviuuksk",
+      "ts": 1792632068804,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "PUCUK UBI",
+      "no": "",
+      "detail": "Qty 10 BDL, Dry"
+    },
     {
       "id": "lv0lvj0mviuub1o",
       "ts": 1792632056172,
