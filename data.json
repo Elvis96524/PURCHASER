@@ -11063,12 +11063,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792658166826
+        },
+        {
+          "id": "7xt292umvjaeuu7",
+          "added": 1792658209183,
+          "addedBy": "chelson",
+          "name": "Margarine 1kg",
+          "no": "",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792658209183
         }
       ],
       "updated": 1792657873307
     }
   ],
   "history": [
+    {
+      "id": "jdmttpsmvjaeuu7",
+      "ts": 1792658209183,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "added",
+      "item": "Margarine 1kg",
+      "no": "",
+      "detail": "Qty 2 Pkt, Dry"
+    },
     {
       "id": "qezm2rjmvjady5m",
       "ts": 1792658166826,
