@@ -5824,9 +5824,9 @@
           "unit": "Tin",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792630609700
+          "updated": 1792659158027
         },
         {
           "id": "75isq1vmviu0vs0",
@@ -11286,6 +11286,17 @@
     }
   ],
   "history": [
+    {
+      "id": "pzypb7imvjaz6yz",
+      "ts": 1792659158027,
+      "by": "lim",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "Bamboo shoots 552G",
+      "no": "16",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "yccd8humvjayziz",
       "ts": 1792659148379,
@@ -22274,17 +22285,6 @@
       "item": "TEMPE",
       "no": "22",
       "detail": "Qty 1 pcs, Dry"
-    },
-    {
-      "id": "mjfm09gmuz74b5z",
-      "ts": 1791443354759,
-      "by": "fathin",
-      "vid": "45yogyhmuz74b5z",
-      "vname": "TWO AARYAN",
-      "action": "vadd",
-      "item": "",
-      "no": "",
-      "detail": "Vessel created"
     }
   ]
 }
