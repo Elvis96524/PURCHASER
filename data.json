@@ -11049,12 +11049,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792658108563
+        },
+        {
+          "id": "6kmprgjmvjady5m",
+          "added": 1792658166826,
+          "addedBy": "chelson",
+          "name": "Dragon fruit",
+          "no": "",
+          "qty": 3,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792658166826
         }
       ],
       "updated": 1792657873307
     }
   ],
   "history": [
+    {
+      "id": "qezm2rjmvjady5m",
+      "ts": 1792658166826,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "added",
+      "item": "Dragon fruit",
+      "no": "",
+      "detail": "Qty 3 Kg, Chiller"
+    },
     {
       "id": "y2cphw5mvjacp77",
       "ts": 1792658108563,
