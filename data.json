@@ -10335,12 +10335,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631142478
+        },
+        {
+          "id": "lx4mklumviuaxwk",
+          "added": 1792631152676,
+          "addedBy": "fathin",
+          "name": "LADA PUTIH",
+          "no": "",
+          "qty": 1,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631152676
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "i0g3xx5mviuaxwk",
+      "ts": 1792631152676,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "LADA PUTIH",
+      "no": "",
+      "detail": "Qty 1 KG, Chiller"
+    },
     {
       "id": "0c7j0swmviuaq1a",
       "ts": 1792631142478,
