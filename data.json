@@ -10447,12 +10447,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631329149
+        },
+        {
+          "id": "azavwfymviuf6o5",
+          "added": 1792631350661,
+          "addedBy": "fathin",
+          "name": "JULIE'S PEANUT BUTTER CRACKER 135G",
+          "no": "",
+          "qty": 6,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631350661
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "29bgke2mviuf6o5",
+      "ts": 1792631350661,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "JULIE'S PEANUT BUTTER CRACKER 135G",
+      "no": "",
+      "detail": "Qty 6 PKT, Dry"
+    },
     {
       "id": "vmsldtomviueq2l",
       "ts": 1792631329149,
