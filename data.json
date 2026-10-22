@@ -10553,9 +10553,9 @@
           "unit": "TIN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631401741
+          "updated": 1792653919493
         },
         {
           "id": "5gdc48lmviugmjh",
@@ -10992,6 +10992,17 @@
     }
   ],
   "history": [
+    {
+      "id": "y0m9ycpmvj7uww6",
+      "ts": 1792653919494,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "RAMBUTAN CANNED 565G",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "neuenagmvj6lphi",
       "ts": 1792651810374,
