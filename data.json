@@ -10332,9 +10332,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792632724908
+          "updated": 1792632726192
         },
         {
           "id": "lx4mklumviuaxwk",
@@ -10957,6 +10957,17 @@
     }
   ],
   "history": [
+    {
+      "id": "1rht7sgmviv8o1c",
+      "ts": 1792632726192,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/26 )",
+      "action": "status",
+      "item": "PAKIS",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "84s1rcamviv8n1o",
       "ts": 1792632724908,
