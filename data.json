@@ -5795,6 +5795,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792630348657
+        },
+        {
+          "id": "69sc7pdmvitv207",
+          "added": 1792630411495,
+          "addedBy": "chelson",
+          "name": "Ayam brand sardine in tomato",
+          "no": "",
+          "qty": 10,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792630411495
         }
       ],
       "updated": 1792553936869
@@ -10278,6 +10292,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8qo26twmvitv207",
+      "ts": 1792630411495,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "added",
+      "item": "Ayam brand sardine in tomato",
+      "no": "",
+      "detail": "Qty 10 Tin, Dry"
+    },
     {
       "id": "qeq2nqqmvittpip",
       "ts": 1792630348657,
