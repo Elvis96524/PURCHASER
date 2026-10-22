@@ -11002,17 +11002,28 @@
           "no": "55",
           "qty": 4,
           "unit": "Pkt",
-          "category": "Dry",
+          "category": "Frozen",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792657940366
+          "updated": 1792657948703
         }
       ],
       "updated": 1792657873307
     }
   ],
   "history": [
+    {
+      "id": "a3n9830mvja99un",
+      "ts": 1792657948703,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "edited",
+      "item": "Wholemeal bread",
+      "no": "55",
+      "detail": "Dry → Frozen"
+    },
     {
       "id": "xuo4cypmvja93f2",
       "ts": 1792657940366,
