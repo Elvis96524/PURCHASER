@@ -5830,17 +5830,8 @@
         },
         {
           "id": "75isq1vmviu0vs0",
-          "added": 1792630683360,
-          "addedBy": "chelson",
-          "name": "Bamboo shoots",
-          "no": "",
-          "qty": 4,
-          "unit": "Tin",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792630683360
+          "deleted": true,
+          "updated": 1792633883030
         }
       ],
       "updated": 1792553936869
@@ -10962,6 +10953,17 @@
     }
   ],
   "history": [
+    {
+      "id": "b29yorlmvivxgnq",
+      "ts": 1792633883030,
+      "by": "farah",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "deleted",
+      "item": "Bamboo shoots",
+      "no": "",
+      "detail": ""
+    },
     {
       "id": "e1fmlpbmvivuu19",
       "ts": 1792633760397,
