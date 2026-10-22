@@ -11007,12 +11007,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792657948703
+        },
+        {
+          "id": "d0dv8t2mvja9qbk",
+          "added": 1792657970048,
+          "addedBy": "chelson",
+          "name": "Gardenia",
+          "no": "56",
+          "qty": 8,
+          "unit": "Loaf",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792657970048
         }
       ],
       "updated": 1792657873307
     }
   ],
   "history": [
+    {
+      "id": "gijtbopmvja9qbk",
+      "ts": 1792657970048,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "added",
+      "item": "Gardenia",
+      "no": "56",
+      "detail": "Qty 8 Loaf, Frozen"
+    },
     {
       "id": "a3n9830mvja99un",
       "ts": 1792657948703,
