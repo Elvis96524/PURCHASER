@@ -11098,12 +11098,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792658333746
+        },
+        {
+          "id": "cxwq4cimvjaies7",
+          "added": 1792658374999,
+          "addedBy": "chelson",
+          "name": "MURUKU POPO 12GMX30'S",
+          "no": "77",
+          "qty": 9,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792658374999
         }
       ],
       "updated": 1792658282897
     }
   ],
   "history": [
+    {
+      "id": "aqrhsfvmvjaies7",
+      "ts": 1792658374999,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "77",
+      "detail": "Qty 9 Pkt, Dry"
+    },
     {
       "id": "ygimo4omvjahiya",
       "ts": 1792658333746,
