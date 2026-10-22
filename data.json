@@ -10349,12 +10349,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631152676
+        },
+        {
+          "id": "he258a0mviubk98",
+          "added": 1792631181644,
+          "addedBy": "fathin",
+          "name": "ROCK MELON ( subject To Availability )",
+          "no": "",
+          "qty": 1,
+          "unit": "",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631181644
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "nxyi3vtmviubk98",
+      "ts": 1792631181644,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "ROCK MELON ( subject To Availability )",
+      "no": "",
+      "detail": "Qty 1, Dry"
+    },
     {
       "id": "i0g3xx5mviuaxwk",
       "ts": 1792631152676,
