@@ -10475,12 +10475,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631376340
+        },
+        {
+          "id": "vz8s2tkmviufz4t",
+          "added": 1792631387549,
+          "addedBy": "fathin",
+          "name": "BERAS BASMATHI 5KG",
+          "no": "",
+          "qty": 1,
+          "unit": "bag",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631387549
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "mmm6e5nmviufz4t",
+      "ts": 1792631387549,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "BERAS BASMATHI 5KG",
+      "no": "",
+      "detail": "Qty 1 bag, Dry"
+    },
     {
       "id": "t23v5qjmviufqhg",
       "ts": 1792631376340,
