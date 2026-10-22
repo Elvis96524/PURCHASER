@@ -10989,9 +10989,26 @@
         }
       ],
       "updated": 1792631935685
+    },
+    {
+      "id": "dzgeeexmvja7nob",
+      "name": "Sk Purpose NOV 1ST ORDER",
+      "items": [],
+      "updated": 1792657873307
     }
   ],
   "history": [
+    {
+      "id": "bysiz3qmvja7nob",
+      "ts": 1792657873307,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "y0m9ycpmvj7uww6",
       "ts": 1792653919494,
