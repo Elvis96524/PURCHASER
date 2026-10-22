@@ -11035,12 +11035,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792658069214
+        },
+        {
+          "id": "p06ztsgmvjacp77",
+          "added": 1792658108563,
+          "addedBy": "chelson",
+          "name": "Super ring 60gm",
+          "no": "74",
+          "qty": 6,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792658108563
         }
       ],
       "updated": 1792657873307
     }
   ],
   "history": [
+    {
+      "id": "y2cphw5mvjacp77",
+      "ts": 1792658108563,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "added",
+      "item": "Super ring 60gm",
+      "no": "74",
+      "detail": "Qty 6 Pkt, Dry"
+    },
     {
       "id": "hdi0kk2mvjabuu6",
       "ts": 1792658069214,
