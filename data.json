@@ -5330,15 +5330,16 @@
           "id": "ca1w1qsmuuwi3wj",
           "added": 1791183658051,
           "addedBy": "fathin",
-          "name": "MAGGI CUP TOM YAM 72GX54'S",
+          "name": "MAGGI CUP TOM YAM 72GX54'S ( oFFER HOT CUP CURRY)",
           "no": "61",
           "qty": 1,
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "na",
+          "status": "received",
           "notes": "",
-          "updated": 1792568621661
+          "updated": 1792633760397,
+          "updatedBy": "farah"
         },
         {
           "id": "ede6ts2muuwiorv",
@@ -10961,6 +10962,17 @@
     }
   ],
   "history": [
+    {
+      "id": "e1fmlpbmvivuu19",
+      "ts": 1792633760397,
+      "by": "farah",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "edited",
+      "item": "MAGGI CUP TOM YAM 72GX54'S ( oFFER HOT CUP CURRY)",
+      "no": "61",
+      "detail": "Name \"MAGGI CUP TOM YAM 72GX54'S\" → \"MAGGI CUP TOM YAM 72GX54'S ( oFFER HOT CUP CURRY)\"; Status: N/A → Received"
+    },
     {
       "id": "qt305ejmvivuckf",
       "ts": 1792633737759,
