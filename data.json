@@ -5541,9 +5541,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1791443275941
+          "updated": 1792659139854
         },
         {
           "id": "11l0t8imuuwu6rf",
@@ -11286,6 +11286,17 @@
     }
   ],
   "history": [
+    {
+      "id": "mvpdh6kmvjaysy6",
+      "ts": 1792659139854,
+      "by": "lim",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "PISANG EMAS",
+      "no": "1",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "z683bm7mvjay6t7",
       "ts": 1792659111163,
@@ -22274,17 +22285,6 @@
       "item": "PISANG EMAS",
       "no": "1",
       "detail": "Status: Ordered → To buy"
-    },
-    {
-      "id": "irup736muz72l1h",
-      "ts": 1791443274245,
-      "by": "lim",
-      "vid": "lzgt4qymuuwbvzg",
-      "vname": "SK PERFECT ( OCT 2ND ORDER )",
-      "action": "status",
-      "item": "PISANG EMAS",
-      "no": "1",
-      "detail": "Status: To buy → Ordered"
     }
   ]
 }
