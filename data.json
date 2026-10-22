@@ -11203,13 +11203,13 @@
           "addedBy": "chelson",
           "name": "Kerepek ubi pedas",
           "no": "108",
-          "qty": 5,
+          "qty": 3,
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792658890086
+          "updated": 1792658935337
         },
         {
           "id": "dkysfq4mvjau3sy",
@@ -11230,6 +11230,17 @@
     }
   ],
   "history": [
+    {
+      "id": "lackuf1mvjauf56",
+      "ts": 1792658935338,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "edited",
+      "item": "Kerepek ubi pedas",
+      "no": "108",
+      "detail": "Qty 5 → 3"
+    },
     {
       "id": "iz0ix57mvjau3sy",
       "ts": 1792658920642,
