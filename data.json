@@ -10811,12 +10811,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792632000612
+        },
+        {
+          "id": "xkhpxn4mviutg8k",
+          "added": 1792632016244,
+          "addedBy": "fathin",
+          "name": "DRINHO ICE LEMON TEA 1LT",
+          "no": "",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792632016244
         }
       ],
       "updated": 1792631935685
     }
   ],
   "history": [
+    {
+      "id": "yc5nui3mviutg8k",
+      "ts": 1792632016244,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "DRINHO ICE LEMON TEA 1LT",
+      "no": "",
+      "detail": "Qty 1 CTN, Dry"
+    },
     {
       "id": "ayop17gmviut46c",
       "ts": 1792632000612,
