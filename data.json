@@ -10531,12 +10531,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631436317
+        },
+        {
+          "id": "4tpmhq8mviuhd6l",
+          "added": 1792631452413,
+          "addedBy": "fathin",
+          "name": "REX KERANG PANGGANG",
+          "no": "",
+          "qty": 4,
+          "unit": "TIN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631452413
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "yf71rsfmviuhd6l",
+      "ts": 1792631452413,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "REX KERANG PANGGANG",
+      "no": "",
+      "detail": "Qty 4 TIN, Dry"
+    },
     {
       "id": "uaeqzo1mviuh0rh",
       "ts": 1792631436317,
