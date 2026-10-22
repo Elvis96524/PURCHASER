@@ -11084,11 +11084,37 @@
     {
       "id": "prow0qdmvjagfpt",
       "name": "Sk Prelude NOV",
-      "items": [],
+      "items": [
+        {
+          "id": "17djwatmvjahiya",
+          "added": 1792658333746,
+          "addedBy": "chelson",
+          "name": "Curry beef yeos 160gm",
+          "no": "39",
+          "qty": 4,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792658333746
+        }
+      ],
       "updated": 1792658282897
     }
   ],
   "history": [
+    {
+      "id": "ygimo4omvjahiya",
+      "ts": 1792658333746,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "Curry beef yeos 160gm",
+      "no": "39",
+      "detail": "Qty 4 Tin, Dry"
+    },
     {
       "id": "t8jes0mmvjagfpt",
       "ts": 1792658282897,
