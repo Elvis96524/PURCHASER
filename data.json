@@ -10360,9 +10360,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792631196245
+          "updated": 1792632735452
         },
         {
           "id": "cnlz1kgmviud9p9",
@@ -10957,6 +10957,17 @@
     }
   ],
   "history": [
+    {
+      "id": "v50yblpmviv8v6k",
+      "ts": 1792632735452,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/26 )",
+      "action": "status",
+      "item": "ROCK MELON ( subject To Availability )",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "1rht7sgmviv8o1c",
       "ts": 1792632726192,
