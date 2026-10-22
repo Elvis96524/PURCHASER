@@ -10706,12 +10706,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631689485
+        },
+        {
+          "id": "xmqrgh9mviumqse",
+          "added": 1792631703326,
+          "addedBy": "fathin",
+          "name": "BEAN SPROUTS",
+          "no": "",
+          "qty": 10,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631703325
         }
       ],
       "updated": 1792631545693
     }
   ],
   "history": [
+    {
+      "id": "ujicbqkmviumqse",
+      "ts": 1792631703326,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "BEAN SPROUTS",
+      "no": "",
+      "detail": "Qty 10 KG, Chiller"
+    },
     {
       "id": "b0kyuoxmviumg3x",
       "ts": 1792631689485,
