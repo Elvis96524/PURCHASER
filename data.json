@@ -10008,6 +10008,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792547621792
+        },
+        {
+          "id": "bn2vpoemvisf191",
+          "added": 1792627984405,
+          "addedBy": "chelson",
+          "name": "Baby corn",
+          "no": "34",
+          "qty": 10,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792627984405
         }
       ],
       "updated": 1792552761701
@@ -10250,6 +10264,17 @@
     }
   ],
   "history": [
+    {
+      "id": "9tjz0i3mvisf191",
+      "ts": 1792627984405,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "added",
+      "item": "Baby corn",
+      "no": "34",
+      "detail": "Qty 10 Pkt, Chiller"
+    },
     {
       "id": "ofzfijamvhtgyln",
       "ts": 1792569287723,
