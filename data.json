@@ -10573,12 +10573,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631477309
+        },
+        {
+          "id": "fwoigkimviuibgl",
+          "added": 1792631496837,
+          "addedBy": "fathin",
+          "name": "KEWPIE SANDWICH SPREAD 310ML/PKT",
+          "no": "",
+          "qty": 5,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631496837
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "mv9wae8mviuibgl",
+      "ts": 1792631496837,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "KEWPIE SANDWICH SPREAD 310ML/PKT",
+      "no": "",
+      "detail": "Qty 5 BTL, Dry"
+    },
     {
       "id": "rgbw96bmviuhwe5",
       "ts": 1792631477309,
