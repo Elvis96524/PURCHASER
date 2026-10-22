@@ -5640,9 +5640,9 @@
           "unit": "PCS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792566152053
+          "updated": 1792634359556
         },
         {
           "id": "4puwctcmuuwyumr",
@@ -10953,6 +10953,17 @@
     }
   ],
   "history": [
+    {
+      "id": "hq3gyncmviw7ock",
+      "ts": 1792634359556,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "TEMPE",
+      "no": "78",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "ef1qmmgmvivzf16",
       "ts": 1792633974234,
