@@ -10391,12 +10391,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631273173
+        },
+        {
+          "id": "x4iuexomviudrhp",
+          "added": 1792631284333,
+          "addedBy": "fathin",
+          "name": "PUCUK UBI",
+          "no": "",
+          "qty": 7,
+          "unit": "IKAT",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631284333
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "kjvtx44mviudrhp",
+      "ts": 1792631284333,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "PUCUK UBI",
+      "no": "",
+      "detail": "Qty 7 IKAT, Chiller"
+    },
     {
       "id": "bfjn8yzmviudivp",
       "ts": 1792631273173,
