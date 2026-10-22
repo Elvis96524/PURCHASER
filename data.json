@@ -10876,17 +10876,28 @@
           "no": "",
           "qty": 10,
           "unit": "BDL",
-          "category": "Dry",
+          "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792632068804
+          "updated": 1792632073533
         }
       ],
       "updated": 1792631935685
     }
   ],
   "history": [
+    {
+      "id": "pcoeu9vmviuuofy",
+      "ts": 1792632073534,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "edited",
+      "item": "PUCUK UBI",
+      "no": "",
+      "detail": "Dry → Chiller"
+    },
     {
       "id": "ghbpug3mviuuksk",
       "ts": 1792632068804,
