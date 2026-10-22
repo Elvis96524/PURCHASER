@@ -10619,9 +10619,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631496837
+          "updated": 1792647024748
         }
       ],
       "updated": 1792633974234
@@ -10992,6 +10992,17 @@
     }
   ],
   "history": [
+    {
+      "id": "im99sptmvj3r4vh",
+      "ts": 1792647024749,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "KEWPIE SANDWICH SPREAD 310ML/PKT",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "71r5inmmvj3qwgx",
       "ts": 1792647013857,
