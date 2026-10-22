@@ -11126,12 +11126,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792658402330
+        },
+        {
+          "id": "ytr4iiamvjajp1f",
+          "added": 1792658434947,
+          "addedBy": "chelson",
+          "name": "Mi sedaap soto",
+          "no": "87",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792658434947
         }
       ],
       "updated": 1792658282897
     }
   ],
   "history": [
+    {
+      "id": "c6k4zmrmvjajp1f",
+      "ts": 1792658434947,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "Mi sedaap soto",
+      "no": "87",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "lq0ti01mvjaizve",
       "ts": 1792658402330,
