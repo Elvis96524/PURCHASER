@@ -10993,11 +10993,37 @@
     {
       "id": "dzgeeexmvja7nob",
       "name": "Sk Purpose NOV 1ST ORDER",
-      "items": [],
+      "items": [
+        {
+          "id": "efgzdhrmvja93f2",
+          "added": 1792657940366,
+          "addedBy": "chelson",
+          "name": "Wholemeal bread",
+          "no": "55",
+          "qty": 4,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792657940366
+        }
+      ],
       "updated": 1792657873307
     }
   ],
   "history": [
+    {
+      "id": "xuo4cypmvja93f2",
+      "ts": 1792657940366,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "added",
+      "item": "Wholemeal bread",
+      "no": "55",
+      "detail": "Qty 4 Pkt, Dry"
+    },
     {
       "id": "bysiz3qmvja7nob",
       "ts": 1792657873307,
