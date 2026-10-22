@@ -10517,12 +10517,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631417885
+        },
+        {
+          "id": "s242da7mviuh0rh",
+          "added": 1792631436317,
+          "addedBy": "fathin",
+          "name": "SERBUK CUKP RASA 500GM",
+          "no": "",
+          "qty": 2,
+          "unit": "PACK",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631436317
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "uaeqzo1mviuh0rh",
+      "ts": 1792631436317,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "SERBUK CUKP RASA 500GM",
+      "no": "",
+      "detail": "Qty 2 PACK, Dry"
+    },
     {
       "id": "keuawvlmviugmjh",
       "ts": 1792631417885,
