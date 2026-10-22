@@ -10622,12 +10622,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631593389
+        },
+        {
+          "id": "zpilh3umviuko0t",
+          "added": 1792631606429,
+          "addedBy": "fathin",
+          "name": "DRINHO ICE LEMON TEA 1LT",
+          "no": "",
+          "qty": 2,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631606429
         }
       ],
       "updated": 1792631545693
     }
   ],
   "history": [
+    {
+      "id": "5oxgehymviuko0t",
+      "ts": 1792631606429,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "DRINHO ICE LEMON TEA 1LT",
+      "no": "",
+      "detail": "Qty 2 CTN, Dry"
+    },
     {
       "id": "riql01lmviukdyl",
       "ts": 1792631593389,
