@@ -11224,12 +11224,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792658920642
+        },
+        {
+          "id": "xi4qr4ymvjav5zv",
+          "added": 1792658970139,
+          "addedBy": "chelson",
+          "name": "Margarine 1kg",
+          "no": "",
+          "qty": 1,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792658970139
         }
       ],
       "updated": 1792658282897
     }
   ],
   "history": [
+    {
+      "id": "38rqauemvjav5zv",
+      "ts": 1792658970139,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "Margarine 1kg",
+      "no": "",
+      "detail": "Qty 1 Pkt, Dry"
+    },
     {
       "id": "lackuf1mvjauf56",
       "ts": 1792658935338,
