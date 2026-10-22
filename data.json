@@ -11266,12 +11266,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792659061865
+        },
+        {
+          "id": "4d9brycmvjay6t7",
+          "added": 1792659111163,
+          "addedBy": "chelson",
+          "name": "3M s/steel cleaner polish spray 600gm",
+          "no": "Chemical 20",
+          "qty": 2,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792659111163
         }
       ],
       "updated": 1792658282897
     }
   ],
   "history": [
+    {
+      "id": "z683bm7mvjay6t7",
+      "ts": 1792659111163,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "3M s/steel cleaner polish spray 600gm",
+      "no": "Chemical 20",
+      "detail": "Qty 2 Btl, Dry"
+    },
     {
       "id": "f45iugwmvjax4rt",
       "ts": 1792659061865,
