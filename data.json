@@ -10441,9 +10441,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631329149
+          "updated": 1792634943716
         },
         {
           "id": "azavwfymviuf6o5",
@@ -10954,6 +10954,17 @@
     }
   ],
   "history": [
+    {
+      "id": "3nzhpsymviwk738",
+      "ts": 1792634943716,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "SANTAN KARA 200ML",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "yaaaz13mviwerh2",
       "ts": 1792634690198,
