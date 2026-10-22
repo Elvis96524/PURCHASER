@@ -10363,12 +10363,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631196245
+        },
+        {
+          "id": "cnlz1kgmviud9p9",
+          "added": 1792631261277,
+          "addedBy": "fathin",
+          "name": "KIWI FRUIT ( req kiwi yellow, OFFER ZESPRI GOLD KIWI 4'/PACK )",
+          "no": "",
+          "qty": 1,
+          "unit": "PACK",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631261277
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "4h279zkmviud9p9",
+      "ts": 1792631261277,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "KIWI FRUIT ( req kiwi yellow, OFFER ZESPRI GOLD KIWI 4'/PACK )",
+      "no": "",
+      "detail": "Qty 1 PACK, Chiller"
+    },
     {
       "id": "oynx2hzmviubviu",
       "ts": 1792631196246,
