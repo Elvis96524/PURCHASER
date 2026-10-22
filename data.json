@@ -11252,12 +11252,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792659032117
+        },
+        {
+          "id": "k2ypj0xmvjax4rt",
+          "added": 1792659061865,
+          "addedBy": "chelson",
+          "name": "Magic clean",
+          "no": "Chemical 6",
+          "qty": 5,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792659061865
         }
       ],
       "updated": 1792658282897
     }
   ],
   "history": [
+    {
+      "id": "f45iugwmvjax4rt",
+      "ts": 1792659061865,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "Magic clean",
+      "no": "Chemical 6",
+      "detail": "Qty 5 Btl, Dry"
+    },
     {
       "id": "oidkibbmvjawhth",
       "ts": 1792659032117,
