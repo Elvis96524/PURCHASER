@@ -5512,9 +5512,9 @@
           "unit": "PCS",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1791184058083
+          "updated": 1792636463779
         },
         {
           "id": "ec1cqv1muuwr5ez",
@@ -10954,6 +10954,17 @@
     }
   ],
   "history": [
+    {
+      "id": "r41b334mvixgrz7",
+      "ts": 1792636463779,
+      "by": "farah",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "SATAY KAMBING",
+      "no": "96",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "0t4ok65mviwysqy",
       "ts": 1792635624970,
