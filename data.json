@@ -10073,6 +10073,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792627984405
+        },
+        {
+          "id": "ponxn1smvj34m73",
+          "added": 1792645974111,
+          "addedBy": "farah",
+          "name": "Cangkok manis",
+          "no": "14",
+          "qty": 10,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792645974111
         }
       ],
       "updated": 1792552761701
@@ -10936,6 +10950,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xvr911ymvj34m73",
+      "ts": 1792645974111,
+      "by": "farah",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "added",
+      "item": "Cangkok manis",
+      "no": "14",
+      "detail": "Qty 10 Ikat, Chiller"
+    },
     {
       "id": "knkcq7wmvizxxgk",
       "ts": 1792640623268,
