@@ -5809,6 +5809,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792630411495
+        },
+        {
+          "id": "gel4t2xmvitzaxx",
+          "added": 1792630609701,
+          "addedBy": "nicole",
+          "name": "Bamboo shoots 552G",
+          "no": "16",
+          "qty": 4,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792630609700
         }
       ],
       "updated": 1792553936869
@@ -10292,6 +10306,17 @@
     }
   ],
   "history": [
+    {
+      "id": "nfnsv0ymvitzaxx",
+      "ts": 1792630609701,
+      "by": "nicole",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "added",
+      "item": "Bamboo shoots 552G",
+      "no": "16",
+      "detail": "Qty 4 Tin, Dry"
+    },
     {
       "id": "8qo26twmvitv207",
       "ts": 1792630411495,
