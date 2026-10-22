@@ -11140,12 +11140,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792658434947
+        },
+        {
+          "id": "pncwv5jmvjaov0h",
+          "added": 1792658675969,
+          "addedBy": "chelson",
+          "name": "Oreo vanilla Kraft 137gm",
+          "no": "103",
+          "qty": 8,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792658675969
         }
       ],
       "updated": 1792658282897
     }
   ],
   "history": [
+    {
+      "id": "69wtjd0mvjaov0h",
+      "ts": 1792658675969,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "Oreo vanilla Kraft 137gm",
+      "no": "103",
+      "detail": "Qty 8 Pkt, Dry"
+    },
     {
       "id": "c6k4zmrmvjajp1f",
       "ts": 1792658434947,
