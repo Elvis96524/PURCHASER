@@ -10110,11 +10110,11 @@
           "no": "39",
           "qty": 20,
           "unit": "PKT",
-          "category": "Dry",
+          "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792646613899
+          "updated": 1792646625459
         }
       ],
       "updated": 1792552761701
@@ -10978,6 +10978,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6x0tyt3mvj3iks3",
+      "ts": 1792646625459,
+      "by": "farah",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "edited",
+      "item": "TAUHU POK/TAUHU GORENG 9'S",
+      "no": "39",
+      "detail": "Dry → Chiller"
+    },
     {
       "id": "8ibhiaimvj3ibuz",
       "ts": 1792646613899,
