@@ -10692,12 +10692,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631674501
+        },
+        {
+          "id": "p7lgbohmviumg3x",
+          "added": 1792631689485,
+          "addedBy": "fathin",
+          "name": "PUCUK UBI",
+          "no": "",
+          "qty": 10,
+          "unit": "BDL",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631689485
         }
       ],
       "updated": 1792631545693
     }
   ],
   "history": [
+    {
+      "id": "b0kyuoxmviumg3x",
+      "ts": 1792631689485,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "PUCUK UBI",
+      "no": "",
+      "detail": "Qty 10 BDL, Chiller"
+    },
     {
       "id": "67lgi5amvium4jp",
       "ts": 1792631674501,
