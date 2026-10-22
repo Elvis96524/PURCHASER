@@ -11210,12 +11210,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792658890086
+        },
+        {
+          "id": "dkysfq4mvjau3sy",
+          "added": 1792658920642,
+          "addedBy": "chelson",
+          "name": "Kerepek ubi",
+          "no": "107",
+          "qty": 3,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792658920642
         }
       ],
       "updated": 1792658282897
     }
   ],
   "history": [
+    {
+      "id": "iz0ix57mvjau3sy",
+      "ts": 1792658920642,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "Kerepek ubi",
+      "no": "107",
+      "detail": "Qty 3 Pkt, Dry"
+    },
     {
       "id": "lnms5rumvjatg86",
       "ts": 1792658890086,
