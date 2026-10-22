@@ -11021,12 +11021,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792657970048
+        },
+        {
+          "id": "aicaqcfmvjabuu6",
+          "added": 1792658069214,
+          "addedBy": "chelson",
+          "name": "Samyang Mee Cheese 75gm x40's",
+          "no": "70",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792658069214
         }
       ],
       "updated": 1792657873307
     }
   ],
   "history": [
+    {
+      "id": "hdi0kk2mvjabuu6",
+      "ts": 1792658069214,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "added",
+      "item": "Samyang Mee Cheese 75gm x40's",
+      "no": "70",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "07u4osomvjaa0oy",
       "ts": 1792657983490,
