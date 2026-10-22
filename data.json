@@ -10320,7 +10320,7 @@
     },
     {
       "id": "txw8ewrmviuaarp",
-      "name": "BELAIT PSV 2 ( 22/10/2026 )",
+      "name": "BELAIT PSV 2 ( 22/10/26 )",
       "items": [
         {
           "id": "xye7wbemviuaq1a",
@@ -10589,7 +10589,7 @@
           "updated": 1792631496837
         }
       ],
-      "updated": 1792631122693
+      "updated": 1792631578301
     },
     {
       "id": "eux4ocqmviujd5p",
@@ -10614,6 +10614,17 @@
     }
   ],
   "history": [
+    {
+      "id": "1zxqx03mviuk2bh",
+      "ts": 1792631578301,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/26 )",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"BELAIT PSV 2 ( 22/10/2026 )\" to \"BELAIT PSV 2 ( 22/10/26 )\""
+    },
     {
       "id": "p2444crmviujvas",
       "ts": 1792631569204,
