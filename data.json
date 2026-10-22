@@ -5781,6 +5781,20 @@
           "status": "received",
           "notes": "",
           "updated": 1792568654199
+        },
+        {
+          "id": "33zo3clmvittpip",
+          "added": 1792630348657,
+          "addedBy": "chelson",
+          "name": "D/lady Strawberry milk 1L x12 's",
+          "no": "",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792630348657
         }
       ],
       "updated": 1792553936869
@@ -10264,6 +10278,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qeq2nqqmvittpip",
+      "ts": 1792630348657,
+      "by": "chelson",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "added",
+      "item": "D/lady Strawberry milk 1L x12 's",
+      "no": "",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "9tjz0i3mvisf191",
       "ts": 1792627984405,
