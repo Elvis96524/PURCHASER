@@ -9986,9 +9986,9 @@
           "unit": "Loaf",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1792547312561
+          "updated": 1792650537279
         },
         {
           "id": "6fy1dgimvhgim6b",
@@ -10070,9 +10070,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792627984405
+          "updated": 1792650529554
         },
         {
           "id": "ponxn1smvj34m73",
@@ -10440,9 +10440,9 @@
           "unit": "PCS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792647013856
+          "updated": 1792650485330
         },
         {
           "id": "x4iuexomviudrhp",
@@ -10567,9 +10567,9 @@
           "unit": "TIN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631417885
+          "updated": 1792650498828
         },
         {
           "id": "s242da7mviuh0rh",
@@ -10581,9 +10581,9 @@
           "unit": "PACK",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631436317
+          "updated": 1792650501612
         },
         {
           "id": "4tpmhq8mviuhd6l",
@@ -10992,6 +10992,61 @@
     }
   ],
   "history": [
+    {
+      "id": "a9m7zx2mvj5uf5r",
+      "ts": 1792650537279,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "Gardenia",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
+    {
+      "id": "db2400imvj5u976",
+      "ts": 1792650529554,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "Baby corn",
+      "no": "34",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "dqidewdmvj5tnn0",
+      "ts": 1792650501612,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "SERBUK CUKP RASA 500GM",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "csa8tffmvj5tlho",
+      "ts": 1792650498828,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "SARDINE AYAMBRAND 425GM",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "fig6luimvj5tb2q",
+      "ts": 1792650485331,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "YOGURT",
+      "no": "",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "u5s3dxqmvj4tcvg",
       "ts": 1792648808044,
