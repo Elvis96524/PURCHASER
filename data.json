@@ -10455,9 +10455,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631350661
+          "updated": 1792635097717
         },
         {
           "id": "djshwjsmviufqhg",
@@ -10954,6 +10954,17 @@
     }
   ],
   "history": [
+    {
+      "id": "kz1pmnfmviwnhx1",
+      "ts": 1792635097717,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "JULIE'S PEANUT BUTTER CRACKER 135G",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "8inmphymviwm23o",
       "ts": 1792635030564,
