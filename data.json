@@ -10056,9 +10056,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792547621792
+          "updated": 1792639285686
         },
         {
           "id": "bn2vpoemvisf191",
@@ -10954,6 +10954,17 @@
     }
   ],
   "history": [
+    {
+      "id": "x6nr97tmviz59di",
+      "ts": 1792639285686,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "Petai",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "d10qfy0mviz55bq",
       "ts": 1792639280438,
