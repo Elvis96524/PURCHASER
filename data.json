@@ -10419,12 +10419,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631295285
+        },
+        {
+          "id": "912h359mviueei5",
+          "added": 1792631314157,
+          "addedBy": "fathin",
+          "name": "NUTRIPLUS SAUSAGE CHEESE 300GM",
+          "no": "",
+          "qty": 20,
+          "unit": "PKT",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631314157
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "os185szmviueei6",
+      "ts": 1792631314158,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "NUTRIPLUS SAUSAGE CHEESE 300GM",
+      "no": "",
+      "detail": "Qty 20 PKT, Frozen"
+    },
     {
       "id": "nmz8kxjmviudzxx",
       "ts": 1792631295285,
