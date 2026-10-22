@@ -10115,6 +10115,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792646625459
+        },
+        {
+          "id": "ldmlax7mvj3qp2u",
+          "added": 1792647004278,
+          "addedBy": "farah",
+          "name": "BABY PAK CHOY",
+          "no": "32",
+          "qty": 10,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792647004278
         }
       ],
       "updated": 1792552761701
@@ -10978,6 +10992,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7fb1uqbmvj3qp2u",
+      "ts": 1792647004278,
+      "by": "farah",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "added",
+      "item": "BABY PAK CHOY",
+      "no": "32",
+      "detail": "Qty 10 KG, Chiller"
+    },
     {
       "id": "6x0tyt3mvj3iks3",
       "ts": 1792646625459,
