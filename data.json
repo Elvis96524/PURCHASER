@@ -10440,9 +10440,9 @@
           "unit": "PCS",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1792631273173
+          "updated": 1792647013856
         },
         {
           "id": "x4iuexomviudrhp",
@@ -10992,6 +10992,17 @@
     }
   ],
   "history": [
+    {
+      "id": "71r5inmmvj3qwgx",
+      "ts": 1792647013857,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "YOGURT",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "7fb1uqbmvj3qp2u",
       "ts": 1792647004278,
