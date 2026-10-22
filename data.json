@@ -10836,9 +10836,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1792632027764
+          "updated": 1792632166562
         },
         {
           "id": "fwnth19mviuu0qs",
@@ -10957,6 +10957,17 @@
     }
   ],
   "history": [
+    {
+      "id": "l6rhy6fmviuwo83",
+      "ts": 1792632166563,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "status",
+      "item": "SEASON SOYA BEAN 1LT",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "qi5noxemviuw2px",
       "ts": 1792632138693,
