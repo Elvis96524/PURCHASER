@@ -5834,7 +5834,8 @@
           "updated": 1792633883030
         }
       ],
-      "updated": 1792553936869
+      "deleted": true,
+      "updated": 1792659233875
     },
     {
       "id": "7e83qekmuvwen21",
@@ -11286,6 +11287,17 @@
     }
   ],
   "history": [
+    {
+      "id": "haejmykmvjb0thv",
+      "ts": 1792659233875,
+      "by": "lim",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "17uv5xhmvjb0l57",
       "ts": 1792659223051,
@@ -22274,17 +22286,6 @@
       "item": "BEAN SPROUT",
       "no": "",
       "detail": "Qty 10 KG, Chiller"
-    },
-    {
-      "id": "t75rhh7muz9ygiq",
-      "ts": 1791448120610,
-      "by": "fathin",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE",
-      "action": "added",
-      "item": "DAUN PUCUK UBI",
-      "no": "",
-      "detail": "Qty 10 BDL, Chiller"
     }
   ]
 }
