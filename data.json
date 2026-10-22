@@ -5786,15 +5786,16 @@
           "id": "33zo3clmvittpip",
           "added": 1792630348657,
           "addedBy": "chelson",
-          "name": "D/lady Strawberry milk 1L x12 's",
+          "name": "D/lady Strawberry milk 1L x12 's (offer d/lady chocolate)",
           "no": "",
           "qty": 1,
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792630348657
+          "updated": 1792633244289,
+          "updatedBy": "farah"
         },
         {
           "id": "69sc7pdmvitv207",
@@ -10958,6 +10959,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ru2vo4kmvivjrsy",
+      "ts": 1792633244290,
+      "by": "farah",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "edited",
+      "item": "D/lady Strawberry milk 1L x12 's (offer d/lady chocolate)",
+      "no": "",
+      "detail": "Name \"D/lady Strawberry milk 1L x12 's\" → \"D/lady Strawberry milk 1L x12 's (offer d/lady chocolate)\"; Status: To buy → Received"
+    },
     {
       "id": "9x8se9gmviv9fpa",
       "ts": 1792632762047,
