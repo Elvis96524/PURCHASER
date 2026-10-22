@@ -10797,12 +10797,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631983677
+        },
+        {
+          "id": "yocanljmviut46c",
+          "added": 1792632000612,
+          "addedBy": "fathin",
+          "name": "DRINHO WINTERMELON 1LT",
+          "no": "",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792632000612
         }
       ],
       "updated": 1792631935685
     }
   ],
   "history": [
+    {
+      "id": "ayop17gmviut46c",
+      "ts": 1792632000612,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "DRINHO WINTERMELON 1LT",
+      "no": "",
+      "detail": "Qty 1 CTN, Dry"
+    },
     {
       "id": "ws1i1twmviusr3x",
       "ts": 1792631983677,
