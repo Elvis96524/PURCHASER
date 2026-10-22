@@ -11112,12 +11112,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792658374999
+        },
+        {
+          "id": "devhduxmvjaizve",
+          "added": 1792658402330,
+          "addedBy": "chelson",
+          "name": "Gardenia",
+          "no": "80",
+          "qty": 4,
+          "unit": "Loaf",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792658402330
         }
       ],
       "updated": 1792658282897
     }
   ],
   "history": [
+    {
+      "id": "lq0ti01mvjaizve",
+      "ts": 1792658402330,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "Gardenia",
+      "no": "80",
+      "detail": "Qty 4 Loaf, Frozen"
+    },
     {
       "id": "aqrhsfvmvjaies7",
       "ts": 1792658374999,
