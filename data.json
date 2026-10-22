@@ -5555,9 +5555,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792566126403
+          "updated": 1792659192139
         },
         {
           "id": "11wasvkmuuwv43n",
@@ -11286,6 +11286,17 @@
     }
   ],
   "history": [
+    {
+      "id": "x8kosj8mvjazxaj",
+      "ts": 1792659192139,
+      "by": "lim",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "MANGO/MANGGA LEMAK MANIS",
+      "no": "5",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "pzypb7imvjaz6yz",
       "ts": 1792659158027,
@@ -22274,17 +22285,6 @@
       "item": "TEMPE",
       "no": "22",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "57v335bmuz74n4v",
-      "ts": 1791443370271,
-      "by": "fathin",
-      "vid": "45yogyhmuz74b5z",
-      "vname": "TWO AARYAN",
-      "action": "added",
-      "item": "TEMPE",
-      "no": "22",
-      "detail": "Qty 1 pcs, Dry"
     }
   ]
 }
