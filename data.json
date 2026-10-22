@@ -10403,8 +10403,9 @@
           "category": "Chiller",
           "priority": "normal",
           "status": "received",
-          "notes": "",
-          "updated": 1792632745522
+          "notes": "Store have",
+          "updated": 1792632752965,
+          "updatedBy": "chelson"
         },
         {
           "id": "aw0bkxdmviudzxx",
@@ -10957,6 +10958,17 @@
     }
   ],
   "history": [
+    {
+      "id": "pqbs8ybmviv98p2",
+      "ts": 1792632752966,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/26 )",
+      "action": "edited",
+      "item": "PUCUK UBI",
+      "no": "",
+      "detail": "Notes added: \"Store have\""
+    },
     {
       "id": "0wayqk3mviv92ya",
       "ts": 1792632745522,
