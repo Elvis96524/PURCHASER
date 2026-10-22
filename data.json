@@ -10594,11 +10594,37 @@
     {
       "id": "eux4ocqmviujd5p",
       "name": "OS ONE",
-      "items": [],
+      "items": [
+        {
+          "id": "2j6h3i6mviujvas",
+          "added": 1792631569204,
+          "addedBy": "fathin",
+          "name": "MAGGI CURRY",
+          "no": "",
+          "qty": 5,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631569204
+        }
+      ],
       "updated": 1792631545693
     }
   ],
   "history": [
+    {
+      "id": "p2444crmviujvas",
+      "ts": 1792631569204,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "MAGGI CURRY",
+      "no": "",
+      "detail": "Qty 5 CTN, Dry"
+    },
     {
       "id": "g6vyj7fmviujd5p",
       "ts": 1792631545693,
