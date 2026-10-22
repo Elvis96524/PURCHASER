@@ -10825,12 +10825,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792632016244
+        },
+        {
+          "id": "scxjjb3mviutp4k",
+          "added": 1792632027764,
+          "addedBy": "fathin",
+          "name": "SEASON SOYA BEAN 1LT",
+          "no": "",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792632027764
         }
       ],
       "updated": 1792631935685
     }
   ],
   "history": [
+    {
+      "id": "6ixjdvgmviutp4k",
+      "ts": 1792632027764,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "SEASON SOYA BEAN 1LT",
+      "no": "",
+      "detail": "Qty 1 CTN, Dry"
+    },
     {
       "id": "yc5nui3mviutg8k",
       "ts": 1792632016244,
