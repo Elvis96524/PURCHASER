@@ -10402,9 +10402,9 @@
           "unit": "IKAT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631284333
+          "updated": 1792632745522
         },
         {
           "id": "aw0bkxdmviudzxx",
@@ -10957,6 +10957,17 @@
     }
   ],
   "history": [
+    {
+      "id": "0wayqk3mviv92ya",
+      "ts": 1792632745522,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/26 )",
+      "action": "status",
+      "item": "PUCUK UBI",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "v50yblpmviv8v6k",
       "ts": 1792632735452,
