@@ -5626,9 +5626,9 @@
           "unit": "PKT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792560511835
+          "updated": 1792659212579
         },
         {
           "id": "a0kdoirmuuwxtr7",
@@ -11286,6 +11286,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6vq4ctamvjb0d2b",
+      "ts": 1792659212579,
+      "by": "lim",
+      "vid": "lzgt4qymuuwbvzg",
+      "vname": "SK PERFECT - OCT 2ND ( LOADING : 22/10/2026 )",
+      "action": "status",
+      "item": "CINCAU",
+      "no": "72",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "fxyq5momvjb09hn",
       "ts": 1792659207947,
@@ -22274,17 +22285,6 @@
       "item": "",
       "no": "",
       "detail": "Vessel created"
-    },
-    {
-      "id": "q080h5lmuz754hj",
-      "ts": 1791443392759,
-      "by": "fathin",
-      "vid": "45yogyhmuz74b5z",
-      "vname": "TWO AARYAN",
-      "action": "vdelete",
-      "item": "",
-      "no": "",
-      "detail": "Vessel deleted"
     }
   ]
 }
