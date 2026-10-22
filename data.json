@@ -10608,12 +10608,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631569204
+        },
+        {
+          "id": "zh8qy23mviukdyl",
+          "added": 1792631593389,
+          "addedBy": "fathin",
+          "name": "DRINHO WINTERMELON 1LT",
+          "no": "",
+          "qty": 2,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631593389
         }
       ],
       "updated": 1792631545693
     }
   ],
   "history": [
+    {
+      "id": "riql01lmviukdyl",
+      "ts": 1792631593389,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "DRINHO WINTERMELON 1LT",
+      "no": "",
+      "detail": "Qty 2 CTN, Dry"
+    },
     {
       "id": "1zxqx03mviuk2bh",
       "ts": 1792631578301,
