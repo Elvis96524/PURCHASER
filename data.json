@@ -10028,9 +10028,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792547578479
+          "updated": 1792639274330
         },
         {
           "id": "vpnryilmvhgk61m",
@@ -10954,6 +10954,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yeohbfdmviz50m2",
+      "ts": 1792639274330,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "Pucuk ubi",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "qjgxf0omviz4m16",
       "ts": 1792639255434,
