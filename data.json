@@ -10664,12 +10664,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631632397
+        },
+        {
+          "id": "v7rugy5mviullod",
+          "added": 1792631650045,
+          "addedBy": "fathin",
+          "name": "F&N ICECREAM SODA 1.5LT",
+          "no": "",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631650045
         }
       ],
       "updated": 1792631545693
     }
   ],
   "history": [
+    {
+      "id": "5c3k64fmviullod",
+      "ts": 1792631650045,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "F&N ICECREAM SODA 1.5LT",
+      "no": "",
+      "detail": "Qty 1 CTN, Dry"
+    },
     {
       "id": "374jbwrmviul825",
       "ts": 1792631632397,
