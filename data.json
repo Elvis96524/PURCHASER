@@ -10881,12 +10881,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792632073533
+        },
+        {
+          "id": "sqi2d5ymviuuxt9",
+          "added": 1792632085677,
+          "addedBy": "fathin",
+          "name": "BEAN SPROUTS",
+          "no": "",
+          "qty": 10,
+          "unit": "KG",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792632085677
         }
       ],
       "updated": 1792631935685
     }
   ],
   "history": [
+    {
+      "id": "f4rqcjzmviuuxt9",
+      "ts": 1792632085677,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "BEAN SPROUTS",
+      "no": "",
+      "detail": "Qty 10 KG, Chiller"
+    },
     {
       "id": "pcoeu9vmviuuofy",
       "ts": 1792632073534,
