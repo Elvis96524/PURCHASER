@@ -10503,12 +10503,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631401741
+        },
+        {
+          "id": "5gdc48lmviugmjh",
+          "added": 1792631417885,
+          "addedBy": "fathin",
+          "name": "SARDINE AYAMBRAND 425GM",
+          "no": "",
+          "qty": 15,
+          "unit": "TIN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792631417885
         }
       ],
       "updated": 1792631122693
     }
   ],
   "history": [
+    {
+      "id": "keuawvlmviugmjh",
+      "ts": 1792631417885,
+      "by": "fathin",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( 22/10/2026 )",
+      "action": "added",
+      "item": "SARDINE AYAMBRAND 425GM",
+      "no": "",
+      "detail": "Qty 15 TIN, Dry"
+    },
     {
       "id": "q6n5keomviuga31",
       "ts": 1792631401741,
