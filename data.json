@@ -11080,9 +11080,26 @@
         }
       ],
       "updated": 1792657873307
+    },
+    {
+      "id": "prow0qdmvjagfpt",
+      "name": "Sk Prelude NOV",
+      "items": [],
+      "updated": 1792658282897
     }
   ],
   "history": [
+    {
+      "id": "t8jes0mmvjagfpt",
+      "ts": 1792658282897,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "jdmttpsmvjaeuu7",
       "ts": 1792658209183,
