@@ -10853,12 +10853,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792632042820
+        },
+        {
+          "id": "yh3eppumviuub1o",
+          "added": 1792632056172,
+          "addedBy": "fathin",
+          "name": "GOOD MAID STEEL WOOL 2'S",
+          "no": "",
+          "qty": 4,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792632056172
         }
       ],
       "updated": 1792631935685
     }
   ],
   "history": [
+    {
+      "id": "lv0lvj0mviuub1o",
+      "ts": 1792632056172,
+      "by": "fathin",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "GOOD MAID STEEL WOOL 2'S",
+      "no": "",
+      "detail": "Qty 4 PKT, Dry"
+    },
     {
       "id": "ersj3kamviuu0qs",
       "ts": 1792632042820,
