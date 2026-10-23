@@ -11390,12 +11390,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792720960790
+        },
+        {
+          "id": "gaye9oymvkbsuvg",
+          "added": 1792721008204,
+          "addedBy": "chelson",
+          "name": "Muruku POPO 900gm",
+          "no": "24",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792721008204
         }
       ],
       "updated": 1792720765789
     }
   ],
   "history": [
+    {
+      "id": "8x2yvx5mvkbsuvg",
+      "ts": 1792721008204,
+      "by": "chelson",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "added",
+      "item": "Muruku POPO 900gm",
+      "no": "24",
+      "detail": "Qty 2 Pkt, Dry"
+    },
     {
       "id": "d969vvfmvkbruae",
       "ts": 1792720960790,
@@ -22384,17 +22409,6 @@
       "item": "PUCUK UBI",
       "no": "",
       "detail": "Qty 20 BDL, Chiller"
-    },
-    {
-      "id": "yplkabwmv0af74r",
-      "ts": 1791509367771,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM",
-      "action": "added",
-      "item": "ASSORTED VITAGEN LESS SUGAR",
-      "no": "",
-      "detail": "Qty 6 PKT, Chiller"
     }
   ]
 }
