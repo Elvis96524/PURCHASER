@@ -9987,9 +9987,9 @@
           "unit": "Loaf",
           "category": "Frozen",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792650537279
+          "updated": 1792718669633
         },
         {
           "id": "6fy1dgimvhgim6b",
@@ -10085,9 +10085,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792645974111
+          "updated": 1792718667160
         },
         {
           "id": "y7p6wp6mvj3gswe",
@@ -11269,6 +11269,28 @@
     }
   ],
   "history": [
+    {
+      "id": "k960hogmvkaeqf5",
+      "ts": 1792718669633,
+      "by": "fse",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "Gardenia",
+      "no": "",
+      "detail": "Status: Ordered → Received"
+    },
+    {
+      "id": "kksfwk8mvkaeoig",
+      "ts": 1792718667160,
+      "by": "fse",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "Cangkok manis",
+      "no": "14",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "j3mxnlemvkaedh5",
       "ts": 1792718652857,
@@ -22246,28 +22268,6 @@
       "item": "MURUKU POPO 12GMX30'S",
       "no": "",
       "detail": "Qty 5 PKT, Dry"
-    },
-    {
-      "id": "emokwctmuza3lyw",
-      "ts": 1791448360952,
-      "by": "fathin",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE",
-      "action": "added",
-      "item": "PRINGLES ASST FLAVOUR 110G",
-      "no": "",
-      "detail": "Qty 10 BTL, Dry"
-    },
-    {
-      "id": "yq7aozpmuza2udl",
-      "ts": 1791448325193,
-      "by": "fathin",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE",
-      "action": "added",
-      "item": "HAND BRUSH ( For Housekeeping Upon Offhire )",
-      "no": "",
-      "detail": "Qty 6 PCS, Dry"
     }
   ]
 }
