@@ -11844,9 +11844,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792726916152
+          "updated": 1792737336279
         },
         {
           "id": "pbph3xomvkfbtoo",
@@ -11923,6 +11923,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qexyp5cmvklitp3",
+      "ts": 1792737336279,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "SANTAN AYAMBRAND ( SMALL ) 200ML",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "v82dsivmvklhay0",
       "ts": 1792737265320,
@@ -22911,17 +22922,6 @@
       "item": "Puteri marjerin 1kg",
       "no": "",
       "detail": "Qty 1 Pkt, Dry"
-    },
-    {
-      "id": "2rrg91kmv4y332s",
-      "ts": 1791790978132,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Indomie soto",
-      "no": "96",
-      "detail": "Qty 1 Ctn, Dry"
     }
   ]
 }
