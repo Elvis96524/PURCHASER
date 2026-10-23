@@ -11277,9 +11277,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792659061865
+          "updated": 1792739866163
         },
         {
           "id": "4d9brycmvjay6t7",
@@ -11938,6 +11938,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6m9b53cmvkn11rn",
+      "ts": 1792739866163,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "status",
+      "item": "Magic clean",
+      "no": "Chemical 6",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "z8se6v0mvkmzk46",
       "ts": 1792739796630,
@@ -22926,17 +22937,6 @@
       "item": "Tempe",
       "no": "62",
       "detail": "Qty 15 Pkt, Frozen"
-    },
-    {
-      "id": "dz5muebmv5xi8q6",
-      "ts": 1791850471854,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "added",
-      "item": "Cendol",
-      "no": "57",
-      "detail": "Qty 1 Pkt, Chiller"
     }
   ]
 }
