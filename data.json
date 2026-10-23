@@ -11376,12 +11376,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792720898310
+        },
+        {
+          "id": "a6sv8smmvkbruae",
+          "added": 1792720960790,
+          "addedBy": "chelson",
+          "name": "Sardine in tomato sauce AYAM BRAND 425GM",
+          "no": "14",
+          "qty": 2,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792720960790
         }
       ],
       "updated": 1792720765789
     }
   ],
   "history": [
+    {
+      "id": "d969vvfmvkbruae",
+      "ts": 1792720960790,
+      "by": "chelson",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "added",
+      "item": "Sardine in tomato sauce AYAM BRAND 425GM",
+      "no": "14",
+      "detail": "Qty 2 Tin, Dry"
+    },
     {
       "id": "6hwkqmrmvkbqi2u",
       "ts": 1792720898310,
@@ -22370,17 +22395,6 @@
       "item": "ASSORTED VITAGEN LESS SUGAR",
       "no": "",
       "detail": "Qty 6 PKT, Chiller"
-    },
-    {
-      "id": "h0d73bqmv0aehve",
-      "ts": 1791509335034,
-      "by": "fathin",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE ( 14/10/2026 )",
-      "action": "vrename",
-      "item": "",
-      "no": "",
-      "detail": "Renamed from \"OS ONE\" to \"OS ONE ( 14/10/2026 )\""
     }
   ]
 }
