@@ -11845,12 +11845,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726916152
+        },
+        {
+          "id": "pbph3xomvkfbtoo",
+          "added": 1792726931976,
+          "addedBy": "fathin",
+          "name": "TEPUNG CAP SAUH",
+          "no": "",
+          "qty": 3,
+          "unit": "KG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726931976
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "wk6ibqbmvkfbtoo",
+      "ts": 1792726931976,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "TEPUNG CAP SAUH",
+      "no": "",
+      "detail": "Qty 3 KG, Dry"
+    },
     {
       "id": "7qyrohwmvkfbhh4",
       "ts": 1792726916152,
@@ -22839,17 +22864,6 @@
       "item": "Orange/Mango Sunquick 840ml",
       "no": "14",
       "detail": "Qty 1 Btl, Dry"
-    },
-    {
-      "id": "hkrniodmv4x41re",
-      "ts": 1791789343466,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Gardenia",
-      "no": "72",
-      "detail": "Qty 15 Loaf, Frozen"
     }
   ]
 }
