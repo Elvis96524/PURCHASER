@@ -11471,9 +11471,9 @@
           "unit": "Tin",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792721280390
+          "updated": 1792724928653
         },
         {
           "id": "epo3tw8mvkbzres",
@@ -11585,6 +11585,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zeyuwefmvke4vwt",
+      "ts": 1792724928653,
+      "by": "fse",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "status",
+      "item": "Smiling fish sardine in chilli sauce 155gm",
+      "no": "55",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "po2h6armvke0fku",
       "ts": 1792724720862,
@@ -22573,17 +22584,6 @@
       "item": "HAND BRUSH ( For Housekeeping Upon Offhire )",
       "no": "",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "ayrqpt1mv0b84j4",
-      "ts": 1791510717424,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "vrename",
-      "item": "",
-      "no": "",
-      "detail": "Renamed from \"KEYFIELD WISDOM ( 16/10/2026 )\" to \"KEYFIELD WISDOM  ( 16/10/2026 )\""
     }
   ]
 }
