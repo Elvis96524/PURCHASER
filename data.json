@@ -11344,9 +11344,26 @@
         }
       ],
       "updated": 1792719611926
+    },
+    {
+      "id": "ybtz2cemvkbnntp",
+      "name": "SK Pinnacle NOV 1ST ORDER",
+      "items": [],
+      "updated": 1792720765789
     }
   ],
   "history": [
+    {
+      "id": "o0zeyc7mvkbnntp",
+      "ts": 1792720765789,
+      "by": "chelson",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "d5jnc26mvkb9n4a",
       "ts": 1792720111690,
@@ -22331,17 +22348,6 @@
       "by": "fathin",
       "vid": "3999u2dmuqmt81u",
       "vname": "Majestic",
-      "action": "vdelete",
-      "item": "",
-      "no": "",
-      "detail": "Vessel deleted"
-    },
-    {
-      "id": "mjpjj7smv0adf5t",
-      "ts": 1791509284865,
-      "by": "fathin",
-      "vid": "vtcc3yfmuqnhmxf",
-      "vname": "PETRO DIAMOND (08/10/2026)",
       "action": "vdelete",
       "item": "",
       "no": "",
