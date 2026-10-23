@@ -11590,9 +11590,9 @@
           "unit": "Loaf",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792724635883
+          "updated": 1792726519994
         },
         {
           "id": "raidt2qmvkdzzkw",
@@ -11823,6 +11823,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7xsoyn3mvkf2zsq",
+      "ts": 1792726519994,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "status",
+      "item": "Gardenia butter scotch 400gm",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "76iq0e5mvkf2t5y",
       "ts": 1792726511398,
@@ -22809,17 +22820,6 @@
       "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
       "action": "status",
       "item": "SERBUK JINTAN PUTIH",
-      "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "pjhevqzmv388hpy",
-      "ts": 1791687094198,
-      "by": "chelson",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "status",
-      "item": "FRESH PETAI",
       "no": "",
       "detail": "Status: To buy → Received"
     }
