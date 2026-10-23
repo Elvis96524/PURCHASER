@@ -11716,9 +11716,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "received",
+          "status": "na",
           "notes": "OFFER SEASON ICE LEMON TEA",
-          "updated": 1792726558915
+          "updated": 1792726752348
         },
         {
           "id": "k44hnb8mvkf02ko",
@@ -11837,6 +11837,17 @@
     }
   ],
   "history": [
+    {
+      "id": "bbgrf2vmvkf7z30",
+      "ts": 1792726752348,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "status",
+      "item": "LIPTON ICE LEMON TEA 300MLX24",
+      "no": "",
+      "detail": "Status: Received → N/A"
+    },
     {
       "id": "h6gmdqrmvkf7np5",
       "ts": 1792726737593,
@@ -22824,17 +22835,6 @@
       "action": "added",
       "item": "Cincau",
       "no": "65",
-      "detail": "Qty 3 Pkt, Chiller"
-    },
-    {
-      "id": "stkwg41mv4v2g5s",
-      "ts": 1791785909584,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "added",
-      "item": "Cendol",
-      "no": "64",
       "detail": "Qty 3 Pkt, Chiller"
     }
   ]
