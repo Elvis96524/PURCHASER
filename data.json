@@ -11270,11 +11270,37 @@
     {
       "id": "no544ramvkaxyvp",
       "name": "Sk Falcon NOV 1ST ORDER",
-      "items": [],
+      "items": [
+        {
+          "id": "etbokrwmvkb074j",
+          "added": 1792719671059,
+          "addedBy": "chelson",
+          "name": "Rempah beriyani 100gm ADABI",
+          "no": "41",
+          "qty": 4,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792719671058
+        }
+      ],
       "updated": 1792719611926
     }
   ],
   "history": [
+    {
+      "id": "0j72gu4mvkb074j",
+      "ts": 1792719671059,
+      "by": "chelson",
+      "vid": "no544ramvkaxyvp",
+      "vname": "Sk Falcon NOV 1ST ORDER",
+      "action": "added",
+      "item": "Rempah beriyani 100gm ADABI",
+      "no": "41",
+      "detail": "Qty 4 Pkt, Dry"
+    },
     {
       "id": "2zjqbggmvkayxhy",
       "ts": 1792719611926,
@@ -22263,17 +22289,6 @@
       "item": "Raja",
       "no": "22",
       "detail": "Qty 2 Ikat, Chiller"
-    },
-    {
-      "id": "brba6ufmv078zsm",
-      "ts": 1791504039478,
-      "by": "chelson",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "added",
-      "item": "Salam",
-      "no": "20",
-      "detail": "Qty 4 Ikat, Chiller"
     }
   ]
 }
