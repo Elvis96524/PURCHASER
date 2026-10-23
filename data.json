@@ -11418,12 +11418,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792721035926
+        },
+        {
+          "id": "2pim27imvkbuog5",
+          "added": 1792721093189,
+          "addedBy": "chelson",
+          "name": "ABC Sambal Asli 395gm",
+          "no": "30",
+          "qty": 2,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792721093189
         }
       ],
       "updated": 1792720765789
     }
   ],
   "history": [
+    {
+      "id": "2knixitmvkbuog5",
+      "ts": 1792721093189,
+      "by": "chelson",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "added",
+      "item": "ABC Sambal Asli 395gm",
+      "no": "30",
+      "detail": "Qty 2 Btl, Dry"
+    },
     {
       "id": "sz9ufximvkbtg9i",
       "ts": 1792721035926,
@@ -22412,17 +22437,6 @@
       "item": "TEMPE",
       "no": "",
       "detail": "Qty 50 PKT, Chiller"
-    },
-    {
-      "id": "mexnu7nmv0afwft",
-      "ts": 1791509400569,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM",
-      "action": "added",
-      "item": "BEAN SPROUTS",
-      "no": "",
-      "detail": "Qty 10 KG, Chiller"
     }
   ]
 }
