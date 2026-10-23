@@ -11761,12 +11761,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726422128
+        },
+        {
+          "id": "jzg9fmjmvkf18mw",
+          "added": 1792726438136,
+          "addedBy": "fathin",
+          "name": "KEREPEK UBI GORENG 400GM",
+          "no": "",
+          "qty": 4,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726438136
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "st3bwdpmvkf18mw",
+      "ts": 1792726438136,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "KEREPEK UBI GORENG 400GM",
+      "no": "",
+      "detail": "Qty 4 PKT, Dry"
+    },
     {
       "id": "nmykngymvkf0wa8",
       "ts": 1792726422128,
@@ -22754,17 +22779,6 @@
       "action": "status",
       "item": "MARGARINE 18KG",
       "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "3w2cn5gmv0ndnc5",
-      "ts": 1791531130469,
-      "by": "chelson",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "status",
-      "item": "Salam",
-      "no": "20",
       "detail": "Status: To buy → Received"
     }
   ]
