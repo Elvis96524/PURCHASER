@@ -11446,12 +11446,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792721151529
+        },
+        {
+          "id": "nigx9klmvkbwv27",
+          "added": 1792721195071,
+          "addedBy": "chelson",
+          "name": "Kerepek ubi",
+          "no": "47",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792721195071
         }
       ],
       "updated": 1792720765789
     }
   ],
   "history": [
+    {
+      "id": "76kg5w5mvkbwv27",
+      "ts": 1792721195071,
+      "by": "chelson",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "added",
+      "item": "Kerepek ubi",
+      "no": "47",
+      "detail": "Qty 5 Pkt, Dry"
+    },
     {
       "id": "umn9ya8mvkbvxgp",
       "ts": 1792721151529,
@@ -22440,17 +22465,6 @@
       "item": "PISANG EMAS",
       "no": "",
       "detail": "Qty 30 KG, Chiller"
-    },
-    {
-      "id": "426oademv0aggky",
-      "ts": 1791509426674,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM",
-      "action": "added",
-      "item": "FRESH PETAI",
-      "no": "",
-      "detail": "Qty 5 KG, Chiller"
     }
   ]
 }
