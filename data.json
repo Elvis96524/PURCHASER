@@ -10220,9 +10220,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792546537591
+          "updated": 1792737265320
         },
         {
           "id": "8tpjcpfmvhfyd47",
@@ -11923,6 +11923,17 @@
     }
   ],
   "history": [
+    {
+      "id": "v82dsivmvklhay0",
+      "ts": 1792737265320,
+      "by": "fse",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "status",
+      "item": "Lifebuoy body wash refill 800ml",
+      "no": "Chemical 7",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "q9kl3krmvkksfw0",
       "ts": 1792736105328,
@@ -22911,17 +22922,6 @@
       "item": "Indomie soto",
       "no": "96",
       "detail": "Qty 1 Ctn, Dry"
-    },
-    {
-      "id": "xlevthsmv4y27at",
-      "ts": 1791790936949,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Dragon fruit red",
-      "no": "",
-      "detail": "Qty 3 Kg, Chiller"
     }
   ]
 }
