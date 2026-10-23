@@ -11488,6 +11488,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792721330308
+        },
+        {
+          "id": "pl387hmmvkdvgxu",
+          "added": 1792724489346,
+          "addedBy": "chelson",
+          "name": "Indomie soto flavour",
+          "no": "59",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792724489343
         }
       ],
       "updated": 1792720765789
@@ -11515,6 +11529,17 @@
     }
   ],
   "history": [
+    {
+      "id": "hrajvw9mvkdvgxv",
+      "ts": 1792724489347,
+      "by": "chelson",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "added",
+      "item": "Indomie soto flavour",
+      "no": "59",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "gjhr1y4mvkdtpmn",
       "ts": 1792724407295,
@@ -22503,17 +22528,6 @@
       "item": "MARGARINE 18KG",
       "no": "",
       "detail": "Qty 1 CTN, Dry"
-    },
-    {
-      "id": "5kogr9qmv0b65cg",
-      "ts": 1791510625168,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM",
-      "action": "added",
-      "item": "MURUKU POPO 12GMX30'S",
-      "no": "",
-      "detail": "Qty 6 PKT, Dry"
     }
   ]
 }
