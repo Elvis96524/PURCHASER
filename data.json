@@ -11621,12 +11621,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792724720862
+        },
+        {
+          "id": "bjs0bobmvkewbq1",
+          "added": 1792726208857,
+          "addedBy": "fathin",
+          "name": "BERAS BASMATHI 5KG",
+          "no": "",
+          "qty": 3,
+          "unit": "BAG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726208857
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "vp1v8wkmvkewbq2",
+      "ts": 1792726208858,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "BERAS BASMATHI 5KG",
+      "no": "",
+      "detail": "Qty 3 BAG, Dry"
+    },
     {
       "id": "i3guvr3mvkevojl",
       "ts": 1792726178817,
@@ -22613,17 +22638,6 @@
       "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
       "action": "status",
       "item": "FOURWAY CRAB",
-      "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "4ezox0zmv0l1z6e",
-      "ts": 1791527226710,
-      "by": "chelson",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "status",
-      "item": "MURUKU POPO 12GMX30'S",
       "no": "",
       "detail": "Status: To buy → Received"
     }
