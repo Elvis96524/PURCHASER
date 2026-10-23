@@ -11758,9 +11758,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792726422128
+          "updated": 1792726511397
         },
         {
           "id": "jzg9fmjmvkf18mw",
@@ -11823,6 +11823,17 @@
     }
   ],
   "history": [
+    {
+      "id": "76iq0e5mvkf2t5y",
+      "ts": 1792726511398,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "status",
+      "item": "KNOR LIME FLAVOR POWDER 400GM",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "x03swermvkf2cc1",
       "ts": 1792726489585,
@@ -22807,17 +22818,6 @@
       "by": "chelson",
       "vid": "ctgml0xmv0ae5xm",
       "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "status",
-      "item": "FRESH PETAI",
-      "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "6lpvxx5mv388cen",
-      "ts": 1791687087311,
-      "by": "chelson",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE ( 15/10/2026 )",
       "action": "status",
       "item": "FRESH PETAI",
       "no": "",
