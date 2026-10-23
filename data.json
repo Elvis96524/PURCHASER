@@ -11298,12 +11298,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792719703033
+        },
+        {
+          "id": "b5yzxvbmvkb1u0h",
+          "added": 1792719747377,
+          "addedBy": "chelson",
+          "name": "Margarine 1kg",
+          "no": "53",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792719747377
         }
       ],
       "updated": 1792719611926
     }
   ],
   "history": [
+    {
+      "id": "nkd96a6mvkb1u0h",
+      "ts": 1792719747377,
+      "by": "chelson",
+      "vid": "no544ramvkaxyvp",
+      "vname": "Sk Falcon NOV 1ST ORDER",
+      "action": "added",
+      "item": "Margarine 1kg",
+      "no": "53",
+      "detail": "Qty 2 Pkt, Dry"
+    },
     {
       "id": "dv40sl4mvkb0vsp",
       "ts": 1792719703033,
@@ -22292,17 +22317,6 @@
       "item": "Tempe",
       "no": "45",
       "detail": "Qty 5 Ikat, Frozen"
-    },
-    {
-      "id": "hxs9dmsmv07a5pr",
-      "ts": 1791504093807,
-      "by": "chelson",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "added",
-      "item": "Petai",
-      "no": "30",
-      "detail": "Qty 2 Kg, Chiller"
     }
   ]
 }
