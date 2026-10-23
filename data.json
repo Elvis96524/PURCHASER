@@ -11691,12 +11691,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726292200
+        },
+        {
+          "id": "5ay9s02mvkeyncg",
+          "added": 1792726317232,
+          "addedBy": "fathin",
+          "name": "SALTED IN OIL TENGGIRI 600GM",
+          "no": "",
+          "qty": 1,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726317232
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "1u70rhvmvkeyncg",
+      "ts": 1792726317232,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "SALTED IN OIL TENGGIRI 600GM",
+      "no": "",
+      "detail": "Qty 1 BTL, Dry"
+    },
     {
       "id": "bpocirmmvkey414",
       "ts": 1792726292200,
@@ -22685,17 +22710,6 @@
       "item": "LONG RUBBER HAND GLOVE ( For Dishwasher )",
       "no": "",
       "detail": "Status: N/A → Received"
-    },
-    {
-      "id": "1sf85ksmv0macpk",
-      "ts": 1791529297112,
-      "by": "chelson",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE ( 14/10/2026 )",
-      "action": "status",
-      "item": "LONG RUBBER HAND GLOVE ( For Dishwasher )",
-      "no": "",
-      "detail": "Status: To buy → N/A"
     }
   ]
 }
