@@ -11460,12 +11460,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792721195071
+        },
+        {
+          "id": "tk3qq1umvkbyow6",
+          "added": 1792721280390,
+          "addedBy": "chelson",
+          "name": "Smiling fish sardine in chilli sauce 155gm",
+          "no": "55",
+          "qty": 6,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792721280390
         }
       ],
       "updated": 1792720765789
     }
   ],
   "history": [
+    {
+      "id": "n4i5tykmvkbyow6",
+      "ts": 1792721280390,
+      "by": "chelson",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "added",
+      "item": "Smiling fish sardine in chilli sauce 155gm",
+      "no": "55",
+      "detail": "Qty 6 Tin, Dry"
+    },
     {
       "id": "76kg5w5mvkbwv27",
       "ts": 1792721195071,
@@ -22454,17 +22479,6 @@
       "item": "SERBUK PUTIH",
       "no": "",
       "detail": "Qty 1 KG, Dry"
-    },
-    {
-      "id": "s1t4pkemv0agyux",
-      "ts": 1791509450361,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM",
-      "action": "added",
-      "item": "PISANG EMAS",
-      "no": "",
-      "detail": "Qty 30 KG, Chiller"
     }
   ]
 }
