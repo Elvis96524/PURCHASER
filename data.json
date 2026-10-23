@@ -10015,9 +10015,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792647181027
+          "updated": 1792720099767
         },
         {
           "id": "ovg4rbqmvhgjnn3",
@@ -11346,6 +11346,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6mtt0wqmvkb9dx3",
+      "ts": 1792720099767,
+      "by": "fse",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "Kucai",
+      "no": "",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "xmsb5x9mvkb8lw5",
       "ts": 1792720063445,
@@ -22334,17 +22345,6 @@
       "item": "Muruku 900gm original ( Offer muruku 24'sx12gm )",
       "no": "25",
       "detail": "Name \"Muruku 900gm original\" → \"Muruku 900gm original ( Offer muruku 24'sx12gm )\"; Qty 5 → 7"
-    },
-    {
-      "id": "ger858mmv07lr6p",
-      "ts": 1791504634849,
-      "by": "chelson",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "status",
-      "item": "Pucuk ubi",
-      "no": "19",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
