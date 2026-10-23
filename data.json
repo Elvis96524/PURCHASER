@@ -11179,9 +11179,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792658742044
+          "updated": 1792739215838
         },
         {
           "id": "amrm0mimvjarr7k",
@@ -11938,6 +11938,17 @@
     }
   ],
   "history": [
+    {
+      "id": "m5hxfwwmvkmn3z2",
+      "ts": 1792739215838,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "status",
+      "item": "Chipmore biscuits Kraft 180g",
+      "no": "104",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "wbu0hitmvkm883b",
       "ts": 1792738521335,
@@ -22925,17 +22936,6 @@
       "action": "added",
       "item": "Raja",
       "no": "26",
-      "detail": "Qty 5 Ikat, Chiller"
-    },
-    {
-      "id": "3wy47mimv5x9wpk",
-      "ts": 1791850083032,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "added",
-      "item": "Pegaga",
-      "no": "25",
       "detail": "Qty 5 Ikat, Chiller"
     }
   ]
