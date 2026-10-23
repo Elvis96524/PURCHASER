@@ -11362,12 +11362,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792720839288
+        },
+        {
+          "id": "z5xt9w6mvkbqi2u",
+          "added": 1792720898310,
+          "addedBy": "chelson",
+          "name": "Wintermelon 300ml x 24 season/drinkho",
+          "no": "7",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792720898310
         }
       ],
       "updated": 1792720765789
     }
   ],
   "history": [
+    {
+      "id": "6hwkqmrmvkbqi2u",
+      "ts": 1792720898310,
+      "by": "chelson",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "added",
+      "item": "Wintermelon 300ml x 24 season/drinkho",
+      "no": "7",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "52ccogymvkbp8jc",
       "ts": 1792720839288,
@@ -22356,17 +22381,6 @@
       "item": "",
       "no": "",
       "detail": "Renamed from \"OS ONE\" to \"OS ONE ( 14/10/2026 )\""
-    },
-    {
-      "id": "2zckao9mv0ae5xm",
-      "ts": 1791509319562,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM",
-      "action": "vadd",
-      "item": "",
-      "no": "",
-      "detail": "Vessel created"
     }
   ]
 }
