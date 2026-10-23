@@ -11587,12 +11587,12 @@
           "name": "GARDENIA BUTTER SCOTCH 400GM",
           "no": "",
           "qty": 5,
-          "unit": "Loaf",
+          "unit": "LOAF",
           "category": "Dry",
           "priority": "normal",
           "status": "na",
           "notes": "",
-          "updated": 1792726636888
+          "updated": 1792726711217
         },
         {
           "id": "raidt2qmvkdzzkw",
@@ -11837,6 +11837,17 @@
     }
   ],
   "history": [
+    {
+      "id": "iv2jz5nmvkf73ch",
+      "ts": 1792726711217,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "edited",
+      "item": "GARDENIA BUTTER SCOTCH 400GM",
+      "no": "",
+      "detail": "Unit Loaf → LOAF"
+    },
     {
       "id": "tmrdjdlmvkf6yex",
       "ts": 1792726704825,
@@ -22825,17 +22836,6 @@
       "item": "Yam",
       "no": "59",
       "detail": "Qty 2 Kg, Chiller"
-    },
-    {
-      "id": "lgkieeomv4uzo4c",
-      "ts": 1791785779932,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "added",
-      "item": "Pegaga",
-      "no": "28",
-      "detail": "Qty 4 Ikat, Chiller"
     }
   ]
 }
