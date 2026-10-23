@@ -11775,12 +11775,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726438136
+        },
+        {
+          "id": "7xmiwo8mvkf1k9s",
+          "added": 1792726453216,
+          "addedBy": "fathin",
+          "name": "TEMPEYEK KACANG",
+          "no": "",
+          "qty": 4,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726453216
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "3d17m4qmvkf1k9s",
+      "ts": 1792726453216,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "TEMPEYEK KACANG",
+      "no": "",
+      "detail": "Qty 4 BTL, Dry"
+    },
     {
       "id": "st3bwdpmvkf18mw",
       "ts": 1792726438136,
@@ -22769,17 +22794,6 @@
       "item": "",
       "no": "",
       "detail": "Renamed from \"OS ONE ( 14/10/2026 )\" to \"OS ONE ( 15/10/2026 )\""
-    },
-    {
-      "id": "qz502nnmv0ndxru",
-      "ts": 1791531143994,
-      "by": "chelson",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "status",
-      "item": "MARGARINE 18KG",
-      "no": "",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
