@@ -11249,9 +11249,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792658970139
+          "updated": 1792739316977
         },
         {
           "id": "p2rcp31mvjawhth",
@@ -11938,6 +11938,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8crouj4mvkmpa0h",
+      "ts": 1792739316977,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "status",
+      "item": "Margarine 1kg",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "m5hxfwwmvkmn3z2",
       "ts": 1792739215838,
@@ -22926,17 +22937,6 @@
       "item": "Tempe",
       "no": "61",
       "detail": "Qty 10 Pkt, Chiller"
-    },
-    {
-      "id": "y6prvspmv5xa9wd",
-      "ts": 1791850100125,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "added",
-      "item": "Raja",
-      "no": "26",
-      "detail": "Qty 5 Ikat, Chiller"
     }
   ]
 }
