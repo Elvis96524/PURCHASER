@@ -11473,9 +11473,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792721093189
+          "updated": 1792739482727
         },
         {
           "id": "emmr19wmvkbvxgp",
@@ -11487,9 +11487,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792721151529
+          "updated": 1792739483918
         },
         {
           "id": "nigx9klmvkbwv27",
@@ -11543,9 +11543,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792724489343
+          "updated": 1792739557082
         }
       ],
       "updated": 1792720765789
@@ -11938,6 +11938,39 @@
     }
   ],
   "history": [
+    {
+      "id": "2d3xjximvkmufa2",
+      "ts": 1792739557082,
+      "by": "fse",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "status",
+      "item": "Indomie soto flavour",
+      "no": "59",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "x8kor4umvkmsutq",
+      "ts": 1792739483918,
+      "by": "fse",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "status",
+      "item": "Sos mahsuri 3 rasa 530gm",
+      "no": "37",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "6lfbd77mvkmstwn",
+      "ts": 1792739482727,
+      "by": "fse",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "status",
+      "item": "ABC Sambal Asli 395gm",
+      "no": "30",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "h8isvmkmvkmqa6z",
       "ts": 1792739363867,
@@ -22904,39 +22937,6 @@
       "item": "Pucuk ubi",
       "no": "25",
       "detail": "Qty 5 Ikat, Chiller"
-    },
-    {
-      "id": "hn9l0brmv5xfvu5",
-      "ts": 1791850361837,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "added",
-      "item": "Pakis",
-      "no": "24",
-      "detail": "Qty 10 Ikat, Chiller"
-    },
-    {
-      "id": "x1mgszbmv5xfdd3",
-      "ts": 1791850337895,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "added",
-      "item": "Kesum",
-      "no": "21",
-      "detail": "Qty 2 Ikat, Chiller"
-    },
-    {
-      "id": "hk6n768mv5xbbvp",
-      "ts": 1791850149349,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "edited",
-      "item": "Tempe",
-      "no": "61",
-      "detail": "Chiller → Frozen"
     }
   ]
 }
