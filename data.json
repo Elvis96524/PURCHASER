@@ -11574,11 +11574,11 @@
           "no": "",
           "qty": 1,
           "unit": "CTN",
-          "category": "Dry",
+          "category": "Frozen",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792726704825
+          "updated": 1792726797056
         },
         {
           "id": "fee2uoymvkdym0b",
@@ -11837,6 +11837,17 @@
     }
   ],
   "history": [
+    {
+      "id": "juvtlqwmvkf8xkw",
+      "ts": 1792726797056,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "edited",
+      "item": "MAGNUM YOGURT ICE CREAM MANGO FLAVOUR, ICE CREAM 24'S/CTN",
+      "no": "",
+      "detail": "Dry → Frozen"
+    },
     {
       "id": "bbgrf2vmvkf7z30",
       "ts": 1792726752348,
@@ -22825,17 +22836,6 @@
       "item": "Tempe",
       "no": "71",
       "detail": "Qty 5 Pkt, Chiller"
-    },
-    {
-      "id": "m4kejr6mv4v2zdy",
-      "ts": 1791785934502,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "added",
-      "item": "Cincau",
-      "no": "65",
-      "detail": "Qty 3 Pkt, Chiller"
     }
   ]
 }
