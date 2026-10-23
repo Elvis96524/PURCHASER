@@ -11284,12 +11284,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792719671058
+        },
+        {
+          "id": "kb1uanomvkb0vsp",
+          "added": 1792719703033,
+          "addedBy": "chelson",
+          "name": "Wholemeal bread",
+          "no": "45",
+          "qty": 20,
+          "unit": "Loaf",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792719703033
         }
       ],
       "updated": 1792719611926
     }
   ],
   "history": [
+    {
+      "id": "dv40sl4mvkb0vsp",
+      "ts": 1792719703033,
+      "by": "chelson",
+      "vid": "no544ramvkaxyvp",
+      "vname": "Sk Falcon NOV 1ST ORDER",
+      "action": "added",
+      "item": "Wholemeal bread",
+      "no": "45",
+      "detail": "Qty 20 Loaf, Frozen"
+    },
     {
       "id": "0j72gu4mvkb074j",
       "ts": 1792719671059,
@@ -22278,17 +22303,6 @@
       "item": "Petai",
       "no": "30",
       "detail": "Qty 2 Kg, Chiller"
-    },
-    {
-      "id": "ogoyjg1mv079ldx",
-      "ts": 1791504067461,
-      "by": "chelson",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "added",
-      "item": "Raja",
-      "no": "22",
-      "detail": "Qty 2 Ikat, Chiller"
     }
   ]
 }
