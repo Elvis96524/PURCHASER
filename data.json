@@ -11747,12 +11747,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726399720
+        },
+        {
+          "id": "ueab36cmvkf0wa8",
+          "added": 1792726422128,
+          "addedBy": "fathin",
+          "name": "KNOR LIME FLAVOR POWDER 400GM",
+          "no": "",
+          "qty": 1,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726422128
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "nmykngymvkf0wa8",
+      "ts": 1792726422128,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "KNOR LIME FLAVOR POWDER 400GM",
+      "no": "",
+      "detail": "Qty 1 PKT, Dry"
+    },
     {
       "id": "2ad2yujmvkf0ezt",
       "ts": 1792726399721,
@@ -22740,17 +22765,6 @@
       "action": "status",
       "item": "Salam",
       "no": "20",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "tpxomhbmv0n3y8c",
-      "ts": 1791530678028,
-      "by": "chelson",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "status",
-      "item": "Kesum",
-      "no": "15",
       "detail": "Status: To buy → Received"
     }
   ]
