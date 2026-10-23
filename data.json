@@ -11551,12 +11551,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792724635883
+        },
+        {
+          "id": "raidt2qmvkdzzkw",
+          "added": 1792724700128,
+          "addedBy": "fathin",
+          "name": "Bean sprouts",
+          "no": "",
+          "qty": 3,
+          "unit": "Kg",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792724700128
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "yfsqhh5mvkdzzkw",
+      "ts": 1792724700128,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "Bean sprouts",
+      "no": "",
+      "detail": "Qty 3 Kg, Dry"
+    },
     {
       "id": "nau8343mvkdym0b",
       "ts": 1792724635883,
@@ -22545,17 +22570,6 @@
       "item": "",
       "no": "",
       "detail": "Renamed from \"KEYFIELD WISDOM\" to \"KEYFIELD WISDOM ( 16/10/2026 )\""
-    },
-    {
-      "id": "r2qkhgamv0b7bmj",
-      "ts": 1791510679963,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM",
-      "action": "edited",
-      "item": "SERBUK JINTAN PUTIH",
-      "no": "",
-      "detail": "Name \"SERBUK PUTIH\" → \"SERBUK JINTAN PUTIH\""
     }
   ]
 }
