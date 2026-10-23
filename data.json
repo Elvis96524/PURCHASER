@@ -11789,12 +11789,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726453216
+        },
+        {
+          "id": "vcl0s62mvkf1xo8",
+          "added": 1792726470584,
+          "addedBy": "fathin",
+          "name": "SARDINE AYAM BRAND",
+          "no": "",
+          "qty": 6,
+          "unit": "TIN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726470584
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "am0okdomvkf1xo8",
+      "ts": 1792726470584,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "SARDINE AYAM BRAND",
+      "no": "",
+      "detail": "Qty 6 TIN, Dry"
+    },
     {
       "id": "3d17m4qmvkf1k9s",
       "ts": 1792726453216,
@@ -22783,17 +22808,6 @@
       "item": "Petai",
       "no": "30",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "mrfflrhmv0oqyor",
-      "ts": 1791533431323,
-      "by": "fathin",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE ( 15/10/2026 )",
-      "action": "vrename",
-      "item": "",
-      "no": "",
-      "detail": "Renamed from \"OS ONE ( 14/10/2026 )\" to \"OS ONE ( 15/10/2026 )\""
     }
   ]
 }
