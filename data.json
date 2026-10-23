@@ -10452,9 +10452,9 @@
           "unit": "LOAF",
           "category": "Frozen",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792632762046
+          "updated": 1792718641833
         },
         {
           "id": "912h359mviueei5",
@@ -11269,6 +11269,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ybeetjumvkae4yx",
+      "ts": 1792718641833,
+      "by": "fse",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "ROTI GARDENIA",
+      "no": "",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "ry32rt1mvk7p6bh",
       "ts": 1792714117949,
@@ -22257,17 +22268,6 @@
       "item": "LONG RUBBER HAND GLOVE ( For Dishwasher )",
       "no": "",
       "detail": "Qty 6 PAIR, Dry"
-    },
-    {
-      "id": "kl7uz2imuz9zefd",
-      "ts": 1791448164553,
-      "by": "fathin",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE",
-      "action": "added",
-      "item": "FRESH PETAI",
-      "no": "",
-      "detail": "Qty 6 KG, Chiller"
     }
   ]
 }
