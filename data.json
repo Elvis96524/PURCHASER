@@ -11733,12 +11733,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726383624
+        },
+        {
+          "id": "m41i3asmvkf0ezs",
+          "added": 1792726399720,
+          "addedBy": "fathin",
+          "name": "KICAP PEKAT ELEPHANT 740ML",
+          "no": "",
+          "qty": 2,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726399720
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "2ad2yujmvkf0ezt",
+      "ts": 1792726399721,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "KICAP PEKAT ELEPHANT 740ML",
+      "no": "",
+      "detail": "Qty 2 BTL, Dry"
+    },
     {
       "id": "bm3op7umvkf02kp",
       "ts": 1792726383626,
@@ -22727,17 +22752,6 @@
       "item": "Kesum",
       "no": "15",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "dbvfhwkmv0mq380",
-      "ts": 1791530031312,
-      "by": "chelson",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "edited",
-      "item": "RED BEAN PASTE 1KG",
-      "no": "",
-      "detail": "Notes changed"
     }
   ]
 }
