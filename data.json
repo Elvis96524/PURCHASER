@@ -10234,9 +10234,9 @@
           "unit": "Pcs",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792546585063
+          "updated": 1792736105328
         },
         {
           "id": "vahbvosmvhfzi07",
@@ -11923,6 +11923,17 @@
     }
   ],
   "history": [
+    {
+      "id": "q9kl3krmvkksfw0",
+      "ts": 1792736105328,
+      "by": "fse",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "status",
+      "item": "Colgate 200gm",
+      "no": "Chemical 8",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "1hux4a7mvkj6wep",
       "ts": 1792733420689,
@@ -22911,17 +22922,6 @@
       "item": "Dragon fruit red",
       "no": "",
       "detail": "Qty 3 Kg, Chiller"
-    },
-    {
-      "id": "yqfwssgmv4y1jav",
-      "ts": 1791790905847,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Pringles assorted",
-      "no": "90",
-      "detail": "Qty 8 Btl, Dry"
     }
   ]
 }
