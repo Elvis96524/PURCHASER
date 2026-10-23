@@ -11705,12 +11705,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726317232
+        },
+        {
+          "id": "m3w6b9ymvkezhnl",
+          "added": 1792726356513,
+          "addedBy": "fathin",
+          "name": "LIPTON ICE LEMON TEA 300MLX24",
+          "no": "",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726356513
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "ib7sgrimvkezhnl",
+      "ts": 1792726356513,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "LIPTON ICE LEMON TEA 300MLX24",
+      "no": "",
+      "detail": "Qty 1 CTN, Dry"
+    },
     {
       "id": "1u70rhvmvkeyncg",
       "ts": 1792726317232,
@@ -22699,17 +22724,6 @@
       "item": "RED BEAN PASTE 1KG",
       "no": "",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "ppsukb4mv0magxw",
-      "ts": 1791529302596,
-      "by": "chelson",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE ( 14/10/2026 )",
-      "action": "status",
-      "item": "LONG RUBBER HAND GLOVE ( For Dishwasher )",
-      "no": "",
-      "detail": "Status: N/A → Received"
     }
   ]
 }
