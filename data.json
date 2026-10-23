@@ -11570,7 +11570,7 @@
           "id": "66izky4mvkdxxxv",
           "added": 1792724604691,
           "addedBy": "fathin",
-          "name": "Magnum yogurt mango flvr, ice cream 24's/ctn",
+          "name": "MAGNUM YOGURT ICE CREAM MANGO FLAVOUR, ICE CREAM 24'S/CTN",
           "no": "",
           "qty": 1,
           "unit": "Ctn",
@@ -11578,7 +11578,7 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792724604691
+          "updated": 1792726694672
         },
         {
           "id": "fee2uoymvkdym0b",
@@ -11837,6 +11837,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xx87jsgmvkf6qkx",
+      "ts": 1792726694673,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "edited",
+      "item": "MAGNUM YOGURT ICE CREAM MANGO FLAVOUR, ICE CREAM 24'S/CTN",
+      "no": "",
+      "detail": "Name \"Magnum yogurt mango flvr, ice cream 24's/ctn\" → \"MAGNUM YOGURT ICE CREAM MANGO FLAVOUR, ICE CREAM 24'S/CTN\""
+    },
     {
       "id": "qdtbuhymvkf5hzt",
       "ts": 1792726636889,
@@ -22825,17 +22836,6 @@
       "item": "Pudina",
       "no": "27",
       "detail": "Qty 5 Ikat, Chiller"
-    },
-    {
-      "id": "qfqur2ymv4uy25g",
-      "ts": 1791785704804,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "added",
-      "item": "Pucuk ubi",
-      "no": "26",
-      "detail": "Qty 2 Ikat, Chiller"
     }
   ]
 }
