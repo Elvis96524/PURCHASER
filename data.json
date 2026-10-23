@@ -11719,12 +11719,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726356513
+        },
+        {
+          "id": "k44hnb8mvkf02ko",
+          "added": 1792726383624,
+          "addedBy": "fathin",
+          "name": "SNACK MAMEE ( 30PKT/BDLX25GM )",
+          "no": "",
+          "qty": 1,
+          "unit": "BAG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726383624
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "bm3op7umvkf02kp",
+      "ts": 1792726383626,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "SNACK MAMEE ( 30PKT/BDLX25GM )",
+      "no": "",
+      "detail": "Qty 1 BAG, Dry"
+    },
     {
       "id": "ib7sgrimvkezhnl",
       "ts": 1792726356513,
@@ -22713,17 +22738,6 @@
       "item": "RED BEAN PASTE 1KG",
       "no": "",
       "detail": "Notes changed"
-    },
-    {
-      "id": "jyrebtxmv0mporw",
-      "ts": 1791530012588,
-      "by": "chelson",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "status",
-      "item": "RED BEAN PASTE 1KG",
-      "no": "",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
