@@ -11151,9 +11151,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792658434947
+          "updated": 1792739773060
         },
         {
           "id": "pncwv5jmvjaov0h",
@@ -11938,6 +11938,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qvw506zmvkmz1xg",
+      "ts": 1792739773060,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "status",
+      "item": "Mi sedaap soto",
+      "no": "87",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "iizspotmvkmvpmc",
       "ts": 1792739617140,
@@ -22926,17 +22937,6 @@
       "item": "Nangka muda",
       "no": "39",
       "detail": "Qty 6 Pkt, Chiller"
-    },
-    {
-      "id": "cnt71ummv5xh44o",
-      "ts": 1791850419240,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "added",
-      "item": "Jantung pisang",
-      "no": "31",
-      "detail": "Qty 5 Nos, Chiller"
     }
   ]
 }
