@@ -11404,12 +11404,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792721008204
+        },
+        {
+          "id": "ashb5sxmvkbtg9i",
+          "added": 1792721035926,
+          "addedBy": "chelson",
+          "name": "Gardenia",
+          "no": "26",
+          "qty": 6,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792721035926
         }
       ],
       "updated": 1792720765789
     }
   ],
   "history": [
+    {
+      "id": "sz9ufximvkbtg9i",
+      "ts": 1792721035926,
+      "by": "chelson",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "added",
+      "item": "Gardenia",
+      "no": "26",
+      "detail": "Qty 6 Pkt, Frozen"
+    },
     {
       "id": "8x2yvx5mvkbsuvg",
       "ts": 1792721008204,
@@ -22398,17 +22423,6 @@
       "item": "BEAN SPROUTS",
       "no": "",
       "detail": "Qty 10 KG, Chiller"
-    },
-    {
-      "id": "stkuxz0mv0afl7v",
-      "ts": 1791509386027,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM",
-      "action": "added",
-      "item": "PUCUK UBI",
-      "no": "",
-      "detail": "Qty 20 BDL, Chiller"
     }
   ]
 }
