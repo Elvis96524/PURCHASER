@@ -11018,9 +11018,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792658069214
+          "updated": 1792738521335
         },
         {
           "id": "p06ztsgmvjacp77",
@@ -11074,9 +11074,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792719889777
+          "updated": 1792738510682
         },
         {
           "id": "ebfve8xmvkb6olt",
@@ -11938,6 +11938,28 @@
     }
   ],
   "history": [
+    {
+      "id": "wbu0hitmvkm883b",
+      "ts": 1792738521335,
+      "by": "fse",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "status",
+      "item": "Samyang Mee Cheese 75gm x40's",
+      "no": "70",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "asw5930mvkm7zve",
+      "ts": 1792738510682,
+      "by": "fse",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "status",
+      "item": "Glade autospray refill 269ml",
+      "no": "CLEANING no.5",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "3ew54gvmvkm3arx",
       "ts": 1792738291533,
@@ -22914,28 +22936,6 @@
       "action": "added",
       "item": "Pegaga",
       "no": "25",
-      "detail": "Qty 5 Ikat, Chiller"
-    },
-    {
-      "id": "1csh2b3mv5x9ght",
-      "ts": 1791850062017,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "added",
-      "item": "Salam",
-      "no": "24",
-      "detail": "Qty 5 Ikat, Chiller"
-    },
-    {
-      "id": "9fhnmblmv5x8t60",
-      "ts": 1791850031784,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "added",
-      "item": "Pakis",
-      "no": "23",
       "detail": "Qty 5 Ikat, Chiller"
     }
   ]
