@@ -11668,7 +11668,7 @@
           "id": "i8plyenmvkexs6o",
           "added": 1792726276849,
           "addedBy": "fathin",
-          "name": "MAGGI CURRY CUP",
+          "name": "MAGGI CURRY CUP (54'S/CTN)",
           "no": "",
           "qty": 1,
           "unit": "CTN",
@@ -11676,7 +11676,7 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792726276848
+          "updated": 1792727098129
         },
         {
           "id": "9edpsr3mvkey414",
@@ -11865,6 +11865,17 @@
     }
   ],
   "history": [
+    {
+      "id": "mz26joxmvkffdw1",
+      "ts": 1792727098129,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "edited",
+      "item": "MAGGI CURRY CUP (54'S/CTN)",
+      "no": "",
+      "detail": "Name \"MAGGI CURRY CUP\" → \"MAGGI CURRY CUP (54'S/CTN)\""
+    },
     {
       "id": "4blhsl2mvkfdb4p",
       "ts": 1792727001241,
@@ -22853,17 +22864,6 @@
       "item": "Muruku 900gm",
       "no": "67",
       "detail": "Qty 5 Pkt, Dry"
-    },
-    {
-      "id": "6rbyaoymv4xumfp",
-      "ts": 1791790583317,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Peaches Halves in syrup 822G",
-      "no": "45",
-      "detail": "Qty 2 Can, Dry"
     }
   ]
 }
