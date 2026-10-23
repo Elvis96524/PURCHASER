@@ -11648,9 +11648,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792726238800
+          "updated": 1792737749703
         },
         {
           "id": "n63s662mvkex9w1",
@@ -11937,6 +11937,17 @@
     }
   ],
   "history": [
+    {
+      "id": "p4nc0yjmvklrop3",
+      "ts": 1792737749703,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "ASSORTED NUT ( NO1 SALTED PEANUTS, BROADBEAN )",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "njubdwamvklqd6v",
       "ts": 1792737688135,
@@ -22925,17 +22936,6 @@
       "item": "Raja",
       "no": "22",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "6961k1fmv4y4yxy",
-      "ts": 1791791066086,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "edited",
-      "item": "Kek pisang",
-      "no": "69",
-      "detail": "Chiller → Frozen"
     }
   ]
 }
