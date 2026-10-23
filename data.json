@@ -11556,15 +11556,15 @@
           "id": "mkebjsimvkdtpmm",
           "added": 1792724407294,
           "addedBy": "fathin",
-          "name": "Roti gardenia",
+          "name": "ROTI",
           "no": "",
           "qty": 7,
-          "unit": "Pkt",
+          "unit": "PKT",
           "category": "Frozen",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792724407294
+          "updated": 1792726171834
         },
         {
           "id": "66izky4mvkdxxxv",
@@ -11627,6 +11627,17 @@
     }
   ],
   "history": [
+    {
+      "id": "nmnaq0fmvkevj5o",
+      "ts": 1792726171836,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "edited",
+      "item": "ROTI",
+      "no": "",
+      "detail": "Name \"Roti gardenia\" → \"ROTI\"; Unit Pkt → PKT"
+    },
     {
       "id": "esew17hmvkem4er",
       "ts": 1792725732819,
@@ -22614,17 +22625,6 @@
       "action": "status",
       "item": "MURUKU POPO 12GMX30'S",
       "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "542phqsmv0l1g02",
-      "ts": 1791527201858,
-      "by": "chelson",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "status",
-      "item": "Muruku 900gm original ( Offer muruku 24'sx12gm )",
-      "no": "25",
       "detail": "Status: To buy → Received"
     }
   ]
