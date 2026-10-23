@@ -11717,8 +11717,8 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1792726356513
+          "notes": "OFFER SEASON ICE LEMON TEA",
+          "updated": 1792726553985
         },
         {
           "id": "k44hnb8mvkf02ko",
@@ -11823,6 +11823,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4x6znixmvkf3q0x",
+      "ts": 1792726553985,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "edited",
+      "item": "LIPTON ICE LEMON TEA 300MLX24",
+      "no": "",
+      "detail": "Notes added: \"OFFER SEASON ICE LEMON TEA\""
+    },
     {
       "id": "eahkddfmvkf34fn",
       "ts": 1792726526003,
@@ -22811,17 +22822,6 @@
       "item": "",
       "no": "",
       "detail": "Vessel created"
-    },
-    {
-      "id": "anlfihsmv4l6g3d",
-      "ts": 1791769299961,
-      "by": "chelson",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "status",
-      "item": "Tempe",
-      "no": "45",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
