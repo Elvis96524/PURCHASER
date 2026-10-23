@@ -11796,7 +11796,7 @@
           "id": "vcl0s62mvkf1xo8",
           "added": 1792726470584,
           "addedBy": "fathin",
-          "name": "SARDINE AYAM BRAND",
+          "name": "SARDINE AYAM BRAND offer mackerel in tin ayam brand",
           "no": "",
           "qty": 6,
           "unit": "TIN",
@@ -11804,7 +11804,8 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792726470584
+          "updated": 1792737863667,
+          "updatedBy": "fse"
         },
         {
           "id": "x4wouzhmvkf2cc1",
@@ -11937,6 +11938,17 @@
     }
   ],
   "history": [
+    {
+      "id": "iyrkclhmvklu4mr",
+      "ts": 1792737863667,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "edited",
+      "item": "SARDINE AYAM BRAND offer mackerel in tin ayam brand",
+      "no": "",
+      "detail": "Name \"SARDINE AYAM BRAND\" → \"SARDINE AYAM BRAND offer mackerel in tin ayam brand\""
+    },
     {
       "id": "p4nc0yjmvklrop3",
       "ts": 1792737749703,
@@ -22925,17 +22937,6 @@
       "item": "",
       "no": "",
       "detail": "Vessel deleted"
-    },
-    {
-      "id": "zpuqc2amv4ybbdi",
-      "ts": 1791791362134,
-      "by": "lim",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "status",
-      "item": "Raja",
-      "no": "22",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
