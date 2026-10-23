@@ -11346,7 +11346,7 @@
           "id": "1x1nb75mvkejlqw",
           "added": 1792725615321,
           "addedBy": "farah",
-          "name": "Slrite 1.5lx12’s",
+          "name": "Sprite 1.5lx12’s",
           "no": "15",
           "qty": 1,
           "unit": "Ctn",
@@ -11354,7 +11354,7 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792725615320
+          "updated": 1792725630515
         }
       ],
       "updated": 1792719611926
@@ -11599,6 +11599,17 @@
     }
   ],
   "history": [
+    {
+      "id": "k87sdfemvkejxh0",
+      "ts": 1792725630516,
+      "by": "farah",
+      "vid": "no544ramvkaxyvp",
+      "vname": "Sk Falcon NOV 1ST ORDER",
+      "action": "edited",
+      "item": "Sprite 1.5lx12’s",
+      "no": "15",
+      "detail": "Name \"Slrite 1.5lx12’s\" → \"Sprite 1.5lx12’s\""
+    },
     {
       "id": "ogapxapmvkejlqx",
       "ts": 1792725615321,
@@ -22586,17 +22597,6 @@
       "action": "status",
       "item": "Oreo vanilla Kraft 137gm",
       "no": "46",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "0hwuhhwmv0joto5",
-      "ts": 1791524933429,
-      "by": "chelson",
-      "vid": "pjhc1ssmuqdwfkb",
-      "vname": "Sk prudence OCT 2ND ORDER",
-      "action": "status",
-      "item": "Chipmore biscuits Kraft 180gm",
-      "no": "47",
       "detail": "Status: To buy → Received"
     }
   ]
