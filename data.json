@@ -10114,7 +10114,8 @@
           "updated": 1792714117949
         }
       ],
-      "updated": 1792552761701
+      "deleted": true,
+      "updated": 1792727523962
     },
     {
       "id": "789fb2pmvhfj88g",
@@ -11865,6 +11866,17 @@
     }
   ],
   "history": [
+    {
+      "id": "r6zxvyvmvkfoigq",
+      "ts": 1792727523962,
+      "by": "chelson",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "mz26joxmvkffdw1",
       "ts": 1792727098129,
@@ -22853,17 +22865,6 @@
       "item": "Sugar cracker Hupseng 428g",
       "no": "68",
       "detail": "Qty 15 Pkt, Dry"
-    },
-    {
-      "id": "63wocnbmv4xvg33",
-      "ts": 1791790621743,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Muruku 900gm",
-      "no": "67",
-      "detail": "Qty 5 Pkt, Dry"
     }
   ]
 }
