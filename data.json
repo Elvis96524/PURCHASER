@@ -11602,11 +11602,11 @@
           "no": "",
           "qty": 3,
           "unit": "KG",
-          "category": "Dry",
+          "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792726723696
+          "updated": 1792726807624
         },
         {
           "id": "zazi74imvke0fku",
@@ -11837,6 +11837,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xm2sg15mvkf95qh",
+      "ts": 1792726807625,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "edited",
+      "item": "BEAN SPROUTS",
+      "no": "",
+      "detail": "Dry → Chiller"
+    },
     {
       "id": "anmtf4imvkf92cp",
       "ts": 1792726803241,
@@ -22825,17 +22836,6 @@
       "item": "Petai",
       "no": "93",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "xofpnoxmv4v56xh",
-      "ts": 1791786037589,
-      "by": "chelson",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "added",
-      "item": "Yogurt 135g",
-      "no": "Supervisor team",
-      "detail": "Qty 20 Cup, Chiller"
     }
   ]
 }
