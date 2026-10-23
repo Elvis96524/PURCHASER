@@ -11889,12 +11889,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792733334066
+        },
+        {
+          "id": "3u3vbovmvkj5qqo",
+          "added": 1792733366688,
+          "addedBy": "chelson",
+          "name": "Terung asam",
+          "no": "22",
+          "qty": 1.5,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792733366688
         }
       ],
       "updated": 1792727001241
     }
   ],
   "history": [
+    {
+      "id": "7v2dyvkmvkj5qqr",
+      "ts": 1792733366691,
+      "by": "chelson",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "added",
+      "item": "Terung asam",
+      "no": "22",
+      "detail": "Qty 1.5 Kg, Chiller"
+    },
     {
       "id": "6wuyplhmvkj51ki",
       "ts": 1792733334066,
@@ -22883,17 +22908,6 @@
       "item": "BOH TEA ICELEMON SACHET 20'S X 14.5GM",
       "no": "89",
       "detail": "Qty 1 Pkt, Dry"
-    },
-    {
-      "id": "js10m3pmv4xz06j",
-      "ts": 1791790787755,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Burger Bun 6's",
-      "no": "71",
-      "detail": "Qty 6 Pkt, Frozen"
     }
   ]
 }
