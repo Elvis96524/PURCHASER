@@ -11814,15 +11814,26 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792726489585
+          "updated": 1792726526003
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "eahkddfmvkf34fn",
+      "ts": 1792726526003,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "status",
+      "item": "OVEN CLEANER SPRAY",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "7xsoyn3mvkf2zsq",
       "ts": 1792726519994,
@@ -22810,17 +22821,6 @@
       "action": "status",
       "item": "Tempe",
       "no": "45",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "vte6ko8mv4kg4dc",
-      "ts": 1791768071712,
-      "by": "chelson",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "status",
-      "item": "SERBUK JINTAN PUTIH",
-      "no": "",
       "detail": "Status: To buy → Received"
     }
   ]
