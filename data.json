@@ -11495,11 +11495,37 @@
     {
       "id": "i9p2ne0mvkc0leu",
       "name": "KEYFIELD JOYFUL ( 26/10/26 )",
-      "items": [],
+      "items": [
+        {
+          "id": "mkebjsimvkdtpmm",
+          "added": 1792724407294,
+          "addedBy": "fathin",
+          "name": "Roti gardenia",
+          "no": "",
+          "qty": 7,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792724407294
+        }
+      ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "gjhr1y4mvkdtpmn",
+      "ts": 1792724407295,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "Roti gardenia",
+      "no": "",
+      "detail": "Qty 7 Pkt, Frozen"
+    },
     {
       "id": "fkk5cwpmvkc0lex",
       "ts": 1792721369193,
@@ -22488,17 +22514,6 @@
       "item": "MURUKU POPO 12GMX30'S",
       "no": "",
       "detail": "Qty 6 PKT, Dry"
-    },
-    {
-      "id": "rh19f2cmv0b5tkp",
-      "ts": 1791510609913,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM",
-      "action": "added",
-      "item": "PRINGLES ASSORTED FLAVOR 110G",
-      "no": "",
-      "detail": "Qty 10 BTL, Dry"
     }
   ]
 }
