@@ -11523,12 +11523,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792724407294
+        },
+        {
+          "id": "66izky4mvkdxxxv",
+          "added": 1792724604691,
+          "addedBy": "fathin",
+          "name": "Magnum yogurt mango flvr, ice cream 24's/ctn",
+          "no": "",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792724604691
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "voecd0vmvkdxxxv",
+      "ts": 1792724604691,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "Magnum yogurt mango flvr, ice cream 24's/ctn",
+      "no": "",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "hrajvw9mvkdvgxv",
       "ts": 1792724489347,
@@ -22517,17 +22542,6 @@
       "item": "RED BEAN PASTE 1KG",
       "no": "",
       "detail": "Qty 10 PKT, Dry"
-    },
-    {
-      "id": "gmgnd9gmv0b6ce0",
-      "ts": 1791510634296,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM",
-      "action": "added",
-      "item": "MARGARINE 18KG",
-      "no": "",
-      "detail": "Qty 1 CTN, Dry"
     }
   ]
 }
