@@ -10110,17 +10110,8 @@
         },
         {
           "id": "ldmlax7mvj3qp2u",
-          "added": 1792647004278,
-          "addedBy": "farah",
-          "name": "BABY PAK CHOY",
-          "no": "32",
-          "qty": 10,
-          "unit": "KG",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792647004278
+          "deleted": true,
+          "updated": 1792714117949
         }
       ],
       "updated": 1792552761701
@@ -11278,6 +11269,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ry32rt1mvk7p6bh",
+      "ts": 1792714117949,
+      "by": "fse",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "deleted",
+      "item": "BABY PAK CHOY",
+      "no": "32",
+      "detail": ""
+    },
     {
       "id": "4hkjrlumvk7oy7x",
       "ts": 1792714107453,
@@ -22266,17 +22268,6 @@
       "item": "FRESH PETAI",
       "no": "",
       "detail": "Qty 6 KG, Chiller"
-    },
-    {
-      "id": "ieqkjmwmuz9z45c",
-      "ts": 1791448151233,
-      "by": "fathin",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE",
-      "action": "added",
-      "item": "TEMPE",
-      "no": "",
-      "detail": "Qty 20 PKT, Chiller"
     }
   ]
 }
