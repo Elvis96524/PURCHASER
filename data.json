@@ -11355,6 +11355,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792725630515
+        },
+        {
+          "id": "nux1h2gmvkekzlq",
+          "added": 1792725679934,
+          "addedBy": "farah",
+          "name": "Nescafe 3in1 rich",
+          "no": "20",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792725679934
         }
       ],
       "updated": 1792719611926
@@ -11599,6 +11613,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yaattvnmvkekzlq",
+      "ts": 1792725679934,
+      "by": "farah",
+      "vid": "no544ramvkaxyvp",
+      "vname": "Sk Falcon NOV 1ST ORDER",
+      "action": "added",
+      "item": "Nescafe 3in1 rich",
+      "no": "20",
+      "detail": "Qty 2 Pkt, Dry"
+    },
     {
       "id": "k87sdfemvkejxh0",
       "ts": 1792725630516,
@@ -22586,17 +22611,6 @@
       "action": "status",
       "item": "HUP SENG SUGAR CRACKERS 428GM",
       "no": "50",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "g7fb4hwmv0jovyz",
-      "ts": 1791524936411,
-      "by": "chelson",
-      "vid": "pjhc1ssmuqdwfkb",
-      "vname": "Sk prudence OCT 2ND ORDER",
-      "action": "status",
-      "item": "Oreo vanilla Kraft 137gm",
-      "no": "46",
       "detail": "Status: To buy → Received"
     }
   ]
