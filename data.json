@@ -11269,12 +11269,23 @@
     },
     {
       "id": "no544ramvkaxyvp",
-      "name": "Sk Falcon",
+      "name": "Sk Falcon NOV 1ST ORDER",
       "items": [],
-      "updated": 1792719567061
+      "updated": 1792719611926
     }
   ],
   "history": [
+    {
+      "id": "2zjqbggmvkayxhy",
+      "ts": 1792719611926,
+      "by": "chelson",
+      "vid": "no544ramvkaxyvp",
+      "vname": "Sk Falcon NOV 1ST ORDER",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"Sk Falcon\" to \"Sk Falcon NOV 1ST ORDER\""
+    },
     {
       "id": "clv9da0mvkaxyvp",
       "ts": 1792719567061,
@@ -22263,17 +22274,6 @@
       "item": "Salam",
       "no": "20",
       "detail": "Qty 4 Ikat, Chiller"
-    },
-    {
-      "id": "oz0ndmxmv077uyj",
-      "ts": 1791503986555,
-      "by": "chelson",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "added",
-      "item": "Pucuk ubi",
-      "no": "19",
-      "detail": "Qty 5 Ikat, Chiller"
     }
   ]
 }
