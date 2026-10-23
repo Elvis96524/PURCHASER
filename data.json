@@ -11266,9 +11266,26 @@
         }
       ],
       "updated": 1792658282897
+    },
+    {
+      "id": "no544ramvkaxyvp",
+      "name": "Sk Falcon",
+      "items": [],
+      "updated": 1792719567061
     }
   ],
   "history": [
+    {
+      "id": "clv9da0mvkaxyvp",
+      "ts": 1792719567061,
+      "by": "chelson",
+      "vid": "no544ramvkaxyvp",
+      "vname": "Sk Falcon",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "rgkjl2imvkaeu27",
       "ts": 1792718674351,
@@ -22257,17 +22274,6 @@
       "item": "Pucuk ubi",
       "no": "19",
       "detail": "Qty 5 Ikat, Chiller"
-    },
-    {
-      "id": "vu0q3ggmv07738u",
-      "ts": 1791503950638,
-      "by": "chelson",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "added",
-      "item": "Kesum",
-      "no": "15",
-      "detail": "Qty 3 Ikat, Chiller"
     }
   ]
 }
