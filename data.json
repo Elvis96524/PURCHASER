@@ -11584,7 +11584,7 @@
           "id": "fee2uoymvkdym0b",
           "added": 1792724635883,
           "addedBy": "fathin",
-          "name": "Gardenia butter scotch 400gm",
+          "name": "GARDENIA BUTTER SCOTCH 400GM",
           "no": "",
           "qty": 5,
           "unit": "Loaf",
@@ -11592,7 +11592,7 @@
           "priority": "normal",
           "status": "na",
           "notes": "",
-          "updated": 1792726519994
+          "updated": 1792726636888
         },
         {
           "id": "raidt2qmvkdzzkw",
@@ -11837,6 +11837,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qdtbuhymvkf5hzt",
+      "ts": 1792726636889,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "edited",
+      "item": "GARDENIA BUTTER SCOTCH 400GM",
+      "no": "",
+      "detail": "Name \"Gardenia butter scotch 400gm\" → \"GARDENIA BUTTER SCOTCH 400GM\""
+    },
     {
       "id": "vxd451pmvkf4up5",
       "ts": 1792726606697,
@@ -22825,17 +22836,6 @@
       "item": "Pucuk ubi",
       "no": "26",
       "detail": "Qty 2 Ikat, Chiller"
-    },
-    {
-      "id": "9ga7le9mv4uxep6",
-      "ts": 1791785674410,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "added",
-      "item": "Kucai",
-      "no": "23",
-      "detail": "Qty 1 Kg, Chiller"
     }
   ]
 }
