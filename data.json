@@ -11861,12 +11861,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726931976
+        },
+        {
+          "id": "p5fkia9mvkj4ia6",
+          "added": 1792733309070,
+          "addedBy": "chelson",
+          "name": "Chili padi",
+          "no": "10",
+          "qty": 3,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792733309070
         }
       ],
       "updated": 1792727001241
     }
   ],
   "history": [
+    {
+      "id": "bia38wbmvkj4ia7",
+      "ts": 1792733309071,
+      "by": "chelson",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "added",
+      "item": "Chili padi",
+      "no": "10",
+      "detail": "Qty 3 Kg, Chiller"
+    },
     {
       "id": "jhdp01xmvkfomtc",
       "ts": 1792727529600,
@@ -22855,17 +22880,6 @@
       "item": "Hotdog bun 10's",
       "no": "70",
       "detail": "Qty 6 Pkt, Frozen"
-    },
-    {
-      "id": "kb8t9ojmv4xxkt8",
-      "ts": 1791790721180,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Kek pisang",
-      "no": "69",
-      "detail": "Qty 5 Pkt, Dry"
     }
   ]
 }
