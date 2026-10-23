@@ -11903,12 +11903,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792733366688
+        },
+        {
+          "id": "d8bwe9pmvkj6wep",
+          "added": 1792733420689,
+          "addedBy": "chelson",
+          "name": "Tauhu air 320gm",
+          "no": "5",
+          "qty": 10,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792733420689
         }
       ],
       "updated": 1792727001241
     }
   ],
   "history": [
+    {
+      "id": "1hux4a7mvkj6wep",
+      "ts": 1792733420689,
+      "by": "chelson",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "added",
+      "item": "Tauhu air 320gm",
+      "no": "5",
+      "detail": "Qty 10 Pkt, Chiller"
+    },
     {
       "id": "7v2dyvkmvkj5qqr",
       "ts": 1792733366691,
@@ -22897,17 +22922,6 @@
       "item": "Pringles assorted",
       "no": "90",
       "detail": "Qty 8 Btl, Dry"
-    },
-    {
-      "id": "iq59suwmv4y0s6x",
-      "ts": 1791790870713,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "BOH TEA ICELEMON SACHET 20'S X 14.5GM",
-      "no": "89",
-      "detail": "Qty 1 Pkt, Dry"
     }
   ]
 }
