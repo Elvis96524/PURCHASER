@@ -10057,9 +10057,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "na",
+          "status": "received",
           "notes": "",
-          "updated": 1792639285686
+          "updated": 1792718674351
         },
         {
           "id": "bn2vpoemvisf191",
@@ -11269,6 +11269,17 @@
     }
   ],
   "history": [
+    {
+      "id": "rgkjl2imvkaeu27",
+      "ts": 1792718674351,
+      "by": "fse",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "Petai",
+      "no": "",
+      "detail": "Status: N/A → Received"
+    },
     {
       "id": "k960hogmvkaeqf5",
       "ts": 1792718669633,
@@ -22257,17 +22268,6 @@
       "item": "Kesum",
       "no": "15",
       "detail": "Qty 3 Ikat, Chiller"
-    },
-    {
-      "id": "mb9z6g3muza3uw0",
-      "ts": 1791448372512,
-      "by": "fathin",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE",
-      "action": "added",
-      "item": "MURUKU POPO 12GMX30'S",
-      "no": "",
-      "detail": "Qty 5 PKT, Dry"
     }
   ]
 }
