@@ -10105,17 +10105,8 @@
         },
         {
           "id": "v7ofv9vmvj3ibuz",
-          "added": 1792646613899,
-          "addedBy": "farah",
-          "name": "TAUHU POK/TAUHU GORENG 9'S",
-          "no": "39",
-          "qty": 20,
-          "unit": "PKT",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792646625459
+          "deleted": true,
+          "updated": 1792714107453
         },
         {
           "id": "ldmlax7mvj3qp2u",
@@ -11287,6 +11278,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4hkjrlumvk7oy7x",
+      "ts": 1792714107453,
+      "by": "fse",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "deleted",
+      "item": "TAUHU POK/TAUHU GORENG 9'S",
+      "no": "39",
+      "detail": ""
+    },
     {
       "id": "haejmykmvjb0thv",
       "ts": 1792659233875,
@@ -22275,17 +22277,6 @@
       "item": "TEMPE",
       "no": "",
       "detail": "Qty 20 PKT, Chiller"
-    },
-    {
-      "id": "hffabnjmuz9ytih",
-      "ts": 1791448137449,
-      "by": "fathin",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE",
-      "action": "added",
-      "item": "BEAN SPROUT",
-      "no": "",
-      "detail": "Qty 10 KG, Chiller"
     }
   ]
 }
