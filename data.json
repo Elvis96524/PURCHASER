@@ -11537,12 +11537,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792724604691
+        },
+        {
+          "id": "fee2uoymvkdym0b",
+          "added": 1792724635883,
+          "addedBy": "fathin",
+          "name": "Gardenia butter scotch 400gm",
+          "no": "",
+          "qty": 5,
+          "unit": "Loaf",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792724635883
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "nau8343mvkdym0b",
+      "ts": 1792724635883,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "Gardenia butter scotch 400gm",
+      "no": "",
+      "detail": "Qty 5 Loaf, Dry"
+    },
     {
       "id": "voecd0vmvkdxxxv",
       "ts": 1792724604691,
@@ -22531,17 +22556,6 @@
       "item": "SERBUK JINTAN PUTIH",
       "no": "",
       "detail": "Name \"SERBUK PUTIH\" → \"SERBUK JINTAN PUTIH\""
-    },
-    {
-      "id": "uxixk18mv0b6oy9",
-      "ts": 1791510650577,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM",
-      "action": "added",
-      "item": "RED BEAN PASTE 1KG",
-      "no": "",
-      "detail": "Qty 10 PKT, Dry"
     }
   ]
 }
