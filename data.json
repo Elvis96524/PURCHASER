@@ -11565,12 +11565,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792724700128
+        },
+        {
+          "id": "zazi74imvke0fku",
+          "added": 1792724720862,
+          "addedBy": "fathin",
+          "name": "Daun pucuk ubi",
+          "no": "",
+          "qty": 1,
+          "unit": "Ikat",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792724720862
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "po2h6armvke0fku",
+      "ts": 1792724720862,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "Daun pucuk ubi",
+      "no": "",
+      "detail": "Qty 1 Ikat, Dry"
+    },
     {
       "id": "yfsqhh5mvkdzzkw",
       "ts": 1792724700128,
@@ -22559,17 +22584,6 @@
       "item": "",
       "no": "",
       "detail": "Renamed from \"KEYFIELD WISDOM ( 16/10/2026 )\" to \"KEYFIELD WISDOM  ( 16/10/2026 )\""
-    },
-    {
-      "id": "gv44n5kmv0b7xkp",
-      "ts": 1791510708409,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM ( 16/10/2026 )",
-      "action": "vrename",
-      "item": "",
-      "no": "",
-      "detail": "Renamed from \"KEYFIELD WISDOM\" to \"KEYFIELD WISDOM ( 16/10/2026 )\""
     }
   ]
 }
