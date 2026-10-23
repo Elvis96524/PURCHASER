@@ -10701,7 +10701,7 @@
           "id": "foberlcmvium4jp",
           "added": 1792631674501,
           "addedBy": "fathin",
-          "name": "SARSI/SPRITE 1.5LT",
+          "name": "SARSI/SPRITE 1.5LT(Been offer Sarsi in list)",
           "no": "",
           "qty": 2,
           "unit": "CTN",
@@ -10709,7 +10709,8 @@
           "priority": "normal",
           "status": "na",
           "notes": "",
-          "updated": 1792720063445
+          "updated": 1792720111689,
+          "updatedBy": "chelson"
         },
         {
           "id": "p7lgbohmviumg3x",
@@ -11346,6 +11347,17 @@
     }
   ],
   "history": [
+    {
+      "id": "d5jnc26mvkb9n4a",
+      "ts": 1792720111690,
+      "by": "chelson",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "edited",
+      "item": "SARSI/SPRITE 1.5LT(Been offer Sarsi in list)",
+      "no": "",
+      "detail": "Name \"SARSI/SPRITE 1.5LT\" → \"SARSI/SPRITE 1.5LT(Been offer Sarsi in list)\""
+    },
     {
       "id": "6mtt0wqmvkb9dx3",
       "ts": 1792720099767,
@@ -22334,17 +22346,6 @@
       "item": "",
       "no": "",
       "detail": "Vessel deleted"
-    },
-    {
-      "id": "h1xmip8mv08lf0h",
-      "ts": 1791506298689,
-      "by": "farah",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "edited",
-      "item": "Muruku 900gm original ( Offer muruku 24'sx12gm )",
-      "no": "25",
-      "detail": "Name \"Muruku 900gm original\" → \"Muruku 900gm original ( Offer muruku 24'sx12gm )\"; Qty 5 → 7"
     }
   ]
 }
