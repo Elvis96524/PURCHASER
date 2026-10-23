@@ -11556,7 +11556,7 @@
           "id": "mkebjsimvkdtpmm",
           "added": 1792724407294,
           "addedBy": "fathin",
-          "name": "ROTI",
+          "name": "ROTI GARDENIA",
           "no": "",
           "qty": 7,
           "unit": "PKT",
@@ -11564,7 +11564,7 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792726171834
+          "updated": 1792726178817
         },
         {
           "id": "66izky4mvkdxxxv",
@@ -11627,6 +11627,17 @@
     }
   ],
   "history": [
+    {
+      "id": "i3guvr3mvkevojl",
+      "ts": 1792726178817,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "edited",
+      "item": "ROTI GARDENIA",
+      "no": "",
+      "detail": "Name \"ROTI\" → \"ROTI GARDENIA\""
+    },
     {
       "id": "nmnaq0fmvkevj5o",
       "ts": 1792726171836,
@@ -22611,17 +22622,6 @@
       "by": "chelson",
       "vid": "ctgml0xmv0ae5xm",
       "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "status",
-      "item": "MURUKU POPO 12GMX30'S",
-      "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "51pv96jmv0l1q3k",
-      "ts": 1791527214944,
-      "by": "chelson",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE ( 14/10/2026 )",
       "action": "status",
       "item": "MURUKU POPO 12GMX30'S",
       "no": "",
