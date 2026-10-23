@@ -11635,12 +11635,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726208857
+        },
+        {
+          "id": "geozvd6mvkewyts",
+          "added": 1792726238800,
+          "addedBy": "fathin",
+          "name": "ASSORTED NUT ( NO1 SALTED PEANUTS, BROADBEAN )",
+          "no": "",
+          "qty": 5,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726238800
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "si763scmvkewyts",
+      "ts": 1792726238800,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "ASSORTED NUT ( NO1 SALTED PEANUTS, BROADBEAN )",
+      "no": "",
+      "detail": "Qty 5 PKT, Dry"
+    },
     {
       "id": "vp1v8wkmvkewbq2",
       "ts": 1792726208858,
@@ -22628,17 +22653,6 @@
       "action": "status",
       "item": "Bamboo shoots 552gm",
       "no": "23",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "ts8yyvsmv0l221h",
-      "ts": 1791527230421,
-      "by": "chelson",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "status",
-      "item": "FOURWAY CRAB",
-      "no": "",
       "detail": "Status: To buy → Received"
     }
   ]
