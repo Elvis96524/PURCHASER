@@ -11207,9 +11207,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792658863671
+          "updated": 1792739796630
         },
         {
           "id": "hdw7ftdmvjatg86",
@@ -11938,6 +11938,17 @@
     }
   ],
   "history": [
+    {
+      "id": "z8se6v0mvkmzk46",
+      "ts": 1792739796630,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "status",
+      "item": "Snekku Tam Tam 8's x22gm",
+      "no": "106",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "qvw506zmvkmz1xg",
       "ts": 1792739773060,
@@ -22926,17 +22937,6 @@
       "item": "Cendol",
       "no": "57",
       "detail": "Qty 1 Pkt, Chiller"
-    },
-    {
-      "id": "02951t0mv5xho89",
-      "ts": 1791850445289,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "added",
-      "item": "Nangka muda",
-      "no": "39",
-      "detail": "Qty 6 Pkt, Chiller"
     }
   ]
 }
