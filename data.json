@@ -11340,9 +11340,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792719747377
+          "updated": 1792739363867
         },
         {
           "id": "1x1nb75mvkejlqw",
@@ -11938,6 +11938,17 @@
     }
   ],
   "history": [
+    {
+      "id": "h8isvmkmvkmqa6z",
+      "ts": 1792739363867,
+      "by": "fse",
+      "vid": "no544ramvkaxyvp",
+      "vname": "Sk Falcon NOV 1ST ORDER",
+      "action": "status",
+      "item": "Margarine 1kg",
+      "no": "53",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "8crouj4mvkmpa0h",
       "ts": 1792739316977,
@@ -22926,17 +22937,6 @@
       "item": "Tempe",
       "no": "61",
       "detail": "Chiller → Frozen"
-    },
-    {
-      "id": "wm29ybjmv5xb2md",
-      "ts": 1791850137349,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "added",
-      "item": "Tempe",
-      "no": "61",
-      "detail": "Qty 10 Pkt, Chiller"
     }
   ]
 }
