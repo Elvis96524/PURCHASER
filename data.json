@@ -11074,6 +11074,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792719889777
+        },
+        {
+          "id": "ebfve8xmvkb6olt",
+          "added": 1792719973649,
+          "addedBy": "chelson",
+          "name": "3M s/steel cleaner polish spray",
+          "no": "CLEANING no.12",
+          "qty": 5,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792719973649
         }
       ],
       "updated": 1792657873307
@@ -11332,6 +11346,17 @@
     }
   ],
   "history": [
+    {
+      "id": "3tlwv1xmvkb6olt",
+      "ts": 1792719973649,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "added",
+      "item": "3M s/steel cleaner polish spray",
+      "no": "CLEANING no.12",
+      "detail": "Qty 5 Btl, Dry"
+    },
     {
       "id": "ymlu5romvkb4vw1",
       "ts": 1792719889777,
@@ -22320,17 +22345,6 @@
       "item": "Raja",
       "no": "44",
       "detail": "Qty 5 Ikat, Chiller"
-    },
-    {
-      "id": "izdnagkmv07dsuj",
-      "ts": 1791504263755,
-      "by": "chelson",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE",
-      "action": "added",
-      "item": "Kesum",
-      "no": "31",
-      "detail": "Qty 2 Ikat, Chiller"
     }
   ]
 }
