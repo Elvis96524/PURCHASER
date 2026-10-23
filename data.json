@@ -10707,9 +10707,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792631674501
+          "updated": 1792720063445
         },
         {
           "id": "p7lgbohmviumg3x",
@@ -11346,6 +11346,17 @@
     }
   ],
   "history": [
+    {
+      "id": "xmsb5x9mvkb8lw5",
+      "ts": 1792720063445,
+      "by": "chelson",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "SARSI/SPRITE 1.5LT",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "3tlwv1xmvkb6olt",
       "ts": 1792719973649,
@@ -22334,17 +22345,6 @@
       "item": "Pucuk ubi",
       "no": "19",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "hbfrel5mv07el7q",
-      "ts": 1791504300518,
-      "by": "chelson",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE",
-      "action": "added",
-      "item": "Raja",
-      "no": "44",
-      "detail": "Qty 5 Ikat, Chiller"
     }
   ]
 }
