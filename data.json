@@ -11616,11 +11616,11 @@
           "no": "",
           "qty": 1,
           "unit": "IKAT",
-          "category": "Dry",
+          "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792726737593
+          "updated": 1792726815608
         },
         {
           "id": "bjs0bobmvkewbq1",
@@ -11837,6 +11837,17 @@
     }
   ],
   "history": [
+    {
+      "id": "d34bf83mvkf9bw9",
+      "ts": 1792726815609,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "edited",
+      "item": "DAUN PUCUK UBI",
+      "no": "",
+      "detail": "Dry → Chiller"
+    },
     {
       "id": "xm2sg15mvkf95qh",
       "ts": 1792726807625,
@@ -22825,17 +22836,6 @@
       "item": "",
       "no": "",
       "detail": "Vessel created"
-    },
-    {
-      "id": "774kh9omv4v8fb3",
-      "ts": 1791786188415,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "status",
-      "item": "Petai",
-      "no": "93",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
