@@ -10206,9 +10206,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792546227686
+          "updated": 1792738149973
         },
         {
           "id": "6rbckmvmvhfxchj",
@@ -11938,6 +11938,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4c0clf6mvkm09jp",
+      "ts": 1792738149973,
+      "by": "fse",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "status",
+      "item": "Margarine 1kg",
+      "no": "Remark 2",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "iyrkclhmvklu4mr",
       "ts": 1792737863667,
@@ -22926,17 +22937,6 @@
       "item": "",
       "no": "",
       "detail": "Vessel created"
-    },
-    {
-      "id": "8eb8ty4mv4ybrbh",
-      "ts": 1791791382797,
-      "by": "lim",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "vdelete",
-      "item": "",
-      "no": "",
-      "detail": "Vessel deleted"
     }
   ]
 }
