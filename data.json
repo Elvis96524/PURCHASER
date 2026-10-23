@@ -11612,15 +11612,15 @@
           "id": "zazi74imvke0fku",
           "added": 1792724720862,
           "addedBy": "fathin",
-          "name": "Daun pucuk ubi",
+          "name": "DAUN PUCUK UBI",
           "no": "",
           "qty": 1,
-          "unit": "Ikat",
+          "unit": "IKAT",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792724720862
+          "updated": 1792726737593
         },
         {
           "id": "bjs0bobmvkewbq1",
@@ -11837,6 +11837,17 @@
     }
   ],
   "history": [
+    {
+      "id": "h6gmdqrmvkf7np5",
+      "ts": 1792726737593,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "edited",
+      "item": "DAUN PUCUK UBI",
+      "no": "",
+      "detail": "Name \"Daun pucuk ubi\" → \"DAUN PUCUK UBI\"; Unit Ikat → IKAT"
+    },
     {
       "id": "tvlhwgrmvkf7cz4",
       "ts": 1792726723696,
@@ -22825,17 +22836,6 @@
       "item": "Cendol",
       "no": "64",
       "detail": "Qty 3 Pkt, Chiller"
-    },
-    {
-      "id": "q19s78mmv4v1xjc",
-      "ts": 1791785885448,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "added",
-      "item": "Yogurt 135g",
-      "no": "60",
-      "detail": "Qty 20 Cup, Chiller"
     }
   ]
 }
