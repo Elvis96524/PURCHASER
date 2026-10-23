@@ -11060,9 +11060,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792658209183
+          "updated": 1792738291533
         },
         {
           "id": "704226dmvkb4vw1",
@@ -11938,6 +11938,17 @@
     }
   ],
   "history": [
+    {
+      "id": "3ew54gvmvkm3arx",
+      "ts": 1792738291533,
+      "by": "fse",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "status",
+      "item": "Margarine 1kg",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "h3alvsdmvkm1uq7",
       "ts": 1792738224079,
@@ -22926,17 +22937,6 @@
       "item": "Pakis",
       "no": "23",
       "detail": "Qty 5 Ikat, Chiller"
-    },
-    {
-      "id": "vak8qgomv4yisxr",
-      "ts": 1791791711487,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "added",
-      "item": "Nescafe 3in1 rich 25's x19GM",
-      "no": "27",
-      "detail": "Qty 2 Pkt, Dry"
     }
   ]
 }
