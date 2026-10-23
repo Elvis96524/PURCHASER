@@ -10885,9 +10885,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1792632056172
+          "updated": 1792738224079
         },
         {
           "id": "hclbfi1mviuuksk",
@@ -11938,6 +11938,17 @@
     }
   ],
   "history": [
+    {
+      "id": "h3alvsdmvkm1uq7",
+      "ts": 1792738224079,
+      "by": "fse",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "status",
+      "item": "GOOD MAID STEEL WOOL 2'S",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "4c0clf6mvkm09jp",
       "ts": 1792738149973,
@@ -22926,17 +22937,6 @@
       "item": "Nescafe 3in1 rich 25's x19GM",
       "no": "27",
       "detail": "Qty 2 Pkt, Dry"
-    },
-    {
-      "id": "5404ay0mv4yge8f",
-      "ts": 1791791599119,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "vadd",
-      "item": "",
-      "no": "",
-      "detail": "Vessel created"
     }
   ]
 }
