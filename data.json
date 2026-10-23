@@ -11817,12 +11817,37 @@
           "status": "na",
           "notes": "",
           "updated": 1792726526003
+        },
+        {
+          "id": "taqglcpmvkf4up5",
+          "added": 1792726606697,
+          "addedBy": "fathin",
+          "name": "KEWPIE ROASTED SESAME DRESSING 500ML",
+          "no": "",
+          "qty": 2,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726606697
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "vxd451pmvkf4up5",
+      "ts": 1792726606697,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "KEWPIE ROASTED SESAME DRESSING 500ML",
+      "no": "",
+      "detail": "Qty 2 BTL, Dry"
+    },
     {
       "id": "ctmk27wmvkf3ttv",
       "ts": 1792726558915,
@@ -22811,17 +22836,6 @@
       "item": "Kucai",
       "no": "23",
       "detail": "Qty 1 Kg, Chiller"
-    },
-    {
-      "id": "5vmi9hzmv4uwuzw",
-      "ts": 1791785648876,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "added",
-      "item": "Kesum",
-      "no": "22",
-      "detail": "Qty 4 Ikat, Chiller"
     }
   ]
 }
