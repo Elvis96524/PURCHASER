@@ -11060,6 +11060,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792658209183
+        },
+        {
+          "id": "704226dmvkb4vw1",
+          "added": 1792719889777,
+          "addedBy": "chelson",
+          "name": "Glade autospray refill 269ml",
+          "no": "CLEANING no.5",
+          "qty": 5,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792719889777
         }
       ],
       "updated": 1792657873307
@@ -11318,6 +11332,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ymlu5romvkb4vw1",
+      "ts": 1792719889777,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "added",
+      "item": "Glade autospray refill 269ml",
+      "no": "CLEANING no.5",
+      "detail": "Qty 5 Btl, Dry"
+    },
     {
       "id": "nkd96a6mvkb1u0h",
       "ts": 1792719747377,
@@ -22306,17 +22331,6 @@
       "item": "Kesum",
       "no": "31",
       "detail": "Qty 2 Ikat, Chiller"
-    },
-    {
-      "id": "wdmpsiymv07b3te",
-      "ts": 1791504138002,
-      "by": "chelson",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "added",
-      "item": "Tempe",
-      "no": "45",
-      "detail": "Qty 5 Ikat, Frozen"
     }
   ]
 }
