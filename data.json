@@ -11598,15 +11598,15 @@
           "id": "raidt2qmvkdzzkw",
           "added": 1792724700128,
           "addedBy": "fathin",
-          "name": "Bean sprouts",
+          "name": "BEAN SPROUTS",
           "no": "",
           "qty": 3,
-          "unit": "Kg",
+          "unit": "KG",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792724700128
+          "updated": 1792726723696
         },
         {
           "id": "zazi74imvke0fku",
@@ -11837,6 +11837,17 @@
     }
   ],
   "history": [
+    {
+      "id": "tvlhwgrmvkf7cz4",
+      "ts": 1792726723696,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "edited",
+      "item": "BEAN SPROUTS",
+      "no": "",
+      "detail": "Name \"Bean sprouts\" → \"BEAN SPROUTS\"; Unit Kg → KG"
+    },
     {
       "id": "iv2jz5nmvkf73ch",
       "ts": 1792726711217,
@@ -22825,17 +22836,6 @@
       "item": "Yogurt 135g",
       "no": "60",
       "detail": "Qty 20 Cup, Chiller"
-    },
-    {
-      "id": "5j5d7k7mv4v0sum",
-      "ts": 1791785832718,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "added",
-      "item": "Yam",
-      "no": "59",
-      "detail": "Qty 2 Kg, Chiller"
     }
   ]
 }
