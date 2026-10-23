@@ -11917,12 +11917,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792733420689
+        },
+        {
+          "id": "a29d7mhmvklqd6v",
+          "added": 1792737688135,
+          "addedBy": "fathin",
+          "name": "TELUR MASIN ( PUTIH )",
+          "no": "",
+          "qty": 30,
+          "unit": "PCS",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792737688134
         }
       ],
       "updated": 1792727001241
     }
   ],
   "history": [
+    {
+      "id": "njubdwamvklqd6v",
+      "ts": 1792737688135,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "added",
+      "item": "TELUR MASIN ( PUTIH )",
+      "no": "",
+      "detail": "Qty 30 PCS, Dry"
+    },
     {
       "id": "av718ssmvklkrc8",
       "ts": 1792737426536,
@@ -22911,17 +22936,6 @@
       "item": "Kek pisang",
       "no": "69",
       "detail": "Chiller → Frozen"
-    },
-    {
-      "id": "iyd9z57mv4y4t7a",
-      "ts": 1791791058646,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "edited",
-      "item": "Kek pisang",
-      "no": "69",
-      "detail": "Dry → Chiller"
     }
   ]
 }
