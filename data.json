@@ -11573,12 +11573,12 @@
           "name": "MAGNUM YOGURT ICE CREAM MANGO FLAVOUR, ICE CREAM 24'S/CTN",
           "no": "",
           "qty": 1,
-          "unit": "Ctn",
+          "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792726694672
+          "updated": 1792726704825
         },
         {
           "id": "fee2uoymvkdym0b",
@@ -11837,6 +11837,17 @@
     }
   ],
   "history": [
+    {
+      "id": "tmrdjdlmvkf6yex",
+      "ts": 1792726704825,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "edited",
+      "item": "MAGNUM YOGURT ICE CREAM MANGO FLAVOUR, ICE CREAM 24'S/CTN",
+      "no": "",
+      "detail": "Unit Ctn → CTN"
+    },
     {
       "id": "xx87jsgmvkf6qkx",
       "ts": 1792726694673,
@@ -22825,17 +22836,6 @@
       "item": "Pegaga",
       "no": "28",
       "detail": "Qty 4 Ikat, Chiller"
-    },
-    {
-      "id": "k3hfpmdmv4uysww",
-      "ts": 1791785739488,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "added",
-      "item": "Pudina",
-      "no": "27",
-      "detail": "Qty 5 Ikat, Chiller"
     }
   ]
 }
