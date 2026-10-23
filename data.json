@@ -11474,12 +11474,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792721280390
+        },
+        {
+          "id": "epo3tw8mvkbzres",
+          "added": 1792721330308,
+          "addedBy": "chelson",
+          "name": "Milo in can 240ml x24's",
+          "no": "57",
+          "qty": 3,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792721330308
         }
       ],
       "updated": 1792720765789
     }
   ],
   "history": [
+    {
+      "id": "2os7qbzmvkbzres",
+      "ts": 1792721330308,
+      "by": "chelson",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "added",
+      "item": "Milo in can 240ml x24's",
+      "no": "57",
+      "detail": "Qty 3 Ctn, Dry"
+    },
     {
       "id": "n4i5tykmvkbyow6",
       "ts": 1792721280390,
@@ -22468,17 +22493,6 @@
       "item": "FOURWAY CRAB",
       "no": "",
       "detail": "Qty 10 PKT, Dry"
-    },
-    {
-      "id": "9v7ex0umv0b505d",
-      "ts": 1791510571777,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM",
-      "action": "added",
-      "item": "SERBUK PUTIH",
-      "no": "",
-      "detail": "Qty 1 KG, Dry"
     }
   ]
 }
