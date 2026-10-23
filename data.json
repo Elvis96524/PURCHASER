@@ -11802,9 +11802,9 @@
           "unit": "TIN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792737863667,
+          "updated": 1792739617140,
           "updatedBy": "fse"
         },
         {
@@ -11938,6 +11938,17 @@
     }
   ],
   "history": [
+    {
+      "id": "iizspotmvkmvpmc",
+      "ts": 1792739617140,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "SARDINE AYAM BRAND offer mackerel in tin ayam brand",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "2d3xjximvkmufa2",
       "ts": 1792739557082,
@@ -22926,17 +22937,6 @@
       "item": "Jantung pisang",
       "no": "31",
       "detail": "Qty 5 Nos, Chiller"
-    },
-    {
-      "id": "xcjs0yomv5xgh5s",
-      "ts": 1791850389472,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "added",
-      "item": "Pucuk ubi",
-      "no": "25",
-      "detail": "Qty 5 Ikat, Chiller"
     }
   ]
 }
