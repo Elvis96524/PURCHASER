@@ -11831,12 +11831,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726606697
+        },
+        {
+          "id": "h65mkidmvkfbhh4",
+          "added": 1792726916152,
+          "addedBy": "fathin",
+          "name": "SANTAN AYAMBRAND ( SMALL ) 200ML",
+          "no": "",
+          "qty": 2,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726916152
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "7qyrohwmvkfbhh4",
+      "ts": 1792726916152,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "SANTAN AYAMBRAND ( SMALL ) 200ML",
+      "no": "",
+      "detail": "Qty 2 CTN, Dry"
+    },
     {
       "id": "d34bf83mvkf9bw9",
       "ts": 1792726815609,
@@ -22825,17 +22850,6 @@
       "item": "Gardenia",
       "no": "72",
       "detail": "Qty 15 Loaf, Frozen"
-    },
-    {
-      "id": "g07v9lwmv4x2qss",
-      "ts": 1791789282604,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "vadd",
-      "item": "",
-      "no": "",
-      "detail": "Vessel created"
     }
   ]
 }
