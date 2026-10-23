@@ -11649,12 +11649,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726238800
+        },
+        {
+          "id": "n63s662mvkex9w1",
+          "added": 1792726253137,
+          "addedBy": "fathin",
+          "name": "SUPER RING 60GM",
+          "no": "",
+          "qty": 10,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726253136
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "gc4c5hvmvkex9w1",
+      "ts": 1792726253137,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "SUPER RING 60GM",
+      "no": "",
+      "detail": "Qty 10 PKT, Dry"
+    },
     {
       "id": "si763scmvkewyts",
       "ts": 1792726238800,
@@ -22642,17 +22667,6 @@
       "action": "status",
       "item": "PRINGLES ASST FLAVOUR 110G",
       "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "jun3si8mv0lc5ml",
-      "ts": 1791527701629,
-      "by": "chelson",
-      "vid": "pjhc1ssmuqdwfkb",
-      "vname": "Sk prudence OCT 2ND ORDER",
-      "action": "status",
-      "item": "Bamboo shoots 552gm",
-      "no": "23",
       "detail": "Status: To buy → Received"
     }
   ]
