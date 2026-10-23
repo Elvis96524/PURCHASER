@@ -11432,12 +11432,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792721093189
+        },
+        {
+          "id": "emmr19wmvkbvxgp",
+          "added": 1792721151529,
+          "addedBy": "chelson",
+          "name": "Sos mahsuri 3 rasa 530gm",
+          "no": "37",
+          "qty": 6,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792721151529
         }
       ],
       "updated": 1792720765789
     }
   ],
   "history": [
+    {
+      "id": "umn9ya8mvkbvxgp",
+      "ts": 1792721151529,
+      "by": "chelson",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "added",
+      "item": "Sos mahsuri 3 rasa 530gm",
+      "no": "37",
+      "detail": "Qty 6 Btl, Dry"
+    },
     {
       "id": "2knixitmvkbuog5",
       "ts": 1792721093189,
@@ -22426,17 +22451,6 @@
       "item": "FRESH PETAI",
       "no": "",
       "detail": "Qty 5 KG, Chiller"
-    },
-    {
-      "id": "63kzo00mv0ag53d",
-      "ts": 1791509411785,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM",
-      "action": "added",
-      "item": "TEMPE",
-      "no": "",
-      "detail": "Qty 50 PKT, Chiller"
     }
   ]
 }
