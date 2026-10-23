@@ -11369,6 +11369,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792725679934
+        },
+        {
+          "id": "bpubsrjmvkem4er",
+          "added": 1792725732819,
+          "addedBy": "farah",
+          "name": "Sardine ayambrand",
+          "no": "25",
+          "qty": 8,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792725732819
         }
       ],
       "updated": 1792719611926
@@ -11613,6 +11627,17 @@
     }
   ],
   "history": [
+    {
+      "id": "esew17hmvkem4er",
+      "ts": 1792725732819,
+      "by": "farah",
+      "vid": "no544ramvkaxyvp",
+      "vname": "Sk Falcon NOV 1ST ORDER",
+      "action": "added",
+      "item": "Sardine ayambrand",
+      "no": "25",
+      "detail": "Qty 8 Tin, Dry"
+    },
     {
       "id": "yaattvnmvkekzlq",
       "ts": 1792725679934,
@@ -22600,17 +22625,6 @@
       "action": "status",
       "item": "Muruku 900gm original ( Offer muruku 24'sx12gm )",
       "no": "25",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "x3sc5btmv0jpnzz",
-      "ts": 1791524972735,
-      "by": "chelson",
-      "vid": "lzgt4qymuuwbvzg",
-      "vname": "SK PERFECT ( OCT 2ND ORDER )",
-      "action": "status",
-      "item": "HUP SENG SUGAR CRACKERS 428GM",
-      "no": "50",
       "detail": "Status: To buy → Received"
     }
   ]
