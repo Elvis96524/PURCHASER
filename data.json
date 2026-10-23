@@ -10099,9 +10099,9 @@
           "unit": "CTN",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792646548077
+          "updated": 1792718652857
         },
         {
           "id": "v7ofv9vmvj3ibuz",
@@ -11269,6 +11269,17 @@
     }
   ],
   "history": [
+    {
+      "id": "j3mxnlemvkaedh5",
+      "ts": 1792718652857,
+      "by": "fse",
+      "vid": "77yyotumvhci5ro",
+      "vname": "Sk majestic ( LOADING : 23/10/2026 )",
+      "action": "status",
+      "item": "RED APPLE",
+      "no": "1",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ybeetjumvkae4yx",
       "ts": 1792718641833,
@@ -22257,17 +22268,6 @@
       "item": "HAND BRUSH ( For Housekeeping Upon Offhire )",
       "no": "",
       "detail": "Qty 6 PCS, Dry"
-    },
-    {
-      "id": "pl54gk5muza1vb4",
-      "ts": 1791448279744,
-      "by": "fathin",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE",
-      "action": "added",
-      "item": "LONG RUBBER HAND GLOVE ( For Dishwasher )",
-      "no": "",
-      "detail": "Qty 6 PAIR, Dry"
     }
   ]
 }
