@@ -11830,9 +11830,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792726606697
+          "updated": 1792737426536
         },
         {
           "id": "h65mkidmvkfbhh4",
@@ -11923,6 +11923,17 @@
     }
   ],
   "history": [
+    {
+      "id": "av718ssmvklkrc8",
+      "ts": 1792737426536,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "KEWPIE ROASTED SESAME DRESSING 500ML",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "qexyp5cmvklitp3",
       "ts": 1792737336279,
@@ -22911,17 +22922,6 @@
       "item": "Kek pisang",
       "no": "69",
       "detail": "Dry → Chiller"
-    },
-    {
-      "id": "nx2teegmv4y3mqo",
-      "ts": 1791791003616,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Puteri marjerin 1kg",
-      "no": "",
-      "detail": "Qty 1 Pkt, Dry"
     }
   ]
 }
