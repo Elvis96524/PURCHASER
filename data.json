@@ -11348,11 +11348,37 @@
     {
       "id": "ybtz2cemvkbnntp",
       "name": "SK Pinnacle NOV 1ST ORDER",
-      "items": [],
+      "items": [
+        {
+          "id": "s23vx9omvkbp8jc",
+          "added": 1792720839288,
+          "addedBy": "chelson",
+          "name": "Soya bean 300ml x24 season/drinkho",
+          "no": "6",
+          "qty": 2,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792720839288
+        }
+      ],
       "updated": 1792720765789
     }
   ],
   "history": [
+    {
+      "id": "52ccogymvkbp8jc",
+      "ts": 1792720839288,
+      "by": "chelson",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "added",
+      "item": "Soya bean 300ml x24 season/drinkho",
+      "no": "6",
+      "detail": "Qty 2 Ctn, Dry"
+    },
     {
       "id": "o0zeyc7mvkbnntp",
       "ts": 1792720765789,
@@ -22341,17 +22367,6 @@
       "item": "",
       "no": "",
       "detail": "Vessel created"
-    },
-    {
-      "id": "nnhwzg5mv0adkgq",
-      "ts": 1791509291738,
-      "by": "fathin",
-      "vid": "3999u2dmuqmt81u",
-      "vname": "Majestic",
-      "action": "vdelete",
-      "item": "",
-      "no": "",
-      "detail": "Vessel deleted"
     }
   ]
 }
