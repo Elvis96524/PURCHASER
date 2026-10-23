@@ -11550,7 +11550,7 @@
     },
     {
       "id": "i9p2ne0mvkc0leu",
-      "name": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "name": "KEYFIELD JOYFUL (26/10/26)",
       "items": [
         {
           "id": "mkebjsimvkdtpmm",
@@ -11861,10 +11861,21 @@
           "updated": 1792726931976
         }
       ],
-      "updated": 1792721369190
+      "updated": 1792727001241
     }
   ],
   "history": [
+    {
+      "id": "4blhsl2mvkfdb4p",
+      "ts": 1792727001241,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "vrename",
+      "item": "",
+      "no": "",
+      "detail": "Renamed from \"KEYFIELD JOYFUL ( 26/10/26 )\" to \"KEYFIELD JOYFUL (26/10/26)\""
+    },
     {
       "id": "wk6ibqbmvkfbtoo",
       "ts": 1792726931976,
@@ -22853,17 +22864,6 @@
       "item": "Peaches Halves in syrup 822G",
       "no": "45",
       "detail": "Qty 2 Can, Dry"
-    },
-    {
-      "id": "ccxp7vomv4xseym",
-      "ts": 1791790480318,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Orange/Mango Sunquick 840ml",
-      "no": "14",
-      "detail": "Qty 1 Btl, Dry"
     }
   ]
 }
