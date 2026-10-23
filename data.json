@@ -10608,7 +10608,8 @@
           "updated": 1792647024748
         }
       ],
-      "updated": 1792633974234
+      "deleted": true,
+      "updated": 1792727529600
     },
     {
       "id": "eux4ocqmviujd5p",
@@ -11866,6 +11867,17 @@
     }
   ],
   "history": [
+    {
+      "id": "jhdp01xmvkfomtc",
+      "ts": 1792727529600,
+      "by": "chelson",
+      "vid": "txw8ewrmviuaarp",
+      "vname": "BELAIT PSV 2 ( LOADING : 23/10/2026 )",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "r6zxvyvmvkfoigq",
       "ts": 1792727523962,
@@ -22854,17 +22866,6 @@
       "item": "Kek pisang",
       "no": "69",
       "detail": "Qty 5 Pkt, Dry"
-    },
-    {
-      "id": "y2rhkx3mv4xwm1v",
-      "ts": 1791790676131,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Sugar cracker Hupseng 428g",
-      "no": "68",
-      "detail": "Qty 15 Pkt, Dry"
     }
   ]
 }
