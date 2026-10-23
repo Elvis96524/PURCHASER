@@ -11803,12 +11803,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726470584
+        },
+        {
+          "id": "x4wouzhmvkf2cc1",
+          "added": 1792726489585,
+          "addedBy": "fathin",
+          "name": "OVEN CLEANER SPRAY",
+          "no": "",
+          "qty": 1,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726489585
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "x03swermvkf2cc1",
+      "ts": 1792726489585,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "OVEN CLEANER SPRAY",
+      "no": "",
+      "detail": "Qty 1 BTL, Dry"
+    },
     {
       "id": "am0okdomvkf1xo8",
       "ts": 1792726470584,
@@ -22796,17 +22821,6 @@
       "action": "status",
       "item": "FRESH PETAI",
       "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "7a4j3xzmv3885pk",
-      "ts": 1791687078632,
-      "by": "chelson",
-      "vid": "7e83qekmuvwen21",
-      "vname": "Sk Falcon (OCT 1st order)",
-      "action": "status",
-      "item": "Petai",
-      "no": "30",
       "detail": "Status: To buy → Received"
     }
   ]
