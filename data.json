@@ -11588,11 +11588,11 @@
           "no": "",
           "qty": 5,
           "unit": "LOAF",
-          "category": "Dry",
+          "category": "Frozen",
           "priority": "normal",
           "status": "na",
           "notes": "",
-          "updated": 1792726711217
+          "updated": 1792726803240
         },
         {
           "id": "raidt2qmvkdzzkw",
@@ -11837,6 +11837,17 @@
     }
   ],
   "history": [
+    {
+      "id": "anmtf4imvkf92cp",
+      "ts": 1792726803241,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "edited",
+      "item": "GARDENIA BUTTER SCOTCH 400GM",
+      "no": "",
+      "detail": "Dry → Frozen"
+    },
     {
       "id": "juvtlqwmvkf8xkw",
       "ts": 1792726797056,
@@ -22825,17 +22836,6 @@
       "item": "Yogurt 135g",
       "no": "Supervisor team",
       "detail": "Qty 20 Cup, Chiller"
-    },
-    {
-      "id": "p8ovgdvmv4v3itv",
-      "ts": 1791785959699,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "added",
-      "item": "Tempe",
-      "no": "71",
-      "detail": "Qty 5 Pkt, Chiller"
     }
   ]
 }
