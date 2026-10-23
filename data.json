@@ -11875,12 +11875,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792733309070
+        },
+        {
+          "id": "lwmj9v8mvkj51ki",
+          "added": 1792733334066,
+          "addedBy": "chelson",
+          "name": "Pucuk ubi",
+          "no": "20",
+          "qty": 1,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792733334066
         }
       ],
       "updated": 1792727001241
     }
   ],
   "history": [
+    {
+      "id": "6wuyplhmvkj51ki",
+      "ts": 1792733334066,
+      "by": "chelson",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "added",
+      "item": "Pucuk ubi",
+      "no": "20",
+      "detail": "Qty 1 Ikat, Chiller"
+    },
     {
       "id": "bia38wbmvkj4ia7",
       "ts": 1792733309071,
@@ -22868,17 +22893,6 @@
       "action": "added",
       "item": "Burger Bun 6's",
       "no": "71",
-      "detail": "Qty 6 Pkt, Frozen"
-    },
-    {
-      "id": "y982j6emv4xy90j",
-      "ts": 1791790752547,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Hotdog bun 10's",
-      "no": "70",
       "detail": "Qty 6 Pkt, Frozen"
     }
   ]
