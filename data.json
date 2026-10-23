@@ -11677,12 +11677,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792726276848
+        },
+        {
+          "id": "9edpsr3mvkey414",
+          "added": 1792726292200,
+          "addedBy": "fathin",
+          "name": "BALANG KUIH TALL",
+          "no": "",
+          "qty": 4,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792726292200
         }
       ],
       "updated": 1792721369190
     }
   ],
   "history": [
+    {
+      "id": "bpocirmmvkey414",
+      "ts": 1792726292200,
+      "by": "fathin",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL ( 26/10/26 )",
+      "action": "added",
+      "item": "BALANG KUIH TALL",
+      "no": "",
+      "detail": "Qty 4 BTL, Dry"
+    },
     {
       "id": "ndztiu7mvkexs6p",
       "ts": 1792726276849,
@@ -22671,17 +22696,6 @@
       "item": "LONG RUBBER HAND GLOVE ( For Dishwasher )",
       "no": "",
       "detail": "Status: To buy → N/A"
-    },
-    {
-      "id": "uq483nomv0lsxqy",
-      "ts": 1791528484570,
-      "by": "chelson",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "status",
-      "item": "PRINGLES ASSORTED FLAVOR 110G",
-      "no": "",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
