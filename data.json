@@ -11822,9 +11822,9 @@
           "unit": "BAG",
           "category": "Dry",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792809482871
+          "updated": 1792821575261
         },
         {
           "id": "geozvd6mvkewyts",
@@ -12540,6 +12540,17 @@
     }
   ],
   "history": [
+    {
+      "id": "k31z6bbmvlzocwu",
+      "ts": 1792821575262,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "BERAS BASMATHI 5KG",
+      "no": "",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "34502snmvltjtut",
       "ts": 1792811286245,
@@ -23528,17 +23539,6 @@
       "item": "Peaches Halves in syrup 822G ( Offer Pear Halves )",
       "no": "45",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "rptv0vfmv64bhh1",
-      "ts": 1791861913909,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "ULAM SELOM",
-      "no": "48",
-      "detail": "Qty 4 IKAT, Chiller"
     }
   ]
 }
