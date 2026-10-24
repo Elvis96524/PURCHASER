@@ -11892,9 +11892,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792726317232
+          "updated": 1792823436864
         },
         {
           "id": "m3w6b9ymvkezhnl",
@@ -12540,6 +12540,17 @@
     }
   ],
   "history": [
+    {
+      "id": "psteyaxmvm0s9c0",
+      "ts": 1792823436864,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "SALTED IN OIL TENGGIRI 600GM",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "z0e8ot4mvm0kg19",
       "ts": 1792823072301,
@@ -23528,17 +23539,6 @@
       "item": "MURUKU POPO 12GMX24'S",
       "no": "21",
       "detail": "Qty 4 PACK, Dry"
-    },
-    {
-      "id": "dv3ut8imv64sxnx",
-      "ts": 1791862728045,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "SPRITE 325ML",
-      "no": "14",
-      "detail": "Qty 1 CTN, Dry"
     }
   ]
 }
