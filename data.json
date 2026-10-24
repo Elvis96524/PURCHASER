@@ -11831,9 +11831,9 @@
           "unit": "BAG",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1792726208857
+          "updated": 1792809482871
         },
         {
           "id": "geozvd6mvkewyts",
@@ -12549,6 +12549,17 @@
     }
   ],
   "history": [
+    {
+      "id": "j2n4sd2mvlsh6d4",
+      "ts": 1792809482872,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "BERAS BASMATHI 5KG",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "ov0zhq6mvlsgvd3",
       "ts": 1792809468615,
@@ -23537,17 +23548,6 @@
       "item": "Muruku 900gm ( Offer Muruku 12gmx24's )",
       "no": "67",
       "detail": "Name \"Muruku 900gm\" → \"Muruku 900gm ( Offer Muruku 12gmx24's )\"; Qty 5 → 8"
-    },
-    {
-      "id": "b4qdj2mmv6477hv",
-      "ts": 1791861714355,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "status",
-      "item": "Sprite 1.5L x 12",
-      "no": "14",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
