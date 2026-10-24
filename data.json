@@ -12047,9 +12047,9 @@
           "unit": "KG",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792726931976
+          "updated": 1792824073617
         },
         {
           "id": "p5fkia9mvkj4ia6",
@@ -12540,6 +12540,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6a8n8ogmvm15wnl",
+      "ts": 1792824073617,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "TEPUNG CAP SAUH",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "3xtmlr1mvm0tnuz",
       "ts": 1792823502347,
@@ -23528,17 +23539,6 @@
       "item": "TWISTIES ASST 60GM",
       "no": "21",
       "detail": "Unit PKT → PACK"
-    },
-    {
-      "id": "rzfdwelmv64zhz8",
-      "ts": 1791863034308,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "YEO'S COCONUT JUICE 300ML",
-      "no": "20",
-      "detail": "Qty 1 CTN, Dry"
     }
   ]
 }
