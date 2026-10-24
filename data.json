@@ -12238,12 +12238,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803778733
+        },
+        {
+          "id": "2mnehq2mvlp3e74",
+          "added": 1792803800992,
+          "addedBy": "chelson",
+          "name": "Salam",
+          "no": "34",
+          "qty": 6,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803800992
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "msyw70nmvlp3e74",
+      "ts": 1792803800992,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Salam",
+      "no": "34",
+      "detail": "Qty 6 Ikat, Chiller"
+    },
     {
       "id": "xad2l8tmvlp2x0t",
       "ts": 1792803778733,
@@ -23232,17 +23257,6 @@
       "item": "Dragon fruit red",
       "no": "",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "wxfg1d9mv60xq0y",
-      "ts": 1791856232962,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Kemangi",
-      "no": "19",
-      "detail": "Status: To buy → N/A"
     }
   ]
 }
