@@ -12308,12 +12308,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803910302
+        },
+        {
+          "id": "gizukusmvlp7777",
+          "added": 1792803978547,
+          "addedBy": "chelson",
+          "name": "Tempe",
+          "no": "82",
+          "qty": 15,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803978547
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "h8jtf9xmvlp7777",
+      "ts": 1792803978547,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Tempe",
+      "no": "82",
+      "detail": "Qty 15 Pkt, Frozen"
+    },
     {
       "id": "oru7h8hmvlp5qji",
       "ts": 1792803910302,
@@ -23301,17 +23326,6 @@
       "action": "added",
       "item": "Winter melon 300ml x 24",
       "no": "17",
-      "detail": "Qty 1 Ctn, Dry"
-    },
-    {
-      "id": "57jiaxhmv61otpy",
-      "ts": 1791857497462,
-      "by": "nicole",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "added",
-      "item": "Sprite 1.5L x 12",
-      "no": "14",
       "detail": "Qty 1 Ctn, Dry"
     }
   ]
