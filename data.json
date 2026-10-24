@@ -12541,11 +12541,37 @@
     {
       "id": "i879arpmvm1guth",
       "name": "Wisdom(24/10/26 order)",
-      "items": [],
+      "items": [
+        {
+          "id": "ttze6azmvm1i593",
+          "added": 1792824644631,
+          "addedBy": "chelson",
+          "name": "White vinegar 630ml",
+          "no": "45",
+          "qty": 12,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792824644631
+        }
+      ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "nhfio7zmvm1i593",
+      "ts": 1792824644631,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "White vinegar 630ml",
+      "no": "45",
+      "detail": "Qty 12 Btl, Dry"
+    },
     {
       "id": "sk75h1ymvm1guti",
       "ts": 1792824584454,
@@ -23534,17 +23560,6 @@
       "item": "Tempe",
       "no": "64",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "xb54chwmv67c118",
-      "ts": 1791866978108,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "status",
-      "item": "Tempe",
-      "no": "62",
-      "detail": "Status: To buy → Ordered"
     }
   ]
 }
