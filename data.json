@@ -12065,12 +12065,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803485319
+        },
+        {
+          "id": "xzyhmdvmvlowxry",
+          "added": 1792803499774,
+          "addedBy": "fathin",
+          "name": "ADABI REMPAH BRIYANI 100GM",
+          "no": "",
+          "qty": 8,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803499774
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "votidaymvlowxrz",
+      "ts": 1792803499775,
+      "by": "fathin",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "ADABI REMPAH BRIYANI 100GM",
+      "no": "",
+      "detail": "Qty 8 PKT, Dry"
+    },
     {
       "id": "z3shjezmvlowmmf",
       "ts": 1792803485319,
@@ -23058,17 +23083,6 @@
       "action": "status",
       "item": "Salam",
       "no": "24",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "xb6kn2xmv5ym5kj",
-      "ts": 1791852334003,
-      "by": "akhbar",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Hotdog bun 10's",
-      "no": "70",
       "detail": "Status: To buy → Received"
     }
   ]
