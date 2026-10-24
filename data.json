@@ -10825,6 +10825,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792802337511
+        },
+        {
+          "id": "c0r8qupmvlo8se3",
+          "added": 1792802373051,
+          "addedBy": "fathin",
+          "name": "RED BEAN PASTE",
+          "no": "",
+          "qty": 6,
+          "unit": "KG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792802373051
         }
       ],
       "updated": 1792631545693
@@ -11994,6 +12008,17 @@
     }
   ],
   "history": [
+    {
+      "id": "2gsey2xmvlo8se3",
+      "ts": 1792802373051,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "RED BEAN PASTE",
+      "no": "",
+      "detail": "Qty 6 KG, Dry"
+    },
     {
       "id": "l2w8cu8mvlo80yw",
       "ts": 1792802337512,
@@ -22982,17 +23007,6 @@
       "item": "Salam",
       "no": "26",
       "detail": "Qty 5 Pkt, Chiller"
-    },
-    {
-      "id": "a0n76g8mv5xms7w",
-      "ts": 1791850683740,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Pudina",
-      "no": "25",
-      "detail": "Qty 3 Ikat, Chiller"
     }
   ]
 }
