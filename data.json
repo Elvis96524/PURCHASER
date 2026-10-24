@@ -11943,9 +11943,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "na",
+          "status": "received",
           "notes": "",
-          "updated": 1792726511397
+          "updated": 1792807352787
         },
         {
           "id": "jzg9fmjmvkf18mw",
@@ -12441,6 +12441,17 @@
     }
   ],
   "history": [
+    {
+      "id": "sk3h0sbmvlr7is6",
+      "ts": 1792807352791,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "KNOR LIME FLAVOR POWDER 400GM",
+      "no": "",
+      "detail": "Status: N/A → Received"
+    },
     {
       "id": "7dwto7gmvlr79ok",
       "ts": 1792807340996,
@@ -23429,17 +23440,6 @@
       "item": "TEMPE",
       "no": "49",
       "detail": "Qty 9 PKT, Chiller"
-    },
-    {
-      "id": "fc5bhycmv63zj59",
-      "ts": 1791861356205,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "BEAN SPROUT",
-      "no": "41",
-      "detail": "Qty 2 KG, Chiller"
     }
   ]
 }
