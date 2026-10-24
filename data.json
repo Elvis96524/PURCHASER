@@ -10797,6 +10797,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792800892119
+        },
+        {
+          "id": "7u13ofzmvlndel3",
+          "added": 1792800908823,
+          "addedBy": "fathin",
+          "name": "JINTAN PUTIH POWDER",
+          "no": "",
+          "qty": 2,
+          "unit": "KG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792800908823
         }
       ],
       "updated": 1792631545693
@@ -11966,6 +11980,17 @@
     }
   ],
   "history": [
+    {
+      "id": "wjgo387mvlndel3",
+      "ts": 1792800908823,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "JINTAN PUTIH POWDER",
+      "no": "",
+      "detail": "Qty 2 KG, Dry"
+    },
     {
       "id": "81qjwbzmvlnd1p3",
       "ts": 1792800892119,
@@ -22954,17 +22979,6 @@
       "item": "Pucuk ubi",
       "no": "24",
       "detail": "Qty 5 Ikat, Chiller"
-    },
-    {
-      "id": "4c1vza5mv5xlpa8",
-      "ts": 1791850633280,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Pakis",
-      "no": "23",
-      "detail": "Qty 4 Ikat, Chiller"
     }
   ]
 }
