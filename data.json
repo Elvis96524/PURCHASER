@@ -12084,9 +12084,9 @@
           "unit": "Ikat",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792733334066
+          "updated": 1792809468615
         },
         {
           "id": "3u3vbovmvkj5qqo",
@@ -12549,6 +12549,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ov0zhq6mvlsgvd3",
+      "ts": 1792809468615,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "Pucuk ubi",
+      "no": "20",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "2q4w91smvlsfpvu",
       "ts": 1792809414858,
@@ -23537,17 +23548,6 @@
       "item": "Sprite 1.5L x 12",
       "no": "14",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "crjczdimv6477gd",
-      "ts": 1791861714301,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "NO1 KACANG KACANG",
-      "no": "21",
-      "detail": "Qty 4 PACK, Dry"
     }
   ]
 }
