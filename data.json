@@ -12695,12 +12695,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792825052734
+        },
+        {
+          "id": "0lsokm9mvm1rlwh",
+          "added": 1792825086113,
+          "addedBy": "chelson",
+          "name": "Fourway crab 80g",
+          "no": "119",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792825086113
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "z1lg73pmvm1rlwi",
+      "ts": 1792825086114,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Fourway crab 80g",
+      "no": "119",
+      "detail": "Qty 5 Pkt, Dry"
+    },
     {
       "id": "a4nbd0rmvm1qw5a",
       "ts": 1792825052734,
@@ -23688,17 +23713,6 @@
       "action": "status",
       "item": "Gardenia",
       "no": "44",
-      "detail": "Status: To buy → Ordered"
-    },
-    {
-      "id": "loxn9bimv68w3ud",
-      "ts": 1791869594485,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "status",
-      "item": "Maggi cup curry",
-      "no": "50",
       "detail": "Status: To buy → Ordered"
     }
   ]
