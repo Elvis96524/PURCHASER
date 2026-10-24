@@ -11943,9 +11943,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792726399720
+          "updated": 1792809875064
         },
         {
           "id": "ueab36cmvkf0wa8",
@@ -12549,6 +12549,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ra0ct2zmvlspkzc",
+      "ts": 1792809875064,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "KICAP PEKAT ELEPHANT 740ML",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "j2n4sd2mvlsh6d4",
       "ts": 1792809482872,
@@ -23537,17 +23548,6 @@
       "item": "Sprite 1.5L",
       "no": "",
       "detail": "Status: Received → To buy"
-    },
-    {
-      "id": "8v1nkmtmv648inz",
-      "ts": 1791861775487,
-      "by": "farah",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "edited",
-      "item": "Muruku 900gm ( Offer Muruku 12gmx24's )",
-      "no": "67",
-      "detail": "Name \"Muruku 900gm\" → \"Muruku 900gm ( Offer Muruku 12gmx24's )\"; Qty 5 → 8"
     }
   ]
 }
