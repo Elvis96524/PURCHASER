@@ -10769,6 +10769,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792631728926
+        },
+        {
+          "id": "nh8tsd7mvlnclh2",
+          "added": 1792800871094,
+          "addedBy": "fathin",
+          "name": "BUDU 200GM",
+          "no": "",
+          "qty": 12,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792800871093
         }
       ],
       "updated": 1792631545693
@@ -11938,6 +11952,17 @@
     }
   ],
   "history": [
+    {
+      "id": "9u2ic4rmvlnclh3",
+      "ts": 1792800871095,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "BUDU 200GM",
+      "no": "",
+      "detail": "Qty 12 BTL, Dry"
+    },
     {
       "id": "6m9b53cmvkn11rn",
       "ts": 1792739866163,
@@ -22926,17 +22951,6 @@
       "item": "Kemangi",
       "no": "19",
       "detail": "Qty 3 Ikat, Chiller"
-    },
-    {
-      "id": "n0wer46mv5xiwdo",
-      "ts": 1791850502508,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "added",
-      "item": "Tempe",
-      "no": "62",
-      "detail": "Qty 15 Pkt, Frozen"
     }
   ]
 }
