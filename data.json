@@ -11929,9 +11929,9 @@
           "unit": "BAG",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792726383624
+          "updated": 1792810809807
         },
         {
           "id": "m41i3asmvkf0ezs",
@@ -12549,6 +12549,17 @@
     }
   ],
   "history": [
+    {
+      "id": "pofwzq0mvlt9m8g",
+      "ts": 1792810809808,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "SNACK MAMEE ( 30PKT/BDLX25GM )",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ra0ct2zmvlspkzc",
       "ts": 1792809875064,
@@ -23537,17 +23548,6 @@
       "item": "MISTER POTATO 75G",
       "no": "21",
       "detail": "Qty 4 PACK, Dry"
-    },
-    {
-      "id": "6sx69ukmv648jex",
-      "ts": 1791861776457,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "status",
-      "item": "Sprite 1.5L",
-      "no": "",
-      "detail": "Status: Received → To buy"
     }
   ]
 }
