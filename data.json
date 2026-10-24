@@ -12653,12 +12653,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792824926263
+        },
+        {
+          "id": "6pqnynxmvm1p1is",
+          "added": 1792824966388,
+          "addedBy": "chelson",
+          "name": "Stain remover",
+          "no": "103",
+          "qty": 12,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792824966388
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "b5kzkzomvm1p1is",
+      "ts": 1792824966388,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Stain remover",
+      "no": "103",
+      "detail": "Qty 12 Btl, Dry"
+    },
     {
       "id": "nst228fmvm1o6k7",
       "ts": 1792824926263,
@@ -23647,17 +23672,6 @@
       "item": "Maggi cup curry",
       "no": "50",
       "detail": "Qty 2 Ctn, Dry"
-    },
-    {
-      "id": "dsz54oumv68oay0",
-      "ts": 1791869230440,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "added",
-      "item": "Gardenia",
-      "no": "44",
-      "detail": "Qty 20 Loaf, Frozen"
     }
   ]
 }
