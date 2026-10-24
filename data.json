@@ -12016,6 +12016,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792737688134
+        },
+        {
+          "id": "txbpvldmvlpmfei",
+          "added": 1792804689018,
+          "addedBy": "nicole",
+          "name": "Nescafe Latte tin 24x240ml",
+          "no": "79",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792804689017
         }
       ],
       "updated": 1792727001241
@@ -12328,6 +12342,17 @@
     }
   ],
   "history": [
+    {
+      "id": "vm7bp7ymvlpmfei",
+      "ts": 1792804689018,
+      "by": "nicole",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "added",
+      "item": "Nescafe Latte tin 24x240ml",
+      "no": "79",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "h8jtf9xmvlp7777",
       "ts": 1792803978547,
@@ -23316,17 +23341,6 @@
       "item": "Basmati 5kg",
       "no": "79",
       "detail": "Qty 2 Pkt, Dry"
-    },
-    {
-      "id": "9683gkymv61pvvh",
-      "ts": 1791857546909,
-      "by": "nicole",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "added",
-      "item": "Winter melon 300ml x 24",
-      "no": "17",
-      "detail": "Qty 1 Ctn, Dry"
     }
   ]
 }
