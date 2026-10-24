@@ -12182,12 +12182,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803638007
+        },
+        {
+          "id": "xyvrc7emvlp1acs",
+          "added": 1792803702700,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "28",
+          "qty": 8,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803702700
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "6szdq61mvlp1acs",
+      "ts": 1792803702700,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Kesum",
+      "no": "28",
+      "detail": "Qty 8 Ikat, Chiller"
+    },
     {
       "id": "veorjq3mvlp0692",
       "ts": 1792803650726,
@@ -23175,17 +23200,6 @@
       "action": "status",
       "item": "DAUN PUCUK UBI",
       "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "qaof7dpmv60erpa",
-      "ts": 1791855348670,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "status",
-      "item": "Kesum",
-      "no": "21",
       "detail": "Status: To buy → Received"
     }
   ]
