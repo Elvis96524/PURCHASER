@@ -12681,12 +12681,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792825008827
+        },
+        {
+          "id": "lsfxv0wmvm1qw5a",
+          "added": 1792825052734,
+          "addedBy": "chelson",
+          "name": "Hair net blue",
+          "no": "117",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792825052734
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "a4nbd0rmvm1qw5a",
+      "ts": 1792825052734,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Hair net blue",
+      "no": "117",
+      "detail": "Qty 5 Pkt, Dry"
+    },
     {
       "id": "chq3yitmvm1py9n",
       "ts": 1792825008827,
@@ -23675,17 +23700,6 @@
       "item": "Maggi cup curry",
       "no": "50",
       "detail": "Status: To buy → Ordered"
-    },
-    {
-      "id": "l9ez2h7mv68qs8g",
-      "ts": 1791869346160,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "added",
-      "item": "White clam 1kg",
-      "no": "62",
-      "detail": "Qty 5 Pkt, Dry"
     }
   ]
 }
