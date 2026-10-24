@@ -12121,12 +12121,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803570839
+        },
+        {
+          "id": "in3prxxmvloyslj",
+          "added": 1792803586375,
+          "addedBy": "fathin",
+          "name": "MARGARINE 1KG",
+          "no": "",
+          "qty": 4,
+          "unit": "PKT",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803586375
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "kaqdj9hmvloyslj",
+      "ts": 1792803586375,
+      "by": "fathin",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "MARGARINE 1KG",
+      "no": "",
+      "detail": "Qty 4 PKT, Dry"
+    },
     {
       "id": "q3ealgpmvloyglz",
       "ts": 1792803570839,
@@ -23114,17 +23139,6 @@
       "action": "status",
       "item": "Pakis",
       "no": "23",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "5ib2ej6mv5zqrwm",
-      "ts": 1791854229190,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "status",
-      "item": "Pucuk ubi",
-      "no": "26",
       "detail": "Status: To buy → Received"
     }
   ]
