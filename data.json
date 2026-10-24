@@ -12329,19 +12329,30 @@
           "addedBy": "chelson",
           "name": "Tempe",
           "no": "82",
-          "qty": 15,
+          "qty": 12,
           "unit": "Pkt",
           "category": "Frozen",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792803978547
+          "updated": 1792804772883
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "sz7iq5wmvlpo843",
+      "ts": 1792804772883,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "edited",
+      "item": "Tempe",
+      "no": "82",
+      "detail": "Qty 15 → 12"
+    },
     {
       "id": "vm7bp7ymvlpmfei",
       "ts": 1792804689018,
@@ -23330,17 +23341,6 @@
       "item": "Basmati 5kg",
       "no": "12",
       "detail": "Qty 5 Pkt, Dry"
-    },
-    {
-      "id": "qtrsstjmv61tcy8",
-      "ts": 1791857709008,
-      "by": "nicole",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "added",
-      "item": "Basmati 5kg",
-      "no": "79",
-      "detail": "Qty 2 Pkt, Dry"
     }
   ]
 }
