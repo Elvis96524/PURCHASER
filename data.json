@@ -10625,9 +10625,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631569204
+          "updated": 1792802384765
         },
         {
           "id": "zh8qy23mviukdyl",
@@ -12008,6 +12008,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ll2qewsmvlo91fk",
+      "ts": 1792802384768,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "MAGGI CURRY",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "2gsey2xmvlo8se3",
       "ts": 1792802373051,
@@ -22996,17 +23007,6 @@
       "item": "Yam",
       "no": "56",
       "detail": "Qty 4 Kg, Chiller"
-    },
-    {
-      "id": "daa9lg3mv5xoipf",
-      "ts": 1791850764723,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Salam",
-      "no": "26",
-      "detail": "Qty 5 Pkt, Chiller"
     }
   ]
 }
