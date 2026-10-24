@@ -12280,12 +12280,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803836146
+        },
+        {
+          "id": "htld9n9mvlp573c",
+          "added": 1792803885096,
+          "addedBy": "chelson",
+          "name": "Jantung Pisang",
+          "no": "43",
+          "qty": 4,
+          "unit": "Nos",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803885096
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "9otf56kmvlp573c",
+      "ts": 1792803885096,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Jantung Pisang",
+      "no": "43",
+      "detail": "Qty 4 Nos, Chiller"
+    },
     {
       "id": "8hpjv71mvlp45bm",
       "ts": 1792803836146,
@@ -23273,17 +23298,6 @@
       "action": "status",
       "item": "Pucuk ubi",
       "no": "25",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "jr59zucmv611wjq",
-      "ts": 1791856428038,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Pucuk ubi",
-      "no": "24",
       "detail": "Status: To buy → Received"
     }
   ]
