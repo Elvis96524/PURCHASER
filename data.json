@@ -12463,12 +12463,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792808333662
+        },
+        {
+          "id": "a7mgl5vmvlrtnig",
+          "added": 1792808385352,
+          "addedBy": "chelson",
+          "name": "Essence PANDAN 25ml Bunga Raya",
+          "no": "120",
+          "qty": 2,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792808385352
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "4eql6v5mvlrtnig",
+      "ts": 1792808385352,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Essence PANDAN 25ml Bunga Raya",
+      "no": "120",
+      "detail": "Qty 2 Btl, Dry"
+    },
     {
       "id": "5vnh6f2mvlrsjmm",
       "ts": 1792808333662,
@@ -23457,17 +23482,6 @@
       "item": "CEMPEDAK ( MASAK ) *subject to availability*",
       "no": "63",
       "detail": "Name \"CEMPEDAK MASAK *subject to availability*\" → \"CEMPEDAK ( MASAK ) *subject to availability*\""
-    },
-    {
-      "id": "ie6617lmv641i3h",
-      "ts": 1791861448157,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "LANGSAT ( IKUT MUSIM ) *subject to availability*",
-      "no": "",
-      "detail": "Qty 1, Dry"
     }
   ]
 }
