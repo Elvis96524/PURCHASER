@@ -12793,12 +12793,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792827453303
+        },
+        {
+          "id": "767zof2mvm36pro",
+          "added": 1792827470580,
+          "addedBy": "chelson",
+          "name": "Petai",
+          "no": "66",
+          "qty": 5,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792827470580
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "ovurov2mvm36pro",
+      "ts": 1792827470580,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Petai",
+      "no": "66",
+      "detail": "Qty 5 Kg, Chiller"
+    },
     {
       "id": "kahy8xpmvm36cfr",
       "ts": 1792827453303,
@@ -23786,17 +23811,6 @@
       "action": "status",
       "item": "Cendol",
       "no": "64",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "7z7f277mv6a2xpb",
-      "ts": 1791871592735,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Pringles assorted",
-      "no": "90",
       "detail": "Status: To buy → Received"
     }
   ]
