@@ -12294,12 +12294,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803885096
+        },
+        {
+          "id": "jx45qkvmvlp5qji",
+          "added": 1792803910302,
+          "addedBy": "chelson",
+          "name": "Jering",
+          "no": "44",
+          "qty": 1,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803910302
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "oru7h8hmvlp5qji",
+      "ts": 1792803910302,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Jering",
+      "no": "44",
+      "detail": "Qty 1 Kg, Chiller"
+    },
     {
       "id": "9otf56kmvlp573c",
       "ts": 1792803885096,
@@ -23288,17 +23313,6 @@
       "item": "Sprite 1.5L x 12",
       "no": "14",
       "detail": "Qty 1 Ctn, Dry"
-    },
-    {
-      "id": "wtuyh6bmv611zfu",
-      "ts": 1791856431786,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "status",
-      "item": "Pucuk ubi",
-      "no": "25",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
