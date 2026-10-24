@@ -12537,9 +12537,26 @@
         }
       ],
       "updated": 1792803406992
+    },
+    {
+      "id": "i879arpmvm1guth",
+      "name": "Wisdom(24/10/26 order)",
+      "items": [],
+      "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "sk75h1ymvm1guti",
+      "ts": 1792824584454,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "l0soekdmvm16yua",
       "ts": 1792824123106,
@@ -23528,17 +23545,6 @@
       "item": "Tempe",
       "no": "62",
       "detail": "Status: To buy → Ordered"
-    },
-    {
-      "id": "i7w06q0mv656vv9",
-      "ts": 1791863378901,
-      "by": "fathin",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "edited",
-      "item": "ASSORTED VITAGEN LESS SUGAR",
-      "no": "Supervisor Team",
-      "detail": "No. — → Supervisor Team"
     }
   ]
 }
