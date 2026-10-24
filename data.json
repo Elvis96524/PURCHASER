@@ -12501,12 +12501,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792808710681
+        },
+        {
+          "id": "ouvxdzlmvls1f71",
+          "added": 1792808747821,
+          "addedBy": "chelson",
+          "name": "Clorox 1liter",
+          "no": "Chemical no 8",
+          "qty": 6,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792808747821
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "228yli3mvls1f71",
+      "ts": 1792808747821,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Clorox 1liter",
+      "no": "Chemical no 8",
+      "detail": "Qty 6 Btl, Dry"
+    },
     {
       "id": "838t6spmvls0mjd",
       "ts": 1792808710681,
@@ -23495,17 +23520,6 @@
       "item": "ROTI GARDENIA",
       "no": "12",
       "detail": "Qty 3 LOAF, Frozen"
-    },
-    {
-      "id": "vy47dobmv644rit",
-      "ts": 1791861600341,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "edited",
-      "item": "BURGER BUN (6'S)",
-      "no": "11",
-      "detail": "Unit LOAF → PKT"
     }
   ]
 }
