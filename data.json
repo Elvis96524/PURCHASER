@@ -11816,9 +11816,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792727098129
+          "updated": 1792806639988
         },
         {
           "id": "9edpsr3mvkey414",
@@ -12398,6 +12398,17 @@
     }
   ],
   "history": [
+    {
+      "id": "e0j70mqmvlqs8s4",
+      "ts": 1792806639988,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "MAGGI CURRY CUP (54'S/CTN)",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "9uo57iumvlqemxv",
       "ts": 1792806005155,
@@ -23386,17 +23397,6 @@
       "item": "BAWANG PUTIH KOPEK",
       "no": "3",
       "detail": "Qty 2 KG, Chiller"
-    },
-    {
-      "id": "znhnp0jmv63ht69",
-      "ts": 1791860529393,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "status",
-      "item": "Kucai",
-      "no": "23",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
