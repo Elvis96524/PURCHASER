@@ -12163,12 +12163,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803607851
+        },
+        {
+          "id": "d57iydkmvlozb9z",
+          "added": 1792803610583,
+          "addedBy": "fathin",
+          "name": "ROTI GARDENIA",
+          "no": "",
+          "qty": 25,
+          "unit": "PKT",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803610583
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "8thb9xemvlozb9z",
+      "ts": 1792803610583,
+      "by": "fathin",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "ROTI GARDENIA",
+      "no": "",
+      "detail": "Qty 25 PKT, Frozen"
+    },
     {
       "id": "s8cwn90mvloz963",
       "ts": 1792803607851,
@@ -23156,17 +23181,6 @@
       "action": "status",
       "item": "Kesum",
       "no": "22",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "t6qix3lmv5zvshx",
-      "ts": 1791854463237,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "status",
-      "item": "Pudina",
-      "no": "27",
       "detail": "Status: To buy → Received"
     }
   ]
