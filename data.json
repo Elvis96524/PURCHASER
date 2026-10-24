@@ -11161,6 +11161,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792719973649
+        },
+        {
+          "id": "hp5xl4bmvlonx0x",
+          "added": 1792803078897,
+          "addedBy": "chelson",
+          "name": "S/steel Serving Tong  11\"",
+          "no": "Gallery no 3",
+          "qty": 5,
+          "unit": "Pcs",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803078897
         }
       ],
       "updated": 1792657873307
@@ -12008,6 +12022,17 @@
     }
   ],
   "history": [
+    {
+      "id": "lp2qs2dmvlonx0x",
+      "ts": 1792803078897,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "added",
+      "item": "S/steel Serving Tong  11\"",
+      "no": "Gallery no 3",
+      "detail": "Qty 5 Pcs, Dry"
+    },
     {
       "id": "7lsp5fzmvlo96ky",
       "ts": 1792802391442,
@@ -22996,17 +23021,6 @@
       "item": "Tepung Bestari pedas 1kg",
       "no": "94",
       "detail": "Qty 7 Pkt, Dry"
-    },
-    {
-      "id": "rihighfmv5xqaxs",
-      "ts": 1791850847968,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Tempe",
-      "no": "64",
-      "detail": "Qty 7 Pkt, Chiller"
     }
   ]
 }
