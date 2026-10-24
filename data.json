@@ -10184,17 +10184,8 @@
         },
         {
           "id": "3vskaqkmvhfpfqe",
-          "added": 1792546168550,
-          "addedBy": "chelson",
-          "name": "Nescafe original 240ml x24",
-          "no": "80",
-          "qty": 2,
-          "unit": "Ctn",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792546168549
+          "deleted": true,
+          "updated": 1792811165343
         },
         {
           "id": "9phhf8zmvhfqpd2",
@@ -12549,6 +12540,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8m42zsomvlth8kf",
+      "ts": 1792811165343,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "deleted",
+      "item": "Nescafe original 240ml x24",
+      "no": "80",
+      "detail": ""
+    },
     {
       "id": "pofwzq0mvlt9m8g",
       "ts": 1792810809808,
@@ -23537,17 +23539,6 @@
       "item": "Peaches Halves in syrup 822G ( Offer Pear Halves )",
       "no": "45",
       "detail": "Name \"Peaches Halves in syrup 822G\" → \"Peaches Halves in syrup 822G ( Offer Pear Halves )\""
-    },
-    {
-      "id": "8zawj2vmv6497ot",
-      "ts": 1791861807917,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "MISTER POTATO 75G",
-      "no": "21",
-      "detail": "Qty 4 PACK, Dry"
     }
   ]
 }
