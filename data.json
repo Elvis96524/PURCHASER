@@ -12529,12 +12529,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792808827431
+        },
+        {
+          "id": "8s2l4nrmvls4233",
+          "added": 1792808870799,
+          "addedBy": "chelson",
+          "name": "Dettol washing machine drum cleaner 250ml",
+          "no": "Chemical no 10",
+          "qty": 4,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792808870799
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "vx15fuomvls4233",
+      "ts": 1792808870799,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Dettol washing machine drum cleaner 250ml",
+      "no": "Chemical no 10",
+      "detail": "Qty 4 Btl, Dry"
+    },
     {
       "id": "15wvfd5mvls34mf",
       "ts": 1792808827431,
@@ -23523,17 +23548,6 @@
       "item": "Winter melon 300ml x 24",
       "no": "17",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "werwebzmv645uc5",
-      "ts": 1791861650645,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "OLD TOWN WHITE COFFEE 3IN1 CARAMEL",
-      "no": "1",
-      "detail": "Qty 1 PKT, Dry"
     }
   ]
 }
