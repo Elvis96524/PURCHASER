@@ -12023,11 +12023,37 @@
     {
       "id": "xze8f0fmvlouy6o",
       "name": "SK PRODIGY ( NOV )",
-      "items": [],
+      "items": [
+        {
+          "id": "aekhu4rmvlove7k",
+          "added": 1792803427760,
+          "addedBy": "fathin",
+          "name": "MILO 1.5KG",
+          "no": "",
+          "qty": 2,
+          "unit": "TIN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803427760
+        }
+      ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "qm1ypcvmvlove7k",
+      "ts": 1792803427760,
+      "by": "fathin",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "MILO 1.5KG",
+      "no": "",
+      "detail": "Qty 2 TIN, Dry"
+    },
     {
       "id": "2gqmlxzmvlouy6o",
       "ts": 1792803406992,
@@ -23016,17 +23042,6 @@
       "item": "Sprite 1.5L",
       "no": "",
       "detail": "Qty 1 Ctn, Dry"
-    },
-    {
-      "id": "mx3ug56mv5xy6fe",
-      "ts": 1791851215370,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "added",
-      "item": "Mister potato 75gm mix",
-      "no": "93",
-      "detail": "Qty 15 Pkt, Dry"
     }
   ]
 }
