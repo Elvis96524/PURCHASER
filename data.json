@@ -12555,12 +12555,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792824644631
+        },
+        {
+          "id": "8rzvkvemvm1injw",
+          "added": 1792824668348,
+          "addedBy": "chelson",
+          "name": "Budu",
+          "no": "49",
+          "qty": 12,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792824668348
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "6ukut0kmvm1injw",
+      "ts": 1792824668348,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Budu",
+      "no": "49",
+      "detail": "Qty 12 Btl, Dry"
+    },
     {
       "id": "nhfio7zmvm1i593",
       "ts": 1792824644631,
@@ -23549,17 +23574,6 @@
       "item": "Tempe",
       "no": "64",
       "detail": "Status: Received → Ordered"
-    },
-    {
-      "id": "2vcxeramv67c4l0",
-      "ts": 1791866982708,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Tempe",
-      "no": "64",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
