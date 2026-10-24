@@ -12452,17 +12452,8 @@
         },
         {
           "id": "6v0jygomvlrsjmm",
-          "added": 1792808333662,
-          "addedBy": "chelson",
-          "name": "Essence ORANGE 25ml Bunga Raya",
-          "no": "119",
-          "qty": 1,
-          "unit": "Btl",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792808333662
+          "deleted": true,
+          "updated": 1792808445839
         },
         {
           "id": "a7mgl5vmvlrtnig",
@@ -12474,6 +12465,17 @@
     }
   ],
   "history": [
+    {
+      "id": "1p0nzk9mvlruy6n",
+      "ts": 1792808445839,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "deleted",
+      "item": "Essence ORANGE 25ml Bunga Raya",
+      "no": "119",
+      "detail": ""
+    },
     {
       "id": "z8gmby1mvlrumiq",
       "ts": 1792808430722,
@@ -23462,17 +23464,6 @@
       "item": "Sprite 1.5L",
       "no": "",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "jzp8vhumv641yr2",
-      "ts": 1791861469742,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "edited",
-      "item": "LANGSAT ( IKUT MUSIM ) *subject to availability*",
-      "no": "64",
-      "detail": "No. — → 64; Qty 1 → 2; Unit — → KG; Dry → Chiller"
     }
   ]
 }
