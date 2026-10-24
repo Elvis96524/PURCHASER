@@ -12126,9 +12126,9 @@
           "unit": "PCS",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792737688134
+          "updated": 1792809408917
         },
         {
           "id": "txbpvldmvlpmfei",
@@ -12549,6 +12549,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zol0c0pmvlsflat",
+      "ts": 1792809408917,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "TELUR MASIN ( PUTIH )",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "vx15fuomvls4233",
       "ts": 1792808870799,
@@ -23537,17 +23548,6 @@
       "item": "NESCAFE GOLD CREAMY LATTE 3IN1 28X19G",
       "no": "3",
       "detail": "Qty 1 PKT, Dry"
-    },
-    {
-      "id": "v9wqx89mv6468be",
-      "ts": 1791861668762,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "status",
-      "item": "Winter melon 300ml x 24",
-      "no": "17",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
