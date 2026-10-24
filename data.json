@@ -11878,9 +11878,9 @@
           "unit": "BTL",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792726292200
+          "updated": 1792822976720
         },
         {
           "id": "5ay9s02mvkeyncg",
@@ -12540,6 +12540,17 @@
     }
   ],
   "history": [
+    {
+      "id": "cdpj33lmvm0iea8",
+      "ts": 1792822976720,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "BALANG KUIH TALL",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "k31z6bbmvlzocwu",
       "ts": 1792821575262,
@@ -23528,17 +23539,6 @@
       "item": "Peaches Halves in syrup 822G ( Offer Pear Halves )",
       "no": "45",
       "detail": "Notes changed"
-    },
-    {
-      "id": "b4eybc8mv64mmx2",
-      "ts": 1791862434182,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Peaches Halves in syrup 822G ( Offer Pear Halves )",
-      "no": "45",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
