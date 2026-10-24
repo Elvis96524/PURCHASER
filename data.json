@@ -11175,6 +11175,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803078897
+        },
+        {
+          "id": "gxkvajwmvlque0w",
+          "added": 1792806740096,
+          "addedBy": "chelson",
+          "name": "Hotdog buns 10's",
+          "no": "54",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792806740096
         }
       ],
       "updated": 1792657873307
@@ -12398,6 +12412,17 @@
     }
   ],
   "history": [
+    {
+      "id": "b71t32imvlque0w",
+      "ts": 1792806740096,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "added",
+      "item": "Hotdog buns 10's",
+      "no": "54",
+      "detail": "Qty 2 Pkt, Frozen"
+    },
     {
       "id": "e0j70mqmvlqs8s4",
       "ts": 1792806639988,
@@ -23386,17 +23411,6 @@
       "item": "BAWANG PUTIH KOPEK",
       "no": "3",
       "detail": ""
-    },
-    {
-      "id": "rxc7dsymv63xsu6",
-      "ts": 1791861275454,
-      "by": "fathin",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "added",
-      "item": "BAWANG PUTIH KOPEK",
-      "no": "3",
-      "detail": "Qty 2 KG, Chiller"
     }
   ]
 }
