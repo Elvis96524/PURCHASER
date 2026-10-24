@@ -10830,7 +10830,7 @@
           "id": "cz8t00amvlo80yw",
           "added": 1792802337512,
           "addedBy": "fathin",
-          "name": "MARGARINE",
+          "name": "MARGARINE 18kg",
           "no": "",
           "qty": 1,
           "unit": "CTN",
@@ -10838,7 +10838,8 @@
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792802337511
+          "updated": 1792807340996,
+          "updatedBy": "chelson"
         },
         {
           "id": "c0r8qupmvlo8se3",
@@ -12440,6 +12441,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7dwto7gmvlr79ok",
+      "ts": 1792807340996,
+      "by": "chelson",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "edited",
+      "item": "MARGARINE 18kg",
+      "no": "",
+      "detail": "Name \"MARGARINE\" → \"MARGARINE 18kg\""
+    },
     {
       "id": "jpcat4rmvlr5kzz",
       "ts": 1792807262351,
@@ -23428,17 +23440,6 @@
       "item": "BEAN SPROUT",
       "no": "41",
       "detail": "Qty 2 KG, Chiller"
-    },
-    {
-      "id": "rwyz0tdmv63z1tp",
-      "ts": 1791861333757,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "PETAI",
-      "no": "33",
-      "detail": "Qty 1 KG, Chiller"
     }
   ]
 }
