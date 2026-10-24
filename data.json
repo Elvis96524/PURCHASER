@@ -11189,6 +11189,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792806740096
+        },
+        {
+          "id": "p7tpp93mvlqydit",
+          "added": 1792806926069,
+          "addedBy": "chelson",
+          "name": "Milo in CAN 320ml x24's",
+          "no": "88",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792806926069
         }
       ],
       "updated": 1792657873307
@@ -12412,6 +12426,17 @@
     }
   ],
   "history": [
+    {
+      "id": "to62gtimvlqydit",
+      "ts": 1792806926069,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "added",
+      "item": "Milo in CAN 320ml x24's",
+      "no": "88",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "b71t32imvlque0w",
       "ts": 1792806740096,
@@ -23400,17 +23425,6 @@
       "item": "",
       "no": "",
       "detail": "Vessel created"
-    },
-    {
-      "id": "ji7jwrpmv63y8ha",
-      "ts": 1791861295726,
-      "by": "fathin",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "deleted",
-      "item": "BAWANG PUTIH KOPEK",
-      "no": "3",
-      "detail": ""
     }
   ]
 }
