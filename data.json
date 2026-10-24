@@ -12107,12 +12107,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803556231
+        },
+        {
+          "id": "hg92d3mmvloyglz",
+          "added": 1792803570839,
+          "addedBy": "fathin",
+          "name": "BERAS BASMATHI 5KG",
+          "no": "",
+          "qty": 4,
+          "unit": "BAG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803570839
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "q3ealgpmvloyglz",
+      "ts": 1792803570839,
+      "by": "fathin",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "BERAS BASMATHI 5KG",
+      "no": "",
+      "detail": "Qty 4 BAG, Dry"
+    },
     {
       "id": "lake4k7mvloy5c7",
       "ts": 1792803556231,
@@ -23100,17 +23125,6 @@
       "action": "status",
       "item": "Pucuk ubi",
       "no": "26",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "wg8zfy2mv5zq9mb",
-      "ts": 1791854205491,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "status",
-      "item": "Nangka muda",
-      "no": "39",
       "detail": "Status: To buy → Received"
     }
   ]
