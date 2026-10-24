@@ -11850,9 +11850,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792726253136
+          "updated": 1792823502346
         },
         {
           "id": "i8plyenmvkexs6o",
@@ -12540,6 +12540,28 @@
     }
   ],
   "history": [
+    {
+      "id": "3xtmlr1mvm0tnuz",
+      "ts": 1792823502347,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "SUPER RING 60GM",
+      "no": "",
+      "detail": "Status: Ordered → Received"
+    },
+    {
+      "id": "ggknw1rmvm0tm5p",
+      "ts": 1792823500141,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "SUPER RING 60GM",
+      "no": "",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "psteyaxmvm0s9c0",
       "ts": 1792823436864,
@@ -23517,28 +23539,6 @@
       "item": "YEO'S COCONUT JUICE 300ML",
       "no": "20",
       "detail": "Qty 1 CTN, Dry"
-    },
-    {
-      "id": "hsykkh8mv64yljg",
-      "ts": 1791862992268,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "TWISTIES ASST 60GM",
-      "no": "21",
-      "detail": "Qty 4 PKT, Dry"
-    },
-    {
-      "id": "jrwipnjmv64v7ec",
-      "ts": 1791862833972,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "MURUKU POPO 12GMX24'S",
-      "no": "21",
-      "detail": "Qty 4 PACK, Dry"
     }
   ]
 }
