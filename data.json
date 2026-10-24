@@ -12459,12 +12459,37 @@
           "id": "a7mgl5vmvlrtnig",
           "deleted": true,
           "updated": 1792808430722
+        },
+        {
+          "id": "0m1u9p3mvlrxqmi",
+          "added": 1792808576010,
+          "addedBy": "chelson",
+          "name": "Tatura salted butter 250ml",
+          "no": "133",
+          "qty": 5,
+          "unit": "Pcs",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792808576010
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "0shz9dumvlrxqmi",
+      "ts": 1792808576010,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Tatura salted butter 250ml",
+      "no": "133",
+      "detail": "Qty 5 Pcs, Frozen"
+    },
     {
       "id": "1p0nzk9mvlruy6n",
       "ts": 1792808445839,
@@ -23453,17 +23478,6 @@
       "item": "TELUR MASIN 30'S ( FRESH PUTIH )",
       "no": "5",
       "detail": "Qty 1 TRAY, Chiller"
-    },
-    {
-      "id": "be0gvohmv6420pt",
-      "ts": 1791861472289,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "status",
-      "item": "Sprite 1.5L",
-      "no": "",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
