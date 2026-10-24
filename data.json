@@ -12224,12 +12224,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803754577
+        },
+        {
+          "id": "kn5lfosmvlp2x0t",
+          "added": 1792803778733,
+          "addedBy": "chelson",
+          "name": "Pucuk ubi",
+          "no": "33",
+          "qty": 3,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803778733
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "xad2l8tmvlp2x0t",
+      "ts": 1792803778733,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Pucuk ubi",
+      "no": "33",
+      "detail": "Qty 3 Ikat, Chiller"
+    },
     {
       "id": "xts9u4kmvlp2edt",
       "ts": 1792803754577,
@@ -23218,17 +23243,6 @@
       "item": "Kemangi",
       "no": "19",
       "detail": "Status: To buy → N/A"
-    },
-    {
-      "id": "zzf2l33mv60wnza",
-      "ts": 1791856183654,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "status",
-      "item": "Pegaga",
-      "no": "28",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
