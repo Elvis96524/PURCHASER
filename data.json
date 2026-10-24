@@ -10783,6 +10783,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792800871093
+        },
+        {
+          "id": "tm2koh9mvlnd1p3",
+          "added": 1792800892119,
+          "addedBy": "fathin",
+          "name": "CINCALOK 200GM",
+          "no": "",
+          "qty": 11,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792800892119
         }
       ],
       "updated": 1792631545693
@@ -11952,6 +11966,17 @@
     }
   ],
   "history": [
+    {
+      "id": "81qjwbzmvlnd1p3",
+      "ts": 1792800892119,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "CINCALOK 200GM",
+      "no": "",
+      "detail": "Qty 11 BTL, Dry"
+    },
     {
       "id": "9u2ic4rmvlnclh3",
       "ts": 1792800871095,
@@ -22940,17 +22965,6 @@
       "item": "Pakis",
       "no": "23",
       "detail": "Qty 4 Ikat, Chiller"
-    },
-    {
-      "id": "7qvcg8jmv5xl60q",
-      "ts": 1791850608314,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Kemangi",
-      "no": "19",
-      "detail": "Qty 3 Ikat, Chiller"
     }
   ]
 }
