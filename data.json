@@ -11420,6 +11420,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792805803422
+        },
+        {
+          "id": "swjadpimvlqemxv",
+          "added": 1792806005155,
+          "addedBy": "chelson",
+          "name": "Lifebuoy Hand wash 250ml",
+          "no": "Chemical no 11",
+          "qty": 10,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792806005155
         }
       ],
       "updated": 1792658282897
@@ -12384,6 +12398,17 @@
     }
   ],
   "history": [
+    {
+      "id": "9uo57iumvlqemxv",
+      "ts": 1792806005155,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "Lifebuoy Hand wash 250ml",
+      "no": "Chemical no 11",
+      "detail": "Qty 10 Btl, Dry"
+    },
     {
       "id": "tamy1c8mvlqaba6",
       "ts": 1792805803422,
@@ -23371,17 +23396,6 @@
       "action": "status",
       "item": "Kucai",
       "no": "23",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "jojhx4dmv62jxqq",
-      "ts": 1791858949010,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "BOH TEA ICELEMON SACHET 20'S X 14.5GM",
-      "no": "89",
       "detail": "Status: To buy → Received"
     }
   ]
