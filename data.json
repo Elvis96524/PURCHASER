@@ -11956,9 +11956,9 @@
           "unit": "PKT",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792726438136
+          "updated": 1792807262350
         },
         {
           "id": "7xmiwo8mvkf1k9s",
@@ -12440,6 +12440,17 @@
     }
   ],
   "history": [
+    {
+      "id": "jpcat4rmvlr5kzz",
+      "ts": 1792807262351,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "KEREPEK UBI GORENG 400GM",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "65yg8nkmvlr2a3a",
       "ts": 1792807108246,
@@ -23428,17 +23439,6 @@
       "item": "PETAI",
       "no": "33",
       "detail": "Qty 1 KG, Chiller"
-    },
-    {
-      "id": "yjzw2e9mv63yt4l",
-      "ts": 1791861322485,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "BAWANG PUTIH KOPEK",
-      "no": "3",
-      "detail": "Qty 2 KG, Chiller"
     }
   ]
 }
