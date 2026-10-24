@@ -12019,9 +12019,26 @@
         }
       ],
       "updated": 1792727001241
+    },
+    {
+      "id": "xze8f0fmvlouy6o",
+      "name": "SK PRODIGY ( NOV )",
+      "items": [],
+      "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "2gqmlxzmvlouy6o",
+      "ts": 1792803406992,
+      "by": "fathin",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "lp2qs2dmvlonx0x",
       "ts": 1792803078897,
@@ -23010,17 +23027,6 @@
       "item": "Mister potato 75gm mix",
       "no": "93",
       "detail": "Qty 15 Pkt, Dry"
-    },
-    {
-      "id": "pu2ouqhmv5xufdo",
-      "ts": 1791851040348,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Tepung Bestari pedas 1kg",
-      "no": "94",
-      "detail": "Qty 7 Pkt, Dry"
     }
   ]
 }
