@@ -12779,12 +12779,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792827412036
+        },
+        {
+          "id": "q3xh773mvm36cfr",
+          "added": 1792827453303,
+          "addedBy": "chelson",
+          "name": "Tempe",
+          "no": "65",
+          "qty": 50,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792827453303
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "kahy8xpmvm36cfr",
+      "ts": 1792827453303,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Tempe",
+      "no": "65",
+      "detail": "Qty 50 Pkt, Frozen"
+    },
     {
       "id": "5umpa9amvm35glg",
       "ts": 1792827412036,
@@ -23772,17 +23797,6 @@
       "action": "status",
       "item": "Pringles assorted",
       "no": "90",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "s92ajd3mv69xm6j",
-      "ts": 1791871344523,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "status",
-      "item": "Mister potato 75gm mix",
-      "no": "93",
       "detail": "Status: To buy → Received"
     }
   ]
