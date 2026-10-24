@@ -12639,12 +12639,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792824876298
+        },
+        {
+          "id": "flj5p4dmvm1o6k7",
+          "added": 1792824926263,
+          "addedBy": "chelson",
+          "name": "Drinkho Green Tea 1L x12's",
+          "no": "84",
+          "qty": 10,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792824926263
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "nst228fmvm1o6k7",
+      "ts": 1792824926263,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Drinkho Green Tea 1L x12's",
+      "no": "84",
+      "detail": "Qty 10 Ctn, Dry"
+    },
     {
       "id": "zlvft2bmvm1n40a",
       "ts": 1792824876298,
@@ -23633,17 +23658,6 @@
       "item": "Gardenia",
       "no": "44",
       "detail": "Qty 20 Loaf, Frozen"
-    },
-    {
-      "id": "2tm3lx1mv68nfco",
-      "ts": 1791869189496,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "added",
-      "item": "Sprite 1.5litre",
-      "no": "13",
-      "detail": "Qty 2 Ctn, Dry"
     }
   ]
 }
