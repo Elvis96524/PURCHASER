@@ -12473,12 +12473,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792808576010
+        },
+        {
+          "id": "t9t4nhrmvlryao9",
+          "added": 1792808601993,
+          "addedBy": "chelson",
+          "name": "White Clam",
+          "no": "140",
+          "qty": 5,
+          "unit": "Kg",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792808601993
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "wl16sgjmvlryao9",
+      "ts": 1792808601993,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "White Clam",
+      "no": "140",
+      "detail": "Qty 5 Kg, Frozen"
+    },
     {
       "id": "0shz9dumvlrxqmi",
       "ts": 1792808576010,
@@ -23467,17 +23492,6 @@
       "item": "BURGER BUN (6'S)",
       "no": "11",
       "detail": "Qty 3 LOAF, Frozen"
-    },
-    {
-      "id": "89vwuskmv642xmn",
-      "ts": 1791861514943,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "TELUR MASIN 30'S ( FRESH PUTIH )",
-      "no": "5",
-      "detail": "Qty 1 TRAY, Chiller"
     }
   ]
 }
