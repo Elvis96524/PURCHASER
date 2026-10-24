@@ -12487,12 +12487,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792808601993
+        },
+        {
+          "id": "fhmnf3emvls0mjd",
+          "added": 1792808710681,
+          "addedBy": "chelson",
+          "name": "Koya drain cleaner 1liter",
+          "no": "Chemical no 3",
+          "qty": 4,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792808710681
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "838t6spmvls0mjd",
+      "ts": 1792808710681,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Koya drain cleaner 1liter",
+      "no": "Chemical no 3",
+      "detail": "Qty 4 Btl, Dry"
+    },
     {
       "id": "wl16sgjmvlryao9",
       "ts": 1792808601993,
@@ -23481,17 +23506,6 @@
       "item": "BURGER BUN (6'S)",
       "no": "11",
       "detail": "Unit LOAF → PKT"
-    },
-    {
-      "id": "dcs2rs5mv644ez9",
-      "ts": 1791861584085,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "BURGER BUN (6'S)",
-      "no": "11",
-      "detail": "Qty 3 LOAF, Frozen"
     }
   ]
 }
