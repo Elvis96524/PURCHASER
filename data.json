@@ -12149,12 +12149,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803597943
+        },
+        {
+          "id": "8j1lwecmvloz963",
+          "added": 1792803607851,
+          "addedBy": "chelson",
+          "name": "Bamboo shoots 552g",
+          "no": "48",
+          "qty": 5,
+          "unit": "Can",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803607851
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "s8cwn90mvloz963",
+      "ts": 1792803607851,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Bamboo shoots 552g",
+      "no": "48",
+      "detail": "Qty 5 Can, Dry"
+    },
     {
       "id": "ek9tqn9mvloz1iv",
       "ts": 1792803597943,
@@ -23142,17 +23167,6 @@
       "action": "status",
       "item": "Pudina",
       "no": "27",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "nqdtyb6mv5zuv2u",
-      "ts": 1791854419926,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "status",
-      "item": "Pakis",
-      "no": "24",
       "detail": "Status: To buy → Received"
     }
   ]
