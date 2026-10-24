@@ -12449,12 +12449,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792804772883
+        },
+        {
+          "id": "6v0jygomvlrsjmm",
+          "added": 1792808333662,
+          "addedBy": "chelson",
+          "name": "Essence ORANGE 25ml Bunga Raya",
+          "no": "119",
+          "qty": 1,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792808333662
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "5vnh6f2mvlrsjmm",
+      "ts": 1792808333662,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Essence ORANGE 25ml Bunga Raya",
+      "no": "119",
+      "detail": "Qty 1 Btl, Dry"
+    },
     {
       "id": "uysxhxjmvlrd6wz",
       "ts": 1792807617347,
@@ -23443,17 +23468,6 @@
       "item": "LANGSAT ( IKUT MUSIM ) *subject to availability*",
       "no": "",
       "detail": "Qty 1, Dry"
-    },
-    {
-      "id": "binj7gnmv640smd",
-      "ts": 1791861415141,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "CEMPEDAK MASAK *subject to availability*",
-      "no": "63",
-      "detail": "Qty 4 KG, Chiller"
     }
   ]
 }
