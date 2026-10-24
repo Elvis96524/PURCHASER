@@ -12821,12 +12821,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792827511399
+        },
+        {
+          "id": "v1hb0y1mvm3897e",
+          "added": 1792827542426,
+          "addedBy": "chelson",
+          "name": "Pisang sabah",
+          "no": "79",
+          "qty": 30,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792827542426
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "y9fm7ltmvm3897e",
+      "ts": 1792827542426,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Pisang sabah",
+      "no": "79",
+      "detail": "Qty 30 Kg, Chiller"
+    },
     {
       "id": "00qm485mvm37l9j",
       "ts": 1792827511399,
@@ -23815,17 +23840,6 @@
       "item": "Yogurt 135g",
       "no": "60",
       "detail": "Status: To buy → Ordered"
-    },
-    {
-      "id": "stypuf9mv6a3dxw",
-      "ts": 1791871613780,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "status",
-      "item": "Cincau",
-      "no": "65",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
