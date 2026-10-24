@@ -10625,9 +10625,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "received",
+          "status": "tobuy",
           "notes": "",
-          "updated": 1792802384765
+          "updated": 1792802391442
         },
         {
           "id": "zh8qy23mviukdyl",
@@ -12008,6 +12008,17 @@
     }
   ],
   "history": [
+    {
+      "id": "7lsp5fzmvlo96ky",
+      "ts": 1792802391442,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "MAGGI CURRY",
+      "no": "",
+      "detail": "Status: Received → To buy"
+    },
     {
       "id": "ll2qewsmvlo91fk",
       "ts": 1792802384768,
@@ -22996,17 +23007,6 @@
       "item": "Tempe",
       "no": "64",
       "detail": "Qty 7 Pkt, Chiller"
-    },
-    {
-      "id": "v9gojtamv5xpqkn",
-      "ts": 1791850821575,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Yam",
-      "no": "56",
-      "detail": "Qty 4 Kg, Chiller"
     }
   ]
 }
