@@ -12061,9 +12061,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792733309070
+          "updated": 1792823072301
         },
         {
           "id": "lwmj9v8mvkj51ki",
@@ -12540,6 +12540,17 @@
     }
   ],
   "history": [
+    {
+      "id": "z0e8ot4mvm0kg19",
+      "ts": 1792823072301,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "Chili padi",
+      "no": "10",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "cdpj33lmvm0iea8",
       "ts": 1792822976720,
@@ -23528,17 +23539,6 @@
       "item": "SPRITE 325ML",
       "no": "14",
       "detail": "Qty 1 CTN, Dry"
-    },
-    {
-      "id": "g5uozammv64n81f",
-      "ts": 1791862461555,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "edited",
-      "item": "Peaches Halves in syrup 822G ( Offer Pear Halves )",
-      "no": "45",
-      "detail": "Notes changed"
     }
   ]
 }
