@@ -12807,12 +12807,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792827470580
+        },
+        {
+          "id": "coexb82mvm37l9j",
+          "added": 1792827511399,
+          "addedBy": "chelson",
+          "name": "Dragon fruit",
+          "no": "76",
+          "qty": 30,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792827511399
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "00qm485mvm37l9j",
+      "ts": 1792827511399,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Dragon fruit",
+      "no": "76",
+      "detail": "Qty 30 Kg, Chiller"
+    },
     {
       "id": "ovurov2mvm36pro",
       "ts": 1792827470580,
@@ -23800,17 +23825,6 @@
       "action": "status",
       "item": "Cincau",
       "no": "65",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "qnmstd0mv6a3cce",
-      "ts": 1791871611710,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "status",
-      "item": "Cendol",
-      "no": "64",
       "detail": "Status: To buy → Received"
     }
   ]
