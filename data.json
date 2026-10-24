@@ -12667,12 +12667,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792824966388
+        },
+        {
+          "id": "ilj10tnmvm1py9n",
+          "added": 1792825008827,
+          "addedBy": "chelson",
+          "name": "Ambipur gel",
+          "no": "104",
+          "qty": 12,
+          "unit": "Pcs",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792825008827
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "chq3yitmvm1py9n",
+      "ts": 1792825008827,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Ambipur gel",
+      "no": "104",
+      "detail": "Qty 12 Pcs, Dry"
+    },
     {
       "id": "b5kzkzomvm1p1is",
       "ts": 1792824966388,
@@ -23661,17 +23686,6 @@
       "item": "White clam 1kg",
       "no": "62",
       "detail": "Qty 5 Pkt, Dry"
-    },
-    {
-      "id": "jgqu8lzmv68p734",
-      "ts": 1791869272096,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "added",
-      "item": "Maggi cup curry",
-      "no": "50",
-      "detail": "Qty 2 Ctn, Dry"
     }
   ]
 }
