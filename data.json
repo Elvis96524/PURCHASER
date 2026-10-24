@@ -12737,12 +12737,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792825172976
+        },
+        {
+          "id": "vqzf7m7mvm1v36b",
+          "added": 1792825248467,
+          "addedBy": "chelson",
+          "name": "Assorted vitagen less sugar",
+          "no": "134",
+          "qty": 6,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792825248467
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "p7ikemsmvm1v36b",
+      "ts": 1792825248467,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Assorted vitagen less sugar",
+      "no": "134",
+      "detail": "Qty 6 Pkt, Chiller"
+    },
     {
       "id": "9ww9be1mvm1tgxc",
       "ts": 1792825172976,
@@ -23730,17 +23755,6 @@
       "action": "status",
       "item": "Sugar cracker Hupseng 428g",
       "no": "68",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "bmrhjz3mv69mmtr",
-      "ts": 1791870832143,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "status",
-      "item": "OLD TOWN WHITE COFFEE 3IN1 CARAMEL",
-      "no": "1",
       "detail": "Status: To buy → Received"
     }
   ]
