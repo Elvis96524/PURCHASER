@@ -12177,12 +12177,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803610583
+        },
+        {
+          "id": "4f7p7h5mvlozwfr",
+          "added": 1792803638007,
+          "addedBy": "fathin",
+          "name": "BAMBOO SHEETS 552G",
+          "no": "",
+          "qty": 5,
+          "unit": "TIN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803638007
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "lkxzlr2mvlozwfr",
+      "ts": 1792803638007,
+      "by": "fathin",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "BAMBOO SHEETS 552G",
+      "no": "",
+      "detail": "Qty 5 TIN, Dry"
+    },
     {
       "id": "8thb9xemvlozb9z",
       "ts": 1792803610583,
@@ -23170,17 +23195,6 @@
       "action": "status",
       "item": "Kesum",
       "no": "31",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "0vthczomv60ene8",
-      "ts": 1791855343088,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "status",
-      "item": "Kesum",
-      "no": "22",
       "detail": "Status: To buy → Received"
     }
   ]
