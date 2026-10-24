@@ -12751,12 +12751,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792825248467
+        },
+        {
+          "id": "y7urgodmvm34bpq",
+          "added": 1792827359054,
+          "addedBy": "chelson",
+          "name": "Pucuk ubi",
+          "no": "38",
+          "qty": 20,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792827359054
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "tqcxdm4mvm34bpq",
+      "ts": 1792827359054,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Pucuk ubi",
+      "no": "38",
+      "detail": "Qty 20 Ikat, Chiller"
+    },
     {
       "id": "moqvhqymvm25an7",
       "ts": 1792825724707,
@@ -23745,17 +23770,6 @@
       "item": "MISTER POTATO 75G",
       "no": "21",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "4ozwyxtmv69tfdw",
-      "ts": 1791871149092,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "edited",
-      "item": "NO1 KACANG KACANG",
-      "no": "21",
-      "detail": "Notes changed"
     }
   ]
 }
