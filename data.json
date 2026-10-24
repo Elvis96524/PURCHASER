@@ -10349,6 +10349,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792547850682
+        },
+        {
+          "id": "j62451omvlr2a3a",
+          "added": 1792807108246,
+          "addedBy": "chelson",
+          "name": "Milo in CAN 240ML x 24's",
+          "no": "78",
+          "qty": 3,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792807108245
         }
       ],
       "updated": 1792545915654
@@ -12426,6 +12440,17 @@
     }
   ],
   "history": [
+    {
+      "id": "65yg8nkmvlr2a3a",
+      "ts": 1792807108246,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "Milo in CAN 240ML x 24's",
+      "no": "78",
+      "detail": "Qty 3 Ctn, Dry"
+    },
     {
       "id": "to62gtimvlqydit",
       "ts": 1792806926069,
@@ -23414,17 +23439,6 @@
       "item": "BAWANG PUTIH KOPEK",
       "no": "3",
       "detail": "Qty 2 KG, Chiller"
-    },
-    {
-      "id": "pfjm5ptmv63yi4t",
-      "ts": 1791861308237,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "vadd",
-      "item": "",
-      "no": "",
-      "detail": "Vessel created"
     }
   ]
 }
