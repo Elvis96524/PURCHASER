@@ -12709,12 +12709,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792825086113
+        },
+        {
+          "id": "dzp4enhmvm1ssz7",
+          "added": 1792825141939,
+          "addedBy": "chelson",
+          "name": "Calbury near Jar 450gm",
+          "no": "120",
+          "qty": 6,
+          "unit": "Jar",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792825141939
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "zgexot4mvm1ssz7",
+      "ts": 1792825141939,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Calbury near Jar 450gm",
+      "no": "120",
+      "detail": "Qty 6 Jar, Dry"
+    },
     {
       "id": "z1lg73pmvm1rlwi",
       "ts": 1792825086114,
@@ -23703,17 +23728,6 @@
       "item": "Nescafe 3in1 rich 25's x19GM",
       "no": "27",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "u6qtd7rmv68wqh4",
-      "ts": 1791869623816,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "status",
-      "item": "Gardenia",
-      "no": "44",
-      "detail": "Status: To buy → Ordered"
     }
   ]
 }
