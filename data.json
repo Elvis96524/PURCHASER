@@ -12252,12 +12252,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803800992
+        },
+        {
+          "id": "w3fli26mvlp3tl6",
+          "added": 1792803820938,
+          "addedBy": "chelson",
+          "name": "Pegaga",
+          "no": "35",
+          "qty": 4,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803820938
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "8e4walemvlp3tl6",
+      "ts": 1792803820938,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Pegaga",
+      "no": "35",
+      "detail": "Qty 4 Ikat, Chiller"
+    },
     {
       "id": "msyw70nmvlp3e74",
       "ts": 1792803800992,
@@ -23245,17 +23270,6 @@
       "action": "status",
       "item": "Dragon fruit red",
       "no": "85",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "6cbbeewmv60ypiv",
-      "ts": 1791856278967,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Dragon fruit red",
-      "no": "",
       "detail": "Status: To buy → Received"
     }
   ]
