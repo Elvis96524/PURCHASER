@@ -12765,12 +12765,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792827359054
+        },
+        {
+          "id": "0ul9bmjmvm35glg",
+          "added": 1792827412036,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "45",
+          "qty": 10,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792827412036
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "5umpa9amvm35glg",
+      "ts": 1792827412036,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Kesum",
+      "no": "45",
+      "detail": "Qty 10 Ikat, Chiller"
+    },
     {
       "id": "tqcxdm4mvm34bpq",
       "ts": 1792827359054,
@@ -23758,17 +23783,6 @@
       "action": "status",
       "item": "Mister potato 75gm mix",
       "no": "93",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "4glr5anmv69xchu",
-      "ts": 1791871331970,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "status",
-      "item": "MISTER POTATO 75G",
-      "no": "21",
       "detail": "Status: To buy → Received"
     }
   ]
