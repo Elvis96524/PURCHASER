@@ -11392,6 +11392,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792805424905
+        },
+        {
+          "id": "k0wkrg5mvlq8786",
+          "added": 1792805704854,
+          "addedBy": "chelson",
+          "name": "Sugar cracker Hupseng 428g",
+          "no": "78",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792805704854
         }
       ],
       "updated": 1792658282897
@@ -12356,6 +12370,17 @@
     }
   ],
   "history": [
+    {
+      "id": "uqyjpa4mvlq8786",
+      "ts": 1792805704854,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "Sugar cracker Hupseng 428g",
+      "no": "78",
+      "detail": "Qty 2 Pkt, Dry"
+    },
     {
       "id": "0xa36p1mvlq277t",
       "ts": 1792805424905,
@@ -23344,17 +23369,6 @@
       "item": "Gardenia",
       "no": "72",
       "detail": "Status: To buy → Ordered"
-    },
-    {
-      "id": "7i9b7romv62ifjx",
-      "ts": 1791858878781,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Orange/Mango Sunquick 840ml",
-      "no": "14",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
