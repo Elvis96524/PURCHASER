@@ -12625,12 +12625,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792824824240
+        },
+        {
+          "id": "o2z7uxxmvm1n40a",
+          "added": 1792824876298,
+          "addedBy": "chelson",
+          "name": "Drinkho ice lemon Tea 1L x 12's",
+          "no": "81",
+          "qty": 10,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792824876298
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "zlvft2bmvm1n40a",
+      "ts": 1792824876298,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Drinkho ice lemon Tea 1L x 12's",
+      "no": "81",
+      "detail": "Qty 10 Ctn, Dry"
+    },
     {
       "id": "fyhv3pqmvm1lzu9",
       "ts": 1792824824241,
@@ -23619,17 +23644,6 @@
       "item": "Sprite 1.5litre",
       "no": "13",
       "detail": "Qty 2 Ctn, Dry"
-    },
-    {
-      "id": "ae63ioxmv68mvgt",
-      "ts": 1791869163725,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "vadd",
-      "item": "",
-      "no": "",
-      "detail": "Vessel created"
     }
   ]
 }
