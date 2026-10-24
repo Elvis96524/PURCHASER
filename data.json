@@ -12597,12 +12597,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792824723926
+        },
+        {
+          "id": "jsuqja1mvm1ku6o",
+          "added": 1792824770256,
+          "addedBy": "chelson",
+          "name": "Ovalette 600gm",
+          "no": "74",
+          "qty": 5,
+          "unit": "Pkt",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792824770256
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "nv0dt81mvm1ku6o",
+      "ts": 1792824770256,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Ovalette 600gm",
+      "no": "74",
+      "detail": "Qty 5 Pkt, Chiller"
+    },
     {
       "id": "4tu8gismvm1jufq",
       "ts": 1792824723926,
@@ -23591,17 +23616,6 @@
       "item": "PETAI",
       "no": "33",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "x7ateqpmv67cdfz",
-      "ts": 1791866994191,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "status",
-      "item": "Tempe",
-      "no": "71",
-      "detail": "Status: To buy → Ordered"
     }
   ]
 }
