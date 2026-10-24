@@ -10811,6 +10811,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792800908823
+        },
+        {
+          "id": "cz8t00amvlo80yw",
+          "added": 1792802337512,
+          "addedBy": "fathin",
+          "name": "MARGARINE",
+          "no": "",
+          "qty": 1,
+          "unit": "CTN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792802337511
         }
       ],
       "updated": 1792631545693
@@ -11980,6 +11994,17 @@
     }
   ],
   "history": [
+    {
+      "id": "l2w8cu8mvlo80yw",
+      "ts": 1792802337512,
+      "by": "fathin",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "MARGARINE",
+      "no": "",
+      "detail": "Qty 1 CTN, Dry"
+    },
     {
       "id": "wjgo387mvlndel3",
       "ts": 1792800908823,
@@ -22968,17 +22993,6 @@
       "item": "Pudina",
       "no": "25",
       "detail": "Qty 3 Ikat, Chiller"
-    },
-    {
-      "id": "els0anmmv5xm8in",
-      "ts": 1791850658207,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "Pucuk ubi",
-      "no": "24",
-      "detail": "Qty 5 Ikat, Chiller"
     }
   ]
 }
