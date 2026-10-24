@@ -12552,9 +12552,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1792824644631
+          "updated": 1792825724707
         },
         {
           "id": "8rzvkvemvm1injw",
@@ -12757,6 +12757,17 @@
     }
   ],
   "history": [
+    {
+      "id": "moqvhqymvm25an7",
+      "ts": 1792825724707,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "White vinegar 630ml",
+      "no": "45",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "p7ikemsmvm1v36b",
       "ts": 1792825248467,
@@ -23745,17 +23756,6 @@
       "item": "NO1 KACANG KACANG",
       "no": "21",
       "detail": "Notes changed"
-    },
-    {
-      "id": "w01hjqnmv69qtzc",
-      "ts": 1791871028040,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Sugar cracker Hupseng 428g",
-      "no": "68",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
