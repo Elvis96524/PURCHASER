@@ -12079,12 +12079,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803499774
+        },
+        {
+          "id": "jl2k65qmvloxvfj",
+          "added": 1792803543391,
+          "addedBy": "fathin",
+          "name": "BANANA CAKE",
+          "no": "",
+          "qty": 15,
+          "unit": "PKT",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803543391
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "k74ixqimvloxvfj",
+      "ts": 1792803543391,
+      "by": "fathin",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "BANANA CAKE",
+      "no": "",
+      "detail": "Qty 15 PKT, Frozen"
+    },
     {
       "id": "votidaymvlowxrz",
       "ts": 1792803499775,
@@ -23072,17 +23097,6 @@
       "action": "status",
       "item": "Salam",
       "no": "26",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "oatj1uwmv5zpwj7",
-      "ts": 1791854188531,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "status",
-      "item": "Salam",
-      "no": "24",
       "detail": "Status: To buy → Received"
     }
   ]
