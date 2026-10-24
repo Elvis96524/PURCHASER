@@ -12863,12 +12863,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792827602082
+        },
+        {
+          "id": "ki6ab25mvm3crkk",
+          "added": 1792827752852,
+          "addedBy": "chelson",
+          "name": "Terung asam",
+          "no": "",
+          "qty": 20,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792827752852
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "pctzn4omvm3crkk",
+      "ts": 1792827752852,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Terung asam",
+      "no": "",
+      "detail": "Qty 20 Kg, Chiller"
+    },
     {
       "id": "t4sr8u0mvm39j8i",
       "ts": 1792827602082,
@@ -23856,17 +23881,6 @@
       "action": "status",
       "item": "Puteri marjerin 1kg",
       "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "cltbsmmmv6a6zyo",
-      "ts": 1791871782288,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Tepung Bestari pedas 1kg",
-      "no": "94",
       "detail": "Status: To buy → Received"
     }
   ]
