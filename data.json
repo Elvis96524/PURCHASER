@@ -12135,12 +12135,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803586375
+        },
+        {
+          "id": "0pacekdmvloz1iv",
+          "added": 1792803597943,
+          "addedBy": "fathin",
+          "name": "PANDAN ESSENCE 25ML",
+          "no": "",
+          "qty": 2,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803597943
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "ek9tqn9mvloz1iv",
+      "ts": 1792803597943,
+      "by": "fathin",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "PANDAN ESSENCE 25ML",
+      "no": "",
+      "detail": "Qty 2 BTL, Dry"
+    },
     {
       "id": "kaqdj9hmvloyslj",
       "ts": 1792803586375,
@@ -23128,17 +23153,6 @@
       "action": "status",
       "item": "Pakis",
       "no": "24",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "5hio8dumv5zusse",
-      "ts": 1791854416958,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Pakis",
-      "no": "23",
       "detail": "Status: To buy → Received"
     }
   ]
