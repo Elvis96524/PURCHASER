@@ -11729,6 +11729,20 @@
           "status": "received",
           "notes": "",
           "updated": 1792739557082
+        },
+        {
+          "id": "15jcp9amvlrd6wz",
+          "added": 1792807617347,
+          "addedBy": "chelson",
+          "name": "Basmati rice 5kg",
+          "no": "34",
+          "qty": 2,
+          "unit": "Bag",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792807617347
         }
       ],
       "updated": 1792720765789
@@ -12441,6 +12455,17 @@
     }
   ],
   "history": [
+    {
+      "id": "uysxhxjmvlrd6wz",
+      "ts": 1792807617347,
+      "by": "chelson",
+      "vid": "ybtz2cemvkbnntp",
+      "vname": "SK Pinnacle NOV 1ST ORDER",
+      "action": "added",
+      "item": "Basmati rice 5kg",
+      "no": "34",
+      "detail": "Qty 2 Bag, Dry"
+    },
     {
       "id": "sk3h0sbmvlr7is6",
       "ts": 1792807352791,
@@ -23429,17 +23454,6 @@
       "item": "CEMPEDAK MASAK *subject to availability*",
       "no": "63",
       "detail": "Qty 4 KG, Chiller"
-    },
-    {
-      "id": "oiodxvgmv63zvyt",
-      "ts": 1791861372821,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "TEMPE",
-      "no": "49",
-      "detail": "Qty 9 PKT, Chiller"
     }
   ]
 }
