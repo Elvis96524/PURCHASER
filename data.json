@@ -11378,6 +11378,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792659111163
+        },
+        {
+          "id": "0ajvipnmvlq277t",
+          "added": 1792805424905,
+          "addedBy": "chelson",
+          "name": "White clam",
+          "no": "",
+          "qty": 3,
+          "unit": "Kg",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792805424905
         }
       ],
       "updated": 1792658282897
@@ -12342,6 +12356,17 @@
     }
   ],
   "history": [
+    {
+      "id": "0xa36p1mvlq277t",
+      "ts": 1792805424905,
+      "by": "chelson",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "White clam",
+      "no": "",
+      "detail": "Qty 3 Kg, Frozen"
+    },
     {
       "id": "sz7iq5wmvlpo843",
       "ts": 1792804772883,
@@ -23330,17 +23355,6 @@
       "item": "Orange/Mango Sunquick 840ml",
       "no": "14",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "2dkxq4dmv61v3ua",
-      "ts": 1791857790514,
-      "by": "nicole",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE ( 15/10/2026 )",
-      "action": "added",
-      "item": "Basmati 5kg",
-      "no": "12",
-      "detail": "Qty 5 Pkt, Dry"
     }
   ]
 }
