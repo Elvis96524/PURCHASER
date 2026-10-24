@@ -12152,17 +12152,8 @@
         },
         {
           "id": "8j1lwecmvloz963",
-          "added": 1792803607851,
-          "addedBy": "chelson",
-          "name": "Bamboo shoots 552g",
-          "no": "48",
-          "qty": 5,
-          "unit": "Can",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792803607851
+          "deleted": true,
+          "updated": 1792803650726
         },
         {
           "id": "d57iydkmvlozb9z",
@@ -12197,6 +12188,17 @@
     }
   ],
   "history": [
+    {
+      "id": "veorjq3mvlp0692",
+      "ts": 1792803650726,
+      "by": "fathin",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "deleted",
+      "item": "Bamboo shoots 552g",
+      "no": "48",
+      "detail": ""
+    },
     {
       "id": "lkxzlr2mvlozwfr",
       "ts": 1792803638007,
@@ -23184,17 +23186,6 @@
       "action": "status",
       "item": "Kesum",
       "no": "21",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "0acl1m2mv60epbo",
-      "ts": 1791855345588,
-      "by": "chelson",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE ( 15/10/2026 )",
-      "action": "status",
-      "item": "Kesum",
-      "no": "31",
       "detail": "Status: To buy → Received"
     }
   ]
