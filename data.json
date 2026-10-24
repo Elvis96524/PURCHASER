@@ -11752,9 +11752,9 @@
           "unit": "PKT",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792726178817
+          "updated": 1792824123106
         },
         {
           "id": "66izky4mvkdxxxv",
@@ -12540,6 +12540,17 @@
     }
   ],
   "history": [
+    {
+      "id": "l0soekdmvm16yua",
+      "ts": 1792824123106,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "ROTI GARDENIA",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "6a8n8ogmvm15wnl",
       "ts": 1792824073617,
@@ -23528,17 +23539,6 @@
       "item": "ASSORTED VITAGEN LESS SUGAR",
       "no": "Supervisor Team",
       "detail": "No. — → Supervisor Team"
-    },
-    {
-      "id": "3zhpqu2mv650en3",
-      "ts": 1791863076639,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "edited",
-      "item": "TWISTIES ASST 60GM",
-      "no": "21",
-      "detail": "Unit PKT → PACK"
     }
   ]
 }
