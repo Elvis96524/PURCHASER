@@ -12037,12 +12037,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803427760
+        },
+        {
+          "id": "ako56q5mvlow2xj",
+          "added": 1792803459799,
+          "addedBy": "fathin",
+          "name": "SARDINE AYAMBRAND",
+          "no": "",
+          "qty": 24,
+          "unit": "TIN",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803459799
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "016rqmumvlow2xj",
+      "ts": 1792803459799,
+      "by": "fathin",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "SARDINE AYAMBRAND",
+      "no": "",
+      "detail": "Qty 24 TIN, Dry"
+    },
     {
       "id": "qm1ypcvmvlove7k",
       "ts": 1792803427760,
@@ -23031,17 +23056,6 @@
       "item": "Kek pisang",
       "no": "69",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "28sbdnymv5xzawl",
-      "ts": 1791851267829,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "added",
-      "item": "Sprite 1.5L",
-      "no": "",
-      "detail": "Qty 1 Ctn, Dry"
     }
   ]
 }
