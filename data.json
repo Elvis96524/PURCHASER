@@ -12196,12 +12196,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803702700
+        },
+        {
+          "id": "ab5kmo8mvlp1x4x",
+          "added": 1792803732225,
+          "addedBy": "chelson",
+          "name": "Kucai",
+          "no": "29",
+          "qty": 2,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803732225
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "fzykmq8mvlp1x4x",
+      "ts": 1792803732225,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Kucai",
+      "no": "29",
+      "detail": "Qty 2 Kg, Chiller"
+    },
     {
       "id": "6szdq61mvlp1acs",
       "ts": 1792803702700,
@@ -23190,17 +23215,6 @@
       "item": "Pudina",
       "no": "25",
       "detail": "Notes changed"
-    },
-    {
-      "id": "ofsyelamv60fdee",
-      "ts": 1791855376790,
-      "by": "chelson",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE ( 15/10/2026 )",
-      "action": "status",
-      "item": "DAUN PUCUK UBI",
-      "no": "",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
