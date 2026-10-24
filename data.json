@@ -12849,12 +12849,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792827564784
+        },
+        {
+          "id": "8i154uemvm39j8i",
+          "added": 1792827602082,
+          "addedBy": "chelson",
+          "name": "Pisang emas /embun",
+          "no": "81",
+          "qty": 30,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792827602082
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "t4sr8u0mvm39j8i",
+      "ts": 1792827602082,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Pisang emas /embun",
+      "no": "81",
+      "detail": "Qty 30 Kg, Chiller"
+    },
     {
       "id": "59uvh4qmvm38qgh",
       "ts": 1792827564785,
@@ -23843,17 +23868,6 @@
       "item": "Tepung Bestari pedas 1kg",
       "no": "94",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "ml4d3a4mv6a48ol",
-      "ts": 1791871653621,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Burger Bun 6's",
-      "no": "71",
-      "detail": "Status: To buy → Ordered"
     }
   ]
 }
