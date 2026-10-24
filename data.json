@@ -12131,9 +12131,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792804689017
+          "updated": 1792811286245
         }
       ],
       "updated": 1792727001241
@@ -12540,6 +12540,17 @@
     }
   ],
   "history": [
+    {
+      "id": "34502snmvltjtut",
+      "ts": 1792811286245,
+      "by": "fse",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "Nescafe Latte tin 24x240ml",
+      "no": "79",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "8m42zsomvlth8kf",
       "ts": 1792811165343,
@@ -23528,17 +23539,6 @@
       "item": "ULAM SELOM",
       "no": "48",
       "detail": "Qty 4 IKAT, Chiller"
-    },
-    {
-      "id": "zia0buymv64b41y",
-      "ts": 1791861896518,
-      "by": "farah",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "edited",
-      "item": "Peaches Halves in syrup 822G ( Offer Pear Halves )",
-      "no": "45",
-      "detail": "Name \"Peaches Halves in syrup 822G\" → \"Peaches Halves in syrup 822G ( Offer Pear Halves )\""
     }
   ]
 }
