@@ -12835,12 +12835,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792827542426
+        },
+        {
+          "id": "bags1womvm38qgg",
+          "added": 1792827564785,
+          "addedBy": "chelson",
+          "name": "Pisang berangan",
+          "no": "80",
+          "qty": 30,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792827564784
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "59uvh4qmvm38qgh",
+      "ts": 1792827564785,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Pisang berangan",
+      "no": "80",
+      "detail": "Qty 30 Kg, Chiller"
+    },
     {
       "id": "y9fm7ltmvm3897e",
       "ts": 1792827542426,
@@ -23828,17 +23853,6 @@
       "action": "status",
       "item": "Burger Bun 6's",
       "no": "71",
-      "detail": "Status: To buy → Ordered"
-    },
-    {
-      "id": "lkafnsumv6a3obp",
-      "ts": 1791871627237,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "status",
-      "item": "Yogurt 135g",
-      "no": "60",
       "detail": "Status: To buy → Ordered"
     }
   ]
