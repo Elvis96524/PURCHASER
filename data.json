@@ -12583,12 +12583,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792824689622
+        },
+        {
+          "id": "c7c0fqzmvm1jufq",
+          "added": 1792824723926,
+          "addedBy": "chelson",
+          "name": "Margarine 18kg",
+          "no": "64",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792824723926
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "4tu8gismvm1jufq",
+      "ts": 1792824723926,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Margarine 18kg",
+      "no": "64",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "8kihpxxmvm1j3yu",
       "ts": 1792824689622,
@@ -23576,17 +23601,6 @@
       "action": "status",
       "item": "Tempe",
       "no": "71",
-      "detail": "Status: To buy → Ordered"
-    },
-    {
-      "id": "42rfs6smv67caga",
-      "ts": 1791866990314,
-      "by": "chelson",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE ( 15/10/2026 )",
-      "action": "status",
-      "item": "TEMPE",
-      "no": "",
       "detail": "Status: To buy → Ordered"
     }
   ]
