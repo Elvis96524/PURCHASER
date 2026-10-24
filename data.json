@@ -12515,12 +12515,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792808747821
+        },
+        {
+          "id": "g5mjfnhmvls34mf",
+          "added": 1792808827431,
+          "addedBy": "chelson",
+          "name": "Magic clean Spray",
+          "no": "Chemical no 9",
+          "qty": 6,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792808827431
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "15wvfd5mvls34mf",
+      "ts": 1792808827431,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Magic clean Spray",
+      "no": "Chemical no 9",
+      "detail": "Qty 6 Btl, Dry"
+    },
     {
       "id": "228yli3mvls1f71",
       "ts": 1792808747821,
@@ -23509,17 +23534,6 @@
       "item": "OLD TOWN WHITE COFFEE 3IN1 CARAMEL",
       "no": "1",
       "detail": "Qty 1 PKT, Dry"
-    },
-    {
-      "id": "l5cxilimv6457el",
-      "ts": 1791861620925,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "ROTI GARDENIA",
-      "no": "12",
-      "detail": "Qty 3 LOAF, Frozen"
     }
   ]
 }
