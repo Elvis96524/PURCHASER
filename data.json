@@ -12051,12 +12051,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803459799
+        },
+        {
+          "id": "yjv16h8mvlowmmf",
+          "added": 1792803485319,
+          "addedBy": "fathin",
+          "name": "ABC SAMBAL ASLI 395",
+          "no": "",
+          "qty": 6,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803485319
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "z3shjezmvlowmmf",
+      "ts": 1792803485319,
+      "by": "fathin",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "ABC SAMBAL ASLI 395",
+      "no": "",
+      "detail": "Qty 6 BTL, Dry"
+    },
     {
       "id": "016rqmumvlow2xj",
       "ts": 1792803459799,
@@ -23044,17 +23069,6 @@
       "action": "status",
       "item": "Hotdog bun 10's",
       "no": "70",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "274fz2omv5ylyaf",
-      "ts": 1791852324567,
-      "by": "akhbar",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Kek pisang",
-      "no": "69",
       "detail": "Status: To buy → Received"
     }
   ]
