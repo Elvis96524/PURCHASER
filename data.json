@@ -12611,12 +12611,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792824770256
+        },
+        {
+          "id": "t7azw4imvm1lzu9",
+          "added": 1792824824241,
+          "addedBy": "chelson",
+          "name": "Drinkho wintermelon 1L x12's",
+          "no": "80",
+          "qty": 10,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792824824240
         }
       ],
       "updated": 1792824584453
     }
   ],
   "history": [
+    {
+      "id": "fyhv3pqmvm1lzu9",
+      "ts": 1792824824241,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Drinkho wintermelon 1L x12's",
+      "no": "80",
+      "detail": "Qty 10 Ctn, Dry"
+    },
     {
       "id": "nv0dt81mvm1ku6o",
       "ts": 1792824770256,
@@ -23605,17 +23630,6 @@
       "item": "",
       "no": "",
       "detail": "Vessel created"
-    },
-    {
-      "id": "l6yratimv68gsku",
-      "ts": 1791868880046,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "status",
-      "item": "PETAI",
-      "no": "33",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
