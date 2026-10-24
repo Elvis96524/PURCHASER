@@ -12266,12 +12266,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803820938
+        },
+        {
+          "id": "p4jox8emvlp45bm",
+          "added": 1792803836146,
+          "addedBy": "chelson",
+          "name": "Raja",
+          "no": "36",
+          "qty": 4,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803836146
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "8hpjv71mvlp45bm",
+      "ts": 1792803836146,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Raja",
+      "no": "36",
+      "detail": "Qty 4 Ikat, Chiller"
+    },
     {
       "id": "8e4walemvlp3tl6",
       "ts": 1792803820938,
@@ -23259,17 +23284,6 @@
       "action": "status",
       "item": "Pucuk ubi",
       "no": "24",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "2mq9zqomv60yt4i",
-      "ts": 1791856283634,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "status",
-      "item": "Dragon fruit red",
-      "no": "85",
       "detail": "Status: To buy → Received"
     }
   ]
