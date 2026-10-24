@@ -12210,12 +12210,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803732225
+        },
+        {
+          "id": "oee1twnmvlp2edt",
+          "added": 1792803754577,
+          "addedBy": "chelson",
+          "name": "Pakis",
+          "no": "32",
+          "qty": 8,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803754577
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "xts9u4kmvlp2edt",
+      "ts": 1792803754577,
+      "by": "chelson",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Pakis",
+      "no": "32",
+      "detail": "Qty 8 Ikat, Chiller"
+    },
     {
       "id": "fzykmq8mvlp1x4x",
       "ts": 1792803732225,
@@ -23204,17 +23229,6 @@
       "item": "Pegaga",
       "no": "28",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "j0ms9b9mv60vd6k",
-      "ts": 1791856123004,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "edited",
-      "item": "Pudina",
-      "no": "25",
-      "detail": "Notes changed"
     }
   ]
 }
