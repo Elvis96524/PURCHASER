@@ -12093,12 +12093,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792803543391
+        },
+        {
+          "id": "rm7e7p2mvloy5c7",
+          "added": 1792803556231,
+          "addedBy": "fathin",
+          "name": "ORANGE ESSENCE 25ML",
+          "no": "",
+          "qty": 1,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792803556231
         }
       ],
       "updated": 1792803406992
     }
   ],
   "history": [
+    {
+      "id": "lake4k7mvloy5c7",
+      "ts": 1792803556231,
+      "by": "fathin",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "ORANGE ESSENCE 25ML",
+      "no": "",
+      "detail": "Qty 1 BTL, Dry"
+    },
     {
       "id": "k74ixqimvloxvfj",
       "ts": 1792803543391,
@@ -23086,17 +23111,6 @@
       "action": "status",
       "item": "Nangka muda",
       "no": "39",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "335regumv5zpycz",
-      "ts": 1791854190899,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Salam",
-      "no": "26",
       "detail": "Status: To buy → Received"
     }
   ]
