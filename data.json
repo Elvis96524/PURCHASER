@@ -10700,9 +10700,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792631650045
+          "updated": 1792972570034
         },
         {
           "id": "foberlcmvium4jp",
@@ -12883,6 +12883,17 @@
     }
   ],
   "history": [
+    {
+      "id": "8628s4xmvohkp82",
+      "ts": 1792972570034,
+      "by": "fse",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "F&N ICECREAM SODA 1.5LT",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "02pb1hvmvohkjvd",
       "ts": 1792972563097,
@@ -23870,17 +23881,6 @@
       "action": "status",
       "item": "Cendol",
       "no": "57",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "2evc661mv6aapxr",
-      "ts": 1791871955919,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "status",
-      "item": "TWISTIES ASST 60GM",
-      "no": "21",
       "detail": "Status: To buy → Received"
     }
   ]
