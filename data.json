@@ -10630,9 +10630,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792802391442
+          "updated": 1792972563097
         },
         {
           "id": "zh8qy23mviukdyl",
@@ -12883,6 +12883,17 @@
     }
   ],
   "history": [
+    {
+      "id": "02pb1hvmvohkjvd",
+      "ts": 1792972563097,
+      "by": "fse",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "MAGGI CURRY",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "pctzn4omvm3crkk",
       "ts": 1792827752852,
@@ -23870,17 +23881,6 @@
       "action": "status",
       "item": "TWISTIES ASST 60GM",
       "no": "21",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "dhc2mu5mv6a92jt",
-      "ts": 1791871878953,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Puteri marjerin 1kg",
-      "no": "",
       "detail": "Status: To buy → Received"
     }
   ]
