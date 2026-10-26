@@ -10664,17 +10664,8 @@
         },
         {
           "id": "zh8qy23mviukdyl",
-          "added": 1792631593389,
-          "addedBy": "fathin",
-          "name": "DRINHO WINTERMELON 1LT",
-          "no": "",
-          "qty": 2,
-          "unit": "CTN",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792631593389
+          "deleted": true,
+          "updated": 1793000131335
         },
         {
           "id": "zpilh3umviuko0t",
@@ -13038,6 +13029,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ah7xkh6mvoxzfnr",
+      "ts": 1793000131335,
+      "by": "chelson",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "deleted",
+      "item": "DRINHO WINTERMELON 1LT",
+      "no": "",
+      "detail": ""
+    },
     {
       "id": "5hol0mzmvoxz5ph",
       "ts": 1793000118437,
@@ -24022,17 +24024,6 @@
       "by": "chelson",
       "vid": "wv4asgcmv68mvgt",
       "vname": "Prodigy",
-      "action": "status",
-      "item": "Kesum",
-      "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "rzogj9mmv7fd3hn",
-      "ts": 1791940931051,
-      "by": "chelson",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA ENDURANCE (16.10.2026)",
       "action": "status",
       "item": "Kesum",
       "no": "",
