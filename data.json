@@ -12778,9 +12778,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792824723926
+          "updated": 1792999993885
         },
         {
           "id": "jsuqja1mvm1ku6o",
@@ -13093,6 +13093,17 @@
     }
   ],
   "history": [
+    {
+      "id": "53h8kfamvoxwhlq",
+      "ts": 1792999993886,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Margarine 18kg",
+      "no": "64",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "oao1vawmvowq2tc",
       "ts": 1792998015168,
@@ -24081,17 +24092,6 @@
       "item": "SANTAN KARA 1LT",
       "no": "",
       "detail": "Qty 24 PKT, Dry"
-    },
-    {
-      "id": "9868dg3mv7evr22",
-      "ts": 1791940121786,
-      "by": "fathin",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "deleted",
-      "item": "BERAS BASMATHI",
-      "no": "",
-      "detail": ""
     }
   ]
 }
