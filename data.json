@@ -12648,8 +12648,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1792824876298
+          "notes": "Change to Marigold 1LT",
+          "updated": 1792975102573,
+          "updatedBy": "fathin"
         },
         {
           "id": "flj5p4dmvm1o6k7",
@@ -12885,6 +12886,17 @@
     }
   ],
   "history": [
+    {
+      "id": "alhz5kbmvoj2zce",
+      "ts": 1792975102574,
+      "by": "fathin",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "edited",
+      "item": "Drinkho ice lemon Tea 1L x 12's",
+      "no": "81",
+      "detail": "Notes added: \"Change to Marigold 1LT\""
+    },
     {
       "id": "vykalbumvoj2mts",
       "ts": 1792975086352,
@@ -23873,17 +23885,6 @@
       "item": "TEPUNG CAP SAUH 1KG",
       "no": "3",
       "detail": "Qty 5 PKT, Dry"
-    },
-    {
-      "id": "94a5rr2mv6ambkl",
-      "ts": 1791872497173,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA PROTECTOR",
-      "action": "added",
-      "item": "ROTI GARDENIA",
-      "no": "41",
-      "detail": "Qty 2 LOAF, Frozen"
     }
   ]
 }
