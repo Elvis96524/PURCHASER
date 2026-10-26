@@ -12718,14 +12718,15 @@
           "added": 1792825141939,
           "addedBy": "chelson",
           "name": "Calbury near Jar 450gm",
-          "no": "120",
+          "no": "120 - FOR SUPERVISOR",
           "qty": 6,
           "unit": "Jar",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792825141939
+          "updated": 1792975163470,
+          "updatedBy": "fathin"
         },
         {
           "id": "s86sba9mvm1tgxc",
@@ -12888,6 +12889,17 @@
     }
   ],
   "history": [
+    {
+      "id": "icdeb81mvoj4aby",
+      "ts": 1792975163470,
+      "by": "fathin",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "edited",
+      "item": "Calbury near Jar 450gm",
+      "no": "120 - FOR SUPERVISOR",
+      "detail": "No. 120 → 120 - FOR SUPERVISOR"
+    },
     {
       "id": "snz0nznmvoj447i",
       "ts": 1792975155534,
@@ -23876,17 +23888,6 @@
       "item": "ADABI SERBUK KURMA 250GM",
       "no": "30",
       "detail": "Qty 1 PKT, Dry"
-    },
-    {
-      "id": "f07n2hymv6ap565",
-      "ts": 1791872628845,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA PROTECTOR",
-      "action": "added",
-      "item": "FLYING SWALLOW AGAR-AGAR 7GM",
-      "no": "26",
-      "detail": "Qty 5 PKT, Dry"
     }
   ]
 }
