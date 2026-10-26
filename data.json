@@ -11152,6 +11152,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792997842122
+        },
+        {
+          "id": "294ql91mvowmxor",
+          "added": 1792997868555,
+          "addedBy": "chelson",
+          "name": "Pisang emas",
+          "no": "64",
+          "qty": 10,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792997868555
         }
       ],
       "updated": 1792631935685
@@ -13065,6 +13079,17 @@
     }
   ],
   "history": [
+    {
+      "id": "z3s6nigmvowmxos",
+      "ts": 1792997868556,
+      "by": "chelson",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "Pisang emas",
+      "no": "64",
+      "detail": "Qty 10 Kg, Chiller"
+    },
     {
       "id": "6nl7f3vmvowmdai",
       "ts": 1792997842122,
@@ -24053,17 +24078,6 @@
       "item": "Pudina",
       "no": "25",
       "detail": "Notes changed"
-    },
-    {
-      "id": "tel28asmv7epdlw",
-      "ts": 1791939824420,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Pudina",
-      "no": "25",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
