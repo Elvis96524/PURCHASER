@@ -11209,6 +11209,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792806926069
+        },
+        {
+          "id": "kwklrvhmvouj5sn",
+          "added": 1792994333207,
+          "addedBy": "chelson",
+          "name": "Sardine in tomato sauce 425gm AYAM",
+          "no": "26",
+          "qty": 6,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792994333207
         }
       ],
       "updated": 1792657873307
@@ -12919,6 +12933,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yrdjahumvouj5sn",
+      "ts": 1792994333207,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "added",
+      "item": "Sardine in tomato sauce 425gm AYAM",
+      "no": "26",
+      "detail": "Qty 6 Tin, Dry"
+    },
     {
       "id": "n9un68nmvoubgqp",
       "ts": 1792993974145,
@@ -23907,17 +23932,6 @@
       "item": "Pegaga",
       "no": "",
       "detail": "Qty 4 Ikat, Chiller"
-    },
-    {
-      "id": "id6vrpbmv6fvefs",
-      "ts": 1791881318872,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "added",
-      "item": "Pakis",
-      "no": "",
-      "detail": "Qty 5 Ikat, Chiller"
     }
   ]
 }
