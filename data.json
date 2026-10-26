@@ -10351,9 +10351,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "ordered",
           "notes": "",
-          "updated": 1792807108245
+          "updated": 1792993901877
         }
       ],
       "updated": 1792545915654
@@ -12919,6 +12919,17 @@
     }
   ],
   "history": [
+    {
+      "id": "jisk403mvou9wz9",
+      "ts": 1792993901877,
+      "by": "fse",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "status",
+      "item": "Milo in CAN 240ML x 24's",
+      "no": "78",
+      "detail": "Status: To buy → Ordered"
+    },
     {
       "id": "c9kp91pmvottfl1",
       "ts": 1792993132837,
@@ -23907,17 +23918,6 @@
       "item": "Kesum",
       "no": "",
       "detail": "Qty 4 Ikat, Chiller"
-    },
-    {
-      "id": "pc4a0e9mv6fuk67",
-      "ts": 1791881279647,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "added",
-      "item": "Kucai",
-      "no": "19",
-      "detail": "Qty 2 Kg, Chiller"
     }
   ]
 }
