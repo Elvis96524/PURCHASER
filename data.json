@@ -10354,6 +10354,20 @@
           "status": "ordered",
           "notes": "",
           "updated": 1792993901877
+        },
+        {
+          "id": "r9o5w28mvouy5i6",
+          "added": 1792995032670,
+          "addedBy": "chelson",
+          "name": "(flat)Blue bedsheet 200cm x150cm",
+          "no": "Gallery 12",
+          "qty": 15,
+          "unit": "SET",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792995032670
         }
       ],
       "updated": 1792545915654
@@ -12947,6 +12961,17 @@
     }
   ],
   "history": [
+    {
+      "id": "w7heagimvouy5i6",
+      "ts": 1792995032670,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "(flat)Blue bedsheet 200cm x150cm",
+      "no": "Gallery 12",
+      "detail": "Qty 15 SET, Dry"
+    },
     {
       "id": "2kjj32hmvouwa1d",
       "ts": 1792994945233,
@@ -23935,17 +23960,6 @@
       "item": "Kesum",
       "no": "",
       "detail": "Qty 2 Ikat, Chiller"
-    },
-    {
-      "id": "vzdgy20mv6fxfhw",
-      "ts": 1791881413556,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "added",
-      "item": "Tempe",
-      "no": "",
-      "detail": "Qty 15 Pkt, Frozen"
     }
   ]
 }
