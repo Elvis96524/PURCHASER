@@ -11877,8 +11877,9 @@
           "category": "Frozen",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1792726797056
+          "notes": "offer other flavour",
+          "updated": 1793000668146,
+          "updatedBy": "lim"
         },
         {
           "id": "fee2uoymvkdym0b",
@@ -13031,6 +13032,17 @@
     }
   ],
   "history": [
+    {
+      "id": "uou4rp9mvoyaxv6",
+      "ts": 1793000668146,
+      "by": "lim",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "edited",
+      "item": "MAGNUM YOGURT ICE CREAM MANGO FLAVOUR, ICE CREAM 24'S/CTN",
+      "no": "",
+      "detail": "Notes added: \"offer other flavour\""
+    },
     {
       "id": "4mr6b8bmvoya01n",
       "ts": 1793000624315,
@@ -24019,17 +24031,6 @@
       "item": "Jantung pisang",
       "no": "31",
       "detail": "Notes changed"
-    },
-    {
-      "id": "77wyruumv7ff010",
-      "ts": 1791941019876,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "status",
-      "item": "Jantung pisang",
-      "no": "31",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
