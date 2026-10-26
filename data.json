@@ -12755,9 +12755,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792975139822,
+          "updated": 1792982846308,
           "updatedBy": "fathin"
         },
         {
@@ -12891,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "hgre78rmvonoyg4",
+      "ts": 1792982846308,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Assorted vitagen less sugar",
+      "no": "134 - FOR SUPERVISOR",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ojhgjcqmvonis3u",
       "ts": 1792982558154,
@@ -23879,17 +23890,6 @@
       "item": "",
       "no": "",
       "detail": "Renamed from \"PERDANA ENDURANCE\" to \"PERDANA ENDURANCE ( 16.10.2026 - FRIDAY )\""
-    },
-    {
-      "id": "zdcql16mv6c6qkd",
-      "ts": 1791875129341,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Indomie soto",
-      "no": "96",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
