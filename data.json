@@ -3546,9 +3546,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792393005765
+          "updated": 1792991585019
         },
         {
           "id": "y0q4zcumvewj4ik",
@@ -12905,6 +12905,17 @@
     }
   ],
   "history": [
+    {
+      "id": "a4hjhzmmvosw9a3",
+      "ts": 1792991585019,
+      "by": "fathin",
+      "vid": "pjhc1ssmuqdwfkb",
+      "vname": "Sk prudence - NOV 1ST",
+      "action": "status",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "25",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "4vg57kvmvoso7pg",
       "ts": 1792991209732,
@@ -23893,17 +23904,6 @@
       "item": "NO1 KACANG KACANG",
       "no": "21",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "easobl0mv6drsgs",
-      "ts": 1791877791196,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "status",
-      "item": "YEO'S COCONUT JUICE 300ML",
-      "no": "20",
-      "detail": "Status: To buy → N/A"
     }
   ]
 }
