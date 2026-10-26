@@ -12213,9 +12213,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792733420689
+          "updated": 1793000616187
         },
         {
           "id": "a29d7mhmvklqd6v",
@@ -13031,6 +13031,17 @@
     }
   ],
   "history": [
+    {
+      "id": "124po31mvoy9trv",
+      "ts": 1793000616187,
+      "by": "lim",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "Tauhu air 320gm",
+      "no": "5",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "70fqa8zmvoy3u4q",
       "ts": 1793000336714,
@@ -24019,17 +24030,6 @@
       "item": "MAGGI CURRY CUP",
       "no": "FOR SUPERVISOR TEAM",
       "detail": "Name \"MAGGI CURRY CUP (REQ ENEOS TL)\" → \"MAGGI CURRY CUP\""
-    },
-    {
-      "id": "gialhvcmv7fe2mr",
-      "ts": 1791940976595,
-      "by": "fathin",
-      "vid": "7qfufh5mv7ek2et",
-      "vname": "HELANG INTEGRATED PLATFORM",
-      "action": "edited",
-      "item": "MAGGI CURRY CUP (REQ ENEOS TL)",
-      "no": "FOR SUPERVISOR TEAM",
-      "detail": "Name \"MAGGI CURRY CUP\" → \"MAGGI CURRY CUP (REQ ENEOS TL)\""
     }
   ]
 }
