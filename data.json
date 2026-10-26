@@ -13118,12 +13118,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1793005330906
+        },
+        {
+          "id": "trql5ojmvp14r1y",
+          "added": 1793005418230,
+          "addedBy": "chelson",
+          "name": "Santan 1L AYAM BRAND",
+          "no": "36",
+          "qty": 1,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1793005418230
         }
       ],
       "updated": 1793005171547
     }
   ],
   "history": [
+    {
+      "id": "2cefw0ymvp14r1y",
+      "ts": 1793005418230,
+      "by": "chelson",
+      "vid": "ydppv5gmvp0zgpn",
+      "vname": "Endurance (26/10/26)",
+      "action": "added",
+      "item": "Santan 1L AYAM BRAND",
+      "no": "36",
+      "detail": "Qty 1 Pkt, Dry"
+    },
     {
       "id": "7zs6k7smvp12voa",
       "ts": 1793005330906,
@@ -24108,17 +24133,6 @@
       "by": "chelson",
       "vid": "iruqolnmv63yi4t",
       "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "status",
-      "item": "Kucai",
-      "no": "",
-      "detail": "Status: Ordered → Received"
-    },
-    {
-      "id": "oj5q03hmv7i8jzw",
-      "ts": 1791945758012,
-      "by": "chelson",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA ENDURANCE (16.10.2026)",
       "action": "status",
       "item": "Kucai",
       "no": "",
