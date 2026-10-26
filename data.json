@@ -11311,9 +11311,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "received",
+          "status": "tobuy",
           "notes": "",
-          "updated": 1792983539047
+          "updated": 1792991209732
         },
         {
           "id": "rpxfvcwmvjasvuf",
@@ -12905,6 +12905,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4vg57kvmvoso7pg",
+      "ts": 1792991209732,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "status",
+      "item": "Muruku ikan POPO 60gx10",
+      "no": "105",
+      "detail": "Status: Received → To buy"
+    },
     {
       "id": "ugkz4h3mvoq58d4",
       "ts": 1792986964888,
@@ -23893,17 +23904,6 @@
       "item": "YEO'S COCONUT JUICE 300ML",
       "no": "20",
       "detail": "Status: To buy → N/A"
-    },
-    {
-      "id": "e1kg238mv6drowx",
-      "ts": 1791877786593,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "status",
-      "item": "ROTI GARDENIA",
-      "no": "12",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
