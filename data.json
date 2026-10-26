@@ -11227,9 +11227,9 @@
           "unit": "Tin",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792658333746
+          "updated": 1792983101303
         },
         {
           "id": "cxwq4cimvjaies7",
@@ -12891,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "b9eoksemvonuf7b",
+      "ts": 1792983101303,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "status",
+      "item": "Curry beef yeos 160gm",
+      "no": "39",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "haffd4vmvonu3wo",
       "ts": 1792983086664,
@@ -23879,17 +23890,6 @@
       "item": "NESCAFE GOLD CREAMY LATTE 3IN1 28X19G",
       "no": "3",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "z98rvd7mv6c8vgt",
-      "ts": 1791875229005,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA ENDURANCE (16.10.2026)",
-      "action": "vrename",
-      "item": "",
-      "no": "",
-      "detail": "Renamed from \"PERDANA ENDURANCE ( 16.10.2026 )\" to \"PERDANA ENDURANCE (16.10.2026)\""
     }
   ]
 }
