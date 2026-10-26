@@ -13065,15 +13065,26 @@
           "unit": "KG",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792997756223
+          "updated": 1793000021575
         }
       ],
       "updated": 1792975043438
     }
   ],
   "history": [
+    {
+      "id": "ge611bumvoxx2yv",
+      "ts": 1793000021575,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Cheddar cheese",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "tvq4xx4mvoxwppz",
       "ts": 1793000004407,
@@ -24062,17 +24073,6 @@
       "item": "Daun ketumbar(offer daun sup)",
       "no": "18",
       "detail": "Name \"Daun ketumbar\" → \"Daun ketumbar(offer daun sup)\""
-    },
-    {
-      "id": "6jh6pl6mv7fbn4b",
-      "ts": 1791940863179,
-      "by": "fathin",
-      "vid": "7qfufh5mv7ek2et",
-      "vname": "HELANG INTEGRATED PLATFORM",
-      "action": "added",
-      "item": "ADABI MEAT CURRY POWDER 250GM",
-      "no": "",
-      "detail": "Qty 10 PKT, Dry"
     }
   ]
 }
