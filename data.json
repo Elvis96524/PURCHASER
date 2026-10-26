@@ -11507,9 +11507,9 @@
           "unit": "Tin",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792986964888
+          "updated": 1792994945233
         }
       ],
       "updated": 1792658282897
@@ -12947,6 +12947,17 @@
     }
   ],
   "history": [
+    {
+      "id": "2kjj32hmvouwa1d",
+      "ts": 1792994945233,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "status",
+      "item": "Ayam brand sardine in tomato",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "o5njbzomvoumlxx",
       "ts": 1792994494101,
@@ -23935,17 +23946,6 @@
       "item": "Tempe",
       "no": "",
       "detail": "Qty 15 Pkt, Frozen"
-    },
-    {
-      "id": "gid44tjmv6fwo8a",
-      "ts": 1791881378218,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "added",
-      "item": "Jantung Pisang",
-      "no": "",
-      "detail": "Qty 4 Nos, Chiller"
     }
   ]
 }
