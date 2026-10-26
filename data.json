@@ -12694,17 +12694,8 @@
         },
         {
           "id": "lsfxv0wmvm1qw5a",
-          "added": 1792825052734,
-          "addedBy": "chelson",
-          "name": "Hair net blue",
-          "no": "117",
-          "qty": 5,
-          "unit": "Pkt",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792825052734
+          "deleted": true,
+          "updated": 1792974916750
         },
         {
           "id": "0lsokm9mvm1rlwh",
@@ -12893,6 +12884,17 @@
     }
   ],
   "history": [
+    {
+      "id": "3uke0v9mvoiyzym",
+      "ts": 1792974916750,
+      "by": "fathin",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "deleted",
+      "item": "Hair net blue",
+      "no": "117",
+      "detail": ""
+    },
     {
       "id": "yzqwntsmvoi6ht7",
       "ts": 1792973586859,
@@ -23881,17 +23883,6 @@
       "item": "BURGER BUN (6'S)",
       "no": "40",
       "detail": "Qty 2 PKT, Frozen"
-    },
-    {
-      "id": "upol9atmv6ajxpi",
-      "ts": 1791872385894,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA PROTECTOR",
-      "action": "added",
-      "item": "BEAN SPROUTS",
-      "no": "36",
-      "detail": "Qty 2 KG, Chiller"
     }
   ]
 }
