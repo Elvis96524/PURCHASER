@@ -11283,9 +11283,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792658675969
+          "updated": 1792983443542
         },
         {
           "id": "85vk5qemvjaq9zw",
@@ -12891,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6o2av9omvoo1r9y",
+      "ts": 1792983443542,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "status",
+      "item": "Oreo vanilla Kraft 137gm",
+      "no": "103",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "c1seb6mmvonzj5f",
       "ts": 1792983339699,
@@ -23878,17 +23889,6 @@
       "action": "edited",
       "item": "YEO'S COCONUT JUICE 300ML",
       "no": "20",
-      "detail": "Notes changed"
-    },
-    {
-      "id": "exrd0oymv6csjzl",
-      "ts": 1791876147249,
-      "by": "chelson",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "edited",
-      "item": "ASSORTED VITAGEN LESS SUGAR",
-      "no": "Supervisor Team",
       "detail": "Notes changed"
     }
   ]
