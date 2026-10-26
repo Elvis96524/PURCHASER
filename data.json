@@ -11223,6 +11223,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792994333207
+        },
+        {
+          "id": "q48k4upmvoumlxx",
+          "added": 1792994494101,
+          "addedBy": "chelson",
+          "name": "Milo 3 in 1 33gm x18's",
+          "no": "21",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792994494101
         }
       ],
       "updated": 1792657873307
@@ -12933,6 +12947,17 @@
     }
   ],
   "history": [
+    {
+      "id": "o5njbzomvoumlxx",
+      "ts": 1792994494101,
+      "by": "chelson",
+      "vid": "dzgeeexmvja7nob",
+      "vname": "Sk Purpose NOV 1ST ORDER",
+      "action": "added",
+      "item": "Milo 3 in 1 33gm x18's",
+      "no": "21",
+      "detail": "Qty 2 Pkt, Dry"
+    },
     {
       "id": "yrdjahumvouj5sn",
       "ts": 1792994333207,
@@ -23921,17 +23946,6 @@
       "item": "Jantung Pisang",
       "no": "",
       "detail": "Qty 4 Nos, Chiller"
-    },
-    {
-      "id": "z0zrjptmv6fvpu5",
-      "ts": 1791881333645,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "added",
-      "item": "Pegaga",
-      "no": "",
-      "detail": "Qty 4 Ikat, Chiller"
     }
   ]
 }
