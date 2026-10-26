@@ -13160,12 +13160,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1793005471868
+        },
+        {
+          "id": "ny2sb0ymvp17b7k",
+          "added": 1793005537664,
+          "addedBy": "chelson",
+          "name": "Grape CYPRINA 12L x 1L",
+          "no": "45",
+          "qty": 1,
+          "unit": "Ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1793005537664
         }
       ],
       "updated": 1793005171547
     }
   ],
   "history": [
+    {
+      "id": "khdb5j3mvp17b7k",
+      "ts": 1793005537664,
+      "by": "chelson",
+      "vid": "ydppv5gmvp0zgpn",
+      "vname": "Endurance (26/10/26)",
+      "action": "added",
+      "item": "Grape CYPRINA 12L x 1L",
+      "no": "45",
+      "detail": "Qty 1 Ctn, Dry"
+    },
     {
       "id": "ltuytydmvp15wfx",
       "ts": 1793005471869,
@@ -24153,17 +24178,6 @@
       "action": "status",
       "item": "Tempe",
       "no": "64",
-      "detail": "Status: Ordered → Received"
-    },
-    {
-      "id": "a0lqez4mv7i93oo",
-      "ts": 1791945783528,
-      "by": "chelson",
-      "vid": "cqacw4fmuz9xxq1",
-      "vname": "OS ONE ( 15/10/2026 )",
-      "action": "status",
-      "item": "TEMPE",
-      "no": "",
       "detail": "Status: Ordered → Received"
     }
   ]
