@@ -10959,17 +10959,8 @@
         },
         {
           "id": "scxjjb3mviutp4k",
-          "added": 1792632027764,
-          "addedBy": "fathin",
-          "name": "SEASON SOYA BEAN 1LT",
-          "no": "",
-          "qty": 1,
-          "unit": "CTN",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "ordered",
-          "notes": "",
-          "updated": 1792632166562
+          "deleted": true,
+          "updated": 1793000105853
         },
         {
           "id": "fwnth19mviuu0qs",
@@ -13056,6 +13047,17 @@
     }
   ],
   "history": [
+    {
+      "id": "wavdt5kmvoxyvzx",
+      "ts": 1793000105853,
+      "by": "chelson",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "deleted",
+      "item": "SEASON SOYA BEAN 1LT",
+      "no": "",
+      "detail": ""
+    },
     {
       "id": "0p8mc7cmvoxyha0",
       "ts": 1793000086776,
@@ -24044,17 +24046,6 @@
       "item": "Kesum",
       "no": "",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "95td2zzmv7fcp8b",
-      "ts": 1791940912571,
-      "by": "fathin",
-      "vid": "7qfufh5mv7ek2et",
-      "vname": "HELANG INTEGRATED PLATFORM",
-      "action": "added",
-      "item": "MAGGI CURRY CUP",
-      "no": "FOR SUPERVISOR TEAM",
-      "detail": "Qty 30 CUP, Dry"
     }
   ]
 }
