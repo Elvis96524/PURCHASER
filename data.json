@@ -13076,11 +13076,37 @@
     {
       "id": "ydppv5gmvp0zgpn",
       "name": "Endurance (26/10/26)",
-      "items": [],
+      "items": [
+        {
+          "id": "d34yn04mvp10ed3",
+          "added": 1793005215159,
+          "addedBy": "chelson",
+          "name": "Tepung gandum Cap SAUH 1KG",
+          "no": "3",
+          "qty": 3,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1793005215159
+        }
+      ],
       "updated": 1793005171547
     }
   ],
   "history": [
+    {
+      "id": "tlhq5bumvp10ed4",
+      "ts": 1793005215160,
+      "by": "chelson",
+      "vid": "ydppv5gmvp0zgpn",
+      "vname": "Endurance (26/10/26)",
+      "action": "added",
+      "item": "Tepung gandum Cap SAUH 1KG",
+      "no": "3",
+      "detail": "Qty 3 Pkt, Dry"
+    },
     {
       "id": "4r222htmvp0zgpn",
       "ts": 1793005171547,
@@ -24067,17 +24093,6 @@
       "vname": "PERDANA ENDURANCE (16.10.2026)",
       "action": "status",
       "item": "Kucai",
-      "no": "",
-      "detail": "Status: To buy → Ordered"
-    },
-    {
-      "id": "4cm0cj3mv7g0gvk",
-      "ts": 1791942021488,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "status",
-      "item": "Tempe",
       "no": "",
       "detail": "Status: To buy → Ordered"
     }
