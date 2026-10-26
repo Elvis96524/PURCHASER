@@ -11480,9 +11480,9 @@
           "unit": "Kg",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792805424905
+          "updated": 1792996699008
         },
         {
           "id": "k0wkrg5mvlq8786",
@@ -12976,6 +12976,17 @@
     }
   ],
   "history": [
+    {
+      "id": "luzm68omvovxv9c",
+      "ts": 1792996699008,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "status",
+      "item": "White clam",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "qjugcgrmvovwed1",
       "ts": 1792996630453,
@@ -23964,17 +23975,6 @@
       "item": "Kucai",
       "no": "",
       "detail": "Qty 1 Kg, Chiller"
-    },
-    {
-      "id": "xmwz791mv6g35dn",
-      "ts": 1791881680379,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "added",
-      "item": "Kesum",
-      "no": "",
-      "detail": "Qty 3 Ikat, Chiller"
     }
   ]
 }
