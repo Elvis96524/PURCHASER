@@ -12686,9 +12686,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "Offer rplc cincalok",
-          "updated": 1793000269113,
+          "updated": 1793000282635,
           "updatedBy": "fse"
         },
         {
@@ -12701,9 +12701,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792824689622
+          "updated": 1793000284431
         },
         {
           "id": "c7c0fqzmvm1jufq",
@@ -13030,6 +13030,28 @@
     }
   ],
   "history": [
+    {
+      "id": "3bry4wqmvoy2psf",
+      "ts": 1793000284431,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Cincalok",
+      "no": "50",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "mflbislmvoy2oej",
+      "ts": 1793000282635,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Budu",
+      "no": "49",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "d6cq23emvoy2dyy",
       "ts": 1793000269114,
@@ -24005,28 +24027,6 @@
       "vname": "HELANG INTEGRATED PLATFORM",
       "action": "added",
       "item": "MEE SEDAP CUP",
-      "no": "FOR SUPERVISOR TEAM",
-      "detail": "Qty 30 CUP, Dry"
-    },
-    {
-      "id": "rmcojbomv7fdg6w",
-      "ts": 1791940947512,
-      "by": "chelson",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "status",
-      "item": "PUCUK UBI",
-      "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "g2ra71mmv7fd8xv",
-      "ts": 1791940938115,
-      "by": "fathin",
-      "vid": "7qfufh5mv7ek2et",
-      "vname": "HELANG INTEGRATED PLATFORM",
-      "action": "added",
-      "item": "MAGGI AYAM CUP",
       "no": "FOR SUPERVISOR TEAM",
       "detail": "Qty 30 CUP, Dry"
     }
