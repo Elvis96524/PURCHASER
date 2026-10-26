@@ -13055,12 +13055,37 @@
           "status": "received",
           "notes": "",
           "updated": 1793000021575
+        },
+        {
+          "id": "dd4aahemvozyzfm",
+          "added": 1793003469538,
+          "addedBy": "chelson",
+          "name": "Red bean paste 1kg",
+          "no": "68",
+          "qty": 10,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1793003469538
         }
       ],
       "updated": 1792975043438
     }
   ],
   "history": [
+    {
+      "id": "geb1qxkmvozyzfm",
+      "ts": 1793003469538,
+      "by": "chelson",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Red bean paste 1kg",
+      "no": "68",
+      "detail": "Qty 10 Pkt, Dry"
+    },
     {
       "id": "yav633ymvoylove",
       "ts": 1793001169706,
@@ -24048,17 +24073,6 @@
       "action": "status",
       "item": "Yam",
       "no": "56",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "j14u6zamv7fsb1d",
-      "ts": 1791941640673,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "status",
-      "item": "Yam",
-      "no": "59",
       "detail": "Status: To buy → Received"
     }
   ]
