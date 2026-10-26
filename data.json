@@ -12710,9 +12710,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792975171494,
+          "updated": 1792982936680,
           "updatedBy": "fathin"
         },
         {
@@ -12891,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "5z9slcjmvonqw6g",
+      "ts": 1792982936680,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Fourway crab 80g",
+      "no": "119 - FOR SUPERVISOR",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "hgre78rmvonoyg4",
       "ts": 1792982846308,
@@ -23879,17 +23890,6 @@
       "item": "",
       "no": "",
       "detail": "Renamed from \"PERDANA ENDURANCE ( 16.10.2026 - FRIDAY )\" to \"PERDANA ENDURANCE ( 16.10.2026 )\""
-    },
-    {
-      "id": "4n45w3rmv6c7wks",
-      "ts": 1791875183788,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA ENDURANCE ( 16.10.2026 - FRIDAY )",
-      "action": "vrename",
-      "item": "",
-      "no": "",
-      "detail": "Renamed from \"PERDANA ENDURANCE\" to \"PERDANA ENDURANCE ( 16.10.2026 - FRIDAY )\""
     }
   ]
 }
