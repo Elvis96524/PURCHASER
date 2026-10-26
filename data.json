@@ -10706,17 +10706,8 @@
         },
         {
           "id": "f2xh5jhmviul825",
-          "added": 1792631632397,
-          "addedBy": "fathin",
-          "name": "DRINHO GREEN TEA 1LT",
-          "no": "",
-          "qty": 2,
-          "unit": "CTN",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792631632397
+          "deleted": true,
+          "updated": 1793000004407
         },
         {
           "id": "v7rugy5mviullod",
@@ -11000,18 +10991,8 @@
         },
         {
           "id": "fwnth19mviuu0qs",
-          "added": 1792632042820,
-          "addedBy": "fathin",
-          "name": "DRINHO GREEN TEA 1LT",
-          "no": "",
-          "qty": 2,
-          "unit": "CTN",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792995218231,
-          "updatedBy": "chelson"
+          "deleted": true,
+          "updated": 1792999995004
         },
         {
           "id": "yh3eppumviuub1o",
@@ -13094,6 +13075,17 @@
   ],
   "history": [
     {
+      "id": "tvq4xx4mvoxwppz",
+      "ts": 1793000004407,
+      "by": "chelson",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "deleted",
+      "item": "DRINHO GREEN TEA 1LT",
+      "no": "",
+      "detail": ""
+    },
+    {
       "id": "hekji8imvoxwmmx",
       "ts": 1793000000409,
       "by": "fse",
@@ -13103,6 +13095,17 @@
       "item": "Ovalette 600gm",
       "no": "74",
       "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "s2gdkmkmvoxwigs",
+      "ts": 1792999995004,
+      "by": "chelson",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "deleted",
+      "item": "DRINHO GREEN TEA 1LT",
+      "no": "",
+      "detail": ""
     },
     {
       "id": "53h8kfamvoxwhlq",
@@ -24070,28 +24073,6 @@
       "item": "ADABI MEAT CURRY POWDER 250GM",
       "no": "",
       "detail": "Qty 10 PKT, Dry"
-    },
-    {
-      "id": "knmzoesmv7fb86z",
-      "ts": 1791940843835,
-      "by": "fathin",
-      "vid": "7qfufh5mv7ek2et",
-      "vname": "HELANG INTEGRATED PLATFORM",
-      "action": "added",
-      "item": "WHITE PEPPER POWDER 500GM ( Change to Aji Shio flavour pepper powder 250gm-300gm)",
-      "no": "",
-      "detail": "Qty 5 PKT, Dry"
-    },
-    {
-      "id": "q15zfsxmv7f9v6b",
-      "ts": 1791940780307,
-      "by": "fathin",
-      "vid": "7qfufh5mv7ek2et",
-      "vname": "HELANG INTEGRATED PLATFORM",
-      "action": "added",
-      "item": "BERAS BASMATHI 5KG",
-      "no": "",
-      "detail": "Qty 2 BAG, Dry"
     }
   ]
 }
