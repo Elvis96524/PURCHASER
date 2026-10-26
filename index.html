@@ -557,6 +557,30 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     if(!r.ok) throw httpErr(r);
     return {ok:true};
   }
+  /* When the admin replaces the data token (a renewal, or a deliberate change), data.json on GitHub is still
+     encrypted with a key derived from the OLD token. This re-encrypts it for the new one, using the old token
+     string still held on this device (even if GitHub itself has already stopped accepting it), so nobody gets
+     locked out and the file never sits briefly without working encryption. Silently does nothing if there is
+     no file yet, or it is not encrypted (a fresh plaintext file will simply be encrypted on the next save). */
+  async function reencryptOnTokenChange(cfgNew,oldToken){
+    var q="?ref="+encodeURIComponent(cfgNew.branch||"main")+"&_="+now();
+    var r=await gh(apiUrl(cfgNew)+q,{headers:ghHeaders(cfgNew),cache:"no-store"});
+    if(r.status===404||!r.ok) return;
+    var j=await r.json(), text;
+    if(j.encoding==="base64"&&typeof j.content==="string"&&j.content) text=b64dec(j.content);
+    else{
+      var r2=await gh(apiUrl(cfgNew)+q,{headers:ghHeaders(cfgNew,{"Accept":"application/vnd.github.raw+json"}),cache:"no-store"});
+      if(!r2.ok) return;
+      text=await r2.text();
+    }
+    if(!text.trim()) return;
+    var raw; try{ raw=JSON.parse(text); }catch(e){ return; }
+    if(!raw||raw.enc!==1) return;
+    var payload; try{ payload=await decryptPayload(oldToken,raw); }catch(e){ return; }
+    var blob=await encryptPayload(cfgNew.token,payload);
+    var body={message:"Re-encrypt purchasing list for the new data token",content:b64enc(JSON.stringify(blob,null,2)+"\n"),branch:cfgNew.branch||"main",sha:j.sha};
+    try{ await gh(apiUrl(cfgNew),{method:"PUT",headers:ghHeaders(cfgNew,{"Content-Type":"application/json"}),body:JSON.stringify(body)}); }catch(e){}
+  }
 
   function canon(x){
     if(Array.isArray(x)) return "["+x.map(canon).join(",")+"]";
@@ -904,7 +928,9 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     catch(e){ btn.disabled=false; btn.textContent="Save and connect"; adminError(e.message); return; }
     while(sync.busy) await sleep(100);
     var tokenChanged=prevAdmin&&prev.cfg.token!==token;
-    sess={id:"admin",role:"admin",cfg:{repo:repo,branch:branch,path:path,token:token}};
+    var newCfg={repo:repo,branch:branch,path:path,token:token};
+    if(tokenChanged){ try{ await reencryptOnTokenChange(newCfg,prev.cfg.token); }catch(e){} }
+    sess={id:"admin",role:"admin",cfg:newCfg};
     if(pub) sess.pub=pub;
     if(prevAdmin&&prev.pv) sess.pv=prev.pv;
     sync.probing=true;
