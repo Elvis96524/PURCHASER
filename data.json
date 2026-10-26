@@ -10887,6 +10887,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792997477093
+        },
+        {
+          "id": "38wxw7omvowfxa7",
+          "added": 1792997541439,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "28",
+          "qty": 2,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792997541439
         }
       ],
       "updated": 1792631545693
@@ -12990,6 +13004,17 @@
     }
   ],
   "history": [
+    {
+      "id": "59rueszmvowfxa7",
+      "ts": 1792997541439,
+      "by": "chelson",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "Kesum",
+      "no": "28",
+      "detail": "Qty 2 Ikat, Chiller"
+    },
     {
       "id": "v42ogkkmvowejmu",
       "ts": 1792997477094,
@@ -23978,17 +24003,6 @@
       "item": "ROTI GARDENIA",
       "no": "41",
       "detail": "Status: To buy → Ordered"
-    },
-    {
-      "id": "vii6uoxmv7cjm8f",
-      "ts": 1791936196431,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "status",
-      "item": "ROTI GARDENIA",
-      "no": "12",
-      "detail": "Status: Received → Ordered"
     }
   ]
 }
