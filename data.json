@@ -11905,9 +11905,9 @@
           "unit": "KG",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792726807624
+          "updated": 1793000680667
         },
         {
           "id": "zazi74imvke0fku",
@@ -13032,6 +13032,17 @@
     }
   ],
   "history": [
+    {
+      "id": "iri4xshmvoyb7iz",
+      "ts": 1793000680667,
+      "by": "lim",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "BEAN SPROUTS",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "y2134olmvoyb0a4",
       "ts": 1793000671276,
@@ -24018,17 +24029,6 @@
       "vname": "Prodigy",
       "action": "status",
       "item": "Pegaga",
-      "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "s1lxubqmv7ffdlp",
-      "ts": 1791941037469,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "status",
-      "item": "Jantung Pisang",
       "no": "",
       "detail": "Status: To buy → Received"
     }
