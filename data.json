@@ -12732,14 +12732,15 @@
           "added": 1792825172976,
           "addedBy": "chelson",
           "name": "MURUKU POPO 12GMX30'S",
-          "no": "124",
+          "no": "124 - FOR SUPERVISOR",
           "qty": 6,
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792825172976
+          "updated": 1792975155534,
+          "updatedBy": "fathin"
         },
         {
           "id": "vqzf7m7mvm1v36b",
@@ -12887,6 +12888,17 @@
     }
   ],
   "history": [
+    {
+      "id": "snz0nznmvoj447i",
+      "ts": 1792975155534,
+      "by": "fathin",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "edited",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "124 - FOR SUPERVISOR",
+      "detail": "No. 124 → 124 - FOR SUPERVISOR"
+    },
     {
       "id": "dmr8pzzmvoj3s33",
       "ts": 1792975139823,
@@ -23874,17 +23886,6 @@
       "action": "added",
       "item": "FLYING SWALLOW AGAR-AGAR 7GM",
       "no": "26",
-      "detail": "Qty 5 PKT, Dry"
-    },
-    {
-      "id": "p0fitbumv6aog0m",
-      "ts": 1791872596246,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA PROTECTOR",
-      "action": "added",
-      "item": "KARA BRAND SERBUK SANTAN KELAPA 50GM",
-      "no": "22",
       "detail": "Qty 5 PKT, Dry"
     }
   ]
