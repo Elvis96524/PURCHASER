@@ -12725,9 +12725,9 @@
           "unit": "Jar",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792975163470,
+          "updated": 1792982528216,
           "updatedBy": "fathin"
         },
         {
@@ -12891,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qyc5rwqmvoni508",
+      "ts": 1792982528216,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Calbury near Jar 450gm",
+      "no": "120 - FOR SUPERVISOR",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ec7qcvumvonhldb",
       "ts": 1792982502767,
@@ -23878,17 +23889,6 @@
       "action": "status",
       "item": "SPRITE 325ML",
       "no": "14",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "7p7sdrhmv6buyyd",
-      "ts": 1791874580341,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "status",
-      "item": "Sprite 1.5litre",
-      "no": "13",
       "detail": "Status: To buy → Received"
     }
   ]
