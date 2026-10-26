@@ -12789,8 +12789,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1792824966388
+          "notes": "Purchased 11btl",
+          "updated": 1793000336714,
+          "updatedBy": "fse"
         },
         {
           "id": "ilj10tnmvm1py9n",
@@ -13030,6 +13031,17 @@
     }
   ],
   "history": [
+    {
+      "id": "70fqa8zmvoy3u4q",
+      "ts": 1793000336714,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "edited",
+      "item": "Stain remover",
+      "no": "103",
+      "detail": "Notes added: \"Purchased 11btl\""
+    },
     {
       "id": "3bry4wqmvoy2psf",
       "ts": 1793000284431,
@@ -24018,17 +24030,6 @@
       "item": "MAGGI CURRY CUP (REQ ENEOS TL)",
       "no": "FOR SUPERVISOR TEAM",
       "detail": "Name \"MAGGI CURRY CUP\" → \"MAGGI CURRY CUP (REQ ENEOS TL)\""
-    },
-    {
-      "id": "4bve1r6mv7fdoyb",
-      "ts": 1791940958867,
-      "by": "fathin",
-      "vid": "7qfufh5mv7ek2et",
-      "vname": "HELANG INTEGRATED PLATFORM",
-      "action": "added",
-      "item": "MEE SEDAP CUP",
-      "no": "FOR SUPERVISOR TEAM",
-      "detail": "Qty 30 CUP, Dry"
     }
   ]
 }
