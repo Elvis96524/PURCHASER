@@ -11138,6 +11138,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792997802729
+        },
+        {
+          "id": "5yneyc0mvowmdai",
+          "added": 1792997842122,
+          "addedBy": "chelson",
+          "name": "Pegaga",
+          "no": "48",
+          "qty": 10,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792997842122
         }
       ],
       "updated": 1792631935685
@@ -13051,6 +13065,17 @@
     }
   ],
   "history": [
+    {
+      "id": "6nl7f3vmvowmdai",
+      "ts": 1792997842122,
+      "by": "chelson",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "Pegaga",
+      "no": "48",
+      "detail": "Qty 10 Ikat, Chiller"
+    },
     {
       "id": "1fsd1d7mvowliw9",
       "ts": 1792997802729,
@@ -24039,17 +24064,6 @@
       "item": "Pudina",
       "no": "25",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "ilpyh2kmv7elg0d",
-      "ts": 1791939640909,
-      "by": "fathin",
-      "vid": "7qfufh5mv7ek2et",
-      "vname": "HELANG INTEGRATED PLATFORM",
-      "action": "added",
-      "item": "PISANG EMAS",
-      "no": "63",
-      "detail": "Qty 15 KG, Chiller"
     }
   ]
 }
