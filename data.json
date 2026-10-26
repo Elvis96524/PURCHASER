@@ -10954,17 +10954,8 @@
         },
         {
           "id": "xkhpxn4mviutg8k",
-          "added": 1792632016244,
-          "addedBy": "fathin",
-          "name": "DRINHO ICE LEMON TEA 1LT",
-          "no": "",
-          "qty": 1,
-          "unit": "CTN",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792632016244
+          "deleted": true,
+          "updated": 1793000086776
         },
         {
           "id": "scxjjb3mviutp4k",
@@ -13065,6 +13056,17 @@
     }
   ],
   "history": [
+    {
+      "id": "0p8mc7cmvoxyha0",
+      "ts": 1793000086776,
+      "by": "chelson",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "deleted",
+      "item": "DRINHO ICE LEMON TEA 1LT",
+      "no": "",
+      "detail": ""
+    },
     {
       "id": "cycp1hdmvoxy5h0",
       "ts": 1793000071476,
@@ -24053,17 +24055,6 @@
       "item": "MAGGI CURRY CUP",
       "no": "FOR SUPERVISOR TEAM",
       "detail": "Qty 30 CUP, Dry"
-    },
-    {
-      "id": "520qwoimv7fcmuq",
-      "ts": 1791940909490,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "status",
-      "item": "TELUR MASIN 30'S ( FRESH PUTIH )",
-      "no": "5",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
