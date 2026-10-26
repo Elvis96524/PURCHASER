@@ -13132,12 +13132,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1793005418230
+        },
+        {
+          "id": "iz93t42mvp15jph",
+          "added": 1793005455365,
+          "addedBy": "chelson",
+          "name": "Burger bun 6's",
+          "no": "37",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1793005455365
         }
       ],
       "updated": 1793005171547
     }
   ],
   "history": [
+    {
+      "id": "1uofjv3mvp15jph",
+      "ts": 1793005455365,
+      "by": "chelson",
+      "vid": "ydppv5gmvp0zgpn",
+      "vname": "Endurance (26/10/26)",
+      "action": "added",
+      "item": "Burger bun 6's",
+      "no": "37",
+      "detail": "Qty 2 Pkt, Frozen"
+    },
     {
       "id": "2cefw0ymvp14r1y",
       "ts": 1793005418230,
@@ -24125,17 +24150,6 @@
       "action": "status",
       "item": "Tempe",
       "no": "71",
-      "detail": "Status: Ordered → Received"
-    },
-    {
-      "id": "0enlz4kmv7i8lnm",
-      "ts": 1791945760162,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "status",
-      "item": "Kucai",
-      "no": "",
       "detail": "Status: Ordered → Received"
     }
   ]
