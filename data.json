@@ -11311,9 +11311,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792658811008
+          "updated": 1792983539047
         },
         {
           "id": "rpxfvcwmvjasvuf",
@@ -12891,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "hqcmmiymvoo3syw",
+      "ts": 1792983539048,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "status",
+      "item": "Muruku ikan POPO 60gx10",
+      "no": "105",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "6o2av9omvoo1r9y",
       "ts": 1792983443542,
@@ -23879,17 +23890,6 @@
       "item": "BURGER BUN (6'S)",
       "no": "11",
       "detail": "Status: To buy → Ordered"
-    },
-    {
-      "id": "rxvfvbymv6dl1ln",
-      "ts": 1791877476443,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "edited",
-      "item": "YEO'S COCONUT JUICE 300ML",
-      "no": "20",
-      "detail": "Notes changed"
     }
   ]
 }
