@@ -12199,9 +12199,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792733366688
+          "updated": 1793000624315
         },
         {
           "id": "d8bwe9pmvkj6wep",
@@ -13031,6 +13031,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4mr6b8bmvoya01n",
+      "ts": 1793000624315,
+      "by": "lim",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "Terung asam",
+      "no": "22",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "124po31mvoy9trv",
       "ts": 1793000616187,
@@ -24019,17 +24030,6 @@
       "item": "Jantung pisang",
       "no": "31",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "db6a0bcmv7feg4j",
-      "ts": 1791940994083,
-      "by": "fathin",
-      "vid": "7qfufh5mv7ek2et",
-      "vname": "HELANG INTEGRATED PLATFORM",
-      "action": "edited",
-      "item": "MAGGI CURRY CUP",
-      "no": "FOR SUPERVISOR TEAM",
-      "detail": "Name \"MAGGI CURRY CUP (REQ ENEOS TL)\" → \"MAGGI CURRY CUP\""
     }
   ]
 }
