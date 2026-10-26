@@ -10846,9 +10846,9 @@
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792807340996,
+          "updated": 1793000054073,
           "updatedBy": "chelson"
         },
         {
@@ -13074,6 +13074,17 @@
     }
   ],
   "history": [
+    {
+      "id": "oqctvfgmvoxxs1l",
+      "ts": 1793000054073,
+      "by": "fse",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "status",
+      "item": "MARGARINE 18kg",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "ge611bumvoxx2yv",
       "ts": 1793000021575,
@@ -24062,17 +24073,6 @@
       "item": "MARGARINE 18KG",
       "no": "",
       "detail": "Qty 1 CTN, Dry"
-    },
-    {
-      "id": "qb93o7imv7fbuur",
-      "ts": 1791940873203,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "edited",
-      "item": "Daun ketumbar(offer daun sup)",
-      "no": "18",
-      "detail": "Name \"Daun ketumbar\" → \"Daun ketumbar(offer daun sup)\""
     }
   ]
 }
