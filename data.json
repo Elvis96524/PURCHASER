@@ -10949,17 +10949,8 @@
         },
         {
           "id": "yocanljmviut46c",
-          "added": 1792632000612,
-          "addedBy": "fathin",
-          "name": "DRINHO WINTERMELON 1LT",
-          "no": "",
-          "qty": 1,
-          "unit": "CTN",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792632000612
+          "deleted": true,
+          "updated": 1793000071476
         },
         {
           "id": "xkhpxn4mviutg8k",
@@ -13074,6 +13065,17 @@
     }
   ],
   "history": [
+    {
+      "id": "cycp1hdmvoxy5h0",
+      "ts": 1793000071476,
+      "by": "chelson",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "deleted",
+      "item": "DRINHO WINTERMELON 1LT",
+      "no": "",
+      "detail": ""
+    },
     {
       "id": "oqctvfgmvoxxs1l",
       "ts": 1793000054073,
@@ -24062,17 +24064,6 @@
       "item": "TELUR MASIN 30'S ( FRESH PUTIH )",
       "no": "5",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "7xcs2k2mv7fbw7v",
-      "ts": 1791940874971,
-      "by": "fathin",
-      "vid": "7qfufh5mv7ek2et",
-      "vname": "HELANG INTEGRATED PLATFORM",
-      "action": "added",
-      "item": "MARGARINE 18KG",
-      "no": "",
-      "detail": "Qty 1 CTN, Dry"
     }
   ]
 }
