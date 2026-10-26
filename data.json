@@ -11124,6 +11124,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792997767401
+        },
+        {
+          "id": "fwzjuavmvowliw9",
+          "added": 1792997802729,
+          "addedBy": "chelson",
+          "name": "Raja",
+          "no": "47",
+          "qty": 10,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792997802729
         }
       ],
       "updated": 1792631935685
@@ -13037,6 +13051,17 @@
     }
   ],
   "history": [
+    {
+      "id": "1fsd1d7mvowliw9",
+      "ts": 1792997802729,
+      "by": "chelson",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "Raja",
+      "no": "47",
+      "detail": "Qty 10 Ikat, Chiller"
+    },
     {
       "id": "pbq62ajmvowkrmx",
       "ts": 1792997767401,
@@ -24025,17 +24050,6 @@
       "item": "PISANG EMAS",
       "no": "63",
       "detail": "Qty 15 KG, Chiller"
-    },
-    {
-      "id": "4oppn5tmv7el2sd",
-      "ts": 1791939623773,
-      "by": "fathin",
-      "vid": "7qfufh5mv7ek2et",
-      "vname": "HELANG INTEGRATED PLATFORM",
-      "action": "added",
-      "item": "TEMPE",
-      "no": "53",
-      "detail": "Qty 15 PKT, Chiller"
     }
   ]
 }
