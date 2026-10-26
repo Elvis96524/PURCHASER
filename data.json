@@ -12633,8 +12633,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1792824824240
+          "notes": "Change to Marigold 1LT",
+          "updated": 1792975086351,
+          "updatedBy": "fathin"
         },
         {
           "id": "o2z7uxxmvm1n40a",
@@ -12884,6 +12885,17 @@
     }
   ],
   "history": [
+    {
+      "id": "vykalbumvoj2mts",
+      "ts": 1792975086352,
+      "by": "fathin",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "edited",
+      "item": "Drinkho wintermelon 1L x12's",
+      "no": "80",
+      "detail": "Notes added: \"Change to Marigold 1LT\""
+    },
     {
       "id": "3uke0v9mvoiyzym",
       "ts": 1792974916750,
@@ -23872,17 +23884,6 @@
       "item": "ROTI GARDENIA",
       "no": "41",
       "detail": "Qty 2 LOAF, Frozen"
-    },
-    {
-      "id": "doceovrmv6aldxz",
-      "ts": 1791872453591,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA PROTECTOR",
-      "action": "added",
-      "item": "BURGER BUN (6'S)",
-      "no": "40",
-      "detail": "Qty 2 PKT, Frozen"
     }
   ]
 }
