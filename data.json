@@ -12899,12 +12899,37 @@
           "status": "na",
           "notes": "",
           "updated": 1792982541271
+        },
+        {
+          "id": "9vt4gbemvottfl1",
+          "added": 1792993132837,
+          "addedBy": "fathin",
+          "name": "PANDAN ESSENCE 25ML",
+          "no": "66",
+          "qty": 12,
+          "unit": "BTL",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792993132836
         }
       ],
       "updated": 1792975043438
     }
   ],
   "history": [
+    {
+      "id": "c9kp91pmvottfl1",
+      "ts": 1792993132837,
+      "by": "fathin",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "PANDAN ESSENCE 25ML",
+      "no": "66",
+      "detail": "Qty 12 BTL, Dry"
+    },
     {
       "id": "a4hjhzmmvosw9a3",
       "ts": 1792991585019,
@@ -23893,17 +23918,6 @@
       "item": "Kucai",
       "no": "19",
       "detail": "Qty 2 Kg, Chiller"
-    },
-    {
-      "id": "j226jfjmv6ds2v3",
-      "ts": 1791877804671,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "status",
-      "item": "NO1 KACANG KACANG",
-      "no": "21",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
