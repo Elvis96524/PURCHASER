@@ -13003,12 +13003,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792993132836
+        },
+        {
+          "id": "jple5cxmvowkj0f",
+          "added": 1792997756223,
+          "addedBy": "fathin",
+          "name": "Cheddar cheese",
+          "no": "",
+          "qty": 5,
+          "unit": "KG",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792997756223
         }
       ],
       "updated": 1792975043438
     }
   ],
   "history": [
+    {
+      "id": "iqp19u6mvowkj0f",
+      "ts": 1792997756223,
+      "by": "fathin",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "added",
+      "item": "Cheddar cheese",
+      "no": "",
+      "detail": "Qty 5 KG, Dry"
+    },
     {
       "id": "zxzvhjlmvowj5ii",
       "ts": 1792997692074,
@@ -23997,17 +24022,6 @@
       "item": "PUCUK UBI",
       "no": "29",
       "detail": "Qty 15 BDL, Chiller"
-    },
-    {
-      "id": "jyzm1zbmv7ek2et",
-      "ts": 1791939576629,
-      "by": "fathin",
-      "vid": "7qfufh5mv7ek2et",
-      "vname": "HELANG INTEGRATED PLATFORM",
-      "action": "vadd",
-      "item": "",
-      "no": "",
-      "detail": "Vessel created"
     }
   ]
 }
