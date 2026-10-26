@@ -12632,9 +12632,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "Change to Marigold 1LT",
-          "updated": 1792975086351,
+          "updated": 1792982478924,
           "updatedBy": "fathin"
         },
         {
@@ -12891,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yxnhgv1mvonh2z0",
+      "ts": 1792982478924,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Drinkho wintermelon 1L x12's",
+      "no": "80",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "yqqg6vymvongu58",
       "ts": 1792982467484,
@@ -23879,17 +23890,6 @@
       "item": "DRINHO GREEN TEA 1LT",
       "no": "",
       "detail": "Qty 1 CTN, Dry"
-    },
-    {
-      "id": "xko0nm4mv6azx71",
-      "ts": 1791873131725,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA ENDURANCE",
-      "action": "added",
-      "item": "CHILI PADI BURUNG/CHILI PADI KAMPUNG",
-      "no": "9",
-      "detail": "Qty 1 KG, Chiller"
     }
   ]
 }
