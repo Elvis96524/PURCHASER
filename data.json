@@ -12818,9 +12818,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
-          "notes": "Purchased 11btl",
-          "updated": 1793000336714,
+          "status": "received",
+          "notes": "",
+          "updated": 1793001169706,
           "updatedBy": "fse"
         },
         {
@@ -13061,6 +13061,28 @@
     }
   ],
   "history": [
+    {
+      "id": "yav633ymvoylove",
+      "ts": 1793001169706,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Stain remover",
+      "no": "103",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "p0gipxxmvoylnc8",
+      "ts": 1793001167720,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "edited",
+      "item": "Stain remover",
+      "no": "103",
+      "detail": "Notes removed (was: \"Purchased 11btl\")"
+    },
     {
       "id": "zz15ivnmvoyg199",
       "ts": 1793000905821,
@@ -24038,28 +24060,6 @@
       "item": "Yam",
       "no": "59",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "9bwrh5rmv7fqzo8",
-      "ts": 1791941579288,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "status",
-      "item": "CEMPEDAK ( MASAK ) *subject to availability*",
-      "no": "63",
-      "detail": "Status: To buy → Ordered"
-    },
-    {
-      "id": "tctj64dmv7flp9j",
-      "ts": 1791941332519,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "status",
-      "item": "Kucai",
-      "no": "",
-      "detail": "Status: To buy → Ordered"
     }
   ]
 }
