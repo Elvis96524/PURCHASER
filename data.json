@@ -12792,9 +12792,9 @@
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792824770256
+          "updated": 1793000000409
         },
         {
           "id": "t7azw4imvm1lzu9",
@@ -13093,6 +13093,17 @@
     }
   ],
   "history": [
+    {
+      "id": "hekji8imvoxwmmx",
+      "ts": 1793000000409,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Ovalette 600gm",
+      "no": "74",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "53h8kfamvoxwhlq",
       "ts": 1792999993886,
@@ -24081,17 +24092,6 @@
       "item": "BERAS BASMATHI 5KG",
       "no": "",
       "detail": "Qty 2 BAG, Dry"
-    },
-    {
-      "id": "g1iyb8nmv7f9ih2",
-      "ts": 1791940763846,
-      "by": "fathin",
-      "vid": "7qfufh5mv7ek2et",
-      "vname": "HELANG INTEGRATED PLATFORM",
-      "action": "added",
-      "item": "SANTAN KARA 1LT",
-      "no": "",
-      "detail": "Qty 24 PKT, Dry"
     }
   ]
 }
