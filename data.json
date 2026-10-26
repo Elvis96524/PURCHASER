@@ -12854,9 +12854,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792827564784
+          "updated": 1792982494885
         },
         {
           "id": "8i154uemvm39j8i",
@@ -12891,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "5ujzh5xmvonhfad",
+      "ts": 1792982494885,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Pisang berangan",
+      "no": "80",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "yxnhgv1mvonh2z0",
       "ts": 1792982478924,
@@ -23879,17 +23890,6 @@
       "item": "Muruku 900gm ( Offer Muruku 12gmx24's )",
       "no": "67",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "xblx7o9mv6bmr6l",
-      "ts": 1791874197021,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA ENDURANCE",
-      "action": "added",
-      "item": "DRINHO GREEN TEA 1LT",
-      "no": "",
-      "detail": "Qty 1 CTN, Dry"
     }
   ]
 }
