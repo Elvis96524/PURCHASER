@@ -12798,9 +12798,9 @@
           "unit": "Pkt",
           "category": "Frozen",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792827453303
+          "updated": 1792982455500
         },
         {
           "id": "767zof2mvm36pro",
@@ -12812,9 +12812,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792827470580
+          "updated": 1792982454220
         },
         {
           "id": "coexb82mvm37l9j",
@@ -12891,6 +12891,28 @@
     }
   ],
   "history": [
+    {
+      "id": "9p265ujmvongkwc",
+      "ts": 1792982455501,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Tempe",
+      "no": "65",
+      "detail": "Status: To buy → Received"
+    },
+    {
+      "id": "6xuxi62mvongjws",
+      "ts": 1792982454220,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Petai",
+      "no": "66",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "gq7bmmnmvonfqqg",
       "ts": 1792982416408,
@@ -23868,28 +23890,6 @@
       "item": "CHILI PADI BURUNG",
       "no": "11",
       "detail": "Qty 1 KG, Dry"
-    },
-    {
-      "id": "69qt6g9mv6as1v2",
-      "ts": 1791872764526,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA ENDURANCE",
-      "action": "vrename",
-      "item": "",
-      "no": "",
-      "detail": "Renamed from \"PERDANA PROTECTOR\" to \"PERDANA ENDURANCE\""
-    },
-    {
-      "id": "cjgyh0emv6arj85",
-      "ts": 1791872740373,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA PROTECTOR",
-      "action": "added",
-      "item": "CHEEZEL CHEEZY BBQ PACKAGING 60GM ( TWISTIES)",
-      "no": "59",
-      "detail": "Qty 1 BDL, Dry"
     }
   ]
 }
