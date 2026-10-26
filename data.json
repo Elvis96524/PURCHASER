@@ -10901,6 +10901,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792997541439
+        },
+        {
+          "id": "1h92sk4mvowh52q",
+          "added": 1792997598194,
+          "addedBy": "chelson",
+          "name": "Pegaga",
+          "no": "43",
+          "qty": 5,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792997598194
         }
       ],
       "updated": 1792631545693
@@ -13004,6 +13018,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yr324g8mvowh52q",
+      "ts": 1792997598194,
+      "by": "chelson",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "Pegaga",
+      "no": "43",
+      "detail": "Qty 5 Ikat, Chiller"
+    },
     {
       "id": "59rueszmvowfxa7",
       "ts": 1792997541439,
@@ -23992,17 +24017,6 @@
       "item": "Daun ketumbar",
       "no": "18",
       "detail": "Qty 1 Kg, Chiller"
-    },
-    {
-      "id": "qe9820nmv7cjolw",
-      "ts": 1791936199508,
-      "by": "chelson",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA ENDURANCE (16.10.2026)",
-      "action": "status",
-      "item": "ROTI GARDENIA",
-      "no": "41",
-      "detail": "Status: To buy → Ordered"
     }
   ]
 }
