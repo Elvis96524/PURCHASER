@@ -12704,14 +12704,15 @@
           "added": 1792825086113,
           "addedBy": "chelson",
           "name": "Fourway crab 80g",
-          "no": "119",
+          "no": "119 - FOR SUPERVISOR",
           "qty": 5,
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792825086113
+          "updated": 1792975171494,
+          "updatedBy": "fathin"
         },
         {
           "id": "dzp4enhmvm1ssz7",
@@ -12889,6 +12890,17 @@
     }
   ],
   "history": [
+    {
+      "id": "q4sxs1jmvoj4giu",
+      "ts": 1792975171494,
+      "by": "fathin",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "edited",
+      "item": "Fourway crab 80g",
+      "no": "119 - FOR SUPERVISOR",
+      "detail": "No. 119 → 119 - FOR SUPERVISOR"
+    },
     {
       "id": "icdeb81mvoj4aby",
       "ts": 1792975163470,
@@ -23877,17 +23889,6 @@
       "item": "CORNTO",
       "no": "58",
       "detail": "Qty 1 BDL, Dry"
-    },
-    {
-      "id": "4ghebmomv6apoot",
-      "ts": 1791872654141,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA PROTECTOR",
-      "action": "added",
-      "item": "ADABI SERBUK KURMA 250GM",
-      "no": "30",
-      "detail": "Qty 1 PKT, Dry"
     }
   ]
 }
