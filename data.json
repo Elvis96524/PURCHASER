@@ -11451,9 +11451,9 @@
           "unit": "Kg",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792805803422
+          "updated": 1792983086664
         },
         {
           "id": "swjadpimvlqemxv",
@@ -12891,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "haffd4vmvonu3wo",
+      "ts": 1792983086664,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "status",
+      "item": "White sesame seed",
+      "no": "55",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "sqi2u4omvontbm9",
       "ts": 1792983050001,
@@ -23879,17 +23890,6 @@
       "item": "",
       "no": "",
       "detail": "Renamed from \"PERDANA ENDURANCE ( 16.10.2026 )\" to \"PERDANA ENDURANCE (16.10.2026)\""
-    },
-    {
-      "id": "ej480sumv6c8mqt",
-      "ts": 1791875217701,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "vrename",
-      "item": "",
-      "no": "",
-      "detail": "Renamed from \"PERDANA EMERALD\" to \"PERDANA EMERALD (16.10.2026)\""
     }
   ]
 }
