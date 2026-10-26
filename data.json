@@ -11468,6 +11468,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792806005155
+        },
+        {
+          "id": "gwqykfimvoq58d4",
+          "added": 1792986964888,
+          "addedBy": "fse",
+          "name": "Ayam brand sardine in tomato",
+          "no": "",
+          "qty": 8,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792986964888
         }
       ],
       "updated": 1792658282897
@@ -12891,6 +12905,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ugkz4h3mvoq58d4",
+      "ts": 1792986964888,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "Ayam brand sardine in tomato",
+      "no": "",
+      "detail": "Qty 8 Tin, Dry"
+    },
     {
       "id": "hqcmmiymvoo3syw",
       "ts": 1792983539048,
@@ -23879,17 +23904,6 @@
       "item": "ROTI GARDENIA",
       "no": "12",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "05e6mzdmv6drjg1",
-      "ts": 1791877779505,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "status",
-      "item": "BURGER BUN (6'S)",
-      "no": "11",
-      "detail": "Status: To buy → Ordered"
     }
   ]
 }
