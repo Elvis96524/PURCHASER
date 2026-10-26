@@ -10692,17 +10692,8 @@
         },
         {
           "id": "616mswnmviukxlx",
-          "added": 1792631618853,
-          "addedBy": "fathin",
-          "name": "SEASON SOYA BEAN 1LT",
-          "no": "",
-          "qty": 2,
-          "unit": "CTN",
-          "category": "Dry",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792631618853
+          "deleted": true,
+          "updated": 1793000118437
         },
         {
           "id": "f2xh5jhmviul825",
@@ -13047,6 +13038,17 @@
     }
   ],
   "history": [
+    {
+      "id": "5hol0mzmvoxz5ph",
+      "ts": 1793000118437,
+      "by": "chelson",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "deleted",
+      "item": "SEASON SOYA BEAN 1LT",
+      "no": "",
+      "detail": ""
+    },
     {
       "id": "wavdt5kmvoxyvzx",
       "ts": 1793000105853,
@@ -24031,17 +24033,6 @@
       "by": "chelson",
       "vid": "tptuuc9mv6aj647",
       "vname": "PERDANA ENDURANCE (16.10.2026)",
-      "action": "status",
-      "item": "Kesum",
-      "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "472s8lqmv7fd0dk",
-      "ts": 1791940927016,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
       "action": "status",
       "item": "Kesum",
       "no": "",
