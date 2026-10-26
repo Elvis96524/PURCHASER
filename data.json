@@ -10971,13 +10971,14 @@
           "addedBy": "fathin",
           "name": "DRINHO GREEN TEA 1LT",
           "no": "",
-          "qty": 1,
+          "qty": 2,
           "unit": "CTN",
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792632042820
+          "updated": 1792995218231,
+          "updatedBy": "chelson"
         },
         {
           "id": "yh3eppumviuub1o",
@@ -12975,6 +12976,17 @@
     }
   ],
   "history": [
+    {
+      "id": "s8c0f8ymvov24on",
+      "ts": 1792995218231,
+      "by": "chelson",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "edited",
+      "item": "DRINHO GREEN TEA 1LT",
+      "no": "",
+      "detail": "Qty 1 → 2"
+    },
     {
       "id": "ezjxlzymvouzbws",
       "ts": 1792995087628,
@@ -23963,17 +23975,6 @@
       "item": "Yogurt 130gm mix",
       "no": "",
       "detail": "Qty 30 Cup, Chiller"
-    },
-    {
-      "id": "prhwak0mv6fz1vc",
-      "ts": 1791881489208,
-      "by": "chelson",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA ENDURANCE (16.10.2026)",
-      "action": "added",
-      "item": "Kucai",
-      "no": "",
-      "detail": "Qty 1 Kg, Chiller"
     }
   ]
 }
