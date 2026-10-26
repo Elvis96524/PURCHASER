@@ -12740,9 +12740,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792975155534,
+          "updated": 1792983050001,
           "updatedBy": "fathin"
         },
         {
@@ -12891,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "sqi2u4omvontbm9",
+      "ts": 1792983050001,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "MURUKU POPO 12GMX30'S",
+      "no": "124 - FOR SUPERVISOR",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "5z9slcjmvonqw6g",
       "ts": 1792982936680,
@@ -23879,17 +23890,6 @@
       "item": "",
       "no": "",
       "detail": "Renamed from \"PERDANA EMERALD\" to \"PERDANA EMERALD (16.10.2026)\""
-    },
-    {
-      "id": "ne8xbyvmv6c88m4",
-      "ts": 1791875199388,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA ENDURANCE ( 16.10.2026 )",
-      "action": "vrename",
-      "item": "",
-      "no": "",
-      "detail": "Renamed from \"PERDANA ENDURANCE ( 16.10.2026 - FRIDAY )\" to \"PERDANA ENDURANCE ( 16.10.2026 )\""
     }
   ]
 }
