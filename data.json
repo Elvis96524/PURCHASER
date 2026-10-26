@@ -12663,8 +12663,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1792824926263
+          "notes": "Change to Marigold 1LT",
+          "updated": 1792975203006,
+          "updatedBy": "fathin"
         },
         {
           "id": "6pqnynxmvm1p1is",
@@ -12890,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "3i67h1tmvoj54u6",
+      "ts": 1792975203006,
+      "by": "fathin",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "edited",
+      "item": "Drinkho Green Tea 1L x12's",
+      "no": "84",
+      "detail": "Notes added: \"Change to Marigold 1LT\""
+    },
     {
       "id": "q4sxs1jmvoj4giu",
       "ts": 1792975171494,
@@ -23878,17 +23890,6 @@
       "item": "CORNTOZ ASSORTED FLAVOUR PACKAGING 60-100GM",
       "no": "58",
       "detail": "Name \"CORNTO\" → \"CORNTOZ ASSORTED FLAVOUR PACKAGING 60-100GM\""
-    },
-    {
-      "id": "ezewsfdmv6aqkot",
-      "ts": 1791872695613,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA PROTECTOR",
-      "action": "added",
-      "item": "CORNTO",
-      "no": "58",
-      "detail": "Qty 1 BDL, Dry"
     }
   ]
 }
