@@ -11437,9 +11437,9 @@
           "unit": "Pkt",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792805704854
+          "updated": 1792983339699
         },
         {
           "id": "9vl77z7mvlqaba6",
@@ -12891,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "c1seb6mmvonzj5f",
+      "ts": 1792983339699,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "status",
+      "item": "Sugar cracker Hupseng 428g",
+      "no": "78",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "hof8p01mvonxr2u",
       "ts": 1792983256662,
@@ -23879,17 +23890,6 @@
       "item": "ASSORTED VITAGEN LESS SUGAR",
       "no": "Supervisor Team",
       "detail": "Notes changed"
-    },
-    {
-      "id": "kgxh4uhmv6crye2",
-      "ts": 1791876119258,
-      "by": "chelson",
-      "vid": "ctgml0xmv0ae5xm",
-      "vname": "KEYFIELD WISDOM  ( 16/10/2026 )",
-      "action": "status",
-      "item": "ASSORTED VITAGEN LESS SUGAR",
-      "no": "Supervisor Team",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
