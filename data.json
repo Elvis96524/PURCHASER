@@ -12548,6 +12548,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792973507802
+        },
+        {
+          "id": "tt6eodvmvoi5tb9",
+          "added": 1792973555109,
+          "addedBy": "fse",
+          "name": "Tatura salted butter 250gm",
+          "no": "132",
+          "qty": 5,
+          "unit": "Pcs",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792973555109
         }
       ],
       "updated": 1792803406992
@@ -12897,6 +12911,17 @@
     }
   ],
   "history": [
+    {
+      "id": "87jfgaqmvoi5tb9",
+      "ts": 1792973555109,
+      "by": "fse",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "Tatura salted butter 250gm",
+      "no": "132",
+      "detail": "Qty 5 Pcs, Frozen"
+    },
     {
       "id": "84wqh8dmvoi4st6",
       "ts": 1792973507802,
@@ -23885,17 +23910,6 @@
       "item": "White clam 1kg",
       "no": "62",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "p6eck19mv6abot4",
-      "ts": 1791872001112,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "status",
-      "item": "Wholemeal bread",
-      "no": "65",
-      "detail": "Status: To buy → Ordered"
     }
   ]
 }
