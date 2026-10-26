@@ -12537,17 +12537,8 @@
         },
         {
           "id": "svq77vimvoi4st6",
-          "added": 1792973507802,
-          "addedBy": "fse",
-          "name": "White clam",
-          "no": "140",
-          "qty": 5,
-          "unit": "Kg",
-          "category": "Frozen",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792973507802
+          "deleted": true,
+          "updated": 1792973586859
         },
         {
           "id": "tt6eodvmvoi5tb9",
@@ -12902,6 +12893,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yzqwntsmvoi6ht7",
+      "ts": 1792973586859,
+      "by": "fse",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "deleted",
+      "item": "White clam",
+      "no": "140",
+      "detail": ""
+    },
     {
       "id": "enb5umpmvoi6d63",
       "ts": 1792973580843,
@@ -23890,17 +23892,6 @@
       "item": "BEAN SPROUTS",
       "no": "36",
       "detail": "Qty 2 KG, Chiller"
-    },
-    {
-      "id": "8lo6zhvmv6aj647",
-      "ts": 1791872350135,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA PROTECTOR",
-      "action": "vadd",
-      "item": "",
-      "no": "",
-      "detail": "Vessel created"
     }
   ]
 }
