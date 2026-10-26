@@ -11110,6 +11110,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792632138693
+        },
+        {
+          "id": "kuswem6mvowkrmx",
+          "added": 1792997767401,
+          "addedBy": "chelson",
+          "name": "Kesum",
+          "no": "38",
+          "qty": 2,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792997767401
         }
       ],
       "updated": 1792631935685
@@ -13023,6 +13037,17 @@
     }
   ],
   "history": [
+    {
+      "id": "pbq62ajmvowkrmx",
+      "ts": 1792997767401,
+      "by": "chelson",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "Kesum",
+      "no": "38",
+      "detail": "Qty 2 Ikat, Chiller"
+    },
     {
       "id": "iqp19u6mvowkj0f",
       "ts": 1792997756223,
@@ -24011,17 +24036,6 @@
       "item": "TEMPE",
       "no": "53",
       "detail": "Qty 15 PKT, Chiller"
-    },
-    {
-      "id": "2slsfnjmv7ekmst",
-      "ts": 1791939603053,
-      "by": "fathin",
-      "vid": "7qfufh5mv7ek2et",
-      "vname": "HELANG INTEGRATED PLATFORM",
-      "action": "added",
-      "item": "PUCUK UBI",
-      "no": "29",
-      "detail": "Qty 15 BDL, Chiller"
     }
   ]
 }
