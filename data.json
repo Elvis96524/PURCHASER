@@ -13146,12 +13146,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1793005455365
+        },
+        {
+          "id": "cqojdmtmvp15wfw",
+          "added": 1793005471868,
+          "addedBy": "chelson",
+          "name": "Gardenia",
+          "no": "38",
+          "qty": 4,
+          "unit": "Loaf",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1793005471868
         }
       ],
       "updated": 1793005171547
     }
   ],
   "history": [
+    {
+      "id": "ltuytydmvp15wfx",
+      "ts": 1793005471869,
+      "by": "chelson",
+      "vid": "ydppv5gmvp0zgpn",
+      "vname": "Endurance (26/10/26)",
+      "action": "added",
+      "item": "Gardenia",
+      "no": "38",
+      "detail": "Qty 4 Loaf, Frozen"
+    },
     {
       "id": "1uofjv3mvp15jph",
       "ts": 1793005455365,
@@ -24139,17 +24164,6 @@
       "action": "status",
       "item": "TEMPE",
       "no": "",
-      "detail": "Status: Ordered → Received"
-    },
-    {
-      "id": "0vuq1f8mv7i8zi5",
-      "ts": 1791945778109,
-      "by": "chelson",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "status",
-      "item": "Tempe",
-      "no": "71",
       "detail": "Status: Ordered → Received"
     }
   ]
