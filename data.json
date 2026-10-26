@@ -11578,6 +11578,20 @@
           "status": "received",
           "notes": "",
           "updated": 1792996630452
+        },
+        {
+          "id": "sq9cxsrmvoyf5p5",
+          "added": 1793000864921,
+          "addedBy": "farah",
+          "name": "marigold blackcurant 1lx12's",
+          "no": "102",
+          "qty": 1,
+          "unit": "ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1793000864921
         }
       ],
       "updated": 1792658282897
@@ -13033,6 +13047,17 @@
     }
   ],
   "history": [
+    {
+      "id": "lx2gr2amvoyf5p5",
+      "ts": 1793000864921,
+      "by": "farah",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "marigold blackcurant 1lx12's",
+      "no": "102",
+      "detail": "Qty 1 ctn, Dry"
+    },
     {
       "id": "0yfshxvmvoybkkj",
       "ts": 1793000697571,
@@ -24021,17 +24046,6 @@
       "item": "ULAM SELOM",
       "no": "48",
       "detail": "Status: To buy → N/A"
-    },
-    {
-      "id": "8f4vhiimv7fkgr5",
-      "ts": 1791941274833,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "status",
-      "item": "Pakis",
-      "no": "",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
