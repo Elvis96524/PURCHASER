@@ -11166,6 +11166,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792997868555
+        },
+        {
+          "id": "v30bo2ymvowq2tc",
+          "added": 1792998015168,
+          "addedBy": "chelson",
+          "name": "Philippine Mango",
+          "no": "66",
+          "qty": 5,
+          "unit": "Kg",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792998015168
         }
       ],
       "updated": 1792631935685
@@ -13079,6 +13093,17 @@
     }
   ],
   "history": [
+    {
+      "id": "oao1vawmvowq2tc",
+      "ts": 1792998015168,
+      "by": "chelson",
+      "vid": "aq1oi9gmviurq2t",
+      "vname": "HELANG INTEGRATED PLATFORM",
+      "action": "added",
+      "item": "Philippine Mango",
+      "no": "66",
+      "detail": "Qty 5 Kg, Chiller"
+    },
     {
       "id": "z3s6nigmvowmxos",
       "ts": 1792997868556,
@@ -24067,17 +24092,6 @@
       "item": "BERAS BASMATHI",
       "no": "",
       "detail": ""
-    },
-    {
-      "id": "4n2hekwmv7evi57",
-      "ts": 1791940110235,
-      "by": "fathin",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "added",
-      "item": "BERAS BASMATHI",
-      "no": "",
-      "detail": "Qty 2 BAG, Dry"
     }
   ]
 }
