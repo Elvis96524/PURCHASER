@@ -12746,14 +12746,15 @@
           "added": 1792825248467,
           "addedBy": "chelson",
           "name": "Assorted vitagen less sugar",
-          "no": "134",
+          "no": "134 - FOR SUPERVISOR",
           "qty": 6,
           "unit": "Pkt",
           "category": "Chiller",
           "priority": "normal",
           "status": "tobuy",
           "notes": "",
-          "updated": 1792825248467
+          "updated": 1792975139822,
+          "updatedBy": "fathin"
         },
         {
           "id": "y7urgodmvm34bpq",
@@ -12886,6 +12887,17 @@
     }
   ],
   "history": [
+    {
+      "id": "dmr8pzzmvoj3s33",
+      "ts": 1792975139823,
+      "by": "fathin",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "edited",
+      "item": "Assorted vitagen less sugar",
+      "no": "134 - FOR SUPERVISOR",
+      "detail": "No. 134 → 134 - FOR SUPERVISOR"
+    },
     {
       "id": "alhz5kbmvoj2zce",
       "ts": 1792975102574,
@@ -23873,17 +23885,6 @@
       "action": "added",
       "item": "KARA BRAND SERBUK SANTAN KELAPA 50GM",
       "no": "22",
-      "detail": "Qty 5 PKT, Dry"
-    },
-    {
-      "id": "brsoio9mv6amv0l",
-      "ts": 1791872522373,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA PROTECTOR",
-      "action": "added",
-      "item": "TEPUNG CAP SAUH 1KG",
-      "no": "3",
       "detail": "Qty 5 PKT, Dry"
     }
   ]
