@@ -11530,7 +11530,7 @@
           "id": "gwqykfimvoq58d4",
           "added": 1792986964888,
           "addedBy": "fse",
-          "name": "Ayam brand sardine in tomato",
+          "name": "Ayam brand sardine in tomato offer mackerel in tin",
           "no": "",
           "qty": 8,
           "unit": "Tin",
@@ -11538,7 +11538,7 @@
           "priority": "normal",
           "status": "received",
           "notes": "",
-          "updated": 1792994945233
+          "updated": 1792996630452
         }
       ],
       "updated": 1792658282897
@@ -12976,6 +12976,17 @@
     }
   ],
   "history": [
+    {
+      "id": "qjugcgrmvovwed1",
+      "ts": 1792996630453,
+      "by": "fse",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "edited",
+      "item": "Ayam brand sardine in tomato offer mackerel in tin",
+      "no": "",
+      "detail": "Name \"Ayam brand sardine in tomato\" → \"Ayam brand sardine in tomato offer mackerel in tin\""
+    },
     {
       "id": "s8c0f8ymvov24on",
       "ts": 1792995218231,
@@ -23964,17 +23975,6 @@
       "item": "Kesum",
       "no": "",
       "detail": "Qty 3 Ikat, Chiller"
-    },
-    {
-      "id": "6gsmpvsmv6g0hi8",
-      "ts": 1791881556128,
-      "by": "chelson",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA ENDURANCE (16.10.2026)",
-      "action": "added",
-      "item": "Yogurt 130gm mix",
-      "no": "",
-      "detail": "Qty 30 Cup, Chiller"
     }
   ]
 }
