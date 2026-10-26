@@ -12882,15 +12882,26 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792827752852
+          "updated": 1792982541271
         }
       ],
       "updated": 1792975043438
     }
   ],
   "history": [
+    {
+      "id": "e079gitmvonif2v",
+      "ts": 1792982541271,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Terung asam",
+      "no": "",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "qyc5rwqmvoni508",
       "ts": 1792982528216,
@@ -23879,17 +23890,6 @@
       "item": "SPRITE 325ML",
       "no": "14",
       "detail": "Notes changed"
-    },
-    {
-      "id": "hte9qsgmv6byx77",
-      "ts": 1791874764691,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "status",
-      "item": "SPRITE 325ML",
-      "no": "14",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
