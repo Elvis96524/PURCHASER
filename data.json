@@ -10368,6 +10368,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792995032670
+        },
+        {
+          "id": "lxuxxlimvouzbws",
+          "added": 1792995087628,
+          "addedBy": "chelson",
+          "name": "Blue pillow case 70cm x 40cm",
+          "no": "Gallery 13",
+          "qty": 15,
+          "unit": "Pcs",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792995087628
         }
       ],
       "updated": 1792545915654
@@ -12961,6 +12975,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ezjxlzymvouzbws",
+      "ts": 1792995087628,
+      "by": "chelson",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "added",
+      "item": "Blue pillow case 70cm x 40cm",
+      "no": "Gallery 13",
+      "detail": "Qty 15 Pcs, Dry"
+    },
     {
       "id": "w7heagimvouy5i6",
       "ts": 1792995032670,
@@ -23949,17 +23974,6 @@
       "item": "Kucai",
       "no": "",
       "detail": "Qty 1 Kg, Chiller"
-    },
-    {
-      "id": "e61w76qmv6fyrrj",
-      "ts": 1791881476111,
-      "by": "chelson",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA ENDURANCE (16.10.2026)",
-      "action": "added",
-      "item": "Kesum",
-      "no": "",
-      "detail": "Qty 2 Ikat, Chiller"
     }
   ]
 }
