@@ -13174,12 +13174,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1793005537664
+        },
+        {
+          "id": "tdsvk1bmvp18kgp",
+          "added": 1793005596313,
+          "addedBy": "chelson",
+          "name": "Sunquick Mandarin 840ml",
+          "no": "54",
+          "qty": 1,
+          "unit": "Btl",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1793005596313
         }
       ],
       "updated": 1793005171547
     }
   ],
   "history": [
+    {
+      "id": "ixcotnlmvp18kgp",
+      "ts": 1793005596313,
+      "by": "chelson",
+      "vid": "ydppv5gmvp0zgpn",
+      "vname": "Endurance (26/10/26)",
+      "action": "added",
+      "item": "Sunquick Mandarin 840ml",
+      "no": "54",
+      "detail": "Qty 1 Btl, Dry"
+    },
     {
       "id": "khdb5j3mvp17b7k",
       "ts": 1793005537664,
@@ -24167,17 +24192,6 @@
       "action": "status",
       "item": "Tempe",
       "no": "",
-      "detail": "Status: Ordered → Received"
-    },
-    {
-      "id": "w47b6udmv7i96pk",
-      "ts": 1791945787448,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Tempe",
-      "no": "64",
       "detail": "Status: Ordered → Received"
     }
   ]
