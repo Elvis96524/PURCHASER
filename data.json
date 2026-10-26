@@ -12562,9 +12562,9 @@
           "unit": "Btl",
           "category": "Dry",
           "priority": "normal",
-          "status": "ordered",
+          "status": "received",
           "notes": "",
-          "updated": 1792825724707
+          "updated": 1792982416407
         },
         {
           "id": "8rzvkvemvm1injw",
@@ -12891,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "gq7bmmnmvonfqqg",
+      "ts": 1792982416408,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "White vinegar 630ml",
+      "no": "45",
+      "detail": "Status: Ordered → Received"
+    },
     {
       "id": "3i67h1tmvoj54u6",
       "ts": 1792975203006,
@@ -23879,17 +23890,6 @@
       "item": "CHEEZEL CHEEZY BBQ PACKAGING 60GM ( TWISTIES)",
       "no": "59",
       "detail": "Qty 1 BDL, Dry"
-    },
-    {
-      "id": "d5go5xzmv6aqs66",
-      "ts": 1791872705310,
-      "by": "fathin",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA PROTECTOR",
-      "action": "edited",
-      "item": "CORNTOZ ASSORTED FLAVOUR PACKAGING 60-100GM",
-      "no": "58",
-      "detail": "Name \"CORNTO\" → \"CORNTOZ ASSORTED FLAVOUR PACKAGING 60-100GM\""
     }
   ]
 }
