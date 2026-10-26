@@ -13104,12 +13104,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1793005261871
+        },
+        {
+          "id": "09jhfrimvp12voa",
+          "added": 1793005330906,
+          "addedBy": "chelson",
+          "name": "Sardine TOMATO SAUCE 425gm AYAM BRAND",
+          "no": "17",
+          "qty": 3,
+          "unit": "Tin",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1793005330906
         }
       ],
       "updated": 1793005171547
     }
   ],
   "history": [
+    {
+      "id": "7zs6k7smvp12voa",
+      "ts": 1793005330906,
+      "by": "chelson",
+      "vid": "ydppv5gmvp0zgpn",
+      "vname": "Endurance (26/10/26)",
+      "action": "added",
+      "item": "Sardine TOMATO SAUCE 425gm AYAM BRAND",
+      "no": "17",
+      "detail": "Qty 3 Tin, Dry"
+    },
     {
       "id": "0aux14lmvp11een",
       "ts": 1793005261871,
@@ -24097,17 +24122,6 @@
       "action": "status",
       "item": "Kucai",
       "no": "",
-      "detail": "Status: Ordered → Received"
-    },
-    {
-      "id": "fng2rbsmv7i8dfw",
-      "ts": 1791945749516,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "status",
-      "item": "Kucai",
-      "no": "19",
       "detail": "Status: Ordered → Received"
     }
   ]
