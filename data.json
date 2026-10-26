@@ -12647,9 +12647,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "Change to Marigold 1LT",
-          "updated": 1792975102573,
+          "updated": 1792982558154,
           "updatedBy": "fathin"
         },
         {
@@ -12891,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "ojhgjcqmvonis3u",
+      "ts": 1792982558154,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Drinkho ice lemon Tea 1L x 12's",
+      "no": "81",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "e079gitmvonif2v",
       "ts": 1792982541271,
@@ -23879,17 +23890,6 @@
       "item": "Indomie soto",
       "no": "96",
       "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "hpzogr6mv6bzfkp",
-      "ts": 1791874788505,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "edited",
-      "item": "SPRITE 325ML",
-      "no": "14",
-      "detail": "Notes changed"
     }
   ]
 }
