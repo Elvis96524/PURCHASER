@@ -13090,12 +13090,37 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1793005215159
+        },
+        {
+          "id": "e3cobzbmvp11een",
+          "added": 1793005261871,
+          "addedBy": "chelson",
+          "name": "Puteri margarine 1kg",
+          "no": "6",
+          "qty": 2,
+          "unit": "Pkt",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1793005261871
         }
       ],
       "updated": 1793005171547
     }
   ],
   "history": [
+    {
+      "id": "0aux14lmvp11een",
+      "ts": 1793005261871,
+      "by": "chelson",
+      "vid": "ydppv5gmvp0zgpn",
+      "vname": "Endurance (26/10/26)",
+      "action": "added",
+      "item": "Puteri margarine 1kg",
+      "no": "6",
+      "detail": "Qty 2 Pkt, Dry"
+    },
     {
       "id": "tlhq5bumvp10ed4",
       "ts": 1793005215160,
@@ -24084,17 +24109,6 @@
       "item": "Kucai",
       "no": "19",
       "detail": "Status: Ordered → Received"
-    },
-    {
-      "id": "6gjhsy9mv7g61a8",
-      "ts": 1791942281216,
-      "by": "chelson",
-      "vid": "tptuuc9mv6aj647",
-      "vname": "PERDANA ENDURANCE (16.10.2026)",
-      "action": "status",
-      "item": "Kucai",
-      "no": "",
-      "detail": "Status: To buy → Ordered"
     }
   ]
 }
