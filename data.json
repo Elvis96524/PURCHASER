@@ -12795,9 +12795,9 @@
           "unit": "Pcs",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792825008827
+          "updated": 1792997692073
         },
         {
           "id": "lsfxv0wmvm1qw5a",
@@ -13009,6 +13009,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zxzvhjlmvowj5ii",
+      "ts": 1792997692074,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Ambipur gel",
+      "no": "104",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "4l1urxsmvowhrap",
       "ts": 1792997626993,
@@ -23997,17 +24008,6 @@
       "item": "",
       "no": "",
       "detail": "Vessel created"
-    },
-    {
-      "id": "sckr2rkmv7e5xdz",
-      "ts": 1791938916935,
-      "by": "farah",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "edited",
-      "item": "Maggi cup curry (offer hot cup asam laksa)",
-      "no": "50",
-      "detail": "Name \"Maggi cup curry\" → \"Maggi cup curry (offer hot cup asam laksa)\""
     }
   ]
 }
