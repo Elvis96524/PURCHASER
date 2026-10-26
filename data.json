@@ -12840,9 +12840,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792827542426
+          "updated": 1792982467484
         },
         {
           "id": "bags1womvm38qgg",
@@ -12891,6 +12891,17 @@
     }
   ],
   "history": [
+    {
+      "id": "yqqg6vymvongu58",
+      "ts": 1792982467484,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Pisang sabah",
+      "no": "79",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "9p265ujmvongkwc",
       "ts": 1792982455501,
@@ -23879,17 +23890,6 @@
       "item": "CHILI PADI BURUNG/CHILI PADI KAMPUNG",
       "no": "9",
       "detail": "Qty 1 KG, Chiller"
-    },
-    {
-      "id": "stsnr1kmv6az2y9",
-      "ts": 1791873092529,
-      "by": "fathin",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "added",
-      "item": "CHILI PADI BURUNG",
-      "no": "11",
-      "detail": "Qty 1 KG, Dry"
     }
   ]
 }
