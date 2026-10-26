@@ -11592,6 +11592,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1793000864921
+        },
+        {
+          "id": "u4ox0ynmvoyg199",
+          "added": 1793000905821,
+          "addedBy": "farah",
+          "name": "sprite 1.5lx12's",
+          "no": "19",
+          "qty": 2,
+          "unit": "ctn",
+          "category": "Dry",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1793000905821
         }
       ],
       "updated": 1792658282897
@@ -13047,6 +13061,17 @@
     }
   ],
   "history": [
+    {
+      "id": "zz15ivnmvoyg199",
+      "ts": 1793000905821,
+      "by": "farah",
+      "vid": "prow0qdmvjagfpt",
+      "vname": "Sk Prelude NOV",
+      "action": "added",
+      "item": "sprite 1.5lx12's",
+      "no": "19",
+      "detail": "Qty 2 ctn, Dry"
+    },
     {
       "id": "lx2gr2amvoyf5p5",
       "ts": 1793000864921,
@@ -24035,17 +24060,6 @@
       "item": "Kucai",
       "no": "",
       "detail": "Status: To buy → Ordered"
-    },
-    {
-      "id": "1ddag3mmv7fl9on",
-      "ts": 1791941312327,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "status",
-      "item": "ULAM SELOM",
-      "no": "48",
-      "detail": "Status: To buy → N/A"
     }
   ]
 }
