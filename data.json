@@ -12687,8 +12687,9 @@
           "category": "Dry",
           "priority": "normal",
           "status": "tobuy",
-          "notes": "",
-          "updated": 1792824668348
+          "notes": "Offer rplc cincalok",
+          "updated": 1793000269113,
+          "updatedBy": "fse"
         },
         {
           "id": "k3a7ii4mvm1j3yu",
@@ -13029,6 +13030,17 @@
     }
   ],
   "history": [
+    {
+      "id": "d6cq23emvoy2dyy",
+      "ts": 1793000269114,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "edited",
+      "item": "Budu",
+      "no": "49",
+      "detail": "Notes added: \"Offer rplc cincalok\""
+    },
     {
       "id": "ah7xkh6mvoxzfnr",
       "ts": 1793000131335,
@@ -24017,17 +24029,6 @@
       "item": "MAGGI AYAM CUP",
       "no": "FOR SUPERVISOR TEAM",
       "detail": "Qty 30 CUP, Dry"
-    },
-    {
-      "id": "mwineopmv7fd6mo",
-      "ts": 1791940935120,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "status",
-      "item": "Kesum",
-      "no": "",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
