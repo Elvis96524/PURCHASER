@@ -19,14 +19,14 @@
   --paper:#E8EEF1; --panel:#F7FAFB; --ink:#0E2A3D; --muted:#5A7182; --line:#C5D2DA;
   --side:#0E2A3D; --side-ink:#DCE8EF; --side-muted:#8FA9BA; --side-line:#24435A;
   --buoy:#F2B705; --buoy-ink:#3A2C00;
-  --red:#C43D2F; --blue:#2F6DA8; --green:#2F7D5C;
+  --red:#C43D2F; --blue:#2F6DA8; --green:#2F7D5C; --amber:#B8872B;
   --row-hover:#EEF4F7; --shadow:0 1px 0 rgba(14,42,61,.06);
   --font:"Archivo",system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 @media (prefers-color-scheme:dark){
   :root{
     --paper:#0B1620; --panel:#122230; --ink:#E4EDF2; --muted:#8FA5B4; --line:#25394A;
-    --side:#08121A; --row-hover:#172B3B; --red:#E0604F; --blue:#5B9AD5; --green:#4FAE85;
+    --side:#08121A; --row-hover:#172B3B; --red:#E0604F; --blue:#5B9AD5; --green:#4FAE85; --amber:#D8A64B;
   }
 }
 *{box-sizing:border-box}
@@ -106,6 +106,7 @@ tr.done .nm{text-decoration:line-through;text-decoration-thickness:1.5px;color:v
 select.st{border-radius:8px;border:1.5px solid;padding:5px 8px;font-weight:600;background:var(--panel);min-width:104px}
 select.st.tobuy{border-color:var(--red);color:var(--red)}
 select.st.ordered{border-color:var(--blue);color:var(--blue)}
+select.st.purchased{border-color:var(--amber);color:var(--amber)}
 select.st.received{border-color:var(--green);color:var(--green)}
 select.st.na{border-color:var(--line);color:var(--muted)}
 .act{white-space:nowrap;text-align:right}
@@ -241,6 +242,7 @@ select.st.na{border-color:var(--line);color:var(--muted)}
         <option value="">All statuses</option>
         <option value="tobuy">To buy</option>
         <option value="ordered">Ordered</option>
+        <option value="purchased">Purchased</option>
         <option value="received">Received</option>
         <option value="na">N/A</option>
       </select>
@@ -264,7 +266,7 @@ select.st.na{border-color:var(--line);color:var(--muted)}
       <div class="f"><label for="i-pri">Priority</label>
         <select id="i-pri"><option value="urgent">Urgent</option><option value="normal" selected>Normal</option><option value="low">Low</option></select></div>
       <div class="f"><label for="i-st">Status</label>
-        <select id="i-st"><option value="tobuy">To buy</option><option value="ordered">Ordered</option><option value="received">Received</option><option value="na">N/A</option></select></div>
+        <select id="i-st"><option value="tobuy">To buy</option><option value="ordered">Ordered</option><option value="purchased">Purchased</option><option value="received">Received</option><option value="na">N/A</option></select></div>
       <div class="f full"><label for="i-notes">Notes</label><textarea id="i-notes" maxlength="400" placeholder="Brand, size, pack, remarks"></textarea></div>
     </div>
     <p id="i-by" hidden></p>
@@ -408,8 +410,8 @@ select.st.na{border-color:var(--line);color:var(--muted)}
 <script>
 (function(){
   "use strict";
-  var CATS=["Dry","Chiller","Frozen"];
-  var ST={tobuy:"To buy",ordered:"Ordered",received:"Received",na:"N/A"};
+  var CATS=["Dry","Chiller","Freezer","Chemical"];
+  var ST={tobuy:"To buy",ordered:"Ordered",purchased:"Purchased",received:"Received",na:"N/A"};
   var PRI={urgent:"Urgent",normal:"Normal",low:"Low"};
   var KEY="vesselPurchasing.v1", SESS_KEY="vesselSession.v1", DRAFT_KEY="vesselUsersDraft.v1", LOCK_KEY="vesselLock.v1", ASKED_KEY="vesselLockAsked.v1";
   var PIN_RE=/^\d{6}$/, LOCK_AFTER=120000;
@@ -449,6 +451,7 @@ select.st.na{border-color:var(--line);color:var(--muted)}
         if(i.qty==null) i.qty=1;
         if(!ST[i.status]) i.status="tobuy";
         if(!PRI[i.priority]) i.priority="normal";
+        if(i.category==="Frozen") i.category="Freezer";
         if(CATS.indexOf(i.category)<0) i.category=CATS[0];
         i.added=i.added||0;
       });
