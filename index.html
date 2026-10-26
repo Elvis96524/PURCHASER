@@ -538,13 +538,19 @@ select.st.na{border-color:var(--line);color:var(--muted)}
       text=await r2.text();
     }
     if(!text.trim()) return {data:{vessels:[]},sha:j.sha};
-    var data; try{ data=JSON.parse(text); }catch(e){ throw mkErr("The data file on GitHub is not valid JSON, so nothing was changed."); }
+    var raw; try{ raw=JSON.parse(text); }catch(e){ throw mkErr("The data file on GitHub is not valid JSON, so nothing was changed."); }
+    var data=raw;
+    if(raw&&raw.enc===1){
+      try{ data=await decryptPayload(c.token,raw); }
+      catch(e){ throw mkErr("Could not decrypt the data file. The access token may be wrong."); }
+    }
     if(!data||!Array.isArray(data.vessels)) throw mkErr("The data file on GitHub is not a purchasing list, so nothing was changed.");
     return {data:data,sha:j.sha};
   }
   async function putRemote(payload,sha){
     var c=sess.cfg;
-    var body={message:"Update purchasing list ("+sess.id+")",content:b64enc(JSON.stringify(payload,null,2)+"\n"),branch:c.branch||"main"};
+    var blob=await encryptPayload(c.token,payload);
+    var body={message:"Update purchasing list ("+sess.id+")",content:b64enc(JSON.stringify(blob,null,2)+"\n"),branch:c.branch||"main"};
     if(sha) body.sha=sha;
     var r=await gh(apiUrl(c),{method:"PUT",headers:ghHeaders(c,{"Content-Type":"application/json"}),body:JSON.stringify(body)});
     if(r.status===409||r.status===422) return {conflict:true};
@@ -690,6 +696,24 @@ select.st.na{border-color:var(--line);color:var(--muted)}
       var pt=await crypto.subtle.decrypt({name:"AES-GCM",iv:b64ToBytes(entry.iv)},key,b64ToBytes(entry.ct));
       return new TextDecoder().decode(pt);
     }catch(e){ return null; }
+  }
+
+  /* data.json itself is encrypted (AES-GCM) with a key derived from the shared data token, so the saved list
+     is unreadable to anyone who only has the file (or repo access) but not the token. Every signed-in device
+     already holds that token, so there is nothing extra to set up or distribute. */
+  async function dataKey(token){
+    var h=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(token));
+    return crypto.subtle.importKey("raw",h,"AES-GCM",false,["encrypt","decrypt"]);
+  }
+  async function encryptPayload(token,payload){
+    var key=await dataKey(token), iv=crypto.getRandomValues(new Uint8Array(12));
+    var ct=await crypto.subtle.encrypt({name:"AES-GCM",iv:iv},key,new TextEncoder().encode(JSON.stringify(payload)));
+    return {enc:1,iv:bytesToB64(iv),ct:bytesToB64(new Uint8Array(ct))};
+  }
+  async function decryptPayload(token,blob){
+    var key=await dataKey(token);
+    var pt=await crypto.subtle.decrypt({name:"AES-GCM",iv:b64ToBytes(blob.iv)},key,b64ToBytes(blob.ct));
+    return JSON.parse(new TextDecoder().decode(pt));
   }
   /* The public app repository (where users.json lives) is worked out from the page address on github.io. */
   function appRepoGuess(){

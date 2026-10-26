@@ -53,3 +53,4 @@ After a person signs in the first time, the app offers to turn on the fingerprin
 - Everyone signed in can add, edit and delete items and vessels. Only the admin device sees **Users** and **Settings**.
 - Every save is a commit in `vessel-data` with the person's ID in the message, so you can see who changed what.
 - If you update the app files later, change `CACHE_VERSION` in `service-worker.js` (for example `v5` to `v6`) so phones pick up the new version.
+- **`data.json` is encrypted.** The app scrambles the vessel and item data (AES-GCM) before saving it, using a key worked out from the data token — so if someone opens the file on GitHub, or gets a copy of the repository, they see unreadable text, not your list. Every signed-in device already has the data token, so this needs no extra setup. If `data.json` was uploaded by hand as a plain starter file, the first save from the app replaces it with the encrypted version automatically.
