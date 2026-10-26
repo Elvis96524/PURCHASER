@@ -11919,9 +11919,9 @@
           "unit": "IKAT",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792726815608
+          "updated": 1793000688347
         },
         {
           "id": "bjs0bobmvkewbq1",
@@ -13032,6 +13032,17 @@
     }
   ],
   "history": [
+    {
+      "id": "aa5ai40mvoybdgb",
+      "ts": 1793000688347,
+      "by": "lim",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "status",
+      "item": "DAUN PUCUK UBI",
+      "no": "",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "iri4xshmvoyb7iz",
       "ts": 1793000680667,
@@ -24019,17 +24030,6 @@
       "action": "status",
       "item": "Pegaga",
       "no": "25",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "9h9q0s3mv7fgbzn",
-      "ts": 1791941082035,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "status",
-      "item": "Pegaga",
-      "no": "",
       "detail": "Status: To buy → Received"
     }
   ]
