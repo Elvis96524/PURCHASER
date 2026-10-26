@@ -12247,7 +12247,8 @@
           "updated": 1792811286245
         }
       ],
-      "updated": 1792727001241
+      "deleted": true,
+      "updated": 1793000697571
     },
     {
       "id": "xze8f0fmvlouy6o",
@@ -13032,6 +13033,17 @@
     }
   ],
   "history": [
+    {
+      "id": "0yfshxvmvoybkkj",
+      "ts": 1793000697571,
+      "by": "lim",
+      "vid": "i9p2ne0mvkc0leu",
+      "vname": "KEYFIELD JOYFUL (26/10/26)",
+      "action": "vdelete",
+      "item": "",
+      "no": "",
+      "detail": "Vessel deleted"
+    },
     {
       "id": "aa5ai40mvoybdgb",
       "ts": 1793000688347,
@@ -24019,17 +24031,6 @@
       "action": "status",
       "item": "Pakis",
       "no": "",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "m08ro1kmv7fgdll",
-      "ts": 1791941084121,
-      "by": "chelson",
-      "vid": "9gxyop0mv4yge8f",
-      "vname": "Paladin(OCT 1ST ORDER)",
-      "action": "status",
-      "item": "Pegaga",
-      "no": "25",
       "detail": "Status: To buy → Received"
     }
   ]
