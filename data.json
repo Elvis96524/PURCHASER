@@ -10281,9 +10281,9 @@
           "unit": "Pcs",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "received",
           "notes": "",
-          "updated": 1792546882646
+          "updated": 1792993974145
         },
         {
           "id": "928stbemvhgn6zu",
@@ -12919,6 +12919,17 @@
     }
   ],
   "history": [
+    {
+      "id": "n9un68nmvoubgqp",
+      "ts": 1792993974145,
+      "by": "fse",
+      "vid": "789fb2pmvhfj88g",
+      "vname": "Sk Premier Nov 1st order",
+      "action": "status",
+      "item": "Porcelain coffee mug 300cc",
+      "no": "Gallery 11",
+      "detail": "Status: To buy → Received"
+    },
     {
       "id": "jisk403mvou9wz9",
       "ts": 1792993901877,
@@ -23907,17 +23918,6 @@
       "item": "Pakis",
       "no": "",
       "detail": "Qty 5 Ikat, Chiller"
-    },
-    {
-      "id": "j3h54e6mv6fuz8o",
-      "ts": 1791881299176,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "added",
-      "item": "Kesum",
-      "no": "",
-      "detail": "Qty 4 Ikat, Chiller"
     }
   ]
 }
