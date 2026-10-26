@@ -10873,6 +10873,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792802373051
+        },
+        {
+          "id": "9nfykfdmvowejmu",
+          "added": 1792997477094,
+          "addedBy": "chelson",
+          "name": "Pucuk ubi",
+          "no": "22",
+          "qty": 10,
+          "unit": "Ikat",
+          "category": "Chiller",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792997477093
         }
       ],
       "updated": 1792631545693
@@ -12976,6 +12990,17 @@
     }
   ],
   "history": [
+    {
+      "id": "v42ogkkmvowejmu",
+      "ts": 1792997477094,
+      "by": "chelson",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "added",
+      "item": "Pucuk ubi",
+      "no": "22",
+      "detail": "Qty 10 Ikat, Chiller"
+    },
     {
       "id": "luzm68omvovxv9c",
       "ts": 1792996699008,
@@ -23964,17 +23989,6 @@
       "item": "ROTI GARDENIA",
       "no": "12",
       "detail": "Status: Received → Ordered"
-    },
-    {
-      "id": "sb40c0xmv6g3g56",
-      "ts": 1791881694330,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD (16.10.2026)",
-      "action": "added",
-      "item": "Kucai",
-      "no": "",
-      "detail": "Qty 1 Kg, Chiller"
     }
   ]
 }
