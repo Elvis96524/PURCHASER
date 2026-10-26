@@ -13072,9 +13072,26 @@
         }
       ],
       "updated": 1792975043438
+    },
+    {
+      "id": "ydppv5gmvp0zgpn",
+      "name": "Endurance (26/10/26)",
+      "items": [],
+      "updated": 1793005171547
     }
   ],
   "history": [
+    {
+      "id": "4r222htmvp0zgpn",
+      "ts": 1793005171547,
+      "by": "chelson",
+      "vid": "ydppv5gmvp0zgpn",
+      "vname": "Endurance (26/10/26)",
+      "action": "vadd",
+      "item": "",
+      "no": "",
+      "detail": "Vessel created"
+    },
     {
       "id": "ewria5jmvp0jxbv",
       "ts": 1793004446587,
@@ -24062,17 +24079,6 @@
       "action": "status",
       "item": "Tempe",
       "no": "",
-      "detail": "Status: To buy → Ordered"
-    },
-    {
-      "id": "fn5nvq0mv7fywol",
-      "ts": 1791941948661,
-      "by": "chelson",
-      "vid": "wv4asgcmv68mvgt",
-      "vname": "Prodigy",
-      "action": "status",
-      "item": "Kucai",
-      "no": "19",
       "detail": "Status: To buy → Ordered"
     }
   ]
