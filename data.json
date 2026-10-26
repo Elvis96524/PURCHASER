@@ -10876,17 +10876,8 @@
         },
         {
           "id": "9nfykfdmvowejmu",
-          "added": 1792997477094,
-          "addedBy": "chelson",
-          "name": "Pucuk ubi",
-          "no": "22",
-          "qty": 10,
-          "unit": "Ikat",
-          "category": "Chiller",
-          "priority": "normal",
-          "status": "tobuy",
-          "notes": "",
-          "updated": 1792997477093
+          "deleted": true,
+          "updated": 1792997626993
         },
         {
           "id": "38wxw7omvowfxa7",
@@ -13018,6 +13009,17 @@
     }
   ],
   "history": [
+    {
+      "id": "4l1urxsmvowhrap",
+      "ts": 1792997626993,
+      "by": "chelson",
+      "vid": "eux4ocqmviujd5p",
+      "vname": "OS ONE",
+      "action": "deleted",
+      "item": "Pucuk ubi",
+      "no": "22",
+      "detail": ""
+    },
     {
       "id": "yr324g8mvowh52q",
       "ts": 1792997598194,
@@ -24006,17 +24008,6 @@
       "item": "Maggi cup curry (offer hot cup asam laksa)",
       "no": "50",
       "detail": "Name \"Maggi cup curry\" → \"Maggi cup curry (offer hot cup asam laksa)\""
-    },
-    {
-      "id": "8wrfyhomv7e3ljn",
-      "ts": 1791938808275,
-      "by": "farah",
-      "vid": "90x90lhmv4uw3ka",
-      "vname": "Geotek (OCT 2ND ORDER)",
-      "action": "added",
-      "item": "Daun ketumbar",
-      "no": "18",
-      "detail": "Qty 1 Kg, Chiller"
     }
   ]
 }
