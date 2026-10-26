@@ -12534,6 +12534,20 @@
           "status": "tobuy",
           "notes": "",
           "updated": 1792808870799
+        },
+        {
+          "id": "svq77vimvoi4st6",
+          "added": 1792973507802,
+          "addedBy": "fse",
+          "name": "White clam",
+          "no": "140",
+          "qty": 5,
+          "unit": "Kg",
+          "category": "Frozen",
+          "priority": "normal",
+          "status": "tobuy",
+          "notes": "",
+          "updated": 1792973507802
         }
       ],
       "updated": 1792803406992
@@ -12883,6 +12897,17 @@
     }
   ],
   "history": [
+    {
+      "id": "84wqh8dmvoi4st6",
+      "ts": 1792973507802,
+      "by": "fse",
+      "vid": "xze8f0fmvlouy6o",
+      "vname": "SK PRODIGY ( NOV )",
+      "action": "added",
+      "item": "White clam",
+      "no": "140",
+      "detail": "Qty 5 Kg, Frozen"
+    },
     {
       "id": "8628s4xmvohkp82",
       "ts": 1792972570034,
@@ -23871,17 +23896,6 @@
       "item": "Wholemeal bread",
       "no": "65",
       "detail": "Status: To buy → Ordered"
-    },
-    {
-      "id": "s303cremv6abled",
-      "ts": 1791871996693,
-      "by": "chelson",
-      "vid": "xgudgwhmuatp3g5",
-      "vname": "SK POWER (14/9)",
-      "action": "status",
-      "item": "Cendol",
-      "no": "57",
-      "detail": "Status: To buy → Received"
     }
   ]
 }
