@@ -12662,9 +12662,9 @@
           "unit": "Ctn",
           "category": "Dry",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "Change to Marigold 1LT",
-          "updated": 1792975203006,
+          "updated": 1792982502767,
           "updatedBy": "fathin"
         },
         {
@@ -12868,9 +12868,9 @@
           "unit": "Kg",
           "category": "Chiller",
           "priority": "normal",
-          "status": "tobuy",
+          "status": "na",
           "notes": "",
-          "updated": 1792827602082
+          "updated": 1792982499042
         },
         {
           "id": "ki6ab25mvm3crkk",
@@ -12891,6 +12891,28 @@
     }
   ],
   "history": [
+    {
+      "id": "ec7qcvumvonhldb",
+      "ts": 1792982502767,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Drinkho Green Tea 1L x12's",
+      "no": "84",
+      "detail": "Status: To buy → N/A"
+    },
+    {
+      "id": "1rk4mfmmvonhihu",
+      "ts": 1792982499042,
+      "by": "fse",
+      "vid": "i879arpmvm1guth",
+      "vname": "Wisdom(24/10/26 order)",
+      "action": "status",
+      "item": "Pisang emas /embun",
+      "no": "81",
+      "detail": "Status: To buy → N/A"
+    },
     {
       "id": "5ujzh5xmvonhfad",
       "ts": 1792982494885,
@@ -23867,28 +23889,6 @@
       "action": "status",
       "item": "Sprite 1.5litre",
       "no": "13",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "bfnaee3mv6bu31q",
-      "ts": 1791874538990,
-      "by": "chelson",
-      "vid": "iruqolnmv63yi4t",
-      "vname": "PERDANA EMERALD",
-      "action": "status",
-      "item": "MURUKU POPO 12GMX24'S",
-      "no": "21",
-      "detail": "Status: To buy → Received"
-    },
-    {
-      "id": "9b4w3nlmv6btzgk",
-      "ts": 1791874534340,
-      "by": "chelson",
-      "vid": "jqrlhw2mv4x2qss",
-      "vname": "Power (NOVEMBER)",
-      "action": "status",
-      "item": "Muruku 900gm ( Offer Muruku 12gmx24's )",
-      "no": "67",
       "detail": "Status: To buy → Received"
     }
   ]
