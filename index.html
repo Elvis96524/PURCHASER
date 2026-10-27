@@ -336,6 +336,17 @@ select.st.na{border-color:var(--line);color:var(--muted)}
       <div class="f full"><label for="a-token">Data token</label><input id="a-token" type="password" autocomplete="off" autocapitalize="off" spellcheck="false"><div class="hint" id="a-tokhint"></div></div>
       <div class="f full"><label for="a-apprepo">App repository (optional)</label><input id="a-apprepo" placeholder="owner/vessel-app" autocomplete="off" autocapitalize="off" spellcheck="false"></div>
       <div class="f full"><label for="a-apptoken">App token (optional)</label><input id="a-apptoken" type="password" autocomplete="off" autocapitalize="off" spellcheck="false"><div class="hint" id="a-apptokhint"></div></div>
+      <div class="f full"><label for="a-encon" style="display:flex;align-items:center;gap:8px;font-weight:600"><input type="checkbox" id="a-encon" style="width:auto"> Encrypt data.json</label>
+        <div class="hint">Off by default, the list is saved as a plain, readable file. Turn this on to scramble it so nobody can read it without the key below.</div></div>
+      <div class="f full" id="a-enckeyrow" hidden>
+        <label for="a-enckey">Encryption key</label>
+        <div style="display:flex;gap:8px">
+          <input id="a-enckey" autocomplete="off" autocapitalize="off" spellcheck="false" style="flex:1">
+          <button type="button" class="btn" data-act="enc-newkey">New key</button>
+          <button type="button" class="btn" data-act="enc-copykey">Copy</button>
+        </div>
+        <div class="hint">Keep a copy somewhere safe. People who sign in get this key automatically; paste it here yourself on a second admin device, or to restore it.</div>
+      </div>
     </div>
     <div class="err" id="a-err" hidden></div>
     <div class="foot">
@@ -541,28 +552,37 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     var raw; try{ raw=JSON.parse(text); }catch(e){ throw mkErr("The data file on GitHub is not valid JSON, so nothing was changed."); }
     var data=raw;
     if(raw&&raw.enc===1){
-      try{ data=await decryptPayload(c.token,raw); }
+      try{ data=await aesDecrypt(await aesKeyFromToken(c.token),raw); }
       catch(e){ throw mkErr("Could not decrypt the data file. The access token may be wrong."); }
+    }else if(raw&&raw.enc===2){
+      if(!(sess.enc&&sess.enc.key)) throw mkErr("This device does not have the key to read the encrypted data file. Ask the admin, or paste the key in Admin setup.");
+      try{ data=await aesDecrypt(await aesKeyFromB64(sess.enc.key),raw); }
+      catch(e){ throw mkErr("Could not decrypt the data file. The encryption key may be wrong."); }
     }
     if(!data||!Array.isArray(data.vessels)) throw mkErr("The data file on GitHub is not a purchasing list, so nothing was changed.");
     return {data:data,sha:j.sha};
   }
   async function putRemote(payload,sha){
-    var c=sess.cfg;
-    var blob=await encryptPayload(c.token,payload);
-    var body={message:"Update purchasing list ("+sess.id+")",content:b64enc(JSON.stringify(blob,null,2)+"\n"),branch:c.branch||"main"};
+    var c=sess.cfg, text;
+    if(sess.enc&&sess.enc.on&&sess.enc.key){
+      var blob=await aesEncrypt(await aesKeyFromB64(sess.enc.key),payload); blob.enc=2;
+      text=JSON.stringify(blob,null,2)+"\n";
+    }else{
+      text=JSON.stringify(payload,null,2)+"\n";
+    }
+    var body={message:"Update purchasing list ("+sess.id+")",content:b64enc(text),branch:c.branch||"main"};
     if(sha) body.sha=sha;
     var r=await gh(apiUrl(c),{method:"PUT",headers:ghHeaders(c,{"Content-Type":"application/json"}),body:JSON.stringify(body)});
     if(r.status===409||r.status===422) return {conflict:true};
     if(!r.ok) throw httpErr(r);
     return {ok:true};
   }
-  /* When the admin replaces the data token (a renewal, or a deliberate change), data.json on GitHub is still
-     encrypted with a key derived from the OLD token. This re-encrypts it for the new one, using the old token
-     string still held on this device (even if GitHub itself has already stopped accepting it), so nobody gets
-     locked out and the file never sits briefly without working encryption. Silently does nothing if there is
-     no file yet, or it is not encrypted (a fresh plaintext file will simply be encrypted on the next save). */
-  async function reencryptOnTokenChange(cfgNew,oldToken){
+  /* Encryption of data.json is optional (off by default) and uses its own key, separate from the GitHub
+     token, so turning it on, off, or swapping the key all leave the file on GitHub in the OLD state until
+     this runs. It reads whatever is there now (plain, the old key, or - for a file saved by an earlier
+     version of the app - a token-derived key), decrypts it, and re-saves it to match the new setting, so
+     the switch takes effect immediately rather than leaving the file unreadable or briefly unencrypted. */
+  async function applyEncryptionChange(cfgNew,prevEnc,newEnc,oldToken){
     var q="?ref="+encodeURIComponent(cfgNew.branch||"main")+"&_="+now();
     var r=await gh(apiUrl(cfgNew)+q,{headers:ghHeaders(cfgNew),cache:"no-store"});
     if(r.status===404||!r.ok) return;
@@ -575,10 +595,13 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     }
     if(!text.trim()) return;
     var raw; try{ raw=JSON.parse(text); }catch(e){ return; }
-    if(!raw||raw.enc!==1) return;
-    var payload; try{ payload=await decryptPayload(oldToken,raw); }catch(e){ return; }
-    var blob=await encryptPayload(cfgNew.token,payload);
-    var body={message:"Re-encrypt purchasing list for the new data token",content:b64enc(JSON.stringify(blob,null,2)+"\n"),branch:cfgNew.branch||"main",sha:j.sha};
+    var payload=raw;
+    if(raw&&raw.enc===1){ try{ payload=await aesDecrypt(await aesKeyFromToken(oldToken||cfgNew.token),raw); }catch(e){ return; } }
+    else if(raw&&raw.enc===2){ if(!(prevEnc&&prevEnc.key)) return; try{ payload=await aesDecrypt(await aesKeyFromB64(prevEnc.key),raw); }catch(e){ return; } }
+    var text2;
+    if(newEnc&&newEnc.on&&newEnc.key){ var blob=await aesEncrypt(await aesKeyFromB64(newEnc.key),payload); blob.enc=2; text2=JSON.stringify(blob,null,2)+"\n"; }
+    else text2=JSON.stringify(payload,null,2)+"\n";
+    var body={message:"Update encryption for the purchasing list",content:b64enc(text2),branch:cfgNew.branch||"main",sha:j.sha};
     try{ await gh(apiUrl(cfgNew),{method:"PUT",headers:ghHeaders(cfgNew,{"Content-Type":"application/json"}),body:JSON.stringify(body)}); }catch(e){}
   }
 
@@ -722,20 +745,22 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     }catch(e){ return null; }
   }
 
-  /* data.json itself is encrypted (AES-GCM) with a key derived from the shared data token, so the saved list
-     is unreadable to anyone who only has the file (or repo access) but not the token. Every signed-in device
-     already holds that token, so there is nothing extra to set up or distribute. */
-  async function dataKey(token){
+  /* data.json encryption (AES-GCM). enc:2 files use their own key, set in Admin setup and off by default -
+     nothing to do with the GitHub token. enc:1 is kept only to read a file saved by an earlier version of
+     this app, which derived the key from the token instead; aesKeyFromToken exists solely for that. */
+  async function aesKeyFromToken(token){
     var h=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(token));
     return crypto.subtle.importKey("raw",h,"AES-GCM",false,["encrypt","decrypt"]);
   }
-  async function encryptPayload(token,payload){
-    var key=await dataKey(token), iv=crypto.getRandomValues(new Uint8Array(12));
-    var ct=await crypto.subtle.encrypt({name:"AES-GCM",iv:iv},key,new TextEncoder().encode(JSON.stringify(payload)));
-    return {enc:1,iv:bytesToB64(iv),ct:bytesToB64(new Uint8Array(ct))};
+  async function aesKeyFromB64(b64){
+    return crypto.subtle.importKey("raw",b64ToBytes(b64),"AES-GCM",false,["encrypt","decrypt"]);
   }
-  async function decryptPayload(token,blob){
-    var key=await dataKey(token);
+  async function aesEncrypt(key,payload){
+    var iv=crypto.getRandomValues(new Uint8Array(12));
+    var ct=await crypto.subtle.encrypt({name:"AES-GCM",iv:iv},key,new TextEncoder().encode(JSON.stringify(payload)));
+    return {iv:bytesToB64(iv),ct:bytesToB64(new Uint8Array(ct))};
+  }
+  async function aesDecrypt(key,blob){
     var pt=await crypto.subtle.decrypt({name:"AES-GCM",iv:b64ToBytes(blob.iv)},key,b64ToBytes(blob.ct));
     return JSON.parse(new TextDecoder().decode(pt));
   }
@@ -759,6 +784,22 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     if(r.status===404) return null;
     if(!r.ok) throw mkErr("Could not load the sign-in list ("+r.status+").");
     try{ return await r.json(); }catch(e){ throw mkErr("The sign-in list (users.json) is not valid."); }
+  }
+
+  /* Lets an already-signed-in device (admin or user) pick up a newly turned-on, turned-off, or changed
+     encryption key with nothing for that person to do. The admin's current key is published inside
+     users.json wrapped with a key derived from the shared data token (see saveAdmin/exportObj); every
+     signed-in device already holds that token regardless of its own PIN, so it can quietly unwrap it and
+     stay in step on its own next time it is opened or comes back online. No PIN reset, no visible change. */
+  async function refreshEncKey(){
+    if(!sess||!sess.cfg||!sess.cfg.token) return;
+    try{
+      var reg=await fetchUsersFile();
+      var wrap=reg&&reg.data&&reg.data.keyWrap, newKey=null;
+      if(wrap){ try{ newKey=await aesDecrypt(await aesKeyFromToken(sess.cfg.token),wrap); }catch(e){ return; } }
+      var curOn=!!(sess.enc&&sess.enc.on), curKey=(sess.enc&&sess.enc.key)||"";
+      if(!!newKey!==curOn||(newKey||"")!==curKey){ sess.enc={on:!!newKey,key:newKey||""}; saveSess(); }
+    }catch(e){}
   }
 
   /* A local check of the PIN, used by the lock screen. It never leaves this device. */
@@ -786,12 +827,17 @@ select.st.na{border-color:var(--line);color:var(--muted)}
       var reg=await fetchUsersFile();
       if(!reg||!reg.data||!reg.data.repo||!Array.isArray(reg.users)||!reg.users.length) throw mkErr("Sign-in has not been set up yet. Ask the admin.");
       var iter=reg.iterations||ITER;
-      var entry=reg.users.filter(function(u){return u.id===id})[0], token=null;
-      if(entry) token=await unlockToken(entry,pw,iter);
-      else await deriveKey(pw,new Uint8Array(16),iter);       // same waiting time either way
+      var entry=reg.users.filter(function(u){return u.id===id})[0], token=null, encKey=null;
+      if(entry){
+        var raw=await unlockToken(entry,pw,iter);
+        if(raw){
+          var parsed=null; try{ parsed=JSON.parse(raw); }catch(e2){}
+          if(parsed&&typeof parsed==="object"&&parsed.t){ token=parsed.t; encKey=parsed.k||null; } else token=raw;
+        }
+      }else await deriveKey(pw,new Uint8Array(16),iter);       // same waiting time either way
       if(!token) throw mkErr("Wrong ID or PIN.");
       lock=null; saveLock(); locked=false;
-      sess={id:id,role:"user",cfg:{repo:reg.data.repo,branch:reg.data.branch||"main",path:reg.data.path||"data.json",token:token},pv:await makePv(pw)};
+      sess={id:id,role:"user",cfg:{repo:reg.data.repo,branch:reg.data.branch||"main",path:reg.data.path||"data.json",token:token},enc:{on:!!encKey,key:encKey||""},pv:await makePv(pw)};
       saveSess(); $("#l-pw").value=""; hide($("#loginModal")); updateWho(); renderAll(); syncNow(); offerLock();
     }catch(err){
       e.textContent=err.message; e.hidden=false; btn.disabled=false; btn.textContent="Sign in";
@@ -899,6 +945,8 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     $("#a-tokhint").textContent=isAdmin?"A token is saved on this device. Leave this empty to keep it. If you replace it, give each user a new PIN (Users, then Reset PIN) so they get the new token.":"A fine-grained token limited to the private data repository, with Contents: Read and write.";
     $("#a-apprepo").value=pub?pub.repo:appRepoGuess(); $("#a-apptoken").value="";
     $("#a-apptokhint").textContent=pub?"An app token is saved on this device. Leave this empty to keep it. Clear the app repository above to stop publishing automatically.":"A second fine-grained token limited to the public app repository, with Contents: Read and write. With it, a new user can sign in the moment you save them and there is no file to upload. Leave empty to upload users.json by hand.";
+    var enc=isAdmin&&sess.enc?sess.enc:{on:false,key:""};
+    $("#a-encon").checked=!!enc.on; $("#a-enckey").value=enc.key||""; $("#a-enckeyrow").hidden=!enc.on;
     $("#a-err").hidden=true; $("#a-save").disabled=false; $("#a-save").textContent="Save and connect";
     show($("#adminModal")); setTimeout(function(){ $("#a-repo").focus(); },0);
   }
@@ -926,11 +974,18 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     var btn=$("#a-save"); btn.disabled=true; btn.textContent="Connecting...";
     try{ if(pub) await checkPub(pub); }
     catch(e){ btn.disabled=false; btn.textContent="Save and connect"; adminError(e.message); return; }
+    var encOn=$("#a-encon").checked, encKeyVal=$("#a-enckey").value.trim();
+    if(encOn&&!encKeyVal) encKeyVal=bytesToB64(crypto.getRandomValues(new Uint8Array(32)));
+    var newEnc={on:encOn,key:encKeyVal||""};
     while(sync.busy) await sleep(100);
     var tokenChanged=prevAdmin&&prev.cfg.token!==token;
+    var prevEnc=(prevAdmin&&prev.enc)?prev.enc:{on:false,key:""};
+    var encChanged=prevAdmin&&(!!prevEnc.on!==!!newEnc.on||prevEnc.key!==newEnc.key);
     var newCfg={repo:repo,branch:branch,path:path,token:token};
-    if(tokenChanged){ try{ await reencryptOnTokenChange(newCfg,prev.cfg.token); }catch(e){} }
-    sess={id:"admin",role:"admin",cfg:newCfg};
+    if(tokenChanged||encChanged){ try{ await applyEncryptionChange(newCfg,prevEnc,newEnc,prev.cfg.token); }catch(e){} }
+    var pubWrap=null;
+    if(encOn&&encKeyVal){ try{ pubWrap=await aesEncrypt(await aesKeyFromToken(token),encKeyVal); }catch(e){} }
+    sess={id:"admin",role:"admin",cfg:newCfg,enc:newEnc,pubWrap:pubWrap};
     if(pub) sess.pub=pub;
     if(prevAdmin&&prev.pv) sess.pv=prev.pv;
     sync.probing=true;
@@ -943,8 +998,16 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     }
     if(!prevAdmin){ lock=null; saveLock(); locked=false; }
     saveSess(); hide($("#adminModal")); hide($("#loginModal")); updateWho(); renderAll();
+    if(encChanged){
+      try{
+        if(!draft){ try{ siteUsers=await fetchUsersFile(); }catch(e4){} draft=loadDraft()||draftFromSite(); }
+        if(sess.pub) await publishUsers();
+      }catch(e5){}
+    }
     draft=null;
     if(tokenChanged) ask("Data token changed","People who signed in before will be signed out. Open Users, tap Reset PIN for each person, and give them their new PIN.","Got it");
+    else if(encChanged&&sess.pub) ask(newEnc.on?"Encryption turned on":"Encryption turned off","Already signed-in devices quietly pick this up next time they open the app or come back online — nothing for anyone to do.","Got it");
+    else if(encChanged&&!sess.pub) ask(newEnc.on?"Encryption turned on":"Encryption turned off","Open Users and tap Publish now (or upload users.json by hand) so signed-in devices can pick this up on their own.","Got it");
   }
 
   /* ---------- Users (admin) ---------- */
@@ -960,7 +1023,7 @@ select.st.na{border-color:var(--line);color:var(--muted)}
   function draftFromSite(){ return {iterations:(siteUsers&&siteUsers.iterations)||ITER,users:JSON.parse(JSON.stringify((siteUsers&&siteUsers.users)||[]))}; }
   function exportObj(){
     var c=sess.cfg;
-    return {version:1,iterations:draft.iterations||ITER,data:{repo:c.repo,branch:c.branch||"main",path:c.path||"data.json"},users:draft.users.slice().sort(byId)};
+    return {version:1,iterations:draft.iterations||ITER,data:{repo:c.repo,branch:c.branch||"main",path:c.path||"data.json",keyWrap:sess.pubWrap||null},users:draft.users.slice().sort(byId)};
   }
   function exportText(){ return JSON.stringify(exportObj(),null,2)+"\n"; }
   function comparable(o){
@@ -1027,7 +1090,8 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     if(!PIN_RE.test(pw)){ usersError("The PIN must be exactly 6 digits. Tap \"Make a random PIN\" if you like."); return; }
     var btn=$("#u-save"); btn.disabled=true;
     try{
-      var entry=await lockToken(sess.cfg.token,pw,draft.iterations||ITER); entry.id=id;
+      var secret=(sess.enc&&sess.enc.on&&sess.enc.key)?JSON.stringify({t:sess.cfg.token,k:sess.enc.key}):sess.cfg.token;
+      var entry=await lockToken(secret,pw,draft.iterations||ITER); entry.id=id;
       var existed=draft.users.some(function(u){return u.id===id});
       draft.users=draft.users.filter(function(u){return u.id!==id}); draft.users.push(entry); saveDraft();
       $("#u-id").value=""; $("#u-pw").value=""; $("#u-json").hidden=true;
@@ -1359,6 +1423,8 @@ select.st.na{border-color:var(--line);color:var(--muted)}
       case "unlock-pin": unlockPin(); break;
       case "lock-signout": ask("Sign out of this device?","Changes that have not reached GitHub yet will be lost from this device.","Sign out",function(){ wipeDevice(); },true); break;
       case "user-discard": draft=draftFromSite(); saveDraft(); renderUsers(); usersOk("Changes discarded."); break;
+      case "enc-newkey": $("#a-enckey").value=bytesToB64(crypto.getRandomValues(new Uint8Array(32))); break;
+      case "enc-copykey": (function(){ var t=$("#a-enckey").value; if(!t) return; navigator.clipboard.writeText(t).then(function(){ var o=b.textContent; b.textContent="Copied"; setTimeout(function(){ b.textContent=o; },1200); }).catch(function(){}); })(); break;
     }
   });
   document.addEventListener("change",function(e){
@@ -1375,6 +1441,10 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     }
   });
   ["#q","#fs","#fc"].forEach(function(sel){ $(sel).addEventListener("input",renderTable); });
+  $("#a-encon").addEventListener("change",function(){
+    $("#a-enckeyrow").hidden=!this.checked;
+    if(this.checked&&!$("#a-enckey").value.trim()) $("#a-enckey").value=bytesToB64(crypto.getRandomValues(new Uint8Array(32)));
+  });
   document.addEventListener("keydown",function(e){
     if(e.key==="Escape"){
       closeVessels();
@@ -1402,14 +1472,14 @@ select.st.na{border-color:var(--line);color:var(--muted)}
   document.addEventListener("visibilitychange",function(){
     if(document.hidden){ hiddenAt=now(); return; }
     if(sess&&lock&&!locked&&hiddenAt&&now()-hiddenAt>LOCK_AFTER) showLock();
-    if(sess&&now()-sync.last>15000) syncNow();
+    if(sess&&now()-sync.last>15000){ refreshEncKey(); syncNow(); }
   });
-  window.addEventListener("online",function(){ if(sess) syncNow(); });
+  window.addEventListener("online",function(){ if(sess){ refreshEncKey(); syncNow(); } });
 
   /* ---------- Start ---------- */
   renderAll(); updateWho();
   if(sess&&lock) showLock();
-  if(sess){ setStatus("busy","Syncing..."); syncNow(); } else showLogin();
+  if(sess){ setStatus("busy","Syncing..."); refreshEncKey().then(syncNow); } else showLogin();
 
   /* Offline support (only when served over http/https) */
   if("serviceWorker" in navigator&&/^https?:$/.test(location.protocol)){
