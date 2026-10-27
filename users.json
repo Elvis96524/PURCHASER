@@ -4,7 +4,11 @@
   "data": {
     "repo": "elvis96524/purchaser",
     "branch": "main",
-    "path": "data.json"
+    "path": "data.json",
+    "keyWrap": {
+      "iv": "WSglRQzYjuqd5kLU",
+      "ct": "PXeq5QYvuhuOa/BEc+XY4U1NAjtHDNW7hak/kL0zH1tuM47SQVg2izflKi89gOa2FlL+gNhMdCrRoSDnzig="
+    }
   },
   "users": [
     {
