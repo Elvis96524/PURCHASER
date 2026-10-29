@@ -317,6 +317,7 @@ select.st.na{border-color:var(--line);color:var(--muted)}
 <div class="modal" id="historyModal" hidden>
   <div class="card" role="dialog" aria-modal="true" aria-labelledby="h-title">
     <h2 id="h-title">History</h2>
+    <input type="search" id="h-q" placeholder="Search all history: item, note, person..." aria-label="Search history" style="margin-bottom:10px">
     <div id="h-body"></div>
     <div class="foot">
       <button type="button" class="btn" data-act="close-modal">Close</button>
@@ -1224,31 +1225,39 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     state.vessels.forEach(function(v){ if(byVid[v.id]) byVid[v.id].name=v.name; });
     return Object.keys(byVid).map(function(k){return byVid[k];}).sort(function(a,b){return b.last-a.last;});
   }
-  function openHistory(){ historyVid=null; renderHistoryBody(); show($("#historyModal")); }
+  function openHistory(){ historyVid=null; $("#h-q").value=""; renderHistoryBody(); show($("#historyModal")); }
+  function historyMatches(e,q){
+    var hay=[e.by,e.item,e.no,e.detail,HACT[e.action]||e.action].join(" ").toLowerCase();
+    return hay.indexOf(q)>=0;
+  }
   function renderHistoryBody(){
-    var body=$("#h-body");
+    var body=$("#h-body"), q=$("#h-q").value.trim().toLowerCase();
     if(!historyVid){
       $("#h-title").textContent="History";
+      $("#h-q").placeholder="Search vessel names...";
       var groups=historyGroups();
+      if(q) groups=groups.filter(function(g){return (g.name||"").toLowerCase().indexOf(q)>=0;});
       body.innerHTML=groups.length?(
-        '<p class="hint">Every add, edit, status change and delete is recorded here, kept for the most recent '+HIST_CAP+' entries across all vessels.</p>'+
+        (q?"":'<p class="hint">Every add, edit, status change and delete is recorded here, kept for the most recent '+HIST_CAP+' entries across all vessels.</p>')+
         '<div class="hlist">'+groups.map(function(g){
           return '<button type="button" class="hrow" data-act="open-history-v" data-id="'+esc(g.vid)+'">'+
             '<span class="hname">'+esc(g.name||"(deleted vessel)")+'</span>'+
             '<span class="hcount">'+g.count+' entr'+(g.count===1?"y":"ies")+' \u00b7 '+fmtDate(g.last)+'</span></button>';
         }).join("")+'</div>'
-      ):'<p class="hint">Nothing recorded yet. Every add, edit, status change and delete will show up here.</p>';
+      ):(q?'<p class="hint">No vessels match \u201c'+esc($("#h-q").value.trim())+'\u201d.</p>':'<p class="hint">Nothing recorded yet. Every add, edit, status change and delete will show up here.</p>');
     }else{
       var g2=historyGroups().filter(function(x){return x.vid===historyVid;})[0];
       $("#h-title").textContent=g2?g2.name:"(deleted vessel)";
+      $("#h-q").placeholder="Search this vessel's history: item, note, person...";
       var entries=state.history.filter(function(e){return e.vid===historyVid;}).sort(function(a,b){return b.ts-a.ts;});
+      if(q) entries=entries.filter(function(e){return historyMatches(e,q);});
       body.innerHTML='<button type="button" class="linkbtn hback" data-act="history-back">&larr; All vessels</button>'+
-        '<div class="hlist">'+entries.map(function(e){
+        (entries.length?('<div class="hlist">'+entries.map(function(e){
           var label=HACT[e.action]||e.action;
           var what="<b>"+esc(label)+"</b>"+(e.item?" "+esc(e.item):"")+(e.no?" (#"+esc(e.no)+")":"");
           return '<div class="htx"><div class="hwhen">'+fmtDateTime(e.ts)+' \u00b7 '+esc(e.by||"?")+'</div>'+
             '<div class="hwhat">'+what+'</div>'+(e.detail?'<div class="hdetail">'+esc(e.detail)+'</div>':"")+'</div>';
-        }).join("")+'</div>';
+        }).join("")+'</div>'):('<p class="hint">'+(q?'No matches for \u201c'+esc($("#h-q").value.trim())+'\u201d.':"Nothing recorded for this vessel yet.")+'</p>'));
     }
   }
 
@@ -1441,6 +1450,7 @@ select.st.na{border-color:var(--line);color:var(--muted)}
     }
   });
   ["#q","#fs","#fc"].forEach(function(sel){ $(sel).addEventListener("input",renderTable); });
+  $("#h-q").addEventListener("input",renderHistoryBody);
   $("#a-encon").addEventListener("change",function(){
     $("#a-enckeyrow").hidden=!this.checked;
     if(this.checked&&!$("#a-enckey").value.trim()) $("#a-enckey").value=bytesToB64(crypto.getRandomValues(new Uint8Array(32)));
