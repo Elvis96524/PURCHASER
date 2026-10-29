@@ -438,7 +438,7 @@ select.st.na{border-color:var(--line);color:var(--muted)}
   var lock=loadLock(), locked=false, hiddenAt=0;
   var sync={busy:false,queued:false,timer:null,retry:null,last:0,probing:false};
   var editingId=null, editingVid=null, vesselMode="add", pendingOk=null;
-  var HIST_CAP=1000;
+  var HIST_CAP=10000;
   var HACT={added:"Added",edited:"Edited",status:"Status changed",deleted:"Deleted",cleared:"List cleared",vadd:"Vessel created",vrename:"Vessel renamed",vdelete:"Vessel deleted"};
   var historyVid=null;
   ensureActive();
